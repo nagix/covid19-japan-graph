@@ -1,0 +1,21 @@
+{
+	"id": "nara",
+	"name": {
+		"ja": "奈良県"
+	},
+	"date": "2020\/01\/28 16:00",
+	"data": [
+		{
+			"pid": 1,
+			"jid": 6,
+			"address": "奈良県",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "バス運転手",
+			"remarks": null,
+			"supplement": "武漢からのツアー客を運転手としてバスに乗せた",
+			"discharged": null,
+			"date": "2020-01-28"
+		}
+	]
+}

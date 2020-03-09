@@ -1,0 +1,21 @@
+{
+	"id": "mie",
+	"name": {
+		"ja": "三重県"
+	},
+	"date": "2020\/01\/30 16:00",
+	"data": [
+		{
+			"pid": 1,
+			"jid": 10,
+			"address": "三重県",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "1/13武漢から帰国",
+			"discharged": null,
+			"date": "2020-01-30"
+		}
+	]
+}

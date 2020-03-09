@@ -1,0 +1,165 @@
+{
+	"id": "chiba",
+	"name": {
+		"ja": "千葉県"
+	},
+	"date": "2020\/02\/26 18:00",
+	"data": [
+		{
+			"pid": 1,
+			"jid": 13,
+			"address": "千葉県千葉市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "バスガイド",
+			"remarks": null,
+			"supplement": "バスガイドとしてツアー（中国人対象）に参加、No.6の濃厚接触者",
+			"discharged": null,
+			"date": "2020-01-31"
+		},
+		{
+			"pid": 3,
+			"jid": 17,
+			"address": "湖北省武漢市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "1/21武漢市から来日",
+			"discharged": null,
+			"date": "2020-02-04"
+		},
+		{
+			"pid": 4,
+			"jid": 20,
+			"address": "湖北省武漢市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "1/21武漢市から来日、No.17の濃厚接触者",
+			"discharged": null,
+			"date": "2020-02-05"
+		},
+		{
+			"pid": 5,
+			"jid": 25,
+			"address": "湖北省武漢市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "1/29武漢からチャーター便（第1便）で帰国",
+			"discharged": null,
+			"date": "2020-02-10"
+		},
+		{
+			"pid": 6,
+			"jid": 30,
+			"address": "千葉県市川市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "会社員（事務職員）",
+			"remarks": null,
+			"supplement": "通勤に公共交通機関を利用",
+			"discharged": null,
+			"date": "2020-02-10"
+		},
+		{
+			"pid": 7,
+			"jid": 73,
+			"address": "千葉県市川市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-02-20"
+		},
+		{
+			"pid": 8,
+			"jid": 88,
+			"address": "千葉県柏市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "警備員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-02-21"
+		},
+		{
+			"pid": 9,
+			"jid": 96,
+			"address": "千葉県市川市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "教員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-02-22"
+		},
+		{
+			"pid": 10,
+			"jid": 97,
+			"address": "東京都",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-02-22"
+		},
+		{
+			"pid": 11,
+			"jid": 117,
+			"address": "千葉県松戸市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-02-23"
+		},
+		{
+			"pid": 12,
+			"jid": 149,
+			"address": "千葉県いすみ市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "医師",
+			"remarks": null,
+			"supplement": "2/18までダイヤモンド・プリンセスにDPATとして乗船",
+			"discharged": null,
+			"date": "2020-02-26"
+		},
+		{
+			"pid": 13,
+			"jid": 148,
+			"address": "千葉県市川市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "2/20ダイヤモンド・プリンセス号を下船",
+			"discharged": null,
+			"date": "2020-02-26"
+		},
+		{
+			"pid": 14,
+			"jid": 150,
+			"address": "千葉県四街道市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "2/21ダイヤモンド・プリンセス号を下船",
+			"discharged": null,
+			"date": "2020-02-26"
+		}
+	]
+}

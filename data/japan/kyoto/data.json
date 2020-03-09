@@ -1,0 +1,33 @@
+{
+	"id": "kyoto",
+	"name": {
+		"ja": "京都府"
+	},
+	"date": "2020\/02\/05 17:00",
+	"data": [
+		{
+			"pid": 1,
+			"jid": 12,
+			"address": "京都府",
+			"age": "20s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "1/22武漢市から帰国",
+			"discharged": "〇",
+			"date": "2020-01-30"
+		},
+		{
+			"pid": 1,
+			"jid": 21,
+			"address": "京都府",
+			"age": "20s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "勤務先で中国からの観光客に接客",
+			"discharged": "〇",
+			"date": "2020-02-05"
+		}
+	]
+}

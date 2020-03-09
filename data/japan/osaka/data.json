@@ -1,0 +1,45 @@
+{
+	"id": "osaka",
+	"name": {
+		"ja": "大阪府"
+	},
+	"date": "2020\/02\/26 21:30",
+	"data": [
+		{
+			"pid": 1,
+			"jid": 8,
+			"address": "大阪府",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "バスガイド",
+			"remarks": null,
+			"supplement": "武漢市からのツアー客の乗るバスにガイドとして乗った、No.6の濃厚接触者",
+			"discharged": null,
+			"date": "2020-01-29"
+		},
+		{
+			"pid": 2,
+			"jid": 159,
+			"address": "大阪府",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "バスガイド",
+			"remarks": null,
+			"supplement": "No.8と同一人物",
+			"discharged": null,
+			"date": "2020-02-26"
+		},
+		{
+			"pid": 3,
+			"jid": 173,
+			"address": "大阪府",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.157と行動を共にしていた",
+			"discharged": null,
+			"date": "2020-02-27"
+		}
+	]
+}

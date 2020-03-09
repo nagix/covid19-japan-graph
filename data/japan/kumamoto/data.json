@@ -1,0 +1,26 @@
+{
+	"id": "kumamoto",
+	"name": {
+		"ja": "熊本県"
+	},
+	"date": "2020\/02\/22 18:00",
+	"children": [
+		{
+			"id": "kumamoto-city"
+		}
+	],
+	"data": [
+		{
+			"pid": 1,
+			"jid": 94,
+			"address": "熊本県御船保健所管内",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/10まで北海道を訪問",
+			"discharged": null,
+			"date": "2020-02-22"
+		}
+	]
+}

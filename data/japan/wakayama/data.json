@@ -1,0 +1,163 @@
+{
+	"id": "wakayama",
+	"name": {
+		"ja": "和歌山県"
+	},
+	"date": "2020\/02\/14 18:00",
+	"data": [
+		{
+			"pid": 1,
+			"jid": 29,
+			"address": "和歌山県",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "医師",
+			"remarks": null,
+			"supplement": "No.38が勤務していた医療機関に勤務",
+			"discharged": "〇",
+			"date": "2020-02-13"
+		},
+		{
+			"pid": 2,
+			"jid": 31,
+			"address": "調査中",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "農業",
+			"remarks": null,
+			"supplement": "No.29が勤務していた医療機関に受診歴あり",
+			"discharged": null,
+			"date": "2020-02-14"
+		},
+		{
+			"pid": 3,
+			"jid": 38,
+			"address": "和歌山県",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "医師",
+			"remarks": null,
+			"supplement": "No.20の濃厚接触者",
+			"discharged": "〇",
+			"date": "2020-02-15"
+		},
+		{
+			"pid": 4,
+			"jid": 39,
+			"address": "和歌山県",
+			"age": "50s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.38の妻",
+			"discharged": "〇",
+			"date": "2020-02-15"
+		},
+		{
+			"pid": 5,
+			"jid": 40,
+			"address": "和歌山県",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.29が勤務する医療機関に入院中の患者",
+			"discharged": null,
+			"date": "2020-02-15"
+		},
+		{
+			"pid": 6,
+			"jid": 50,
+			"address": "和歌山県",
+			"age": "80s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.40の母",
+			"discharged": null,
+			"date": "2020-02-17"
+		},
+		{
+			"pid": 7,
+			"address": "和歌山県",
+			"age": "50s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.40の妻",
+			"discharged": null,
+			"date": "2020-02-17"
+		},
+		{
+			"pid": 8,
+			"jid": 51,
+			"address": "和歌山県",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.40の弟",
+			"discharged": null,
+			"date": "2020-02-17"
+		},
+		{
+			"pid": 9,
+			"jid": 52,
+			"address": "和歌山県",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-02-17"
+		},
+		{
+			"pid": 10,
+			"jid": 54,
+			"address": "和歌山県",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.31と同室",
+			"discharged": null,
+			"date": "2020-02-18"
+		},
+		{
+			"pid": 11,
+			"jid": 55,
+			"address": "和歌山県",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "DMATとしてダイヤモンド・プリンセス号で活動",
+			"discharged": null,
+			"date": "2020-02-18"
+		},
+		{
+			"pid": 12,
+			"address": "和歌山県",
+			"age": "10s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "No.38の子",
+			"discharged": "〇",
+			"date": "2020-02-18"
+		},
+		{
+			"pid": 13,
+			"jid": 95,
+			"address": "和歌山県",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "No.40の濃厚接触者",
+			"discharged": null,
+			"date": "2020-02-22"
+		}
+	]
+}

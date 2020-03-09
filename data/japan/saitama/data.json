@@ -1,0 +1,33 @@
+{
+	"id": "saitama",
+	"name": {
+		"ja": "埼玉県"
+	},
+	"date": "2020\/02\/21 18:00",
+	"data": [
+		{
+			"pid": 2,
+			"jid": 24,
+			"address": "埼玉県",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "1/30武漢からチャーター便（第2便）で帰国",
+			"discharged": null,
+			"date": "2020-02-10"
+		},
+		{
+			"pid": 2,
+			"jid": 84,
+			"address": "埼玉県",
+			"age": "未就学児",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "1/30武漢からチャーター便（第2便）で帰国、No.24の濃厚接触者",
+			"discharged": null,
+			"date": "2020-02-21"
+		}
+	]
+}

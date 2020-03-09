@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ja_JP">
+<head>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-39988758-2"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-39988758-2');
+	</script>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="style.css" />
+	<title>全国 新型コロナウイルス クラスターグラフ</title>
+	<meta name="description" content="A graph of the COVID-19 clusters in Tokyo. This data visualization was produced by Akihiko Kusanagi." />
+	<meta name="viewport" content="user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1" />
+	<meta property="og:title" content="全国 新型コロナウイルス クラスターグラフ" />
+	<meta property="og:description" content="A graph of the COVID-19 clusters in Tokyo. This data visualization was produced by Akihiko Kusanagi." />
+	<meta property="og:locale" content="ja_JP" />
+	<link rel="canonical" href="https://nagix.github.io/covid19-japan-graph/" />
+	<meta property="og:url" content="https://nagix.github.io/covid19-japan-graph/" />
+	<meta property="og:site_name" content="全国 新型コロナウイルス クラスターグラフ" />
+	<meta property="og:image" content="https://nagix.github.io/covid19-japan-graph/images/screenshot1.jpg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@nagix" />
+	<script type="text/javascript" src="https://d3js.org/d3.v5.min.js"></script>
+	<script type="text/javascript" src="https://dagrejs.github.io/project/dagre-d3/latest/dagre-d3.min.js"></script>
+</head>
+<body>
+	<div class="bar">
+		<div class="title">全国 新型コロナウイルス クラスターグラフ</div>
+	</div>
+	<p class="description">
+		<span id="last-update"></span> 更新
+		[<a href="https://www.mhlw.go.jp/stf/houdou/">データソース</a> | <a href="https://github.com/nagix/covid19-japan-graph">GitHub レポジトリ</a>]
+	</p>
+	<svg id="network"><g></g></svg>
+	<script type="text/javascript" src="js/main.js"></script>
+</body>

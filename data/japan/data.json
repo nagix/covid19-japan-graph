@@ -1,0 +1,253 @@
+{
+	"id": "japan",
+	"name": {
+		"ja": "日本"
+	},
+	"date": "2020\/02\/24 18:00",
+	"children": [
+		{
+			"id": "hokkaido"
+		},
+		{
+			"id": "tochigi"
+		},
+		{
+			"id": "chiba"
+		},
+		{
+			"id": "saitama"
+		},
+		{
+			"id": "tokyo"
+		},
+		{
+			"id": "kanagawa"
+		},
+		{
+			"id": "ishikawa"
+		},
+		{
+			"id": "nagano"
+		},
+		{
+			"id": "aichi"
+		},
+		{
+			"id": "gifu"
+		},
+		{
+			"id": "osaka"
+		},
+		{
+			"id": "kyoto"
+		},
+		{
+			"id": "nara"
+		},
+		{
+			"id": "mie"
+		},
+		{
+			"id": "wakayama"
+		},
+		{
+			"id": "tokushima"
+		},
+		{
+			"id": "fukuoka"
+		},
+		{
+			"id": "kumamoto"
+		},
+		{
+			"id": "okinawa"
+		}
+	],
+	"data": [
+		{
+			"pid": 1,
+			"jid": 9,
+			"address": "湖北省武漢市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "1/29武漢からチャーター便（第1便）で帰国",
+			"discharged": null,
+			"date": "2020-01-30"
+		},
+		{
+			"pid": 2,
+			"jid": 14,
+			"address": "調査中",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "1/31武漢からチャーター便（第3便）で帰国",
+			"discharged": null,
+			"date": "2020-02-01"
+		},
+		{
+			"pid": 3,
+			"jid": 15,
+			"address": "中華人民共和国",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "1/29武漢からチャーター便（第1便）で帰国",
+			"discharged": null,
+			"date": "2020-02-01"
+		},
+		{
+			"pid": 4,
+			"jid": 16,
+			"address": "湖北省武漢市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "1/29武漢からチャーター便（第1便）で帰国",
+			"discharged": null,
+			"date": "2020-02-01"
+		},
+		{
+			"pid": 5,
+			"jid": 18,
+			"address": "千葉県",
+			"age": "50s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "1/30武漢からチャーター便（第2便）で帰国",
+			"discharged": null,
+			"date": "2020-02-04"
+		},
+		{
+			"jid": 19,
+			"address": "湖北省",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "武漢市からの旅行者",
+			"remarks": null,
+			"supplement": "1/22武漢市から来日、No.4 と同じバスツアーに参加",
+			"discharged": null,
+			"date": "2020-02-04"
+		},
+		{
+			"pid": 6,
+			"jid": 22,
+			"address": "湖北省武漢市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "1/30武漢からチャーター便（第2便）で帰国",
+			"discharged": null,
+			"date": "2020-02-05"
+		},
+		{
+			"pid": 7,
+			"jid": 23,
+			"address": "湖北省武漢市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/7武漢からチャーター便（第4便）で帰国",
+			"discharged": null,
+			"date": "2020-02-08"
+		},
+		{
+			"pid": 9,
+			"jid": 25,
+			"address": "湖北省武漢市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "1/29武漢からチャーター便（第1便）で帰国",
+			"discharged": null,
+			"date": "2020-02-10"
+		},
+		{
+			"jid": 49,
+			"address": "東京都",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "厚生労働省職員",
+			"remarks": null,
+			"supplement": "ダイヤモンド・プリンセス号で事務業務に従事",
+			"discharged": null,
+			"date": "2020-02-17"
+		},
+		{
+			"pid": 10,
+			"jid": 70,
+			"address": "湖北省",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/17武漢からチャーター便（第5便）で帰国",
+			"discharged": null,
+			"date": "2020-02-19"
+		},
+		{
+			"jid": 75,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "厚生労働省職員",
+			"remarks": null,
+			"supplement": "ダイヤモンド・プリンセス号で事務業務に従事",
+			"discharged": null,
+			"date": "2020-02-20"
+		},
+		{
+			"jid": 76,
+			"address": "埼玉県",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "内閣官房職員",
+			"remarks": null,
+			"supplement": "ダイヤモンド・プリンセス号で事務業務に従事",
+			"discharged": null,
+			"date": "2020-02-20"
+		},
+		{
+			"jid": 126,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "厚生労働省職員",
+			"remarks": null,
+			"supplement": "ダイヤモンド・プリンセス号で事務業務に従事",
+			"discharged": null,
+			"date": "2020-02-24"
+		},
+		{
+			"jid": 127,
+			"address": "東京都",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "検疫官",
+			"remarks": null,
+			"supplement": "ダイヤモンド・プリンセス号で検疫を実施",
+			"discharged": null,
+			"date": "2020-02-24"
+		},
+		{
+			"jid": 191,
+			"address": "神奈川県",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "横浜検疫所職員",
+			"remarks": null,
+			"supplement": "ダイヤモンド・プリンセス号まで送迎する公用車の運転を担当",
+			"discharged": null,
+			"date": "2020-02-27"
+		}
+	]
+}

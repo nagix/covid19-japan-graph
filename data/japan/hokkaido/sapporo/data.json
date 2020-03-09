@@ -1,0 +1,139 @@
+{
+	"id": "sapporo",
+	"name": {
+		"ja": "札幌市"
+	},
+	"date": "2020\/02\/25 18:00",
+	"data": [
+		{
+			"id": 1,
+			"pid": 2,
+			"jid": 36,
+			"address": "札幌市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-02-14"
+		},
+		{
+			"id": 2,
+			"pid": 3,
+			"jid": 63,
+			"address": "札幌市（単身赴任）",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "雪まつりで事務作業に従事",
+			"discharged": null,
+			"date": "2020-02-18"
+		},
+		{
+			"id": 3,
+			"pid": 5,
+			"jid": 72,
+			"address": "札幌市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.63とともに雪まつりで事務作業に従事",
+			"discharged": null,
+			"date": "2020-02-19"
+		},
+		{
+			"id": 4,
+			"pid": 18,
+			"jid": 114,
+			"address": "札幌市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-02-22"
+		},
+		{
+			"id": 5,
+			"pid": 27,
+			"jid": 129,
+			"address": "札幌市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "主婦",
+			"remarks": null,
+			"supplement": "No.114の濃厚接触者",
+			"discharged": null,
+			"date": "2020-02-24"
+		},
+		{
+			"id": 6,
+			"pid": 28,
+			"jid": 130,
+			"address": "札幌市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-02-24"
+		},
+		{
+			"id": 7,
+			"pid": 31,
+			"jid": 143,
+			"address": "札幌市",
+			"age": "60代",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.129の濃厚接触者",
+			"discharged": null,
+			"date": "2020-02-25"
+		},
+		{
+			"id": 8,
+			"pid": 39,
+			"jid": 157,
+			"address": "大阪府",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-02-26"
+		},
+		{
+			"id": 9,
+			"pid": 40,
+			"jid": 174,
+			"address": "札幌市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.130の濃厚接触者",
+			"discharged": null,
+			"date": "2020-02-27"
+		},
+		{
+			"id": 10,
+			"pid": 41,
+			"jid": 175,
+			"address": "札幌市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.130の濃厚接触者",
+			"discharged": null,
+			"date": "2020-02-27"
+		}
+	]
+}

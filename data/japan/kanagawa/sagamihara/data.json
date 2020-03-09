@@ -1,0 +1,113 @@
+{
+	"id": "sagamihara",
+	"name": {
+		"ja": "相模原市"
+	},
+	"date": "2020\/02\/21 18:00",
+	"data": [
+		{
+			"id": 1,
+			"pid": 7,
+			"jid": 60,
+			"address": "神奈川県相模原市",
+			"age": "80s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.27が入院していた相模原市内の病院に入院",
+			"discharged": null,
+			"date": "2020-02-19"
+		},
+		{
+			"id": 2,
+			"pid": 8,
+			"jid": 61,
+			"address": "神奈川県相模原市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.60と同室",
+			"discharged": null,
+			"date": "2020-02-19"
+		},
+		{
+			"id": 3,
+			"pid": 9,
+			"jid": 78,
+			"address": "神奈川県相模原市",
+			"age": "80s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.60、No.61と同フロア",
+			"discharged": null,
+			"date": "2020-02-20"
+		},
+		{
+			"id": 4,
+			"pid": 12,
+			"jid": 89,
+			"address": "神奈川県相模原市",
+			"age": "80s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-02-21"
+		},
+		{
+			"id": 5,
+			"pid": 13,
+			"jid": 112,
+			"address": "神奈川県相模原市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "JR東日本社員（相模原駅勤務）",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-02-21"
+		},
+		{
+			"id": 6,
+			"pid": 15,
+			"jid": 137,
+			"address": "神奈川県相模原市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.112の妻",
+			"discharged": null,
+			"date": "2020-02-24"
+		},
+		{
+			"id": 7,
+			"pid": 16,
+			"jid": 138,
+			"address": "神奈川県相模原市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.112の子",
+			"discharged": null,
+			"date": "2020-02-24"
+		},
+		{
+			"id": 8,
+			"pid": 17,
+			"jid": 139,
+			"address": "神奈川県相模原市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": "No.112の子",
+			"discharged": null,
+			"date": "2020-02-24"
+		}
+	]
+}
