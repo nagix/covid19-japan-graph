@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "北海道"
 	},
-	"date": "2020\/02\/29 18:00",
+	"date": "2020\/03\/02 18:00",
 	"children": [
 		{
 			"id": "sapporo"
@@ -680,6 +680,54 @@
 			"supplement": "No.130の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-01"
+		},
+		{
+			"pid": 73,
+			"jid": 235,
+			"address": "オホーツク総合振興局管内（北見市）",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-02"
+		},
+		{
+			"pid": 74,
+			"jid": 236,
+			"address": "オホーツク総合振興局管内（北見市）",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-02"
+		},
+		{
+			"pid": 75,
+			"jid": 237,
+			"address": "オホーツク総合振興局管内（北見市）",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.176の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-02"
+		},
+		{
+			"pid": 76,
+			"jid": 238,
+			"address": "上川総合振興局管内（旭川市）",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "看護師",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-02"
 		}
 	]
 }

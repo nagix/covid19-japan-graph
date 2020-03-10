@@ -62,18 +62,6 @@
 			"date": "2020-02-14"
 		},
 		{
-			"pid": 5,
-			"jid": 48,
-			"address": "神奈川県相模原市",
-			"age": "40s",
-			"sex": "female",
-			"attribute": "看護師",
-			"remarks": null,
-			"supplement": "No.27が入院していた相模原市内の病院に勤務",
-			"discharged": null,
-			"date": "2020-02-17"
-		},
-		{
 			"pid": 6,
 			"jid": 62,
 			"address": "神奈川県横浜市",
@@ -96,18 +84,6 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-02-24"
-		},
-		{
-			"pid": 19,
-			"jid": 158,
-			"address": "神奈川県厚木保健福祉事務所管内",
-			"age": "60s",
-			"sex": "male",
-			"attribute": "会社員（JR東日本）",
-			"remarks": null,
-			"supplement": "No.112の濃厚接触者",
-			"discharged": null,
-			"date": "2020-02-26"
 		},
 		{
 			"pid": 20,

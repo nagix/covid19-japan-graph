@@ -36,9 +36,10 @@ var clusters = [
 	{ id: 'tokyo-yakatabune', label: '屋形船新年会クラスター', parentId: 'tokyo', nodes:[28, 33, 34, 'tokyo7', 'tokyo8', 'tokyo9', 'tokyo10', 'tokyo11', 'tokyo12', 42, 47, 'tokyo16', 86] },
 	{ id: 'wakayam-hospital', label: '和歌山済生会有田病院クラスター', parentId: 'wakayama', nodes:[29, 31, 38, 40, 54] },
 	{ id: 'nagoya-gym-a', label: '名古屋スポーツジムAクラスター', parentId: 'nagoya', nodes:[43, 69, 77, 90, 91, 107, 108, 109, 115, 116, 145, 146, 147, 163, 164] },
-	{ id: 'nagoya-gym-b', label: '名古屋スポーツジムBクラスター', parentId: 'nagoya', nodes:[110, 165, 166, 189] },
-	{ id: 'kitami', label: '北見展示会クラスター', parentId: 'hokkaido', nodes:[113, 130, 151, 174, 175, 177, 200, 223] },
 	{ id: 'ichikawa-gym', label: '市川スポーツジムクラスター', parentId: 'chiba', nodes:[73, 96, 97, 224] },
+	{ id: 'nagoya-gym-b', label: '名古屋スポーツジムBクラスター', parentId: 'nagoya', nodes:[110, 165, 166, 189] },
+	{ id: 'kitami', label: '北見展示会クラスター', parentId: 'hokkaido', nodes:[113, 130, 151, 174, 175, 177, 200, 205, 223, 235, 236] },
+	{ id: 'osaka-livehouse-a', label: '大阪京橋ライブハウスArcクラスター', parentId: 'osaka', nodes:[209, 'ehime1', 241] },
 	{ id: 'nagoya-dayservice-a', label: '高齢者デイサービスAクラスター', parentId: 'nagoya', nodes:[229] }
 ];
 
@@ -356,4 +357,4 @@ loadData('japan').then(function(patients) {
 	document.getElementById('loading-error').innerHTML = 'Loading failed. Please reload the page.';
 	document.getElementById('loading-error').style.display = 'block';
 	throw error;
-});;
+});

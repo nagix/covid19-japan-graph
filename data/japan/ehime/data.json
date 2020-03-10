@@ -1,0 +1,20 @@
+{
+	"id": "ehime",
+	"name": {
+		"ja": "愛媛県"
+	},
+	"date": "2020\/03\/02 18:00",
+	"data": [
+		{
+			"pid": 1,
+			"address": "愛媛県愛南町",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": "無症状",
+			"supplement": "大阪市都島区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-02"
+		}
+	]
+}

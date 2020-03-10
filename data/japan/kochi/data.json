@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "高知県"
 	},
-	"date": "2020\/03\/01 18:00",
+	"date": "2020\/03\/02 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -13,7 +13,7 @@
 			"sex": "female",
 			"attribute": "医療従事者",
 			"remarks": null,
-			"supplement": "2/16まで大阪府へ旅行",
+			"supplement": "大阪市都島区のライブハウス",
 			"discharged": null,
 			"date": "2020-02-28"
 		},
@@ -28,6 +28,18 @@
 			"supplement": "No.209の母",
 			"discharged": null,
 			"date": "2020-03-01"
+		},
+		{
+			"pid": 3,
+			"jid": 233,
+			"address": "高知県高知市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "医療機関職員",
+			"remarks": null,
+			"supplement": "No.209の友人・濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-02"
 		}
 	]
 }
