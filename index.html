@@ -9,6 +9,7 @@
 		gtag('config', 'UA-39988758-2');
 	</script>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/loaders.css/0.1.2/loaders.min.css" />
 	<link rel="stylesheet" type="text/css" href="style.css" />
 	<title>全国 新型コロナウイルス クラスターグラフ</title>
 	<meta name="description" content="A graph of the COVID-19 clusters in Tokyo. This data visualization was produced by Akihiko Kusanagi." />
@@ -34,5 +35,9 @@
 		[<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00086.html">データソース</a> | <a href="https://github.com/nagix/covid19-japan-graph">GitHub レポジトリ</a>]
 	</p>
 	<svg id="network"><g></g></svg>
+	<div id="loader" class="loader-inner ball-pulse">
+		<div></div><div></div><div></div>
+	</div>
+	<div id="loading-error"></div>
 	<script type="text/javascript" src="js/main.js"></script>
 </body>

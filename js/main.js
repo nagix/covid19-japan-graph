@@ -345,4 +345,15 @@ loadData('japan').then(function(patients) {
 
 	window.addEventListener('resize', redraw);
 
-});
+	// Dismiss the loading animation
+	document.getElementById('loader').style.opacity = 0;
+	setTimeout(function() {
+		document.getElementById('loader').style.display = 'none';
+	}, 1000);
+
+}).catch(function(error) {
+	document.getElementById('loader').style.display = 'none';
+	document.getElementById('loading-error').innerHTML = 'Loading failed. Please reload the page.';
+	document.getElementById('loading-error').style.display = 'block';
+	throw error;
+});;
