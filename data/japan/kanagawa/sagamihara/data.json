@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "相模原市"
 	},
-	"date": "2020\/02\/21 18:00",
+	"date": "2020\/03\/01 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -108,6 +108,58 @@
 			"supplement": "No.112の子",
 			"discharged": null,
 			"date": "2020-02-24"
+		},
+		{
+			"id": 9,
+			"pid": 21,
+			"jid": 192,
+			"address": "神奈川県相模原市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-02-28"
+		},
+		{
+			"id": 10,
+			"pid": 22,
+			"jid": 193,
+			"address": "神奈川県相模原市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-02-28"
+		},
+		{
+			"id": 11,
+			"pid": 25,
+			"jid": 226,
+			"address": "神奈川県相模原市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-01"
+		},
+		{
+			"id": 12,
+			"pid": 26,
+			"jid": 227,
+			"address": "神奈川県相模原市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.226の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-01"
 		}
 	]
 }

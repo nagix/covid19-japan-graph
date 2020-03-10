@@ -1,0 +1,21 @@
+{
+	"id": "kitakyushu",
+	"name": {
+		"ja": "北九州市"
+	},
+	"date": "2020\/03\/01 18:00",
+	"data": [
+		{
+			"pid": 1,
+			"jid": 218,
+			"address": "小倉南区",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "タクシー運転手",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-01"
+		}
+	]
+}

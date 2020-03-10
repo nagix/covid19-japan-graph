@@ -3,8 +3,11 @@
 	"name": {
 		"ja": "神奈川県"
 	},
-	"date": "2020\/02\/24 18:00",
+	"date": "2020\/03\/01 18:00",
 	"children": [
+		{
+			"id": "yokohama"
+		},
 		{
 			"id": "sagamihara"
 		}
@@ -117,6 +120,30 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-02-27"
+		},
+		{
+			"pid": 23,
+			"jid": 219,
+			"address": "神奈川県鎌倉保健福祉事務所管内",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-01"
+		},
+		{
+			"pid": 27,
+			"jid": 220,
+			"address": "神奈川県鎌倉保健福祉事務所管内",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.219の濃厚接触者(同居親族)",
+			"discharged": null,
+			"date": "2020-03-01"
 		}
 	]
 }

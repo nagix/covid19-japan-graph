@@ -1,0 +1,33 @@
+{
+	"id": "kochi",
+	"name": {
+		"ja": "高知県"
+	},
+	"date": "2020\/03\/01 18:00",
+	"data": [
+		{
+			"pid": 1,
+			"jid": 209,
+			"address": "高知県高知市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "医療従事者",
+			"remarks": null,
+			"supplement": "2/16まで大阪府へ旅行",
+			"discharged": null,
+			"date": "2020-02-28"
+		},
+		{
+			"pid": 2,
+			"jid": 228,
+			"address": "高知県高知市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "受付事務(不定期)",
+			"remarks": null,
+			"supplement": "No.209の母",
+			"discharged": null,
+			"date": "2020-03-01"
+		}
+	]
+}

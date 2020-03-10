@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "北海道"
 	},
-	"date": "2020\/02\/26 18:00",
+	"date": "2020\/02\/29 18:00",
 	"children": [
 		{
 			"id": "sapporo"
@@ -536,6 +536,150 @@
 			"supplement": "No.99の濃厚接触者",
 			"discharged": null,
 			"date": "2020-02-27"
+		},
+		{
+			"pid": 55,
+			"jid": 195,
+			"address": "檜山振興局管内（せたな町）",
+			"age": "80s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-02-28"
+		},
+		{
+			"pid": 56,
+			"jid": 196,
+			"address": "石狩振興局管内（千歳市）",
+			"age": "10歳未満",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-02-28"
+		},
+		{
+			"pid": 57,
+			"jid": 197,
+			"address": "空知総合振興局管内（深川市）",
+			"age": "80s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-02-28"
+		},
+		{
+			"pid": 58,
+			"jid": 198,
+			"address": "上川総合振興局管内",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-02-28"
+		},
+		{
+			"pid": 59,
+			"jid": 199,
+			"address": "上川総合振興局管内（中富良野町）",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.100の濃厚接触者",
+			"discharged": null,
+			"date": "2020-02-28"
+		},
+		{
+			"pid": 60,
+			"jid": 200,
+			"address": "オホーツク総合振興局管内（北見市）",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-02-28"
+		},
+		{
+			"pid": 61,
+			"jid": 201,
+			"address": "オホーツク総合振興局管内（北見市）",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-02-28"
+		},
+		{
+			"pid": 62,
+			"jid": 202,
+			"address": "釧路総合振興局管内",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-02-28"
+		},
+		{
+			"pid": 63,
+			"jid": 203,
+			"address": "釧路総合振興局管内",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-02-28"
+		},
+		{
+			"pid": 67,
+			"jid": 213,
+			"address": "胆振総合振興局管内（苫小牧市）",
+			"age": "90s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-02-29"
+		},
+		{
+			"pid": 71,
+			"jid": 222,
+			"address": "石狩振興局管内（江別市）",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "看護師",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-01"
+		},
+		{
+			"pid": 72,
+			"jid": 223,
+			"address": "オホーツク総合振興局管内（北見市）",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.130の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-01"
 		}
 	]
 }

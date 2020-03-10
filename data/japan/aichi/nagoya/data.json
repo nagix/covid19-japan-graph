@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "名古屋市"
 	},
-	"date": "2020\/02\/27 18:00",
+	"date": "2020\/03\/01 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -290,6 +290,71 @@
 			"supplement": "No.109の健康観察対象者",
 			"discharged": null,
 			"date": "2020-02-27"
+		},
+		{
+			"id": 23,
+			"pid": 28,
+			"jid": 207,
+			"address": "名古屋市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.189の濃厚接触者",
+			"discharged": null,
+			"date": "2020-02-28"
+		},
+		{
+			"id": 24,
+			"pid": 29,
+			"jid": 217,
+			"address": "名古屋市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-02-29"
+		},
+		{
+			"id": 25,
+			"pid": 30,
+			"jid": 229,
+			"address": "名古屋市",
+			"age": "80s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.217と入院前に接触あり",
+			"discharged": null,
+			"date": "2020-03-01"
+		},
+		{
+			"id": 26,
+			"pid": 31,
+			"jid": 230,
+			"address": "名古屋市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.217と入院前に接触あり",
+			"discharged": null,
+			"date": "2020-03-01"
+		},
+		{
+			"id": 27,
+			"pid": 32,
+			"jid": 231,
+			"address": "名古屋市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-01"
 		}
 	]
 }

@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "大阪府"
 	},
-	"date": "2020\/02\/26 21:30",
+	"date": "2020\/02\/28 21:00",
 	"data": [
 		{
 			"pid": 1,
@@ -40,6 +40,29 @@
 			"supplement": "No.157と行動を共にしていた",
 			"discharged": null,
 			"date": "2020-02-27"
+		},
+		{
+			"pid": 4,
+			"jid": 208,
+			"address": "大阪府",
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.173の同居家族",
+			"discharged": null,
+			"date": "2020-02-28"
+		},
+		{
+			"pid": 5,
+			"address": "大阪府",
+			"age": "10歳未満",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "No.173の同居家族",
+			"discharged": null,
+			"date": "2020-02-28"
 		}
 	]
 }

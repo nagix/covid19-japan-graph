@@ -1,0 +1,21 @@
+{
+	"id": "sendai",
+	"name": {
+		"ja": "仙台市"
+	},
+	"date": "2020\/02\/29 18:00",
+	"data": [
+		{
+			"pid": 1,
+			"jid": 211,
+			"address": "仙台市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/20ダイヤモンド・プリンセス号を下船",
+			"discharged": null,
+			"date": "2020-02-29"
+		}
+	]
+}

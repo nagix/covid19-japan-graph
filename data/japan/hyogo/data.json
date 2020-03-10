@@ -1,0 +1,14 @@
+{
+	"id": "hyogo",
+	"name": {
+		"ja": "兵庫県"
+	},
+	"date": "2020\/03\/01 18:00",
+	"children": [
+		{
+			"id": "nishinomiya"
+		}
+	],
+	"data": [
+	]
+}

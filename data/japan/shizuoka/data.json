@@ -1,0 +1,21 @@
+{
+	"id": "shizuoka",
+	"name": {
+		"ja": "静岡県"
+	},
+	"date": "2020\/02\/28 18:00",
+	"data": [
+		{
+			"pid": 1,
+			"jid": 194,
+			"address": "静岡県静岡市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/20ダイヤモンド・プリンセス号を下船",
+			"discharged": null,
+			"date": "2020-02-28"
+		}
+	]
+}

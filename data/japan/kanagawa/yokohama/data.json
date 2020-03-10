@@ -1,0 +1,22 @@
+{
+	"id": "yokohama",
+	"name": {
+		"ja": "横浜市"
+	},
+	"date": "2020\/02\/27 18:00",
+	"data": [
+		{
+			"id": 1,
+			"pid": 24,
+			"jid": 191,
+			"address": "神奈川県",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "横浜検疫所職員",
+			"remarks": null,
+			"supplement": "ダイヤモンド・プリンセス号まで送迎する公用車の運転を担当",
+			"discharged": null,
+			"date": "2020-02-27"
+		}
+	]
+}

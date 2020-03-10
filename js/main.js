@@ -24,11 +24,6 @@ var THEME_COLOR = '#009094';
 var INITIAL_SCALE = 0.66;
 var GRAPH_MARGIN = 20;
 
-var prefectures = [
-	'aichi', 'chiba', 'hokkaido', 'kanagawa', 'kyoto', 'mie', 'nara', 'osaka',
-	'saitama', 'tokyo', 'other'
-];
-
 var initialNodes = [
 	{ id: 'china', label: '中国' },
 	{ id: 'china-tour', label: '中国からの観光客' },
@@ -42,7 +37,9 @@ var clusters = [
 	{ id: 'wakayam-hospital', label: '和歌山済生会有田病院クラスター', parentId: 'wakayama', nodes:[29, 31, 38, 40, 54] },
 	{ id: 'nagoya-gym-a', label: '名古屋スポーツジムAクラスター', parentId: 'nagoya', nodes:[43, 69, 77, 90, 91, 107, 108, 109, 115, 116, 145, 146, 147, 163, 164] },
 	{ id: 'nagoya-gym-b', label: '名古屋スポーツジムBクラスター', parentId: 'nagoya', nodes:[110, 165, 166, 189] },
-	{ id: 'kitami', label: '北見展示会クラスター', parentId: 'hokkaido', nodes:[113, 130, 151, 174, 175, 177] }
+	{ id: 'kitami', label: '北見展示会クラスター', parentId: 'hokkaido', nodes:[113, 130, 151, 174, 175, 177, 200, 223] },
+	{ id: 'ichikawa-gym', label: '市川スポーツジムクラスター', parentId: 'chiba', nodes:[73, 96, 97, 224] },
+	{ id: 'nagoya-dayservice-a', label: '高齢者デイサービスAクラスター', parentId: 'nagoya', nodes:[229] }
 ];
 
 var boxColors = {

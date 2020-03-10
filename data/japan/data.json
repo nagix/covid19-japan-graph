@@ -3,10 +3,13 @@
 	"name": {
 		"ja": "日本"
 	},
-	"date": "2020\/02\/24 18:00",
+	"date": "2020\/02\/28 18:00",
 	"children": [
 		{
 			"id": "hokkaido"
+		},
+		{
+			"id": "miyagi"
 		},
 		{
 			"id": "tochigi"
@@ -24,10 +27,16 @@
 			"id": "kanagawa"
 		},
 		{
+			"id": "niigata"
+		},
+		{
 			"id": "ishikawa"
 		},
 		{
 			"id": "nagano"
+		},
+		{
+			"id": "shizuoka"
 		},
 		{
 			"id": "aichi"
@@ -37,6 +46,9 @@
 		},
 		{
 			"id": "osaka"
+		},
+		{
+			"id": "hyogo"
 		},
 		{
 			"id": "kyoto"
@@ -52,6 +64,9 @@
 		},
 		{
 			"id": "tokushima"
+		},
+		{
+			"id": "kochi"
 		},
 		{
 			"id": "fukuoka"
@@ -239,15 +254,14 @@
 			"date": "2020-02-24"
 		},
 		{
-			"jid": 191,
-			"address": "神奈川県",
-			"age": "50s",
-			"sex": "male",
-			"attribute": "横浜検疫所職員",
+			"address": "東京都",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "検疫官",
 			"remarks": null,
-			"supplement": "ダイヤモンド・プリンセス号まで送迎する公用車の運転を担当",
+			"supplement": "ダイヤモンド・プリンセス号で検体採取の補助",
 			"discharged": null,
-			"date": "2020-02-27"
+			"date": "2020-02-28"
 		}
 	]
 }

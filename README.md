@@ -10,7 +10,7 @@ You can see the graph [here](https://nagix.github.io/covid19-japan-graph/).
 
 ## About Data (データについて)
 
-The data for this visualization are sourced from [Japan Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/houdou/).
+The data for this visualization are sourced from [Japan Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00086.html).
 
 ## License (ライセンス)
 
