@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "愛知県"
 	},
-	"date": "2020\/02\/18 18:00",
+	"date": "2020\/03\/04 18:00",
 	"children": [
 		{
 			"id": "nagoya"
@@ -69,6 +69,89 @@
 			"supplement": "No.44、No.53と接触あり",
 			"discharged": null,
 			"date": "2020-02-18"
+		},
+		{
+			"pid": 33,
+			"jid": 253,
+			"address": "三河地方（蒲郡市）",
+			"age": "70s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.146と同施設利用",
+			"discharged": null,
+			"date": "2020-03-03"
+		},
+		{
+			"pid": 34,
+			"jid": 254,
+			"address": "三河地方（蒲郡市）",
+			"age": "80s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.253の家族",
+			"discharged": null,
+			"date": "2020-03-03"
+		},
+		{
+			"pid": 35,
+			"jid": 255,
+			"address": "尾張地方",
+			"age": "20s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-03"
+		},
+		{
+			"pid": 36,
+			"jid": 256,
+			"address": "尾張地方",
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-03"
+		},
+		{
+			"pid": 42,
+			"address": "三河地方",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "NO.253、254の家族（濃厚接触者）",
+			"discharged": null,
+			"date": "2020-03-04"
+		},
+		{
+			"pid": 43,
+			"jid": 304,
+			"address": "三河地方",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "NO.253、254の家族（濃厚接触者）",
+			"discharged": null,
+			"date": "2020-03-04"
+		},
+		{
+			"pid": 50,
+			"jid": 305,
+			"address": "尾張地方",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/26フランスから帰国",
+			"discharged": null,
+			"date": "2020-03-05"
 		}
 	]
 }

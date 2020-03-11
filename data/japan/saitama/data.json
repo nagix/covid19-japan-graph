@@ -3,8 +3,19 @@
 	"name": {
 		"ja": "埼玉県"
 	},
-	"date": "2020\/02\/21 18:00",
+	"date": "2020\/03\/05 18:00",
 	"data": [
+		{
+			"pid": 1,
+			"address": "埼玉県外",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "1/31武漢からチャーター便（第3便）で帰国",
+			"discharged": "〇",
+			"date": "2020-02-01"
+		},
 		{
 			"pid": 2,
 			"jid": 24,
@@ -14,20 +25,55 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "1/30武漢からチャーター便（第2便）で帰国",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-02-10"
 		},
 		{
-			"pid": 2,
+			"pid": 3,
+			"address": "埼玉県外",
+			"age": null,
+			"sex": null,
+			"attribute": null,
+			"remarks": null,
+			"supplement": "1/31武漢からチャーター便（第3便）で帰国",
+			"discharged": "〇",
+			"date": "2020-02-14"
+		},
+		{
+			"pid": 4,
 			"jid": 84,
 			"address": "埼玉県",
 			"age": "未就学児",
 			"sex": "male",
 			"attribute": null,
 			"remarks": null,
-			"supplement": "1/30武漢からチャーター便（第2便）で帰国、No.24の濃厚接触者",
-			"discharged": null,
+			"supplement": "1/30武漢からチャーター便（第2便）で帰国、No.24の子",
+			"discharged": "〇",
 			"date": "2020-02-21"
+		},
+		{
+			"pid": 5,
+			"jid": 293,
+			"address": "行田市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "埼玉県職員（埼玉県農業技術研究センター）",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-05"
+		},
+		{
+			"pid": 6,
+			"jid": 294,
+			"address": "上尾市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "警察官（武南警察署）",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-05"
 		}
 	]
 }

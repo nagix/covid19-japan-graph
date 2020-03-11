@@ -1,0 +1,35 @@
+{
+	"id": "kobe",
+	"name": {
+		"ja": "神戸市"
+	},
+	"date": "2020\/03\/03 18:00",
+	"data": [
+		{
+			"id": 1,
+			"pid": 2,
+			"jid": 243,
+			"address": "神戸市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-03"
+		},
+		{
+			"id": 2,
+			"pid": 3,
+			"jid": 257,
+			"address": "神戸市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/15大阪市都島区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-03"
+		}
+	]
+}

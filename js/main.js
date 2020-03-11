@@ -28,19 +28,25 @@ var initialNodes = [
 	{ id: 'china', label: '中国' },
 	{ id: 'china-tour', label: '中国からの観光客' },
 	{ id: 'cruise-ship', label: 'クルーズ船' },
-	{ id: 'hawai', label: 'ハワイ' }
+	{ id: 'hawai', label: 'ハワイ' },
+	{ id: 'vietnam', label: 'ベトナム' },
+	{ id: 'france', label: 'フランス' }
 ];
 
 var clusters = [
 	{ id: 'sagamihara-hospital', label: '相模原中央病院クラスター', parentId: 'sagamihara', nodes:[27, 48, 60, 61, 78, 89] },
 	{ id: 'tokyo-yakatabune', label: '屋形船新年会クラスター', parentId: 'tokyo', nodes:[28, 33, 34, 'tokyo7', 'tokyo8', 'tokyo9', 'tokyo10', 'tokyo11', 'tokyo12', 42, 47, 'tokyo16', 86] },
 	{ id: 'wakayam-hospital', label: '和歌山済生会有田病院クラスター', parentId: 'wakayama', nodes:[29, 31, 38, 40, 54] },
-	{ id: 'nagoya-gym-a', label: '名古屋スポーツジムAクラスター', parentId: 'nagoya', nodes:[43, 69, 77, 90, 91, 107, 108, 109, 115, 116, 145, 146, 147, 163, 164] },
-	{ id: 'ichikawa-gym', label: '市川スポーツジムクラスター', parentId: 'chiba', nodes:[73, 96, 97, 224] },
+	{ id: 'nagoya-gym-a', label: '名古屋スポーツジムAクラスター', parentId: 'nagoya', nodes:[43, 69, 77, 90, 91, 107, 108, 109, 115, 116, 145, 146, 147, 163, 164, 306] },
+	{ id: 'ichikawa-gym', label: '市川スポーツジムクラスター', parentId: 'chiba', nodes:[73, 96, 97, 224, 272] },
 	{ id: 'nagoya-gym-b', label: '名古屋スポーツジムBクラスター', parentId: 'nagoya', nodes:[110, 165, 166, 189] },
 	{ id: 'kitami', label: '北見展示会クラスター', parentId: 'hokkaido', nodes:[113, 130, 151, 174, 175, 177, 200, 205, 223, 235, 236] },
-	{ id: 'osaka-livehouse-a', label: '大阪京橋ライブハウスArcクラスター', parentId: 'osaka', nodes:[209, 'ehime1', 241] },
-	{ id: 'nagoya-dayservice-a', label: '高齢者デイサービスAクラスター', parentId: 'nagoya', nodes:[229] }
+	{ id: 'osaka-livehouse-a', label: '大阪京橋ライブハウスArcクラスター', parentId: 'osaka', nodes:[157, 173, 209, 'ehime1', 241, 249, 252, 257, 269, 271, 279, 'osaka9', 281, 282, 'kumamoto6', 'hyogo1', 'osaka18'] },
+	{ id: 'niigata-pingpong', label: '新潟卓球スクールクラスター', parentId: 'niigata', nodes:[210, 234, 246, 247, 248] },
+	{ id: 'nagoya-dayservice-a', label: '名古屋高齢者デイサービスAクラスター', parentId: 'nagoya', nodes:[229, 'nagoya37', 'nagoya38', 'nagiya39', 275, 276] },
+	{ id: 'live-bar', label: '札幌中ライブバークラスター', parentId: 'sapporo', nodes:[245] },
+	{ id: 'day-service-b', label: '名古屋高齢者デイサービスBクラスター', parentId: 'nagoya', nodes:[277, 278, 309, 310, 311] },
+	{ id: 'osaka-livehouse-b', label: '大阪北区ライブハウスSoap Opera Classics Umedaクラスター', parentId: 'osaka', nodes:[283, 303, 313] }
 ];
 
 var boxColors = {
@@ -177,6 +183,10 @@ loadData('japan').then(function(patients) {
 			sourceIds.push('cruise-ship');
 		} else if (supplement.match(/ハワイ/)) {
 			sourceIds.push('hawai');
+		} else if (supplement.match(/ベトナム/)) {
+			sourceIds.push('vietnam');
+		} else if (supplement.match(/フランス/)) {
+			sourceIds.push('france');
 		}
 
 

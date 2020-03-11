@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "千葉県"
 	},
-	"date": "2020\/02\/26 18:00",
+	"date": "2020\/03\/04 18:00",
 	"children": [
 		{
 			"id": "funabashi"
@@ -165,6 +165,18 @@
 			"supplement": "2/21ダイヤモンド・プリンセス号を下船",
 			"discharged": null,
 			"date": "2020-02-26"
+		},
+		{
+			"pid": 16,
+			"jid": 272,
+			"address": "千葉県市川市",
+			"age": "80s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.224と同じ市川市のスポーツジム",
+			"discharged": null,
+			"date": "2020-03-04"
 		}
 	]
 }

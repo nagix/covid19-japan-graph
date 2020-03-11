@@ -3,12 +3,26 @@
 	"name": {
 		"ja": "兵庫県"
 	},
-	"date": "2020\/03\/01 18:00",
+	"date": "2020\/03\/05 18:00",
 	"children": [
+		{
+			"id": "kobe"
+		},
 		{
 			"id": "nishinomiya"
 		}
 	],
 	"data": [
+		{
+			"pid": 4,
+			"address": "中播磨健康福祉事務所(福崎保健所)管内",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": "無症状",
+			"supplement": "2/15・16大阪市都島区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-05"
+		}
 	]
 }

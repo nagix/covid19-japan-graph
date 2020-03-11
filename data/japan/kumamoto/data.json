@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "熊本県"
 	},
-	"date": "2020\/02\/22 18:00",
+	"date": "2020\/03\/04 18:00",
 	"children": [
 		{
 			"id": "kumamoto-city"
@@ -11,7 +11,7 @@
 	],
 	"data": [
 		{
-			"pid": 1,
+			"pid": 3,
 			"jid": 94,
 			"address": "熊本県御船保健所管内",
 			"age": "60s",
@@ -21,6 +21,17 @@
 			"supplement": "2/10まで北海道を訪問",
 			"discharged": null,
 			"date": "2020-02-22"
+		},
+		{
+			"pid": 6,
+			"address": "有明保健所管内",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "介護職",
+			"remarks": null,
+			"supplement": "2/15・16大阪市都島区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-04"
 		}
 	]
 }

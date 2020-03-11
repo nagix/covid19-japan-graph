@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "和歌山県"
 	},
-	"date": "2020\/02\/14 18:00",
+	"date": "2020\/03\/05 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -158,6 +158,18 @@
 			"supplement": "No.40の濃厚接触者",
 			"discharged": null,
 			"date": "2020-02-22"
+		},
+		{
+			"pid": 14,
+			"jid": 303,
+			"address": "和歌山県",
+			"age": "20s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/19大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-05"
 		}
 	]
 }

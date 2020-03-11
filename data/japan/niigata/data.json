@@ -3,20 +3,13 @@
 	"name": {
 		"ja": "新潟県"
 	},
-	"date": "2020\/03\/02 18:00",
-	"data": [
+	"date": "2020\/03\/03 18:00",
+	"children": [
 		{
-			"pid": 1,
-			"jid": 210,
-			"address": "東京都",
-			"age": "60s",
-			"sex": "male",
-			"attribute": "無職",
-			"remarks": null,
-			"supplement": "卓球スクール",
-			"discharged": null,
-			"date": "2020-02-29"
-		},
+			"id": "niigata-city"
+		}
+	],
+	"data": [
 		{
 			"pid": 2,
 			"jid": 234,

@@ -1,0 +1,21 @@
+{
+	"id": "oita",
+	"name": {
+		"ja": "大分県"
+	},
+	"date": "2020\/03\/03 18:00",
+	"data": [
+		{
+			"pid": 1,
+			"jid": 242,
+			"address": "大分市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "接客業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-03"
+		}
+	]
+}

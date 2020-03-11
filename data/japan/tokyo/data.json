@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "東京都"
 	},
-	"date": "2020\/03\/01 18:00",
+	"date": "2020\/03\/05 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -464,6 +464,162 @@
 			"supplement": "No.56の濃厚接触者(同じ病室に入院)",
 			"discharged": null,
 			"date": "2020-03-01"
+		},
+		{
+			"pid": 40,
+			"jid": 250,
+			"address": "東京都",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-03"
+		},
+		{
+			"pid": 41,
+			"jid": 268,
+			"address": "東京都",
+			"age": "80s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-04"
+		},
+		{
+			"pid": 42,
+			"jid": 269,
+			"address": "東京都",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "保育施設職員",
+			"remarks": null,
+			"supplement": "大阪市都島区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-04"
+		},
+		{
+			"pid": 43,
+			"jid": 270,
+			"address": "東京都",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "重症",
+			"discharged": null,
+			"date": "2020-03-04"
+		},
+		{
+			"pid": 44,
+			"jid": 271,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "大阪市都島区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-04"
+		},
+		{
+			"pid": 45,
+			"jid": 295,
+			"address": "東京都",
+			"age": "10歳未満",
+			"sex": "female",
+			"attribute": "小学生",
+			"remarks": null,
+			"supplement": "No.250の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-05"
+		},
+		{
+			"pid": 46,
+			"jid": 296,
+			"address": "東京都",
+			"age": "10歳未満",
+			"sex": "male",
+			"attribute": "保育園児",
+			"remarks": null,
+			"supplement": "No.250の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-05"
+		},
+		{
+			"pid": 47,
+			"jid": 297,
+			"address": "東京都",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.250の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-05"
+		},
+		{
+			"pid": 48,
+			"jid": 298,
+			"address": "東京都",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-05"
+		},
+		{
+			"pid": 49,
+			"jid": 299,
+			"address": "東京都",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.162の同居者",
+			"discharged": null,
+			"date": "2020-03-05"
+		},
+		{
+			"pid": 50,
+			"jid": 300,
+			"address": "東京都",
+			"age": "90s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-05"
+		},
+		{
+			"pid": 51,
+			"jid": 301,
+			"address": "東京都",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-05"
+		},
+		{
+			"pid": 52,
+			"jid": 302,
+			"address": "東京都",
+			"age": "80s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": "重症",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-05"
 		}
 	]
 }

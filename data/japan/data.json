@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "日本"
 	},
-	"date": "2020\/02\/28 18:00",
+	"date": "2020\/03\/04 18:00",
 	"children": [
 		{
 			"id": "hokkaido"
@@ -45,6 +45,9 @@
 			"id": "gifu"
 		},
 		{
+			"id": "shiga"
+		},
+		{
 			"id": "osaka"
 		},
 		{
@@ -63,6 +66,9 @@
 			"id": "wakayama"
 		},
 		{
+			"id": "yamaguchi"
+		},
+		{
 			"id": "tokushima"
 		},
 		{
@@ -75,7 +81,13 @@
 			"id": "fukuoka"
 		},
 		{
+			"id": "oita"
+		},
+		{
 			"id": "kumamoto"
+		},
+		{
+			"id": "miyazaki"
 		},
 		{
 			"id": "okinawa"
@@ -257,6 +269,17 @@
 			"supplement": "ダイヤモンド・プリンセス号で検体採取の補助",
 			"discharged": null,
 			"date": "2020-02-28"
+		},
+		{
+			"pid": 2,
+			"address": "三重県",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/4ベトナムから帰国",
+			"discharged": null,
+			"date": "2020-03-04"
 		}
 	]
 }
