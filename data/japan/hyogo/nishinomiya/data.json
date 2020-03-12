@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "西宮市"
 	},
-	"date": "2020\/03\/06 18:00",
+	"date": "2020\/03\/07 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -30,6 +30,32 @@
 			"supplement": "2/15・16大阪市都島区のライブハウス",
 			"discharged": null,
 			"date": "2020-03-06"
+		},
+		{
+			"id": 3,
+			"pid": 9,
+			"jid": 392,
+			"address": "西宮市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "2/19大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-07"
+		},
+		{
+			"id": 4,
+			"pid": 10,
+			"jid": 393,
+			"address": "伊丹健康福祉事務所管内",
+			"age": "80s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-07"
 		}
 	]
 }

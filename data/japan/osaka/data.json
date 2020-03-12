@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "大阪府"
 	},
-	"date": "2020\/03\/06 18:00",
+	"date": "2020\/03\/07 21:00",
 	"data": [
 		{
 			"pid": 1,
@@ -201,7 +201,7 @@
 			"sex": "female",
 			"attribute": "幼稚園職員",
 			"remarks": null,
-			"supplement": null,
+			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
 			"date": "2020-03-04"
 		},
@@ -381,6 +381,123 @@
 			"supplement": "No.283が受診した医療機関に勤務",
 			"discharged": null,
 			"date": "2020-03-06"
+		},
+		{
+			"pid": 32,
+			"jid": 394,
+			"address": "大阪府東大阪市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/15・16大阪市都島区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-07"
+		},
+		{
+			"pid": 33,
+			"address": "大阪府摂津市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "2/15・16大阪市都島区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-07"
+		},
+		{
+			"pid": 34,
+			"address": "大阪府茨木市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "2/15・16大阪市都島区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-07"
+		},
+		{
+			"pid": 35,
+			"address": "大阪府東大阪市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "2/15・16大阪市都島区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-07"
+		},
+		{
+			"pid": 36,
+			"jid": 395,
+			"address": "大阪府堺市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/19大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-07"
+		},
+		{
+			"pid": 37,
+			"jid": 396,
+			"address": "大阪府堺市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/19大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-07"
+		},
+		{
+			"pid": 38,
+			"jid": 397,
+			"address": "大阪府箕面市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "重症",
+			"supplement": "2/19大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-07"
+		},
+		{
+			"pid": 39,
+			"jid": 398,
+			"address": "大阪府門真市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/19大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-07"
+		},
+		{
+			"pid": 40,
+			"jid": 399,
+			"address": "大阪府東大阪市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/19大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-07"
+		},
+		{
+			"pid": 41,
+			"jid": 400,
+			"address": "大阪府豊中市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "教育機関関係者",
+			"remarks": "重症",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-07"
 		}
 	]
 }

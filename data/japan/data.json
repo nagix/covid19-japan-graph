@@ -15,7 +15,13 @@
 			"id": "miyagi"
 		},
 		{
+			"id": "fukushima"
+		},
+		{
 			"id": "tochigi"
+		},
+		{
+			"id": "gunma"
 		},
 		{
 			"id": "chiba"
@@ -70,6 +76,9 @@
 		},
 		{
 			"id": "wakayama"
+		},
+		{
+			"id": "hiroshima"
 		},
 		{
 			"id": "yamaguchi"

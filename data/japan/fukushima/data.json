@@ -1,0 +1,21 @@
+{
+	"id": "fukushima",
+	"name": {
+		"ja": "福島県"
+	},
+	"date": "2020\/03\/07 18:00",
+	"data": [
+		{
+			"pid": 1,
+			"jid": 385,
+			"address": "福島県いわき市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/21ダイヤモンド・プリンセス号を下船",
+			"discharged": null,
+			"date": "2020-03-07"
+		}
+	]
+}

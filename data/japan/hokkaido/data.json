@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "北海道"
 	},
-	"date": "2020\/03\/06 18:00",
+	"date": "2020\/03\/07 18:00",
 	"children": [
 		{
 			"id": "sapporo"
@@ -723,7 +723,7 @@
 		{
 			"pid": 90,
 			"jid": 320,
-			"address": "ホーツク総合振興局管内",
+			"address": "オホーツク総合振興局管内",
 			"age": "30s",
 			"sex": "male",
 			"attribute": null,
@@ -731,6 +731,30 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-06"
+		},
+		{
+			"pid": 91,
+			"jid": 372,
+			"address": "空知総合振興局管内(滝川市)",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "パート従業員",
+			"remarks": null,
+			"supplement": "No.180の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-07"
+		},
+		{
+			"pid": 92,
+			"jid": 373,
+			"address": "オホーツク総合振興局管内（北見市）",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "NO.200の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-07"
 		}
 	]
 }

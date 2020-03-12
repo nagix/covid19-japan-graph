@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "愛知県"
 	},
-	"date": "2020\/03\/04 18:00",
+	"date": "2020\/03\/07 18:00",
 	"children": [
 		{
 			"id": "nagoya"
@@ -152,6 +152,30 @@
 			"supplement": "2/26フランスから帰国",
 			"discharged": null,
 			"date": "2020-03-05"
+		},
+		{
+			"pid": 63,
+			"jid": 402,
+			"address": "三河地方",
+			"age": "60s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.254（マッサージ師）による施術",
+			"discharged": null,
+			"date": "2020-03-07"
+		},
+		{
+			"pid": 64,
+			"jid": 403,
+			"address": "尾張地方",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-07"
 		}
 	]
 }

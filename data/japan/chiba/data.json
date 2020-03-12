@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "千葉県"
 	},
-	"date": "2020\/03\/06 18:00",
+	"date": "2020\/03\/07 18:00",
 	"children": [
 		{
 			"id": "funabashi"
@@ -201,6 +201,54 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-06"
+		},
+		{
+			"pid": 19,
+			"jid": 381,
+			"address": "千葉県市川市",
+			"age": "80s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.327が勤務する福祉事業所を利用",
+			"discharged": null,
+			"date": "2020-03-07"
+		},
+		{
+			"pid": 20,
+			"jid": 382,
+			"address": "千葉県市川市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.381、No.383の同居家族",
+			"discharged": null,
+			"date": "2020-03-07"
+		},
+		{
+			"pid": 21,
+			"jid": 383,
+			"address": "千葉県市川市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.381、No.382の同居家族",
+			"discharged": null,
+			"date": "2020-03-07"
+		},
+		{
+			"pid": 22,
+			"jid": 384,
+			"address": "千葉県松戸市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "保育士",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-07"
 		}
 	]
 }

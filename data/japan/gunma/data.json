@@ -1,0 +1,21 @@
+{
+	"id": "gunma",
+	"name": {
+		"ja": "群馬県"
+	},
+	"date": "2020\/03\/07 18:00",
+	"data": [
+		{
+			"pid": 1,
+			"jid": 391,
+			"address": "群馬県太田市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "保育士",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-07"
+		}
+	]
+}
