@@ -1,0 +1,35 @@
+{
+	"id": "amagasaki",
+	"name": {
+		"ja": "尼崎市"
+	},
+	"date": "2020\/03\/10 18:00",
+	"data": [
+		{
+			"id": 1,
+			"pid": 19,
+			"jid": 490,
+			"address": "兵庫県尼崎市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "介護士",
+			"remarks": null,
+			"supplement": "No.393が利用する伊丹市内デイケアで勤務",
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"id": 2,
+			"pid": 20,
+			"jid": 491,
+			"address": "兵庫県伊丹市",
+			"age": "80s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.393が利用する伊丹市内デイケア利用者",
+			"discharged": null,
+			"date": "2020-03-10"
+		}
+	]
+}

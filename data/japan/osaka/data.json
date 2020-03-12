@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "大阪府"
 	},
-	"date": "2020\/03\/08 21:00",
+	"date": "2020\/03\/10 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -663,6 +663,219 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-08"
+		},
+		{
+			"pid": 56,
+			"jid": 458,
+			"address": "大阪府大阪市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"pid": 57,
+			"jid": 459,
+			"address": "大阪府大阪市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"pid": 58,
+			"address": "大阪府大阪市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "2/15・16大阪市都島区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"pid": 59,
+			"jid": 460,
+			"address": "大阪府大阪市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"pid": 60,
+			"jid": 461,
+			"address": "大阪府大阪市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.422の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"pid": 61,
+			"jid": 462,
+			"address": "大阪府大阪市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "団体職員",
+			"remarks": null,
+			"supplement": "No.osaka35の濃厚接触者（同僚）",
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"pid": 62,
+			"jid": 463,
+			"address": "大阪府大阪市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "スーパー勤務",
+			"remarks": null,
+			"supplement": "2/24大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"pid": 63,
+			"jid": 464,
+			"address": "大阪府大阪市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/19大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"pid": 64,
+			"address": "大阪府大阪市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "2/19大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"pid": 65,
+			"jid": 465,
+			"address": "大阪府東大阪市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "飲食店勤務",
+			"remarks": null,
+			"supplement": "No.428の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"pid": 66,
+			"jid": 466,
+			"address": "大阪府豊中市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "重症",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"pid": 67,
+			"jid": 467,
+			"address": "大阪府八尾市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": "2/21大阪市中央区ライブハウス",
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"pid": 68,
+			"jid": 468,
+			"address": "大阪府貝塚市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"pid": 69,
+			"jid": 469,
+			"address": "大阪府枚方市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"pid": 70,
+			"jid": 470,
+			"address": "大阪府高槻市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"pid": 71,
+			"jid": 471,
+			"address": "大阪府八尾市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"pid": 72,
+			"address": "大阪府外",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "税務職員",
+			"remarks": "無症状",
+			"supplement": "No.283の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"pid": 73,
+			"jid": 472,
+			"address": "大阪府茨木市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/21大阪市中央区ライブハウス",
+			"discharged": null,
+			"date": "2020-03-10"
 		}
 	]
 }

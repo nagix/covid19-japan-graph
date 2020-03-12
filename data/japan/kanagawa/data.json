@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "神奈川県"
 	},
-	"date": "2020\/03\/07 18:00",
+	"date": "2020\/03\/10 18:00",
 	"children": [
 		{
 			"id": "yokohama"
@@ -104,10 +104,10 @@
 			"age": "70s",
 			"sex": "female",
 			"attribute": "無職",
-			"remarks": null,
+			"remarks": "重症",
 			"supplement": null,
 			"discharged": null,
-			"date": "2020-03-01"
+			"date": "2020-02-28"
 		},
 		{
 			"pid": 27,
@@ -176,10 +176,33 @@
 			"age": "80s",
 			"sex": "male",
 			"attribute": "無職",
-			"remarks": null,
+			"remarks": "重症",
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-07"
+		},
+		{
+			"pid": 43,
+			"address": "神奈川県平塚保健福祉事務所管内",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.370の濃厚接触者（同居親族）",
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"pid": 44,
+			"jid": 499,
+			"address": "神奈川県鎌倉保健福祉事務所管内",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": "No.219の濃厚接触者（同居親族）",
+			"discharged": null,
+			"date": "2020-03-10"
 		}
 	]
 }

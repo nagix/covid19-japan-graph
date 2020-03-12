@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "愛知県"
 	},
-	"date": "2020\/03\/09 18:00",
+	"date": "2020\/03\/10 18:00",
 	"children": [
 		{
 			"id": "nagoya"
@@ -173,7 +173,7 @@
 			"sex": "male",
 			"attribute": null,
 			"remarks": null,
-			"supplement": "No.aichi81と職場で接触",
+			"supplement": "No.aichi81、No.aichi87と職場で接触",
 			"discharged": null,
 			"date": "2020-03-07"
 		},
@@ -187,6 +187,41 @@
 			"supplement": "No.242の勤務先店舗を利用",
 			"discharged": null,
 			"date": "2020-03-09"
+		},
+		{
+			"pid": 87,
+			"address": "尾張地方",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "No.242の勤務先店舗を利用",
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"pid": 88,
+			"jid": 476,
+			"address": "尾張地方",
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.aichi81の同居家族（濃厚接触者）",
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"pid": 89,
+			"jid": 477,
+			"address": "尾張地方",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.403の同僚（濃厚接触者）",
+			"discharged": null,
+			"date": "2020-03-10"
 		}
 	]
 }

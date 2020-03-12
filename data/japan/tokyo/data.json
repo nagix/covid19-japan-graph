@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "東京都"
 	},
-	"date": "2020\/03\/07 18:00",
+	"date": "2020\/03\/10 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -762,6 +762,41 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-07"
+		},
+		{
+			"pid": 65,
+			"jid": 497,
+			"address": "東京都",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"pid": 66,
+			"jid": 498,
+			"address": "東京都",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": "重症",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"pid": 67,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "2/23大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-10"
 		}
 	]
 }

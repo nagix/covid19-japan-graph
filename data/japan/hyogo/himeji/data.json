@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "姫路市"
 	},
-	"date": "2020\/03\/09 18:00",
+	"date": "2020\/03\/10 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -42,6 +42,31 @@
 			"supplement": "No.414の家族",
 			"discharged": null,
 			"date": "2020-03-09"
+		},
+		{
+			"id": 4,
+			"pid": 17,
+			"address": "兵庫県姫路市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "看護師",
+			"remarks": "無症状",
+			"supplement": "No.414が勤務していた医療機関の同僚",
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"id": 5,
+			"pid": 18,
+			"jid": 492,
+			"address": "入院中",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.414が勤務していた医療機関の入院患者",
+			"discharged": null,
+			"date": "2020-03-10"
 		}
 	]
 }

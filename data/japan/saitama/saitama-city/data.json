@@ -1,0 +1,21 @@
+{
+	"id": "saitama-city",
+	"name": {
+		"ja": "さいたま市"
+	},
+	"date": "2020\/03\/06 18:00",
+	"data": [
+		{
+			"id": 1,
+			"pid": 10,
+			"address": "埼玉県さいたま市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "1/23・24大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-06"
+		}
+	]
+}

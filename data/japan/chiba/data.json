@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "千葉県"
 	},
-	"date": "2020\/03\/09 18:00",
+	"date": "2020\/03\/10 18:00",
 	"children": [
 		{
 			"id": "funabashi"
@@ -260,6 +260,18 @@
 			"supplement": "No.327の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-09"
+		},
+		{
+			"pid": 24,
+			"jid": 496,
+			"address": "千葉県市川市",
+			"age": "80s",
+			"sex": "female",
+			"attribute": "福祉事業所等の非常勤職員",
+			"remarks": null,
+			"supplement": "No.327が勤務する福祉事業所の利用者",
+			"discharged": null,
+			"date": "2020-03-10"
 		}
 	]
 }

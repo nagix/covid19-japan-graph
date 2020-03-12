@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "札幌市"
 	},
-	"date": "2020\/03\/09 18:00",
+	"date": "2020\/03\/10 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -446,6 +446,45 @@
 			"supplement": "No.215の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-09"
+		},
+		{
+			"id": 35,
+			"pid": 109,
+			"jid": 501,
+			"address": "札幌市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.379の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"id": 36,
+			"pid": 110,
+			"jid": 502,
+			"address": "札幌市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.245の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"id": 37,
+			"pid": 111,
+			"jid": 503,
+			"address": "札幌市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.244、No.245の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-10"
 		}
 	]
 }
