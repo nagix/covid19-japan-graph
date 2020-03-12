@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "新潟市"
 	},
-	"date": "2020\/03\/09 18:00",
+	"date": "2020\/03\/10 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -95,6 +95,45 @@
 			"supplement": "No.246の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-09"
+		},
+		{
+			"id": 8,
+			"pid": 9,
+			"jid": 504,
+			"address": "新潟市秋葉区",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.452の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"id": 9,
+			"pid": 10,
+			"jid": 505,
+			"address": "新潟市中央区",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.452の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"id": 10,
+			"pid": 11,
+			"jid": 506,
+			"address": "新潟市中央区",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-10"
 		}
 	]
 }

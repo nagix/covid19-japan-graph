@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "姫路市"
 	},
-	"date": "2020\/03\/10 18:00",
+	"date": "2020\/03\/11 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -67,6 +67,19 @@
 			"supplement": "No.414が勤務していた医療機関の入院患者",
 			"discharged": null,
 			"date": "2020-03-10"
+		},
+		{
+			"id": 6,
+			"pid": 26,
+			"jid": 541,
+			"address": "入院中",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.414が勤務していた医療機関の入院患者",
+			"discharged": null,
+			"date": "2020-03-11"
 		}
 	]
 }

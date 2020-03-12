@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "北海道"
 	},
-	"date": "2020\/03\/08 18:00",
+	"date": "2020\/03\/11 18:00",
 	"children": [
 		{
 			"id": "sapporo"
@@ -803,6 +803,30 @@
 			"supplement": "No.318、445の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-09"
+		},
+		{
+			"pid": 116,
+			"jid": 518,
+			"address": "空知総合振興局管内",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.317の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-11"
+		},
+		{
+			"pid": 117,
+			"jid": 519,
+			"address": "オホーツク総合振興局管内",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-11"
 		}
 	]
 }

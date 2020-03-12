@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "千葉県"
 	},
-	"date": "2020\/03\/10 18:00",
+	"date": "2020\/03\/11 18:00",
 	"children": [
 		{
 			"id": "funabashi"
@@ -272,6 +272,30 @@
 			"supplement": "No.327が勤務する福祉事業所の利用者",
 			"discharged": null,
 			"date": "2020-03-10"
+		},
+		{
+			"pid": 25,
+			"jid": 512,
+			"address": "千葉県松戸市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "2/28までエジプトツアー",
+			"discharged": null,
+			"date": "2020-03-11"
+		},
+		{
+			"pid": 26,
+			"jid": 513,
+			"address": "千葉県松戸市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "2/28までエジプトツアー",
+			"discharged": null,
+			"date": "2020-03-11"
 		}
 	]
 }

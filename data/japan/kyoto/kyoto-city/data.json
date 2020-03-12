@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "京都市"
 	},
-	"date": "2020\/03\/09 18:00",
+	"date": "2020\/03\/11 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -82,6 +82,32 @@
 			"supplement": "2/24大阪市北区のライブハウス",
 			"discharged": null,
 			"date": "2020-03-09"
+		},
+		{
+			"id": 7,
+			"pid": 14,
+			"jid": 521,
+			"address": "京都市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "臨時的任用の右京区役所職員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-11"
+		},
+		{
+			"id": 8,
+			"pid": 15,
+			"jid": 522,
+			"address": "京都市",
+			"age": "10歳未満",
+			"sex": null,
+			"attribute": "幼稚園児",
+			"remarks": null,
+			"supplement": "No.448が勤務する市内保育所の園児",
+			"discharged": null,
+			"date": "2020-03-11"
 		}
 	]
 }

@@ -203,6 +203,30 @@
 			"supplement": "No.219の濃厚接触者（同居親族）",
 			"discharged": null,
 			"date": "2020-03-10"
+		},
+		{
+			"pid": 45,
+			"jid": 523,
+			"address": "藤沢市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"pid": 46,
+			"jid": 524,
+			"address": "藤沢市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": "No.523と同居家族",
+			"discharged": null,
+			"date": "2020-03-10"
 		}
 	]
 }

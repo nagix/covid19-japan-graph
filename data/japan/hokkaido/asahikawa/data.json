@@ -108,6 +108,19 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-08"
+		},
+		{
+			"id": 9,
+			"pid": 118,
+			"jid": 520,
+			"address": "旭川市",
+			"age": "60s",
+			"sex": "female",
+			"attribufete": "無職",
+			"remarks": null,
+			"supplement": "No.266の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-08"
 		}
 	]
 }

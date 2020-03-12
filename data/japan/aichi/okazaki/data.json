@@ -1,0 +1,35 @@
+{
+	"id": "okazaki",
+	"name": {
+		"ja": "岡崎市"
+	},
+	"date": "2020\/03\/11 18:00",
+	"data": [
+		{
+			"id": 1,
+			"pid": 103,
+			"jid": 552,
+			"address": "岡崎市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.254（マッサージ師）による施術",
+			"discharged": null,
+			"date": "2020-03-11"
+		},
+		{
+			"id": 2,
+			"pid": 104,
+			"jid": 553,
+			"address": "岡崎市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.552の家族",
+			"discharged": null,
+			"date": "2020-03-11"
+		}
+	]
+}

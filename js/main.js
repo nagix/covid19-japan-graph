@@ -43,13 +43,14 @@ var clusters = [
 	{ id: 'nagoya-gym-b', label: '名古屋スポーツジムBクラスター', parentId: 'nagoya', nodes:[110, 165, 166, 189] },
 	{ id: 'kitami', label: '北見展示会クラスター', parentId: 'hokkaido', nodes:[113, 130, 151, 174, 175, 177, 200, 205, 223, 235, 236] },
 	{ id: 'osaka-livehouse-a', label: '大阪京橋ライブハウスArcクラスター', parentId: 'osaka', nodes:[157, 173, 209, 'ehime1', 241, 249, 252, 257, 269, 271, 279, 'osaka9', 281, 282, 'kumamoto6', 'hyogo4', 'osaka18', 322, 'tokyo57', 333, 380, 394, 'osaka33', 'osaka34', 'osaka35', 425, 'osaka52', 'hyogo14', 'osaka58'] },
-	{ id: 'niigata-pingpong', label: '新潟卓球スクールクラスター', parentId: 'niigata', nodes:[210, 234, 246, 247, 248] },
+	{ id: 'niigata-pingpong', label: '新潟卓球スクールクラスター', parentId: 'niigata', nodes:[210, 234, 246, 247, 248, 451, 452] },
 	{ id: 'nagoya-dayservice-a', label: '名古屋高齢者デイサービスAクラスター', parentId: 'nagoya', nodes:[229, 346, 347, 348, 275, 276] },
 	{ id: 'live-bar', label: '札幌中ライブバークラスター', parentId: 'sapporo', nodes:[245, 314, 315, 378, 379, 503] },
 	{ id: 'day-service-b', label: '名古屋高齢者デイサービスBクラスター', parentId: 'nagoya', nodes:[277, 278, 309, 310, 311, 353, 354, 355, 404, 405, 406, 431, 432, 433] },
-	{ id: 'osaka-livehouse-b', label: '大阪北区ライブハウスSoap Opera Classics Umedaクラスター', parentId: 'osaka', nodes:[283, 285, 286, 303, 313, 330, 331, 334, 335, 357, 358, 359, 360, 363, 364, 365, 366, 392, 395, 396, 397, 398, 399, 418, 'osaka45', 421, 422, 423, 'osaka49', 424, 426, 438, 439, 448, 463, 464, 'osaka64', 'saitama10', 488, 495, 'tokyo67', 'nara7'] },
-	{ id: 'osaka-livehouse-c', label: '大阪中央区ライブハウスamericamura FANJ twiceクラスター', parentId: 'osaka', nodes:[467, 472] },
-	{ id: 'itami-daycare', label: '伊丹市デイケア施設クラスター', parentId: 'hyogo', nodes:[393, 490, 491, 493] }
+	{ id: 'osaka-livehouse-b', label: '大阪北区ライブハウスSoap Opera Classics Umedaクラスター', parentId: 'osaka', nodes:[283, 285, 286, 303, 313, 330, 331, 334, 335, 357, 358, 359, 360, 363, 364, 365, 366, 392, 395, 396, 397, 398, 399, 418, 'osaka45', 421, 422, 423, 'osaka49', 424, 426, 438, 439, 448, 463, 464, 'osaka64', 'saitama10', 488, 495, 'tokyo67', 'nara7', 'osaka76', 527] },
+	{ id: 'itami-daycare', label: '伊丹市デイケア施設クラスター', parentId: 'hyogo', nodes:[393, 490, 491, 493, 543, 544, 545] },
+	{ id: 'osaka-livehouse-c', label: '大阪北区ライブハウスLIVE HOUSE Rumioクラスター', parentId: 'osaka', nodes:[449, 'osaka80'] },
+	{ id: 'osaka-livehouse-d', label: '大阪中央区ライブハウスamericamura FANJ twiceクラスター', parentId: 'osaka', nodes:[467, 472] }
 ];
 
 var boxColors = {

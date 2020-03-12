@@ -3,10 +3,13 @@
 	"name": {
 		"ja": "埼玉県"
 	},
-	"date": "2020\/03\/10 18:00",
+	"date": "2020\/03\/11 18:00",
 	"children": [
 		{
 			"id": "saitama-city"
+		},
+		{
+			"id": "kawagoe"
 		}
 	],
 	"data": [
@@ -139,6 +142,30 @@
 			"supplement": "3/2までフランスに滞在",
 			"discharged": null,
 			"date": "2020-03-10"
+		},
+		{
+			"pid": 16,
+			"jid": 510,
+			"address": "埼玉県戸田市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "自営業（県内勤務）",
+			"remarks": null,
+			"supplement": "エジプト・ナイル川クルーズ",
+			"discharged": null,
+			"date": "2020-03-11"
+		},
+		{
+			"pid": 17,
+			"jid": 511,
+			"address": "埼玉県さいたま市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員（県内勤務）",
+			"remarks": null,
+			"supplement": "No.326と同じ職場で勤務",
+			"discharged": null,
+			"date": "2020-03-11"
 		}
 	]
 }

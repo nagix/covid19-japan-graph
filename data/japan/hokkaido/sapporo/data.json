@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "札幌市"
 	},
-	"date": "2020\/03\/10 18:00",
+	"date": "2020\/03\/11 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -485,6 +485,58 @@
 			"supplement": "No.244、No.245の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-10"
+		},
+		{
+			"id": 38,
+			"pid": 112,
+			"jid": 514,
+			"address": "札幌市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.502 の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-11"
+		},
+		{
+			"id": 39,
+			"pid": 113,
+			"jid": 515,
+			"address": "札幌市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-11"
+		},
+		{
+			"id": 40,
+			"pid": 114,
+			"jid": 516,
+			"address": "札幌市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-11"
+		},
+		{
+			"id": 41,
+			"pid": 115,
+			"jid": 517,
+			"address": "札幌市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "看護師",
+			"remarks": null,
+			"supplement": "No.290の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-11"
 		}
 	]
 }
