@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "愛知県"
 	},
-	"date": "2020\/03\/07 18:00",
+	"date": "2020\/03\/09 18:00",
 	"children": [
 		{
 			"id": "nagoya"
@@ -173,9 +173,20 @@
 			"sex": "male",
 			"attribute": null,
 			"remarks": null,
-			"supplement": null,
+			"supplement": "No.aichi81と職場で接触",
 			"discharged": null,
 			"date": "2020-03-07"
+		},
+		{
+			"pid": 81,
+			"address": "尾張地方",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "No.242の勤務先店舗を利用",
+			"discharged": null,
+			"date": "2020-03-09"
 		}
 	]
 }

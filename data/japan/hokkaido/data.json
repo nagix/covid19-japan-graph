@@ -779,6 +779,30 @@
 			"supplement": "No.409の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-08"
+		},
+		{
+			"pid": 107,
+			"jid": 445,
+			"address": "石狩振興局管内",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.318の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-09"
+		},
+		{
+			"pid": 108,
+			"jid": 446,
+			"address": "石狩振興局管内",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.318、445の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-09"
 		}
 	]
 }

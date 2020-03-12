@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "石川県"
 	},
-	"date": "2020\/02\/28 18:00",
+	"date": "2020\/03\/09 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -74,6 +74,18 @@
 			"supplement": "No.128、No.170のパリ出張同行者",
 			"discharged": null,
 			"date": "2020-02-28"
+		},
+		{
+			"pid": 7,
+			"jid": 447,
+			"address": "石川県",
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-09"
 		}
 	]
 }

@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "奈良県"
 	},
-	"date": "2020\/03\/06 18:00",
+	"date": "2020\/03\/09 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -50,6 +50,29 @@
 			"supplement": "2/21ダイヤモンド・プリンセス号を下船",
 			"discharged": null,
 			"date": "2020-03-06"
+		},
+		{
+			"pid": 5,
+			"jid": 439,
+			"address": "奈良県郡山保健所管内",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/24・2/26大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-09"
+		},
+		{
+			"pid": 6,
+			"address": "奈良県郡山保健所管内",
+			"age": "10歳未満",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "No.439の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-09"
 		}
 	]
 }

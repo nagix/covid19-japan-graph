@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "兵庫県"
 	},
-	"date": "2020\/03\/08 18:00",
+	"date": "2020\/03\/09 18:00",
 	"children": [
 		{
 			"id": "kobe"
@@ -18,9 +18,9 @@
 	"data": [
 		{
 			"pid": 4,
-			"address": "中播磨健康福祉事務所(福崎保健所)管内",
+			"address": "兵庫県福崎町",
 			"age": "50s",
-			"sex": "male",
+			"sex": "female",
 			"attribute": "無職",
 			"remarks": "無症状",
 			"supplement": "2/15・16大阪市都島区のライブハウス",
@@ -30,7 +30,7 @@
 		{
 			"pid": 7,
 			"jid": 335,
-			"address": "宝塚健康福祉事務所管内",
+			"address": "兵庫県三田市",
 			"age": "40s",
 			"sex": "female",
 			"attribute": "パート",
@@ -42,19 +42,19 @@
 		{
 			"pid": 8,
 			"jid": 336,
-			"address": "伊丹健康福祉事務所管内",
+			"address": "兵庫県川西市",
 			"age": "40s",
 			"sex": "male",
 			"attribute": "会社員",
 			"remarks": null,
-			"supplement": null,
+			"supplement": "2/21大阪市内のライブハウス（調査中）",
 			"discharged": null,
 			"date": "2020-03-06"
 		},
 		{
 			"pid": 12,
 			"jid": 415,
-			"address": "伊丹市",
+			"address": "兵庫県伊丹市",
 			"age": "80s",
 			"sex": "male",
 			"attribute": "無職",
@@ -62,6 +62,17 @@
 			"supplement": "No.393の夫",
 			"discharged": null,
 			"date": "2020-03-08"
+		},
+		{
+			"pid": 14,
+			"address": "丹波市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": "無症状",
+			"supplement": "2/16大阪市都島区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-09"
 		}
 	]
 }

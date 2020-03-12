@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "京都府"
 	},
-	"date": "2020\/03\/07 18:00",
+	"date": "2020\/03\/09 18:00",
 	"children": [
 		{
 			"id": "kyoto-city"
@@ -45,6 +45,39 @@
 			"supplement": "2/15大阪市都島区のライブハウス",
 			"discharged": null,
 			"date": "2020-03-07"
+		},
+		{
+			"pid": 9,
+			"address": "京都府中丹保健所管内",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "No.380の父親",
+			"discharged": null,
+			"date": "2020-03-09"
+		},
+		{
+			"pid": 9,
+			"address": "京都府中丹保健所管内",
+			"age": "60s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "No.380の母親",
+			"discharged": null,
+			"date": "2020-03-09"
+		},
+		{
+			"pid": 9,
+			"address": "京都府中丹保健所管内",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "看護師",
+			"remarks": "無症状",
+			"supplement": "No.380の同僚の看護師",
+			"discharged": null,
+			"date": "2020-03-09"
 		}
 	]
 }
