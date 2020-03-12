@@ -9,6 +9,9 @@
 			"id": "hokkaido"
 		},
 		{
+			"id": "akita"
+		},
+		{
 			"id": "miyagi"
 		},
 		{
@@ -31,6 +34,9 @@
 		},
 		{
 			"id": "ishikawa"
+		},
+		{
+			"id": "yamanashi"
 		},
 		{
 			"id": "nagano"

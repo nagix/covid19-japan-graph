@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "京都府"
 	},
-	"date": "2020\/03\/05 18:00",
+	"date": "2020\/03\/06 18:00",
 	"children": [
 		{
 			"id": "kyoto-city"
@@ -21,6 +21,18 @@
 			"supplement": "2/28までフィリピンに滞在",
 			"discharged": null,
 			"date": "2020-03-05"
+		},
+		{
+			"pid": 7,
+			"jid": 345,
+			"address": "京都府乙訓保健所管内",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "派遣職員",
+			"remarks": null,
+			"supplement": "No.289と同居",
+			"discharged": null,
+			"date": "2020-03-06"
 		}
 	]
 }

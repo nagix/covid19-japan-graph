@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "東京都"
 	},
-	"date": "2020\/03\/05 18:00",
+	"date": "2020\/03\/06 20:00",
 	"data": [
 		{
 			"pid": 1,
@@ -620,6 +620,77 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-05"
+		},
+		{
+			"pid": 53,
+			"jid": 321,
+			"address": "東京都",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": "No.250の同居者",
+			"discharged": null,
+			"date": "2020-03-06"
+		},
+		{
+			"pid": 54,
+			"jid": 322,
+			"address": "東京都",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "大阪市都島区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-06"
+		},
+		{
+			"pid": 55,
+			"jid": 323,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-06"
+		},
+		{
+			"pid": 56,
+			"jid": 324,
+			"address": "東京都",
+			"age": "90s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": "死亡",
+			"supplement": "都外確定例との濃厚接触",
+			"discharged": "〇",
+			"date": "2020-03-06"
+		},
+		{
+			"pid": 57,
+			"address": "東京都",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": "無症状",
+			"supplement": "大阪市都島区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-06"
+		},
+		{
+			"pid": 58,
+			"jid": 325,
+			"address": "東京都",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "施設職員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-06"
 		}
 	]
 }

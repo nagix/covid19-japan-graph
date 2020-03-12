@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "神奈川県"
 	},
-	"date": "2020\/03\/01 18:00",
+	"date": "2020\/03\/06 18:00",
 	"children": [
 		{
 			"id": "yokohama"
@@ -120,6 +120,54 @@
 			"supplement": "No.219の濃厚接触者(同居親族)",
 			"discharged": null,
 			"date": "2020-03-01"
+		},
+		{
+			"pid": 37,
+			"jid": 340,
+			"address": "神奈川県平塚保健福祉事務所管内",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-06"
+		},
+		{
+			"pid": 38,
+			"jid": 341,
+			"address": "神奈川県平塚保健福祉事務所管内",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-06"
+		},
+		{
+			"pid": 39,
+			"jid": 342,
+			"address": "神奈川県小田原保健福祉事務所管内",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-06"
+		},
+		{
+			"pid": 40,
+			"jid": 343,
+			"address": "神奈川県厚木保健福祉事務所管内",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-06"
 		}
 	]
 }

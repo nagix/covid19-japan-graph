@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "相模原市"
 	},
-	"date": "2020\/03\/02 18:00",
+	"date": "2020\/03\/06 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -65,9 +65,9 @@
 			"age": "80s",
 			"sex": "male",
 			"attribute": null,
-			"remarks": null,
+			"remarks": "3/9死亡",
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-02-21"
 		},
 		{
@@ -237,7 +237,7 @@
 		},
 		{
 			"id": 19,
-			"pid": 32,
+			"pid": 34,
 			"jid": 291,
 			"address": "神奈川県相模原市",
 			"age": "50s",
@@ -250,7 +250,7 @@
 		},
 		{
 			"id": 20,
-			"pid": 33,
+			"pid": 35,
 			"jid": 292,
 			"address": "神奈川県相模原市",
 			"age": "50s",
@@ -260,6 +260,19 @@
 			"supplement": "No.193の福祉事業所の関係者",
 			"discharged": null,
 			"date": "2020-03-05"
+		},
+		{
+			"id": 21,
+			"pid": 36,
+			"jid": 344,
+			"address": "神奈川県相模原市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-06"
 		}
 	]
 }

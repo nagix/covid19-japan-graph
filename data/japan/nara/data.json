@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "奈良県"
 	},
-	"date": "2020\/01\/28 16:00",
+	"date": "2020\/03\/06 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -16,6 +16,40 @@
 			"supplement": "武漢からのツアー客を運転手としてバスに乗せた",
 			"discharged": null,
 			"date": "2020-01-28"
+		},
+		{
+			"pid": 2,
+			"jid": 330,
+			"address": "奈良県奈良市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/19大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-06"
+		},
+		{
+			"pid": 3,
+			"address": "奈良県奈良市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "2/19ダイヤモンド・プリンセス号を下船",
+			"discharged": null,
+			"date": "2020-03-06"
+		},
+		{
+			"pid": 4,
+			"address": "奈良県奈良市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "2/21ダイヤモンド・プリンセス号を下船",
+			"discharged": null,
+			"date": "2020-03-06"
 		}
 	]
 }

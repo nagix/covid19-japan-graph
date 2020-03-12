@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "長野県"
 	},
-	"date": "2020\/01\/30 16:00",
+	"date": "2020\/03\/06 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -27,6 +27,18 @@
 			"supplement": "No.140の同居家族",
 			"discharged": null,
 			"date": "2020-02-26"
+		},
+		{
+			"pid": 3,
+			"jid": 331,
+			"address": "長野県（佐久保健所管内）",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "会社員（滝沢牧場）",
+			"remarks": null,
+			"supplement": "2/19大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-06"
 		}
 	]
 }

@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "埼玉県"
 	},
-	"date": "2020\/03\/05 18:00",
+	"date": "2020\/03\/06 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -74,6 +74,30 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-05"
+		},
+		{
+			"pid": 7,
+			"jid": 338,
+			"address": "行田市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.293の妻",
+			"discharged": null,
+			"date": "2020-03-06"
+		},
+		{
+			"pid": 8,
+			"jid": 339,
+			"address": "行田市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "会社員（都内勤務）",
+			"remarks": null,
+			"supplement": "No.293の娘",
+			"discharged": null,
+			"date": "2020-03-06"
 		}
 	]
 }

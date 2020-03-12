@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "西宮市"
 	},
-	"date": "2020\/03\/01 18:00",
+	"date": "2020\/03\/06 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -17,6 +17,19 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-01"
+		},
+		{
+			"id": 2,
+			"pid": 6,
+			"jid": 333,
+			"address": "西宮市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/15・16大阪市都島区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-06"
 		}
 	]
 }

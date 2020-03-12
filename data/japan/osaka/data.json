@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "大阪府"
 	},
-	"date": "2020\/03\/05 18:00",
+	"date": "2020\/03\/06 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -189,7 +189,7 @@
 			"sex": "male",
 			"attribute": null,
 			"remarks": null,
-			"supplement": "No.251の妻・濃厚接触者",
+			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
 			"date": "2020-03-04"
 		},
@@ -227,6 +227,160 @@
 			"supplement": "2/16大阪市都島区のライブハウス",
 			"discharged": null,
 			"date": "2020-03-05"
+		},
+		{
+			"pid": 19,
+			"jid": 356,
+			"address": "大阪府大阪市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-06"
+		},
+		{
+			"pid": 20,
+			"jid": 357,
+			"address": "大阪府大阪市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/19大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-06"
+		},
+		{
+			"pid": 21,
+			"jid": 358,
+			"address": "大阪府大阪市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/19大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-06"
+		},
+		{
+			"pid": 22,
+			"jid": 359,
+			"address": "大阪府大阪市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/19大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-06"
+		},
+		{
+			"pid": 23,
+			"jid": 360,
+			"address": "大阪府大阪市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/19大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-06"
+		},
+		{
+			"pid": 24,
+			"jid": 361,
+			"address": "大阪府大阪市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.285の濃厚接触者（同僚）",
+			"discharged": null,
+			"date": "2020-03-06"
+		},
+		{
+			"pid": 25,
+			"jid": 362,
+			"address": "大阪府大阪市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.362の家族",
+			"discharged": null,
+			"date": "2020-03-06"
+		},
+		{
+			"pid": 26,
+			"jid": 363,
+			"address": "大阪府堺市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/19大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-06"
+		},
+		{
+			"pid": 27,
+			"jid": 364,
+			"address": "大阪府高槻市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/19大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-06"
+		},
+		{
+			"pid": 28,
+			"jid": 365,
+			"address": "大阪府高槻市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/19大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-06"
+		},
+		{
+			"pid": 29,
+			"jid": 366,
+			"address": "大阪府吹田市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/23大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-06"
+		},
+		{
+			"pid": 30,
+			"address": "大阪府吹田市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "税務署職員",
+			"remarks": "無症状",
+			"supplement": "No.283の濃厚接触者（同居家族）",
+			"discharged": null,
+			"date": "2020-03-06"
+		},
+		{
+			"pid": 31,
+			"address": "大阪府吹田市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "医療従事者",
+			"remarks": "無症状",
+			"supplement": "No.283が受診した医療機関に勤務",
+			"discharged": null,
+			"date": "2020-03-06"
 		}
 	]
 }
