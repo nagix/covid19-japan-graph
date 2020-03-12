@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "北海道"
 	},
-	"date": "2020\/03\/07 18:00",
+	"date": "2020\/03\/08 18:00",
 	"children": [
 		{
 			"id": "sapporo"
@@ -752,9 +752,33 @@
 			"sex": "female",
 			"attribute": "会社員",
 			"remarks": null,
-			"supplement": "NO.200の濃厚接触者",
+			"supplement": "No.200の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-07"
+		},
+		{
+			"pid": 99,
+			"jid": 409,
+			"address": "空知総合振興局管内（岩見沢市）",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-08"
+		},
+		{
+			"pid": 100,
+			"jid": 410,
+			"address": "空知総合振興局管内（岩見沢市）",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.409の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-08"
 		}
 	]
 }

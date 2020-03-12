@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "兵庫県"
 	},
-	"date": "2020\/03\/06 18:00",
+	"date": "2020\/03\/08 18:00",
 	"children": [
 		{
 			"id": "kobe"
@@ -50,6 +50,18 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-06"
+		},
+		{
+			"pid": 12,
+			"jid": 415,
+			"address": "伊丹市",
+			"age": "80s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.393の夫",
+			"discharged": null,
+			"date": "2020-03-08"
 		}
 	]
 }

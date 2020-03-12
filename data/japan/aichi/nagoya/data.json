@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "名古屋市"
 	},
-	"date": "2020\/03\/07 18:00",
+	"date": "2020\/03\/08 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -719,6 +719,149 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-07"
+		},
+		{
+			"id": 56,
+			"pid": 70,
+			"jid": 417,
+			"address": "名古屋市",
+			"age": "80s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "3/7死亡",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-08"
+		},
+		{
+			"id": 57,
+			"pid": 71,
+			"jid": 429,
+			"address": "名古屋市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.354の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-08"
+		},
+		{
+			"id": 58,
+			"pid": 72,
+			"jid": 430,
+			"address": "名古屋市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.406、No.407の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-08"
+		},
+		{
+			"id": 59,
+			"pid": 73,
+			"jid": 431,
+			"address": "名古屋市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.347と入院前に接触あり",
+			"discharged": null,
+			"date": "2020-03-08"
+		},
+		{
+			"id": 60,
+			"pid": 74,
+			"jid": 432,
+			"address": "名古屋市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.347と入院前に接触あり",
+			"discharged": null,
+			"date": "2020-03-08"
+		},
+		{
+			"id": 61,
+			"pid": 75,
+			"jid": 433,
+			"address": "名古屋市",
+			"age": "80s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.347と入院前に接触あり",
+			"discharged": null,
+			"date": "2020-03-08"
+		},
+		{
+			"id": 62,
+			"pid": 76,
+			"jid": 434,
+			"address": "名古屋市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.433の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-08"
+		},
+		{
+			"id": 63,
+			"pid": 77,
+			"jid": 435,
+			"address": "名古屋市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.277と入院前に接触あり",
+			"discharged": null,
+			"date": "2020-03-08"
+		},
+		{
+			"id": 64,
+			"pid": 78,
+			"jid": 436,
+			"address": "名古屋市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.435の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-08"
+		},
+		{
+			"id": 65,
+			"pid": 79,
+			"jid": 437,
+			"address": "名古屋市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.408と入院前に接触あり",
+			"discharged": null,
+			"date": "2020-03-08"
+		},
+		{
+			"id": 66,
+			"pid": 80,
+			"jid": 438,
+			"address": "名古屋市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-08"
 		}
 	]
 }

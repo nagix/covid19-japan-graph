@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "高知県"
 	},
-	"date": "2020\/03\/07 18:00",
+	"date": "2020\/03\/08 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -62,7 +62,7 @@
 			"attribute": "会社員",
 			"remarks": null,
 			"supplement": "No.233の父・濃厚接触者",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-04"
 		},
 		{
@@ -74,7 +74,7 @@
 			"attribute": "専業主婦",
 			"remarks": null,
 			"supplement": "No.233の母・濃厚接触者",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-04"
 		},
 		{
@@ -85,8 +85,8 @@
 			"sex": "male",
 			"attribute": "小学生",
 			"remarks": null,
-			"supplement": "No.233の濃厚接触者",
-			"discharged": null,
+			"supplement": "No.233の親族・濃厚接触者",
+			"discharged": "〇",
 			"date": "2020-03-04"
 		},
 		{
@@ -120,9 +120,33 @@
 			"sex": "male",
 			"attribute": "無職",
 			"remarks": null,
-			"supplement": "No.328の濃厚接触者",
+			"supplement": "No.328の親族・濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-07"
+		},
+		{
+			"pid": 11,
+			"jid": 412,
+			"address": "高知市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-08"
+		},
+		{
+			"pid": 12,
+			"jid": 413,
+			"address": "安芸福祉保健所管内",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "2/28までエジプトのカイロに滞在",
+			"discharged": null,
+			"date": "2020-03-08"
 		}
 	]
 }

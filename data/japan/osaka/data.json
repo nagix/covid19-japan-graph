@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "大阪府"
 	},
-	"date": "2020\/03\/07 21:00",
+	"date": "2020\/03\/08 21:00",
 	"data": [
 		{
 			"pid": 1,
@@ -236,7 +236,7 @@
 			"sex": "female",
 			"attribute": null,
 			"remarks": null,
-			"supplement": null,
+			"supplement": "No.osaka52の同居家族（濃厚接触者）",
 			"discharged": null,
 			"date": "2020-03-06"
 		},
@@ -498,6 +498,171 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-07"
+		},
+		{
+			"pid": 42,
+			"jid": 418,
+			"address": "大阪府大阪市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "2/19大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-08"
+		},
+		{
+			"pid": 43,
+			"jid": 419,
+			"address": "大阪府大阪市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-08"
+		},
+		{
+			"pid": 44,
+			"jid": 420,
+			"address": "大阪府大阪市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.osaka52の同居家族（濃厚接触者）",
+			"discharged": null,
+			"date": "2020-03-08"
+		},
+		{
+			"pid": 45,
+			"address": "大阪府大阪市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "金融機関勤務",
+			"remarks": "無症状",
+			"supplement": "2/19大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-08"
+		},
+		{
+			"pid": 46,
+			"jid": 421,
+			"address": "大阪府豊中市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/19大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-08"
+		},
+		{
+			"pid": 47,
+			"jid": 422,
+			"address": "大阪府大阪市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/19大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-08"
+		},
+		{
+			"pid": 48,
+			"jid": 423,
+			"address": "大阪府大阪市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "認可保育所勤務",
+			"remarks": null,
+			"supplement": "2/19大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-08"
+		},
+		{
+			"pid": 49,
+			"address": "大阪府大阪市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "2/23大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-08"
+		},
+		{
+			"pid": 50,
+			"jid": 424,
+			"address": "大阪府大阪市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "2/19大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-08"
+		},
+		{
+			"pid": 51,
+			"jid": 425,
+			"address": "大阪府大阪市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/15大阪市都島区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-08"
+		},
+		{
+			"pid": 52,
+			"address": "大阪府大阪市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "2/15大阪市都島区のライブハウス、No.282の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-08"
+		},
+		{
+			"pid": 53,
+			"jid": 426,
+			"address": "大阪府守口市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/19大阪市北区のライブハウス",
+			"discharged": null,
+			"date": "2020-03-08"
+		},
+		{
+			"pid": 54,
+			"jid": 427,
+			"address": "大阪府豊中市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "教育関係",
+			"remarks": null,
+			"supplement": "No.400の同居家族（濃厚接触者）",
+			"discharged": null,
+			"date": "2020-03-08"
+		},
+		{
+			"pid": 55,
+			"jid": 428,
+			"address": "大阪府八尾市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "医療関係",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-08"
 		}
 	]
 }
