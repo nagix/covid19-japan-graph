@@ -346,11 +346,11 @@ loadData('japan').then(function(patients) {
 		var xOffset = xScale > k ? dx / 2 : Math.max(x, dx - GRAPH_MARGIN);
 		var yOffset = yScale > k ? dy / 2 : Math.max(y, dy - GRAPH_MARGIN);
 
-		zoom.scaleExtent(extent)
-			.transform(svg, d3.zoomIdentity
-				.scale(scale)
-				.translate(xOffset, yOffset)
-			);
+		zoom.scaleExtent(extent);
+		svg.transition().duration(event.duration || 0).call(zoom.transform, d3.zoomIdentity
+			.scale(scale)
+			.translate(xOffset, yOffset)
+		);
 	};
 
 	var extent = [
@@ -362,14 +362,36 @@ loadData('japan').then(function(patients) {
 	resetHeight();
 	redraw({
 		transform: {
-			k: Math.min(Math.max(
-				svgElement.clientWidth / (width + GRAPH_MARGIN * 2),
-				svgElement.clientHeight / (height + GRAPH_MARGIN * 2)
-			), 1)
+			k: Math.min(svgElement.clientWidth / (width + GRAPH_MARGIN * 2), 1)
 		}
 	});
 
 	window.addEventListener('resize', redraw);
+
+	var selector = document.getElementById('prefecture-selector');
+	patients.children.forEach(function(prefecture) {
+		var option = document.createElement('option');
+		option.value = prefecture.id;
+		option.innerHTML = prefecture.name.ja;
+		selector.appendChild(option);
+	});
+	selector.addEventListener('change', function(event) {
+		var value = event.target.value;
+		var node = inner.select('g.cluster#' + value).node();
+		var transform = node.transform.baseVal.getItem(0).matrix;
+		var box = node.getBBox();
+		var clientWidth = svgElement.clientWidth;
+		var k = Math.min(clientWidth / (box.width + GRAPH_MARGIN * 2), 1);
+
+		redraw({
+			transform: {
+				k: k,
+				x: -(transform.e - clientWidth / k / 2),
+				y: -(transform.f + box.y) + GRAPH_MARGIN
+			},
+			duration: 3000
+		});
+	});
 
 	// Dismiss the loading animation
 	document.getElementById('loader').style.opacity = 0;
