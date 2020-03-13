@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "京都府"
 	},
-	"date": "2020\/03\/10 18:00",
+	"date": "2020\/03\/12 18:00",
 	"children": [
 		{
 			"id": "kyoto-city"
@@ -90,6 +90,18 @@
 			"supplement": "No.380の勤務病棟に入院",
 			"discharged": null,
 			"date": "2020-03-10"
+		},
+		{
+			"pid": 16,
+			"jid": 586,
+			"address": "京都府京都市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "病院内理髪店店主",
+			"remarks": null,
+			"supplement": "No.380の勤務病棟に入院",
+			"discharged": null,
+			"date": "2020-03-12"
 		}
 	]
 }

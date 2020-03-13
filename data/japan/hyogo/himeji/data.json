@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "姫路市"
 	},
-	"date": "2020\/03\/11 18:00",
+	"date": "2020\/03\/12 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -80,6 +80,67 @@
 			"supplement": "No.414が勤務していた医療機関の入院患者",
 			"discharged": null,
 			"date": "2020-03-11"
+		},
+		{
+			"id": 7,
+			"pid": 37,
+			"address": "入院中",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.414が勤務していた医療機関の入院患者",
+			"discharged": null,
+			"date": "2020-03-11"
+		},
+		{
+			"id": 8,
+			"pid": 38,
+			"address": "入院中",
+			"age": "80s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": "無症状",
+			"supplement": "No.414が勤務していた医療機関の入院患者",
+			"discharged": null,
+			"date": "2020-03-12"
+		},
+		{
+			"id": 9,
+			"pid": 39,
+			"address": "入院中",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": "無症状",
+			"supplement": "No.414が勤務していた医療機関の入院患者",
+			"discharged": null,
+			"date": "2020-03-12"
+		},
+		{
+			"id": 10,
+			"pid": 40,
+			"address": "入院中",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": "無症状",
+			"supplement": "No.414が勤務していた医療機関の入院患者",
+			"discharged": null,
+			"date": "2020-03-12"
+		},
+		{
+			"id": 11,
+			"pid": 41,
+			"jid": 554,
+			"address": "入院中",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.414が勤務していた医療機関の入院患者",
+			"discharged": null,
+			"date": "2020-03-12"
 		}
 	]
 }

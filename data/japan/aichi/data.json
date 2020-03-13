@@ -3,13 +3,16 @@
 	"name": {
 		"ja": "愛知県"
 	},
-	"date": "2020\/03\/10 18:00",
+	"date": "2020\/03\/12 18:00",
 	"children": [
 		{
 			"id": "nagoya"
 		},
 		{
 			"id": "okazaki"
+		},
+		{
+			"id": "toyota"
 		}
 	],
 	"data": [
@@ -34,13 +37,13 @@
 			"attribute": "武漢市からの旅行者",
 			"remarks": null,
 			"supplement": "1/20武漢市から来日",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-01-28"
 		},
 		{
 			"pid": 5,
 			"jid": 44,
-			"address": "尾張地方",
+			"address": "愛知県尾張地方",
 			"age": "60s",
 			"sex": "male",
 			"attribute": null,
@@ -52,7 +55,7 @@
 		{
 			"pid": 6,
 			"jid": 53,
-			"address": "尾張地方",
+			"address": "愛知県尾張地方",
 			"age": "60s",
 			"sex": "male",
 			"attribute": null,
@@ -64,7 +67,7 @@
 		{
 			"pid": 7,
 			"jid": 59,
-			"address": "尾張地方",
+			"address": "愛知県尾張地方",
 			"age": "60s",
 			"sex": "male",
 			"attribute": null,
@@ -76,7 +79,7 @@
 		{
 			"pid": 33,
 			"jid": 253,
-			"address": "三河地方（蒲郡市）",
+			"address": "愛知県蒲郡市",
 			"age": "70s",
 			"sex": "female",
 			"attribute": null,
@@ -88,7 +91,7 @@
 		{
 			"pid": 34,
 			"jid": 254,
-			"address": "三河地方（蒲郡市）",
+			"address": "愛知県蒲郡市",
 			"age": "80s",
 			"sex": "male",
 			"attribute": null,
@@ -100,7 +103,7 @@
 		{
 			"pid": 35,
 			"jid": 255,
-			"address": "尾張地方",
+			"address": "愛知県尾張地方",
 			"age": "20s",
 			"sex": "female",
 			"attribute": null,
@@ -112,7 +115,7 @@
 		{
 			"pid": 36,
 			"jid": 256,
-			"address": "尾張地方",
+			"address": "愛知県尾張地方",
 			"age": "70s",
 			"sex": "male",
 			"attribute": null,
@@ -123,7 +126,7 @@
 		},
 		{
 			"pid": 42,
-			"address": "三河地方",
+			"address": "愛知県三河地方",
 			"age": "50s",
 			"sex": "male",
 			"attribute": null,
@@ -135,7 +138,7 @@
 		{
 			"pid": 43,
 			"jid": 304,
-			"address": "三河地方",
+			"address": "愛知県三河地方",
 			"age": "30s",
 			"sex": "male",
 			"attribute": null,
@@ -147,7 +150,7 @@
 		{
 			"pid": 50,
 			"jid": 305,
-			"address": "尾張地方",
+			"address": "愛知県尾張地方",
 			"age": "50s",
 			"sex": "male",
 			"attribute": null,
@@ -159,7 +162,7 @@
 		{
 			"pid": 63,
 			"jid": 402,
-			"address": "三河地方",
+			"address": "愛知県三河地方",
 			"age": "60s",
 			"sex": "female",
 			"attribute": null,
@@ -171,7 +174,7 @@
 		{
 			"pid": 64,
 			"jid": 403,
-			"address": "尾張地方",
+			"address": "愛知県尾張地方",
 			"age": "50s",
 			"sex": "male",
 			"attribute": null,
@@ -182,7 +185,7 @@
 		},
 		{
 			"pid": 81,
-			"address": "尾張地方",
+			"address": "愛知県尾張地方",
 			"age": "40s",
 			"sex": "male",
 			"attribute": null,
@@ -193,7 +196,7 @@
 		},
 		{
 			"pid": 87,
-			"address": "尾張地方",
+			"address": "愛知県尾張地方",
 			"age": "40s",
 			"sex": "male",
 			"attribute": null,
@@ -205,7 +208,7 @@
 		{
 			"pid": 88,
 			"jid": 476,
-			"address": "尾張地方",
+			"address": "愛知県尾張地方",
 			"age": "40s",
 			"sex": "female",
 			"attribute": null,
@@ -217,7 +220,7 @@
 		{
 			"pid": 89,
 			"jid": 477,
-			"address": "尾張地方",
+			"address": "愛知県尾張地方",
 			"age": "40s",
 			"sex": "male",
 			"attribute": null,
@@ -225,6 +228,18 @@
 			"supplement": "No.403の同僚（濃厚接触者）",
 			"discharged": null,
 			"date": "2020-03-10"
+		},
+		{
+			"pid": 106,
+			"jid": 589,
+			"address": "愛知県一宮保健所管内",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-12"
 		}
 	]
 }

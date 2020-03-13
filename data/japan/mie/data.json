@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "三重県"
 	},
-	"date": "2020\/03\/10 18:00",
+	"date": "2020\/03\/12 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -14,7 +14,7 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "1/13武漢から帰国",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-01-30"
 		},
 		{
@@ -28,6 +28,63 @@
 			"supplement": "2/24大阪市北区のライブハウス",
 			"discharged": null,
 			"date": "2020-03-10"
+		},
+		{
+			"pid": 3,
+			"address": "三重県伊賀保健所管内",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": "無症状",
+			"supplement": "No.488の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-12"
+		},
+		{
+			"pid": 4,
+			"address": "三重県伊賀保健所管内",
+			"age": "60s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "2/24大阪市北区のライブハウス、No.488の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-12"
+		},
+		{
+			"pid": 5,
+			"jid": 569,
+			"address": "三重県伊賀保健所管内",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.488の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-12"
+		},
+		{
+			"pid": 6,
+			"address": "三重県伊賀保健所管内",
+			"age": "20s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "2/24大阪市北区のライブハウス、No.488の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-12"
+		},
+		{
+			"pid": 7,
+			"jid": 570,
+			"address": "三重県伊賀保健所管内",
+			"age": "10歳未満",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.488の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-12"
 		}
 	]
 }

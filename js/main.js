@@ -29,7 +29,7 @@ var initialNodes = [
 	{ id: 'china-tour', label: '中国からの観光客' },
 	{ id: 'cruise-ship', label: 'クルーズ船' },
 	{ id: 'hawai', label: 'ハワイ' },
-	{ id: 'vietnam', label: 'ベトナム' },
+	{ id: 'cambodia', label: 'カンボジア' },
 	{ id: 'france', label: 'フランス' },
 	{ id: 'egypt', label: 'エジプト' }
 ];
@@ -45,11 +45,13 @@ var clusters = [
 	{ id: 'osaka-livehouse-a', label: '大阪京橋ライブハウスArcクラスター', parentId: 'osaka', nodes:[157, 173, 209, 'ehime1', 241, 249, 252, 257, 269, 271, 279, 'osaka9', 281, 282, 'kumamoto6', 'hyogo4', 'osaka18', 322, 'tokyo57', 333, 380, 394, 'osaka33', 'osaka34', 'osaka35', 425, 'osaka52', 'hyogo14', 'osaka58'] },
 	{ id: 'niigata-pingpong', label: '新潟卓球スクールクラスター', parentId: 'niigata', nodes:[210, 234, 246, 247, 248, 451, 452] },
 	{ id: 'nagoya-dayservice-a', label: '名古屋高齢者デイサービスAクラスター', parentId: 'nagoya', nodes:[229, 346, 347, 348, 275, 276] },
-	{ id: 'live-bar', label: '札幌中ライブバークラスター', parentId: 'sapporo', nodes:[245, 314, 315, 378, 379, 503] },
+	{ id: 'sapporo-livebar', label: '札幌中ライブバークラスター', parentId: 'sapporo', nodes:[245, 314, 315, 378, 379, 503, 557] },
 	{ id: 'day-service-b', label: '名古屋高齢者デイサービスBクラスター', parentId: 'nagoya', nodes:[277, 278, 309, 310, 311, 353, 354, 355, 404, 405, 406, 431, 432, 433] },
-	{ id: 'osaka-livehouse-b', label: '大阪北区ライブハウスSoap Opera Classics Umedaクラスター', parentId: 'osaka', nodes:[283, 285, 286, 303, 313, 330, 331, 334, 335, 357, 358, 359, 360, 363, 364, 365, 366, 392, 395, 396, 397, 398, 399, 418, 'osaka45', 421, 422, 423, 'osaka49', 424, 426, 438, 439, 448, 463, 464, 'osaka64', 'saitama10', 488, 495, 'tokyo67', 'nara7', 'osaka76', 527] },
-	{ id: 'itami-daycare', label: '伊丹市デイケア施設クラスター', parentId: 'hyogo', nodes:[393, 490, 491, 493, 543, 544, 545] },
+	{ id: 'osaka-livehouse-b', label: '大阪北区ライブハウスSoap Opera Classics Umedaクラスター', parentId: 'osaka', nodes:[283, 285, 286, 303, 313, 330, 331, 334, 335, 357, 358, 359, 360, 363, 364, 365, 366, 392, 395, 396, 397, 398, 399, 418, 'osaka45', 421, 422, 423, 'osaka49', 424, 426, 438, 439, 448, 463, 464, 'osaka64', 'saitama-city1', 488, 495, 'tokyo67', 'nara7', 'osaka76', 527, 'mie4', 'mie6'] },
+	{ id: 'itami-daycare', label: '伊丹市デイケア施設クラスター', parentId: 'hyogo', nodes:[393, 490, 491, 493, 543, 544, 545, 571, 572] },
+	{ id: 'himeji-hospital', label: '姫路仁恵病院クラスター', parentId: 'himeji', nodes:[414, 'himeji4', 492, 541, 'himeji7', 'himeji8', 'himeji9', 'himeji10', 554] },
 	{ id: 'osaka-livehouse-c', label: '大阪北区ライブハウスLIVE HOUSE Rumioクラスター', parentId: 'osaka', nodes:[449, 'osaka80'] },
+	{ id: 'kobe-kindergarten', label: '神戸こども園クラスター', parentId: 'kobe', nodes:[450, 546, 538, 539, 540, 573] },
 	{ id: 'osaka-livehouse-d', label: '大阪中央区ライブハウスamericamura FANJ twiceクラスター', parentId: 'osaka', nodes:[467, 472] }
 ];
 
@@ -160,7 +162,7 @@ loadData('japan').then(function(patients) {
 
 	patients.data.forEach(function(patient, i) {
 		var jid = patient.jid || '';
-		var id = jid || patient.parentId + patient.pid;
+		var id = jid || patient.parentId + (patient.id || patient.pid);
 		var address = patient.address || '';
 		var age = patient.age || '';
 		var sex = patient.sex || '';
@@ -173,7 +175,7 @@ loadData('japan').then(function(patients) {
 		var colors = boxColors[sex];
 		var sourceIds = [];
 
-		(supplement.match(/No\.[\w０-９]+/g) || [])
+		(supplement.match(/No\.[\w\-０-９]+/g) || [])
 			.map(fullwidthToHalfwith)
 			.forEach(function(value) {
 				sourceIds.push(value.replace('No.', ''));
@@ -187,8 +189,8 @@ loadData('japan').then(function(patients) {
 			sourceIds.push('cruise-ship');
 		} else if (supplement.match(/ハワイ/)) {
 			sourceIds.push('hawai');
-		} else if (supplement.match(/ベトナム/)) {
-			sourceIds.push('vietnam');
+		} else if (supplement.match(/カンボジア/)) {
+			sourceIds.push('cambodia');
 		} else if (supplement.match(/フランス/)) {
 			sourceIds.push('france');
 		} else if (supplement.match(/エジプト/)) {

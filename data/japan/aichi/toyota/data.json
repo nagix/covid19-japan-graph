@@ -1,0 +1,22 @@
+{
+	"id": "toyota",
+	"name": {
+		"ja": "豊田市"
+	},
+	"date": "2020\/03\/12 18:00",
+	"data": [
+		{
+			"id": 1,
+			"pid": 105,
+			"jid": 588,
+			"address": "愛知県豊田市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.aichi42の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-12"
+		}
+	]
+}

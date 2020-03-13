@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "東京都"
 	},
-	"date": "2020\/03\/11 18:00",
+	"date": "2020\/03\/12 19:00",
 	"data": [
 		{
 			"pid": 1,
@@ -869,6 +869,30 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-11"
+		},
+		{
+			"pid": 74,
+			"jid": 567,
+			"address": "東京都",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-12"
+		},
+		{
+			"pid": 75,
+			"jid": 568,
+			"address": "東京都",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-12"
 		}
 	]
 }

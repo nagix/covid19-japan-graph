@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "兵庫県"
 	},
-	"date": "2020\/03\/11 18:00",
+	"date": "2020\/03\/12 18:00",
 	"children": [
 		{
 			"id": "amagasaki"
@@ -172,6 +172,54 @@
 			"supplement": "No.494の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-11"
+		},
+		{
+			"pid": 43,
+			"jid": 571,
+			"address": "兵庫県伊丹市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "伊丹市内デイケア利用",
+			"discharged": null,
+			"date": "2020-03-12"
+		},
+		{
+			"pid": 44,
+			"jid": 572,
+			"address": "兵庫県宝塚健康福祉事務所管内",
+			"age": "90s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "伊丹市内デイケア利用",
+			"discharged": null,
+			"date": "2020-03-12"
+		},
+		{
+			"pid": 45,
+			"jid": 573,
+			"address": "宝塚市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "認定こども園勤務",
+			"remarks": null,
+			"supplement": "No.450の認定こども園に勤務",
+			"discharged": null,
+			"date": "2020-03-12"
+		},
+		{
+			"pid": 46,
+			"jid": 574,
+			"address": "宝塚健康福祉事務所管内",
+			"age": "50s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-12"
 		}
 	]
 }

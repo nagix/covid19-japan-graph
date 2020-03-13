@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "高知県"
 	},
-	"date": "2020\/03\/08 18:00",
+	"date": "2020\/03\/12 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -38,7 +38,7 @@
 			"attribute": "医療機関職員",
 			"remarks": null,
 			"supplement": "No.209の友人・濃厚接触者",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-02"
 		},
 		{
@@ -50,7 +50,7 @@
 			"attribute": "看護師",
 			"remarks": null,
 			"supplement": "No.209の同僚・濃厚接触者",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-04"
 		},
 		{
@@ -121,7 +121,7 @@
 			"attribute": "無職",
 			"remarks": null,
 			"supplement": "No.328の親族・濃厚接触者",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-07"
 		},
 		{

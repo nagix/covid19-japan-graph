@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "千葉県"
 	},
-	"date": "2020\/03\/11 18:00",
+	"date": "2020\/03\/12 18:00",
 	"children": [
 		{
 			"id": "funabashi"
@@ -21,6 +21,18 @@
 			"supplement": "バスガイドとしてツアー（中国人対象）に参加、No.6の濃厚接触者",
 			"discharged": null,
 			"date": "2020-01-31"
+		},
+		{
+			"pid": 2,
+			"jid": 16,
+			"address": "湖北省武漢市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "1/29武漢からチャーター便（第1便）で帰国",
+			"discharged": null,
+			"date": "2020-02-01"
 		},
 		{
 			"pid": 3,
@@ -296,6 +308,30 @@
 			"supplement": "2/28までエジプトツアー",
 			"discharged": null,
 			"date": "2020-03-11"
+		},
+		{
+			"pid": 27,
+			"jid": 555,
+			"address": "千葉県松戸市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-12"
+		},
+		{
+			"pid": 28,
+			"jid": 556,
+			"address": "千葉県市川市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "保育士",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-12"
 		}
 	]
 }

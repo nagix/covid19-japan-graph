@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "静岡県"
 	},
-	"date": "2020\/03\/10 18:00",
+	"date": "2020\/03\/12 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -28,6 +28,18 @@
 			"supplement": "3/7こだま637号新横浜〜掛川間乗車",
 			"discharged": null,
 			"date": "2020-03-10"
+		},
+		{
+			"pid": 3,
+			"jid": 602,
+			"address": "静岡県静岡市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "エジプトツアーに参加",
+			"discharged": null,
+			"date": "2020-03-12"
 		}
 	]
 }

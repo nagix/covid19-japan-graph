@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "さいたま市"
 	},
-	"date": "2020\/03\/06 18:00",
+	"date": "2020\/03\/12 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -14,8 +14,47 @@
 			"attribute": null,
 			"remarks": "無症状",
 			"supplement": "1/23・24大阪市北区のライブハウス",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-06"
+		},
+		{
+			"id": 2,
+			"pid": 17,
+			"jid": 511,
+			"address": "埼玉県さいたま市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員（県内勤務）",
+			"remarks": null,
+			"supplement": "No.326と同じ職場で勤務",
+			"discharged": null,
+			"date": "2020-03-11"
+		},
+		{
+			"id": 3,
+			"pid": 22,
+			"jid": 575,
+			"address": "埼玉県さいたま市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "エジプト・ナイル川クルーズ",
+			"discharged": null,
+			"date": "2020-03-12"
+		},
+		{
+			"id": 4,
+			"pid": 23,
+			"jid": 576,
+			"address": "埼玉県さいたま市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "パート勤務",
+			"remarks": null,
+			"supplement": "No.575の母",
+			"discharged": null,
+			"date": "2020-03-12"
 		}
 	]
 }

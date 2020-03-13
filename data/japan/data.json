@@ -143,17 +143,6 @@
 			"date": "2020-02-01"
 		},
 		{
-			"jid": 16,
-			"address": "湖北省武漢市",
-			"age": "40s",
-			"sex": "male",
-			"attribute": null,
-			"remarks": null,
-			"supplement": "1/29武漢からチャーター便（第1便）で帰国",
-			"discharged": null,
-			"date": "2020-02-01"
-		},
-		{
 			"jid": 18,
 			"address": "千葉県",
 			"age": "50s",
@@ -172,7 +161,7 @@
 			"attribute": "武漢市からの旅行者",
 			"remarks": null,
 			"supplement": "1/22武漢市から来日、No.4 と同じバスツアーに参加",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-02-04"
 		},
 		{
@@ -290,9 +279,9 @@
 			"address": "三重県",
 			"age": "40s",
 			"sex": "male",
-			"attribute": null,
+			"attribute": "自営業",
 			"remarks": null,
-			"supplement": "3/4ベトナムから帰国",
+			"supplement": "3/4カンボジアから帰国",
 			"discharged": null,
 			"date": "2020-03-04"
 		}
