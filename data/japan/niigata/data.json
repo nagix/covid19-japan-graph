@@ -1,6 +1,6 @@
 {
 	"id": "niigata",
-	"name": {
+	"label": {
 		"ja": "新潟県"
 	},
 	"date": "2020\/03\/03 18:00",
@@ -20,6 +20,7 @@
 			"remarks": null,
 			"supplement": "No.210の濃厚接触者、卓球スクール",
 			"discharged": null,
+			"cluster": "niigata-pingpong",
 			"date": "2020-03-02"
 		}
 	]

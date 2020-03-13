@@ -1,6 +1,6 @@
 {
 	"id": "tochigi",
-	"name": {
+	"label": {
 		"ja": "栃木県"
 	},
 	"date": "2020\/03\/05 22:00",
@@ -27,6 +27,7 @@
 			"remarks": null,
 			"supplement": "2/23大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-05"
 		}
 	]

@@ -1,6 +1,6 @@
 {
 	"id": "nara",
-	"name": {
+	"label": {
 		"ja": "奈良県"
 	},
 	"date": "2020\/03\/11 18:00",
@@ -27,6 +27,7 @@
 			"remarks": null,
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-06"
 		},
 		{
@@ -61,6 +62,7 @@
 			"remarks": null,
 			"supplement": "2/24・2/26大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-09"
 		},
 		{
@@ -83,6 +85,7 @@
 			"remarks": "無症状",
 			"supplement": "2/24大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-10"
 		},
 		{

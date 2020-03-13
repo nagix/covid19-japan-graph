@@ -1,6 +1,6 @@
 {
 	"id": "kanagawa",
-	"name": {
+	"label": {
 		"ja": "神奈川県"
 	},
 	"date": "2020\/03\/10 18:00",
@@ -50,6 +50,7 @@
 			"remarks": "2/13死亡",
 			"supplement": "No.28",
 			"discharged": null,
+			"cluster": "sagamihara-hospital",
 			"date": "2020-02-13"
 		},
 		{

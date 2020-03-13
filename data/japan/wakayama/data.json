@@ -1,6 +1,6 @@
 {
 	"id": "wakayama",
-	"name": {
+	"label": {
 		"ja": "和歌山県"
 	},
 	"date": "2020\/03\/05 18:00",
@@ -15,6 +15,7 @@
 			"remarks": null,
 			"supplement": "No.38が勤務していた医療機関に勤務",
 			"discharged": "〇",
+			"cluster": "wakayama-hospital",
 			"date": "2020-02-13"
 		},
 		{
@@ -27,6 +28,7 @@
 			"remarks": "2/28死亡",
 			"supplement": "No.29が勤務していた医療機関に受診歴あり",
 			"discharged": "〇",
+			"cluster": "wakayama-hospital",
 			"date": "2020-02-14"
 		},
 		{
@@ -39,6 +41,7 @@
 			"remarks": null,
 			"supplement": "No.20の濃厚接触者",
 			"discharged": "〇",
+			"cluster": "wakayama-hospital",
 			"date": "2020-02-15"
 		},
 		{
@@ -63,6 +66,7 @@
 			"remarks": null,
 			"supplement": "No.29が勤務する医療機関に入院中の患者",
 			"discharged": "〇",
+			"cluster": "wakayama-hospital",
 			"date": "2020-02-15"
 		},
 		{
@@ -122,6 +126,7 @@
 			"remarks": null,
 			"supplement": "No.31と同室",
 			"discharged": null,
+			"cluster": "wakayama-hospital",
 			"date": "2020-02-18"
 		},
 		{
@@ -169,6 +174,7 @@
 			"remarks": null,
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-05"
 		}
 	]

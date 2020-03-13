@@ -1,6 +1,6 @@
 {
 	"id": "kyoto",
-	"name": {
+	"label": {
 		"ja": "京都府"
 	},
 	"date": "2020\/03\/12 18:00",
@@ -44,6 +44,7 @@
 			"remarks": null,
 			"supplement": "2/15大阪市都島区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-07"
 		},
 		{

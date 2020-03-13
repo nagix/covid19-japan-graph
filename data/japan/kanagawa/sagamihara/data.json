@@ -1,6 +1,6 @@
 {
 	"id": "sagamihara",
-	"name": {
+	"label": {
 		"ja": "相模原市"
 	},
 	"date": "2020\/03\/06 18:00",
@@ -16,6 +16,7 @@
 			"remarks": null,
 			"supplement": "No.27が入院していた相模原市内の病院に勤務",
 			"discharged": null,
+			"cluster": "sagamihara-hospital",
 			"date": "2020-02-17"
 		},
 		{
@@ -29,6 +30,7 @@
 			"remarks": null,
 			"supplement": "No.27が入院していた相模原市内の病院に入院",
 			"discharged": null,
+			"cluster": "sagamihara-hospital",
 			"date": "2020-02-19"
 		},
 		{
@@ -42,6 +44,7 @@
 			"remarks": null,
 			"supplement": "No.60と同室",
 			"discharged": null,
+			"cluster": "sagamihara-hospital",
 			"date": "2020-02-19"
 		},
 		{
@@ -55,6 +58,7 @@
 			"remarks": null,
 			"supplement": "No.60、No.61と同フロア",
 			"discharged": null,
+			"cluster": "sagamihara-hospital",
 			"date": "2020-02-20"
 		},
 		{
@@ -68,6 +72,7 @@
 			"remarks": "3/9死亡",
 			"supplement": null,
 			"discharged": "〇",
+			"cluster": "sagamihara-hospital",
 			"date": "2020-02-21"
 		},
 		{

@@ -1,6 +1,6 @@
 {
 	"id": "niigata",
-	"name": {
+	"label": {
 		"ja": "新潟市"
 	},
 	"date": "2020\/03\/12 18:00",
@@ -16,6 +16,7 @@
 			"remarks": null,
 			"supplement": "卓球スクール",
 			"discharged": null,
+			"cluster": "niigata-pingpong",
 			"date": "2020-02-29"
 		},
 		{
@@ -29,6 +30,7 @@
 			"remarks": null,
 			"supplement": "No.210と同一施設、卓球スクール",
 			"discharged": null,
+			"cluster": "niigata-pingpong",
 			"date": "2020-03-03"
 		},
 		{
@@ -42,6 +44,7 @@
 			"remarks": null,
 			"supplement": "No.210と同一施設、卓球スクール",
 			"discharged": null,
+			"cluster": "niigata-pingpong",
 			"date": "2020-03-03"
 		},
 		{
@@ -55,6 +58,7 @@
 			"remarks": null,
 			"supplement": "No.210と同一施設、卓球スクール",
 			"discharged": null,
+			"cluster": "niigata-pingpong",
 			"date": "2020-03-03"
 		},
 		{
@@ -81,6 +85,7 @@
 			"remarks": null,
 			"supplement": "No.246の濃厚接触者",
 			"discharged": null,
+			"cluster": "niigata-pingpong",
 			"date": "2020-03-09"
 		},
 		{
@@ -94,6 +99,7 @@
 			"remarks": null,
 			"supplement": "No.246の濃厚接触者",
 			"discharged": null,
+			"cluster": "niigata-pingpong",
 			"date": "2020-03-09"
 		},
 		{

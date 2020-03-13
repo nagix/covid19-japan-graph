@@ -1,0 +1,21 @@
+{
+	"id": "kawaguchi",
+	"label": {
+		"ja": "川口市"
+	},
+	"date": "2020\/03\/13 18:00",
+	"data": [
+		{
+			"id": 1,
+			"pid": 24,
+			"address": "埼玉県川口市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.596の子、No.597の姉",
+			"discharged": null,
+			"date": "2020-03-13"
+		}
+	]
+}

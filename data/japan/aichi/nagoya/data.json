@@ -1,9 +1,9 @@
 {
 	"id": "nagoya",
-	"name": {
+	"label": {
 		"ja": "名古屋市"
 	},
-	"date": "2020\/03\/12 18:00",
+	"date": "2020\/03\/13 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -29,6 +29,7 @@
 			"remarks": null,
 			"supplement": "米国ハワイ州渡航者、No.35の濃厚接触者",
 			"discharged": null,
+			"cluster": "nagoya-gym-a",
 			"date": "2020-02-15"
 		},
 		{
@@ -42,6 +43,7 @@
 			"remarks": null,
 			"supplement": "No.43の健康観察対象者",
 			"discharged": null,
+			"cluster": "nagoya-gym-a",
 			"date": "2020-02-19"
 		},
 		{
@@ -55,6 +57,7 @@
 			"remarks": null,
 			"supplement": "No.43の健康観察対象者",
 			"discharged": null,
+			"cluster": "nagoya-gym-a",
 			"date": "2020-02-20"
 		},
 		{
@@ -68,6 +71,7 @@
 			"remarks": null,
 			"supplement": "No.43の健康観察対象者",
 			"discharged": null,
+			"cluster": "nagoya-gym-a",
 			"date": "2020-02-21"
 		},
 		{
@@ -81,6 +85,7 @@
 			"remarks": null,
 			"supplement": "No.69の健康観察対象者",
 			"discharged": null,
+			"cluster": "nagoya-gym-a",
 			"date": "2020-02-21"
 		},
 		{
@@ -94,6 +99,7 @@
 			"remarks": null,
 			"supplement": "No.43の健康観察対象者",
 			"discharged": null,
+			"cluster": "nagoya-gym-a",
 			"date": "2020-02-22"
 		},
 		{
@@ -107,6 +113,7 @@
 			"remarks": null,
 			"supplement": "No.43の健康観察対象者",
 			"discharged": null,
+			"cluster": "nagoya-gym-a",
 			"date": "2020-02-22"
 		},
 		{
@@ -120,6 +127,7 @@
 			"remarks": null,
 			"supplement": "No.69の健康観察対象者",
 			"discharged": null,
+			"cluster": "nagoya-gym-a",
 			"date": "2020-02-22"
 		},
 		{
@@ -133,6 +141,7 @@
 			"remarks": null,
 			"supplement": "No.69の健康観察対象者",
 			"discharged": null,
+			"cluster": "nagoya-gym-b",
 			"date": "2020-02-22"
 		},
 		{
@@ -146,6 +155,7 @@
 			"remarks": null,
 			"supplement": "No.43の健康観察対象者",
 			"discharged": null,
+			"cluster": "nagoya-gym-a",
 			"date": "2020-02-23"
 		},
 		{
@@ -159,6 +169,7 @@
 			"remarks": null,
 			"supplement": "No.43の健康観察対象者",
 			"discharged": null,
+			"cluster": "nagoya-gym-a",
 			"date": "2020-02-23"
 		},
 		{
@@ -172,6 +183,7 @@
 			"remarks": null,
 			"supplement": "No.43の健康観察対象者",
 			"discharged": null,
+			"cluster": "nagoya-gym-a",
 			"date": "2020-02-25"
 		},
 		{
@@ -185,6 +197,7 @@
 			"remarks": null,
 			"supplement": "No.43の健康観察対象者",
 			"discharged": null,
+			"cluster": "nagoya-gym-a",
 			"date": "2020-02-25"
 		},
 		{
@@ -198,6 +211,7 @@
 			"remarks": null,
 			"supplement": "No.69の健康観察対象者",
 			"discharged": null,
+			"cluster": "nagoya-gym-a",
 			"date": "2020-02-25"
 		},
 		{
@@ -211,6 +225,7 @@
 			"remarks": null,
 			"supplement": "No.69の健康観察対象者",
 			"discharged": null,
+			"cluster": "nagoya-gym-a",
 			"date": "2020-02-26"
 		},
 		{
@@ -224,6 +239,7 @@
 			"remarks": null,
 			"supplement": "No.69の健康観察対象者",
 			"discharged": null,
+			"cluster": "nagoya-gym-a",
 			"date": "2020-02-26"
 		},
 		{
@@ -237,6 +253,7 @@
 			"remarks": null,
 			"supplement": "No.69の健康観察対象者",
 			"discharged": null,
+			"cluster": "nagoya-gym-b",
 			"date": "2020-02-26"
 		},
 		{
@@ -250,6 +267,7 @@
 			"remarks": null,
 			"supplement": "No.110の健康観察対象者",
 			"discharged": null,
+			"cluster": "nagoya-gym-b",
 			"date": "2020-02-26"
 		},
 		{
@@ -276,6 +294,7 @@
 			"remarks": null,
 			"supplement": "No.110の健康観察対象者",
 			"discharged": null,
+			"cluster": "nagoya-gym-b",
 			"date": "2020-02-27"
 		},
 		{
@@ -312,9 +331,9 @@
 			"age": "70s",
 			"sex": "female",
 			"attribute": null,
-			"remarks": null,
+			"remarks": "3/12死亡",
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-02-29"
 		},
 		{
@@ -328,6 +347,7 @@
 			"remarks": null,
 			"supplement": "No.217と入院前に接触あり",
 			"discharged": null,
+			"cluster": "nagoya-dayservice-a",
 			"date": "2020-03-01"
 		},
 		{
@@ -367,6 +387,7 @@
 			"remarks": null,
 			"supplement": "No.229と入院前に接触あり",
 			"discharged": null,
+			"cluster": "nagoya-dayservice-a",
 			"date": "2020-03-03"
 		},
 		{
@@ -380,6 +401,7 @@
 			"remarks": null,
 			"supplement": "No.229と入院前に接触あり",
 			"discharged": null,
+			"cluster": "nagoya-dayservice-a",
 			"date": "2020-03-03"
 		},
 		{
@@ -393,6 +415,7 @@
 			"remarks": null,
 			"supplement": "No.229と入院前に接触あり",
 			"discharged": null,
+			"cluster": "nagoya-dayservice-a",
 			"date": "2020-03-03"
 		},
 		{
@@ -458,6 +481,7 @@
 			"remarks": null,
 			"supplement": "No.229と入院前に接触あり",
 			"discharged": null,
+			"cluster": "nagoya-dayservice-a",
 			"date": "2020-03-04"
 		},
 		{
@@ -471,6 +495,7 @@
 			"remarks": null,
 			"supplement": "No.229と入院前に接触あり",
 			"discharged": null,
+			"cluster": "nagoya-dayservice-a",
 			"date": "2020-03-04"
 		},
 		{
@@ -481,9 +506,10 @@
 			"age": "80s",
 			"sex": "male",
 			"attribute": null,
-			"remarks": null,
+			"remarks": "3/11死亡",
 			"supplement": "No.347と入院前に接触あり",
-			"discharged": null,
+			"discharged": "〇",
+			"cluster": "nagoya-dayservice-b",
 			"date": "2020-03-04"
 		},
 		{
@@ -497,6 +523,7 @@
 			"remarks": null,
 			"supplement": "No.347と入院前に接触あり",
 			"discharged": null,
+			"cluster": "nagoya-dayservice-b",
 			"date": "2020-03-04"
 		},
 		{
@@ -510,6 +537,7 @@
 			"remarks": null,
 			"supplement": "No.43の健康観察対象者",
 			"discharged": null,
+			"cluster": "nagoya-gym-a",
 			"date": "2020-03-05"
 		},
 		{
@@ -549,6 +577,7 @@
 			"remarks": null,
 			"supplement": "No.347と入院前に接触あり",
 			"discharged": null,
+			"cluster": "nagoya-dayservice-b",
 			"date": "2020-03-05"
 		},
 		{
@@ -562,6 +591,7 @@
 			"remarks": null,
 			"supplement": "No.347と入院前に接触あり",
 			"discharged": null,
+			"cluster": "nagoya-dayservice-b",
 			"date": "2020-03-05"
 		},
 		{
@@ -575,6 +605,7 @@
 			"remarks": null,
 			"supplement": "No.347と入院前に接触あり",
 			"discharged": null,
+			"cluster": "nagoya-dayservice-b",
 			"date": "2020-03-05"
 		},
 		{
@@ -627,6 +658,7 @@
 			"remarks": null,
 			"supplement": "No.347の濃厚接触者",
 			"discharged": null,
+			"cluster": "nagoya-dayservice-b",
 			"date": "2020-03-06"
 		},
 		{
@@ -640,6 +672,7 @@
 			"remarks": null,
 			"supplement": "No.347の濃厚接触者",
 			"discharged": null,
+			"cluster": "nagoya-dayservice-b",
 			"date": "2020-03-06"
 		},
 		{
@@ -653,6 +686,7 @@
 			"remarks": null,
 			"supplement": "No.347の濃厚接触者",
 			"discharged": null,
+			"cluster": "nagoya-dayservice-b",
 			"date": "2020-03-06"
 		},
 		{
@@ -666,6 +700,7 @@
 			"remarks": null,
 			"supplement": "No.347と入院前に接触あり",
 			"discharged": null,
+			"cluster": "nagoya-dayservice-b",
 			"date": "2020-03-07"
 		},
 		{
@@ -679,6 +714,7 @@
 			"remarks": null,
 			"supplement": "No.347と入院前に接触あり",
 			"discharged": null,
+			"cluster": "nagoya-dayservice-b",
 			"date": "2020-03-07"
 		},
 		{
@@ -692,6 +728,7 @@
 			"remarks": null,
 			"supplement": "No.277と入院前に接触あり",
 			"discharged": null,
+			"cluster": "nagoya-dayservice-b",
 			"date": "2020-03-07"
 		},
 		{
@@ -718,6 +755,7 @@
 			"remarks": null,
 			"supplement": null,
 			"discharged": null,
+			"cluster": "nagoya-dayservice-c",
 			"date": "2020-03-07"
 		},
 		{
@@ -731,6 +769,7 @@
 			"remarks": "3/7死亡",
 			"supplement": null,
 			"discharged": null,
+			"cluster": "nagoya-dayservice-b",
 			"date": "2020-03-08"
 		},
 		{
@@ -770,6 +809,7 @@
 			"remarks": null,
 			"supplement": "No.347と入院前に接触あり",
 			"discharged": null,
+			"cluster": "nagoya-dayservice-b",
 			"date": "2020-03-08"
 		},
 		{
@@ -783,6 +823,7 @@
 			"remarks": null,
 			"supplement": "No.347と入院前に接触あり",
 			"discharged": null,
+			"cluster": "nagoya-dayservice-b",
 			"date": "2020-03-08"
 		},
 		{
@@ -796,6 +837,7 @@
 			"remarks": null,
 			"supplement": "No.347と入院前に接触あり",
 			"discharged": null,
+			"cluster": "nagoya-dayservice-b",
 			"date": "2020-03-08"
 		},
 		{
@@ -822,6 +864,7 @@
 			"remarks": null,
 			"supplement": "No.277と入院前に接触あり",
 			"discharged": null,
+			"cluster": "nagoya-dayservice-b",
 			"date": "2020-03-08"
 		},
 		{
@@ -842,12 +885,13 @@
 			"pid": 79,
 			"jid": 437,
 			"address": "名古屋市",
-			"age": "50s",
+			"age": "90s",
 			"sex": "male",
 			"attribute": null,
-			"remarks": null,
+			"remarks": "3/12死亡",
 			"supplement": "No.408と入院前に接触あり",
-			"discharged": null,
+			"discharged": "〇",
+			"cluster": "nagoya-dayservice-c",
 			"date": "2020-03-08"
 		},
 		{
@@ -861,6 +905,7 @@
 			"remarks": null,
 			"supplement": "大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-08"
 		},
 		{
@@ -874,6 +919,7 @@
 			"remarks": null,
 			"supplement": "No.347と入院前に接触あり",
 			"discharged": null,
+			"cluster": "nagoya-dayservice-b",
 			"date": "2020-03-09"
 		},
 		{
@@ -884,9 +930,10 @@
 			"age": "80s",
 			"sex": "female",
 			"attribute": null,
-			"remarks": null,
+			"remarks": "3/12死亡",
 			"supplement": "No.277と入院前に接触あり",
-			"discharged": null,
+			"discharged": "〇",
+			"cluster": "nagoya-dayservice-b",
 			"date": "2020-03-09"
 		},
 		{
@@ -900,6 +947,7 @@
 			"remarks": null,
 			"supplement": "No.437と入院前に接触あり",
 			"discharged": null,
+			"cluster": "nagoya-dayservice-c",
 			"date": "2020-03-09"
 		},
 		{
@@ -936,9 +984,10 @@
 			"age": "90s",
 			"sex": "male",
 			"attribute": null,
-			"remarks": null,
-			"supplement": "No.455と入院前に接触あり",
-			"discharged": null,
+			"remarks": "3/13死亡",
+			"supplement": "No.408と入院前に接触あり",
+			"discharged": "〇",
+			"cluster": "nagoya-dayservice-c",
 			"date": "2020-03-10"
 		},
 		{
@@ -978,6 +1027,7 @@
 			"remarks": null,
 			"supplement": "No.347と入院前に接触あり",
 			"discharged": null,
+			"cluster": "nagoya-dayservice-b",
 			"date": "2020-03-10"
 		},
 		{
@@ -991,6 +1041,7 @@
 			"remarks": null,
 			"supplement": "No.408と入院前に接触あり",
 			"discharged": null,
+			"cluster": "nagoya-dayservice-c",
 			"date": "2020-03-10"
 		},
 		{
@@ -1004,6 +1055,7 @@
 			"remarks": null,
 			"supplement": "No.277と入院前に接触あり",
 			"discharged": null,
+			"cluster": "nagoya-dayservice-b",
 			"date": "2020-03-10"
 		},
 		{
@@ -1040,9 +1092,10 @@
 			"age": "80s",
 			"sex": "male",
 			"attribute": null,
-			"remarks": null,
+			"remarks": "3/11死亡",
 			"supplement": "No.408と入院前に接触あり",
-			"discharged": null,
+			"discharged": "〇",
+			"cluster": "nagoya-dayservice-c",
 			"date": "2020-03-10"
 		},
 		{
@@ -1069,6 +1122,7 @@
 			"remarks": null,
 			"supplement": "No.277と入院前に接触あり",
 			"discharged": null,
+			"cluster": "nagoya-dayservice-b",
 			"date": "2020-03-11"
 		},
 		{
@@ -1082,6 +1136,7 @@
 			"remarks": null,
 			"supplement": "No.277と入院前に接触あり",
 			"discharged": null,
+			"cluster": "nagoya-dayservice-b",
 			"date": "2020-03-11"
 		},
 		{
@@ -1108,6 +1163,7 @@
 			"remarks": null,
 			"supplement": "No.405と入院前に接触あり",
 			"discharged": null,
+			"cluster": "nagoya-dayservice-b",
 			"date": "2020-03-12"
 		},
 		{
@@ -1161,6 +1217,31 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-12"
+		},
+		{
+			"id": 90,
+			"pid": 113,
+			"address": "名古屋市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.483の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-13"
+		},
+		{
+			"id": 91,
+			"pid": 114,
+			"address": "名古屋市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.408の濃厚接触者",
+			"discharged": null,
+			"cluster": "nagoya-dayservice-c",
+			"date": "2020-03-13"
 		}
 	]
 }

@@ -1,6 +1,6 @@
 {
 	"id": "chiba",
-	"name": {
+	"label": {
 		"ja": "千葉県"
 	},
 	"date": "2020\/03\/12 18:00",
@@ -92,6 +92,7 @@
 			"remarks": null,
 			"supplement": null,
 			"discharged": null,
+			"cluster": "ichikawa-gym",
 			"date": "2020-02-20"
 		},
 		{
@@ -116,6 +117,7 @@
 			"remarks": null,
 			"supplement": null,
 			"discharged": null,
+			"cluster": "ichikawa-gym",
 			"date": "2020-02-22"
 		},
 		{
@@ -128,6 +130,7 @@
 			"remarks": null,
 			"supplement": null,
 			"discharged": null,
+			"cluster": "ichikawa-gym",
 			"date": "2020-02-22"
 		},
 		{
@@ -188,6 +191,7 @@
 			"remarks": null,
 			"supplement": "No.224と同じ市川市のスポーツジム",
 			"discharged": null,
+			"cluster": "ichikawa-gym",
 			"date": "2020-03-04"
 		},
 		{

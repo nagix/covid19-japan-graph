@@ -1,12 +1,15 @@
 {
 	"id": "saitama",
-	"name": {
+	"label": {
 		"ja": "埼玉県"
 	},
-	"date": "2020\/03\/12 18:00",
+	"date": "2020\/03\/13 18:00",
 	"children": [
 		{
 			"id": "saitama-city"
+		},
+		{
+			"id": "kawaguchi"
 		},
 		{
 			"id": "kawagoe"
@@ -202,6 +205,17 @@
 			"supplement": "No.326と同じ職場で勤務",
 			"discharged": null,
 			"date": "2020-03-12"
+		},
+		{
+			"pid": 25,
+			"address": "埼玉県草加市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "会社員（都内勤務）",
+			"remarks": null,
+			"supplement": "3/1までスペイン、イギリスに渡航",
+			"discharged": null,
+			"date": "2020-03-13"
 		}
 	]
 }

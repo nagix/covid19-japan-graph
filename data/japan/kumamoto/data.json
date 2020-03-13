@@ -1,6 +1,6 @@
 {
 	"id": "kumamoto",
-	"name": {
+	"label": {
 		"ja": "熊本県"
 	},
 	"date": "2020\/03\/04 18:00",
@@ -31,6 +31,7 @@
 			"remarks": "無症状",
 			"supplement": "2/15・16大阪市都島区のライブハウス",
 			"discharged": "〇",
+			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-04"
 		}
 	]

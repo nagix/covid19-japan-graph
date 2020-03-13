@@ -1,6 +1,6 @@
 {
 	"id": "otaru",
-	"name": {
+	"label": {
 		"ja": "小樽市"
 	},
 	"date": "2020\/03\/12 18:00",
@@ -16,6 +16,7 @@
 			"remarks": null,
 			"supplement": "札幌市ライブバー",
 			"discharged": null,
+			"cluster": "sapporo-livebar",
 			"date": "2020-03-12"
 		}
 	]

@@ -1,9 +1,9 @@
 {
 	"id": "aichi",
-	"name": {
+	"label": {
 		"ja": "愛知県"
 	},
-	"date": "2020\/03\/12 18:00",
+	"date": "2020\/03\/13 18:00",
 	"children": [
 		{
 			"id": "nagoya"
@@ -240,6 +240,17 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-12"
+		},
+		{
+			"pid": 112,
+			"address": "愛知県半田市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.256の家族（濃厚接触者）",
+			"discharged": null,
+			"date": "2020-03-13"
 		}
 	]
 }

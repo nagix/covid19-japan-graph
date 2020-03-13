@@ -1,9 +1,9 @@
 {
 	"id": "osaka",
-	"name": {
+	"label": {
 		"ja": "大阪府"
 	},
-	"date": "2020\/03\/12 20:50",
+	"date": "2020\/03\/13 20:30",
 	"data": [
 		{
 			"pid": 1,
@@ -38,6 +38,7 @@
 			"remarks": null,
 			"supplement": "大阪市都島区のライブハウス、No.157と行動を共にしていた",
 			"discharged": null,
+			"cluster": "osaka-livehouse-a",
 			"date": "2020-02-27"
 		},
 		{
@@ -85,6 +86,7 @@
 			"remarks": null,
 			"supplement": "大阪市都島区のライブハウス、No.240と接触あり",
 			"discharged": null,
+			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-02"
 		},
 		{
@@ -109,6 +111,7 @@
 			"remarks": null,
 			"supplement": "2/15大阪市都島区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-03"
 		},
 		{
@@ -120,6 +123,7 @@
 			"remarks": "無症状",
 			"supplement": "2/15・16大阪市都島区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-04"
 		},
 		{
@@ -132,6 +136,7 @@
 			"remarks": null,
 			"supplement": "2/15・16大阪市都島区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-04"
 		},
 		{
@@ -155,6 +160,7 @@
 			"remarks": null,
 			"supplement": "2/16大阪市都島区のライブハウス、No.240と接触",
 			"discharged": null,
+			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-04"
 		},
 		{
@@ -167,6 +173,7 @@
 			"remarks": null,
 			"supplement": "2/23大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-04"
 		},
 		{
@@ -191,6 +198,7 @@
 			"remarks": null,
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-04"
 		},
 		{
@@ -203,6 +211,7 @@
 			"remarks": null,
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-04"
 		},
 		{
@@ -226,6 +235,7 @@
 			"remarks": "無症状",
 			"supplement": "2/16大阪市都島区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-05"
 		},
 		{
@@ -250,6 +260,7 @@
 			"remarks": null,
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-06"
 		},
 		{
@@ -262,6 +273,7 @@
 			"remarks": null,
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-06"
 		},
 		{
@@ -274,6 +286,7 @@
 			"remarks": null,
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-06"
 		},
 		{
@@ -286,6 +299,7 @@
 			"remarks": null,
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-06"
 		},
 		{
@@ -322,6 +336,7 @@
 			"remarks": null,
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-06"
 		},
 		{
@@ -334,6 +349,7 @@
 			"remarks": null,
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-06"
 		},
 		{
@@ -346,6 +362,7 @@
 			"remarks": null,
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-06"
 		},
 		{
@@ -358,6 +375,7 @@
 			"remarks": null,
 			"supplement": "2/23大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-06"
 		},
 		{
@@ -392,6 +410,7 @@
 			"remarks": null,
 			"supplement": "2/15・16大阪市都島区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-07"
 		},
 		{
@@ -403,6 +422,7 @@
 			"remarks": "無症状",
 			"supplement": "2/15・16大阪市都島区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-07"
 		},
 		{
@@ -414,6 +434,7 @@
 			"remarks": "無症状",
 			"supplement": "2/15・16大阪市都島区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-07"
 		},
 		{
@@ -425,6 +446,7 @@
 			"remarks": "無症状",
 			"supplement": "2/15・16大阪市都島区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-07"
 		},
 		{
@@ -437,6 +459,7 @@
 			"remarks": null,
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-07"
 		},
 		{
@@ -449,6 +472,7 @@
 			"remarks": null,
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-07"
 		},
 		{
@@ -461,6 +485,7 @@
 			"remarks": "重症",
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-07"
 		},
 		{
@@ -473,6 +498,7 @@
 			"remarks": null,
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-07"
 		},
 		{
@@ -485,6 +511,7 @@
 			"remarks": null,
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-07"
 		},
 		{
@@ -509,6 +536,7 @@
 			"remarks": null,
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-08"
 		},
 		{
@@ -544,6 +572,7 @@
 			"remarks": "無症状",
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-08"
 		},
 		{
@@ -556,6 +585,7 @@
 			"remarks": null,
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-08"
 		},
 		{
@@ -568,6 +598,7 @@
 			"remarks": null,
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-08"
 		},
 		{
@@ -580,6 +611,7 @@
 			"remarks": null,
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-08"
 		},
 		{
@@ -591,6 +623,7 @@
 			"remarks": "無症状",
 			"supplement": "2/23大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-08"
 		},
 		{
@@ -603,6 +636,7 @@
 			"remarks": null,
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-08"
 		},
 		{
@@ -615,6 +649,7 @@
 			"remarks": null,
 			"supplement": "2/15大阪市都島区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-08"
 		},
 		{
@@ -626,6 +661,7 @@
 			"remarks": "無症状",
 			"supplement": "2/15大阪市都島区のライブハウス、No.282の濃厚接触者",
 			"discharged": null,
+			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-08"
 		},
 		{
@@ -638,6 +674,7 @@
 			"remarks": null,
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-08"
 		},
 		{
@@ -697,6 +734,7 @@
 			"remarks": "無症状",
 			"supplement": "2/15・16大阪市都島区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-10"
 		},
 		{
@@ -745,6 +783,7 @@
 			"remarks": null,
 			"supplement": "2/24大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-10"
 		},
 		{
@@ -757,6 +796,7 @@
 			"remarks": null,
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-10"
 		},
 		{
@@ -768,6 +808,7 @@
 			"remarks": "無症状",
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-10"
 		},
 		{
@@ -804,6 +845,7 @@
 			"remarks": null,
 			"supplement": "2/21大阪市中央区ライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-d",
 			"date": "2020-03-10"
 		},
 		{
@@ -856,7 +898,7 @@
 		},
 		{
 			"pid": 72,
-			"address": "大阪府外",
+			"address": "兵庫県",
 			"age": "50s",
 			"sex": "male",
 			"attribute": "税務職員",
@@ -875,6 +917,7 @@
 			"remarks": null,
 			"supplement": "2/21大阪市中央区ライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-d",
 			"date": "2020-03-10"
 		},
 		{
@@ -910,6 +953,7 @@
 			"remarks": "無症状",
 			"supplement": "2/19大阪市北区のライブハウス、No.421の濃厚接触者、No.400との接触あり",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-11"
 		},
 		{
@@ -922,6 +966,7 @@
 			"remarks": null,
 			"supplement": "2/19大阪市北区のライブハウス、No.421の濃厚接触者",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-11"
 		},
 		{
@@ -957,6 +1002,7 @@
 			"remarks": "無症状",
 			"supplement": "2/18大阪府北区LIVE HOUSE Rumio",
 			"discharged": null,
+			"cluster": "osaka-livehouse-c",
 			"date": "2020-03-11"
 		},
 		{
@@ -998,7 +1044,7 @@
 		{
 			"pid": 84,
 			"jid": 580,
-			"address": "大阪府外",
+			"address": "兵庫県",
 			"age": "50s",
 			"sex": "male",
 			"attribute": "医療従事者",
@@ -1066,6 +1112,39 @@
 			"supplement": "No.421の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-12"
+		},
+		{
+			"pid": 90,
+			"address": "大阪府豊中市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.400の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-13"
+		},
+		{
+			"pid": 91,
+			"address": "大阪府池田市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-13"
+		},
+		{
+			"pid": 92,
+			"address": "大阪府吹田市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "重症",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-13"
 		}
 	]
 }

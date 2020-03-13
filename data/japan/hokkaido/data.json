@@ -1,6 +1,6 @@
 {
 	"id": "hokkaido",
-	"name": {
+	"label": {
 		"ja": "北海道"
 	},
 	"date": "2020\/03\/13 15:00",
@@ -170,6 +170,7 @@
 			"remarks": null,
 			"supplement": null,
 			"discharged": null,
+			"cluster": "kitami-exhibition",
 			"date": "2020-02-22"
 		},
 		{
@@ -289,6 +290,7 @@
 			"remarks": null,
 			"supplement": null,
 			"discharged": null,
+			"cluster": "kitami-exhibition",
 			"date": "2020-02-25"
 		},
 		{
@@ -361,6 +363,7 @@
 			"remarks": null,
 			"supplement": "No.99、No.113、No.130、No.151、No.174、No.175の濃厚接触者",
 			"discharged": null,
+			"cluster": "kitami-exhibition",
 			"date": "2020-02-27"
 		},
 		{
@@ -565,6 +568,7 @@
 			"remarks": null,
 			"supplement": null,
 			"discharged": null,
+			"cluster": "kitami-exhibition",
 			"date": "2020-02-28"
 		},
 		{
@@ -637,6 +641,7 @@
 			"remarks": null,
 			"supplement": "No.130の濃厚接触者",
 			"discharged": null,
+			"cluster": "kitami-exhibition",
 			"date": "2020-03-01"
 		},
 		{
@@ -649,6 +654,7 @@
 			"remarks": null,
 			"supplement": null,
 			"discharged": null,
+			"cluster": "kitami-exhibition",
 			"date": "2020-03-02"
 		},
 		{
@@ -661,6 +667,7 @@
 			"remarks": null,
 			"supplement": null,
 			"discharged": null,
+			"cluster": "kitami-exhibition",
 			"date": "2020-03-02"
 		},
 		{

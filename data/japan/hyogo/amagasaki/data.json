@@ -1,6 +1,6 @@
 {
 	"id": "amagasaki",
-	"name": {
+	"label": {
 		"ja": "尼崎市"
 	},
 	"date": "2020\/03\/11 18:00",
@@ -16,6 +16,7 @@
 			"remarks": null,
 			"supplement": "No.393が利用する伊丹市内デイケアで勤務",
 			"discharged": null,
+			"cluster": "itami-daycare",
 			"date": "2020-03-10"
 		},
 		{
@@ -29,6 +30,7 @@
 			"remarks": null,
 			"supplement": "No.393が利用する伊丹市内デイケア利用者",
 			"discharged": null,
+			"cluster": "itami-daycare",
 			"date": "2020-03-10"
 		},
 		{

@@ -1,6 +1,6 @@
 {
 	"id": "nagano",
-	"name": {
+	"label": {
 		"ja": "長野県"
 	},
 	"date": "2020\/03\/06 18:00",
@@ -38,6 +38,7 @@
 			"remarks": null,
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-06"
 		}
 	]

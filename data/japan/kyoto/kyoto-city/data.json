@@ -1,6 +1,6 @@
 {
 	"id": "kyoto-city",
-	"name": {
+	"label": {
 		"ja": "京都市"
 	},
 	"date": "2020\/03\/12 18:00",
@@ -42,6 +42,7 @@
 			"remarks": null,
 			"supplement": "2/15・16大阪市都島区のライブハウス",
 			"discharged": "〇",
+			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-03"
 		},
 		{
@@ -55,6 +56,7 @@
 			"remarks": null,
 			"supplement": "2/15・16大阪市都島区のライブハウス、No.249と同行",
 			"discharged": "〇",
+			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-04"
 		},
 		{
@@ -81,6 +83,7 @@
 			"remarks": null,
 			"supplement": "2/24大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-09"
 		},
 		{

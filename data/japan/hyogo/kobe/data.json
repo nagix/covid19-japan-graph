@@ -1,9 +1,9 @@
 {
 	"id": "kobe",
-	"name": {
+	"label": {
 		"ja": "神戸市"
 	},
-	"date": "2020\/03\/12 18:00",
+	"date": "2020\/03\/13 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -29,6 +29,7 @@
 			"remarks": null,
 			"supplement": "2/15大阪市都島区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-03"
 		},
 		{
@@ -42,6 +43,7 @@
 			"remarks": null,
 			"supplement": "2/18大阪市北区のLIVE HOUSE Rumio",
 			"discharged": null,
+			"cluster": "osaka-livehouse-c",
 			"date": "2020-03-09"
 		},
 		{
@@ -51,10 +53,11 @@
 			"address": "兵庫県神戸市",
 			"age": "50s",
 			"sex": "female",
-			"attribute": "認定こども園勤務",
+			"attribute": "保育士",
 			"remarks": null,
-			"supplement": null,
+			"supplement": "認定こども園に勤務",
 			"discharged": null,
+			"cluster": "kobe-kindergarten",
 			"date": "2020-03-09"
 		},
 		{
@@ -68,6 +71,7 @@
 			"remarks": null,
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-10"
 		},
 		{
@@ -90,10 +94,11 @@
 			"address": "兵庫県神戸市",
 			"age": "60s",
 			"sex": "female",
-			"attribute": "認定こども園勤務",
+			"attribute": "保育士",
 			"remarks": null,
 			"supplement": "No.450の認定こども園に勤務",
 			"discharged": null,
+			"cluster": "kobe-kindergarten",
 			"date": "2020-03-11"
 		},
 		{
@@ -103,10 +108,11 @@
 			"address": "兵庫県神戸市",
 			"age": "30s",
 			"sex": "female",
-			"attribute": "認定こども園勤務",
+			"attribute": "事務職",
 			"remarks": null,
 			"supplement": "No.450の認定こども園に勤務",
 			"discharged": null,
+			"cluster": "kobe-kindergarten",
 			"date": "2020-03-11"
 		},
 		{
@@ -116,10 +122,11 @@
 			"address": "兵庫県神戸市",
 			"age": "20s",
 			"sex": "female",
-			"attribute": "認定こども園勤務",
+			"attribute": "保育士",
 			"remarks": null,
 			"supplement": "No.450の認定こども園に勤務",
 			"discharged": null,
+			"cluster": "kobe-kindergarten",
 			"date": "2020-03-11"
 		},
 		{
@@ -133,6 +140,79 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-12"
+		},
+		{
+			"id": 11,
+			"pid": 47,
+			"address": "兵庫県神戸市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-13"
+		},
+		{
+			"id": 12,
+			"pid": 48,
+			"address": "兵庫県神戸市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "2/19大阪市北区のライブハウス",
+			"discharged": null,
+			"cluster": "osaka-livehouse-b",
+			"date": "2020-03-13"
+		},
+		{
+			"id": 13,
+			"pid": 49,
+			"address": "兵庫県神戸市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": "重症",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-13"
+		},
+		{
+			"id": 14,
+			"pid": 50,
+			"address": "兵庫県神戸市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-13"
+		},
+		{
+			"id": 15,
+			"pid": 51,
+			"address": "兵庫県神戸市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "看護師",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-13"
+		},
+		{
+			"id": 16,
+			"pid": 52,
+			"address": "兵庫県神戸市",
+			"age": "80s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-13"
 		}
 	]
 }

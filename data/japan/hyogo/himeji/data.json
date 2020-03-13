@@ -1,6 +1,6 @@
 {
 	"id": "himeji",
-	"name": {
+	"label": {
 		"ja": "姫路市"
 	},
 	"date": "2020\/03\/12 18:00",
@@ -16,6 +16,7 @@
 			"remarks": null,
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-06"
 		},
 		{
@@ -29,6 +30,7 @@
 			"remarks": null,
 			"supplement": null,
 			"discharged": null,
+			"cluster": "himeji-hospital",
 			"date": "2020-03-08"
 		},
 		{
@@ -53,6 +55,7 @@
 			"remarks": "無症状",
 			"supplement": "No.414が勤務していた医療機関の同僚",
 			"discharged": null,
+			"cluster": "himeji-hospital",
 			"date": "2020-03-10"
 		},
 		{
@@ -66,6 +69,7 @@
 			"remarks": null,
 			"supplement": "No.414が勤務していた医療機関の入院患者",
 			"discharged": null,
+			"cluster": "himeji-hospital",
 			"date": "2020-03-10"
 		},
 		{
@@ -79,6 +83,7 @@
 			"remarks": null,
 			"supplement": "No.414が勤務していた医療機関の入院患者",
 			"discharged": null,
+			"cluster": "himeji-hospital",
 			"date": "2020-03-11"
 		},
 		{
@@ -91,6 +96,7 @@
 			"remarks": null,
 			"supplement": "No.414が勤務していた医療機関の入院患者",
 			"discharged": null,
+			"cluster": "himeji-hospital",
 			"date": "2020-03-11"
 		},
 		{
@@ -103,6 +109,7 @@
 			"remarks": "無症状",
 			"supplement": "No.414が勤務していた医療機関の入院患者",
 			"discharged": null,
+			"cluster": "himeji-hospital",
 			"date": "2020-03-12"
 		},
 		{
@@ -115,6 +122,7 @@
 			"remarks": "無症状",
 			"supplement": "No.414が勤務していた医療機関の入院患者",
 			"discharged": null,
+			"cluster": "himeji-hospital",
 			"date": "2020-03-12"
 		},
 		{
@@ -127,6 +135,7 @@
 			"remarks": "無症状",
 			"supplement": "No.414が勤務していた医療機関の入院患者",
 			"discharged": null,
+			"cluster": "himeji-hospital",
 			"date": "2020-03-12"
 		},
 		{
@@ -140,6 +149,7 @@
 			"remarks": null,
 			"supplement": "No.414が勤務していた医療機関の入院患者",
 			"discharged": null,
+			"cluster": "himeji-hospital",
 			"date": "2020-03-12"
 		}
 	]

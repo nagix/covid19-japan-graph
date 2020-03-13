@@ -1,6 +1,6 @@
 {
 	"id": "sapporo",
-	"name": {
+	"label": {
 		"ja": "札幌市"
 	},
 	"date": "2020\/03\/13 16:00",
@@ -81,6 +81,7 @@
 			"remarks": null,
 			"supplement": null,
 			"discharged": null,
+			"cluster": "kitami-exhibition",
 			"date": "2020-02-24"
 		},
 		{
@@ -107,6 +108,7 @@
 			"remarks": null,
 			"supplement": "大阪市都島区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-a",
 			"date": "2020-02-26"
 		},
 		{
@@ -120,6 +122,7 @@
 			"remarks": null,
 			"supplement": "No.130の濃厚接触者",
 			"discharged": null,
+			"cluster": "kitami-exhibition",
 			"date": "2020-02-27"
 		},
 		{
@@ -133,6 +136,7 @@
 			"remarks": null,
 			"supplement": "No.130の濃厚接触者",
 			"discharged": null,
+			"cluster": "kitami-exhibition",
 			"date": "2020-02-27"
 		},
 		{
@@ -159,6 +163,7 @@
 			"remarks": null,
 			"supplement": null,
 			"discharged": null,
+			"cluster": "kitami-exhibition",
 			"date": "2020-02-28"
 		},
 		{
@@ -250,6 +255,7 @@
 			"remarks": null,
 			"supplement": "No.216の濃厚接触者",
 			"discharged": null,
+			"cluster": "sapporo-livebar",
 			"date": "2020-03-03"
 		},
 		{
@@ -276,6 +282,7 @@
 			"remarks": null,
 			"supplement": "No.245の濃厚接触者",
 			"discharged": null,
+			"cluster": "sapporo-livebar",
 			"date": "2020-03-06"
 		},
 		{
@@ -289,6 +296,7 @@
 			"remarks": null,
 			"supplement": "No.245の濃厚接触者",
 			"discharged": null,
+			"cluster": "sapporo-livebar",
 			"date": "2020-03-06"
 		},
 		{
@@ -367,6 +375,7 @@
 			"remarks": null,
 			"supplement": "No.245の濃厚接触者",
 			"discharged": null,
+			"cluster": "sapporo-livebar",
 			"date": "2020-03-07"
 		},
 		{
@@ -380,6 +389,7 @@
 			"remarks": null,
 			"supplement": "No.245の濃厚接触者",
 			"discharged": null,
+			"cluster": "sapporo-livebar",
 			"date": "2020-03-07"
 		},
 		{
@@ -484,6 +494,7 @@
 			"remarks": null,
 			"supplement": "No.244、No.245の濃厚接触者",
 			"discharged": null,
+			"cluster": "sapporo-livebar",
 			"date": "2020-03-10"
 		},
 		{

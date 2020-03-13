@@ -1,6 +1,6 @@
 {
 	"id": "hyogo",
-	"name": {
+	"label": {
 		"ja": "兵庫県"
 	},
 	"date": "2020\/03\/12 18:00",
@@ -28,6 +28,7 @@
 			"remarks": "無症状",
 			"supplement": "2/15・16大阪市都島区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-05"
 		},
 		{
@@ -40,6 +41,7 @@
 			"remarks": null,
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-06"
 		},
 		{
@@ -75,6 +77,7 @@
 			"remarks": "無症状",
 			"supplement": "2/16大阪市都島区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-09"
 		},
 		{
@@ -87,6 +90,7 @@
 			"remarks": null,
 			"supplement": "伊丹市内デイケア利用",
 			"discharged": null,
+			"cluster": "itami-daycare",
 			"date": "2020-03-10"
 		},
 		{
@@ -111,6 +115,7 @@
 			"remarks": "死亡",
 			"supplement": "伊丹市内デイケア利用",
 			"discharged": "〇",
+			"cluster": "itami-daycare",
 			"date": "2020-03-11"
 		},
 		{
@@ -123,6 +128,7 @@
 			"remarks": null,
 			"supplement": "伊丹市内デイケア利用",
 			"discharged": null,
+			"cluster": "itami-daycare",
 			"date": "2020-03-11"
 		},
 		{
@@ -135,6 +141,7 @@
 			"remarks": null,
 			"supplement": "伊丹市内デイケア利用者の主たる介護者",
 			"discharged": null,
+			"cluster": "itami-daycare",
 			"date": "2020-03-11"
 		},
 		{
@@ -143,10 +150,11 @@
 			"address": "兵庫県芦屋市",
 			"age": "20s",
 			"sex": "female",
-			"attribute": "認定こども園勤務",
+			"attribute": "保育士",
 			"remarks": null,
 			"supplement": "No.450の認定こども園に勤務",
 			"discharged": null,
+			"cluster": "kobe-kindergarten",
 			"date": "2020-03-11"
 		},
 		{
@@ -183,6 +191,7 @@
 			"remarks": null,
 			"supplement": "伊丹市内デイケア利用",
 			"discharged": null,
+			"cluster": "itami-daycare",
 			"date": "2020-03-12"
 		},
 		{
@@ -195,6 +204,7 @@
 			"remarks": null,
 			"supplement": "伊丹市内デイケア利用",
 			"discharged": null,
+			"cluster": "itami-daycare",
 			"date": "2020-03-12"
 		},
 		{
@@ -203,10 +213,11 @@
 			"address": "宝塚市",
 			"age": "50s",
 			"sex": "female",
-			"attribute": "認定こども園勤務",
+			"attribute": "事務職",
 			"remarks": null,
 			"supplement": "No.450の認定こども園に勤務",
 			"discharged": null,
+			"cluster": "kobe-kindergarten",
 			"date": "2020-03-12"
 		},
 		{
@@ -220,6 +231,51 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-12"
+		},
+		{
+			"pid": 53,
+			"address": "兵庫県伊丹市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.544の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-13"
+		},
+		{
+			"pid": 54,
+			"address": "兵庫県宝塚市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "伊丹市内デイケアの従事者",
+			"discharged": null,
+			"cluster": "itami-daycare",
+			"date": "2020-03-13"
+		},
+		{
+			"pid": 55,
+			"address": "兵庫県加古川市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "看護師",
+			"remarks": null,
+			"supplement": "北播磨総合医療センター勤務、No.494の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-13"
+		},
+		{
+			"pid": 56,
+			"address": "兵庫県伊丹市",
+			"age": "80s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "大阪府で確認された患者の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-13"
 		}
 	]
 }

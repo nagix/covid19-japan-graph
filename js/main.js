@@ -23,48 +23,48 @@ var DATA_FILE = 'data.json';
 var THEME_COLOR = '#009094';
 var GRAPH_MARGIN = 20;
 
-var groupLabels = {
-	'china': '中国',
-	'china-tour': '中国からの観光客',
-	'cruise-ship': 'クルーズ船',
-	'hawai': 'ハワイ',
-	'cambodia': 'カンボジア',
-	'france': 'フランス',
-	'egypt': 'エジプト'
+var sources = {
+	'china': { label: { 'ja': '中国' } },
+	'china-tour': { label: { 'ja': '中国からの観光客' } },
+	'cruise-ship': { label: { 'ja': 'クルーズ船' } },
+	'hawai': { label: { 'ja': 'ハワイ' } },
+	'cambodia': { label: { 'ja': 'カンボジア' } },
+	'france': { label: { 'ja': 'フランス' } },
+	'egypt': { label: { 'ja': 'エジプト' } }
 };
 
-var clusters = [
-	{ id: 'sagamihara-hospital', label: '相模原中央病院クラスター', parentId: 'sagamihara', nodes:[27, 48, 60, 61, 78, 89] },
-	{ id: 'tokyo-yakatabune', label: '屋形船新年会クラスター', parentId: 'tokyo', nodes:[28, 33, 34, 'tokyo7', 'tokyo8', 'tokyo9', 'tokyo10', 'tokyo11', 'tokyo12', 42, 47, 'tokyo16', 86] },
-	{ id: 'wakayam-hospital', label: '和歌山済生会有田病院クラスター', parentId: 'wakayama', nodes:[29, 31, 38, 40, 54] },
-	{ id: 'nagoya-gym-a', label: '名古屋スポーツジムAクラスター', parentId: 'nagoya', nodes:[43, 69, 77, 90, 91, 107, 108, 109, 115, 116, 145, 146, 147, 163, 164, 306] },
-	{ id: 'ichikawa-gym', label: '市川スポーツジムクラスター', parentId: 'chiba', nodes:[73, 96, 97, 224, 272] },
-	{ id: 'nagoya-gym-b', label: '名古屋スポーツジムBクラスター', parentId: 'nagoya', nodes:[110, 165, 166, 189] },
-	{ id: 'kitami', label: '北見展示会クラスター', parentId: 'hokkaido', nodes:[113, 130, 151, 174, 175, 177, 200, 205, 223, 235, 236] },
-	{ id: 'osaka-livehouse-a', label: '大阪京橋ライブハウスArcクラスター', parentId: 'osaka', nodes:[157, 173, 209, 'ehime1', 241, 249, 252, 257, 269, 271, 279, 'osaka9', 281, 282, 'kumamoto6', 'hyogo4', 'osaka18', 322, 'tokyo57', 333, 380, 394, 'osaka33', 'osaka34', 'osaka35', 425, 'osaka52', 'hyogo14', 'osaka58'] },
-	{ id: 'niigata-pingpong', label: '新潟卓球スクールクラスター', parentId: 'niigata', nodes:[210, 234, 246, 247, 248, 451, 452] },
-	{ id: 'nagoya-dayservice-a', label: '名古屋高齢者デイサービスAクラスター', parentId: 'nagoya', nodes:[229, 346, 347, 348, 275, 276] },
-	{ id: 'sapporo-livebar', label: '札幌中ライブバークラスター', parentId: 'sapporo', nodes:[245, 314, 315, 378, 379, 503, 557] },
-	{ id: 'day-service-b', label: '名古屋高齢者デイサービスBクラスター', parentId: 'nagoya', nodes:[277, 278, 309, 310, 311, 353, 354, 355, 404, 405, 406, 431, 432, 433] },
-	{ id: 'osaka-livehouse-b', label: '大阪北区ライブハウスSoap Opera Classics Umedaクラスター', parentId: 'osaka', nodes:[283, 285, 286, 303, 313, 330, 331, 334, 335, 357, 358, 359, 360, 363, 364, 365, 366, 392, 395, 396, 397, 398, 399, 418, 'osaka45', 421, 422, 423, 'osaka49', 424, 426, 438, 439, 448, 463, 464, 'osaka64', 'saitama-city1', 488, 495, 'tokyo67', 'nara7', 'osaka76', 527, 'mie4', 'mie6'] },
-	{ id: 'itami-daycare', label: '伊丹市デイケア施設クラスター', parentId: 'hyogo', nodes:[393, 490, 491, 493, 543, 544, 545, 571, 572] },
-	{ id: 'himeji-hospital', label: '姫路仁恵病院クラスター', parentId: 'himeji', nodes:[414, 'himeji4', 492, 541, 'himeji7', 'himeji8', 'himeji9', 'himeji10', 554] },
-	{ id: 'osaka-livehouse-c', label: '大阪北区ライブハウスLIVE HOUSE Rumioクラスター', parentId: 'osaka', nodes:[449, 'osaka80'] },
-	{ id: 'kobe-kindergarten', label: '神戸こども園クラスター', parentId: 'kobe', nodes:[450, 546, 538, 539, 540, 573] },
-	{ id: 'osaka-livehouse-d', label: '大阪中央区ライブハウスamericamura FANJ twiceクラスター', parentId: 'osaka', nodes:[467, 472] }
-];
+var clusters = {
+	'sagamihara-hospital': { label: { 'ja': '相模原中央病院クラスター' }, parentId: 'sagamihara' },
+	'tokyo-yakatabune': { label: { 'ja': '屋形船新年会クラスター' }, parentId: 'tokyo' },
+	'wakayama-hospital': { label: { 'ja': '和歌山済生会有田病院クラスター' }, parentId: 'wakayama' },
+	'nagoya-gym-a': { label: { 'ja': '名古屋スポーツジムAクラスター' }, parentId: 'nagoya' },
+	'ichikawa-gym': { label: { 'ja': '市川スポーツジムクラスター' }, parentId: 'chiba' },
+	'nagoya-gym-b': { label: { 'ja': '名古屋スポーツジムBクラスター' }, parentId: 'nagoya' },
+	'kitami-exhibition': { label: { 'ja': '北見展示会クラスター' }, parentId: 'hokkaido' },
+	'osaka-livehouse-a': { label: { 'ja': '大阪京橋ライブハウスArcクラスター' }, parentId: 'osaka' },
+	'niigata-pingpong': { label: { 'ja': '新潟卓球スクールクラスター' }, parentId: 'niigata' },
+	'nagoya-dayservice-a': { label: { 'ja': '名古屋高齢者デイサービスAクラスター' }, parentId: 'nagoya' },
+	'sapporo-livebar': { label: { 'ja': '札幌中ライブバークラスター' }, parentId: 'sapporo' },
+	'nagoya-dayservice-b': { label: { 'ja': '名古屋高齢者デイサービスBクラスター' }, parentId: 'nagoya' },
+	'nagoya-dayservice-c': { label: { 'ja': '名古屋高齢者デイサービスCクラスター' }, parentId: 'nagoya' },
+	'osaka-livehouse-b': { label: { 'ja': '大阪北区ライブハウスSoap Opera Classics Umedaクラスター' }, parentId: 'osaka' },
+	'itami-daycare': { label: { 'ja': '伊丹市デイケア施設クラスター' }, parentId: 'hyogo' },
+	'himeji-hospital': { label: { 'ja': '姫路仁恵病院クラスター' }, parentId: 'himeji' },
+	'osaka-livehouse-c': { label: { 'ja': '大阪北区ライブハウスLIVE HOUSE Rumioクラスター' }, parentId: 'osaka' },
+	'kobe-kindergarten': { label: { 'ja': '神戸こども園クラスター' }, parentId: 'kobe' },
+	'osaka-livehouse-d': { label: { 'ja': '大阪中央区ライブハウスamericamura FANJ twiceクラスター' }, parentId: 'osaka' }
+};
 
 var boxColors = {
-	male: { stroke: '#559', fill: '#ccf' },
-	female: { stroke: '#955', fill: '#fcc' },
+	'male': { stroke: '#559', fill: '#ccf' },
+	'female': { stroke: '#955', fill: '#fcc' },
 	'': { stroke: '#555', fill: '#ccc' }
 };
 
 var dict = {
-	'male': '男性',
-	'female': '女性',
-	'unknown': '不明',
-	'': ''
+	'male': { 'ja': '男性' },
+	'female': { 'ja': '女性' },
+	'': { 'ja': '' }
 };
 
 var loadJSON = function(url) {
@@ -105,7 +105,7 @@ var loadData = function(id) {
 					if (target.date < source.date) {
 						target.date = source.date;
 					}
-					target.children[i].name = source.name;
+					target.children[i].label = source.label;
 					if (source.children) {
 						target.children[i].children = source.children;
 					}
@@ -134,7 +134,7 @@ var getClusters = function(self, parentId) {
 
 	return children.reduce(function(target, source) {
 		return target.concat(getClusters(source, self.id));
-	}, [{ id: self.id, name: self.name.ja, parentId: parentId }]);
+	}, [{ id: self.id, label: self.label.ja, parentId: parentId }]);
 }
 
 loadData('japan').then(function(patients) {
@@ -190,7 +190,7 @@ loadData('japan').then(function(patients) {
 			labelType: 'html',
 			label: '<div class="container">' +
 				'<div class="id" style="background-color: ' + colors.stroke + ';">' + jid + '</div>' +
-				'<div class="label">' + age.replace('s', '代') + dict[sex] + ' ' + attribute + '</div>' + (
+				'<div class="label">' + age.replace('s', '代') + dict[sex].ja + ' ' + attribute + '</div>' + (
 					dead ? '<div class="dead badge">死亡</div>' :
 					discharged ? '<div class="check"></div>' :
 					severe ? '<div class="severe badge">重症</div>' : ''
@@ -204,7 +204,7 @@ loadData('japan').then(function(patients) {
 			description: 'No: ' + jid +
 				'<br>居住地: ' + address +
 				'<br>年代: ' + age.replace('s', '代') +
-				'<br>性別: ' + dict[sex] +
+				'<br>性別: ' + dict[sex].ja +
 				'<br>属性: ' + attribute +
 				'<br>備考: ' + remarks +
 				'<br>補足: ' + supplement +
@@ -221,7 +221,7 @@ loadData('japan').then(function(patients) {
 			if (!graph.hasNode(sourceId)) {
 				graph.setNode(sourceId, {
 					id: sourceId,
-					label: groupLabels[group],
+					label: sources[group].label.ja,
 					width: 130,
 					height: 30,
 					rx: 5,
@@ -245,13 +245,7 @@ loadData('japan').then(function(patients) {
 			});
 		});
 
-		graph.setParent(id, patient.parentId);
-
-		clusters.forEach(function(cluster) {
-			if (cluster.nodes.indexOf(id) !== -1) {
-				graph.setParent(id, cluster.id)
-			}
-		});
+		graph.setParent(id, patient.cluster || patient.parentId);
 	});
 
 	getClusters(patients).forEach(function(cluster) {
@@ -259,7 +253,7 @@ loadData('japan').then(function(patients) {
 
 		graph.setNode(id, {
 			id: id,
-			label: cluster.name,
+			label: cluster.label,
 			clusterLabelPos: 'top',
 			style: 'stroke: none; fill: ' + THEME_COLOR + '; opacity: .1;'
 		});
@@ -268,18 +262,17 @@ loadData('japan').then(function(patients) {
 		}
 	});
 
-	clusters.forEach(function(cluster) {
-		var id = cluster.id;
+	Object.keys(clusters).forEach(function(id) {
+		var cluster = clusters[id];
+		var parentId = cluster.parentId;
 
 		graph.setNode(id, {
-			id: id,
-			label: cluster.label,
+			label: cluster.label.ja,
 			clusterLabelPos: 'top',
-			style: 'fill: #ffffcc;',
-			nodes: cluster.nodes
+			style: 'fill: #ffffcc;'
 		});
-		if (cluster.parentId) {
-			graph.setParent(id, cluster.parentId);
+		if (parentId) {
+			graph.setParent(id, parentId);
 		}
 	});
 
@@ -372,7 +365,7 @@ loadData('japan').then(function(patients) {
 	patients.children.forEach(function(prefecture) {
 		var option = document.createElement('option');
 		option.value = prefecture.id;
-		option.innerHTML = prefecture.name.ja;
+		option.innerHTML = prefecture.label.ja;
 		selector.appendChild(option);
 	});
 	selector.addEventListener('change', function(event) {

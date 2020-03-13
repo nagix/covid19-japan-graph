@@ -1,6 +1,6 @@
 {
 	"id": "mie",
-	"name": {
+	"label": {
 		"ja": "三重県"
 	},
 	"date": "2020\/03\/12 18:00",
@@ -27,6 +27,7 @@
 			"remarks": null,
 			"supplement": "2/24大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-10"
 		},
 		{
@@ -49,6 +50,7 @@
 			"remarks": "無症状",
 			"supplement": "2/24大阪市北区のライブハウス、No.488の濃厚接触者",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-12"
 		},
 		{
@@ -72,6 +74,7 @@
 			"remarks": "無症状",
 			"supplement": "2/24大阪市北区のライブハウス、No.488の濃厚接触者",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-12"
 		},
 		{

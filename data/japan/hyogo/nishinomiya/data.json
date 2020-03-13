@@ -1,6 +1,6 @@
 {
 	"id": "nishinomiya",
-	"name": {
+	"label": {
 		"ja": "西宮市"
 	},
 	"date": "2020\/03\/10 18:00",
@@ -29,6 +29,7 @@
 			"remarks": null,
 			"supplement": "2/15・16大阪市都島区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-06"
 		},
 		{
@@ -42,6 +43,7 @@
 			"remarks": null,
 			"supplement": "2/19大阪市北区のライブハウス",
 			"discharged": null,
+			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-07"
 		},
 		{
@@ -55,6 +57,7 @@
 			"remarks": null,
 			"supplement": null,
 			"discharged": null,
+			"cluster": "itami-daycare",
 			"date": "2020-03-07"
 		},
 		{
