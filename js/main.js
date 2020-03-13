@@ -23,15 +23,15 @@ var DATA_FILE = 'data.json';
 var THEME_COLOR = '#009094';
 var GRAPH_MARGIN = 20;
 
-var initialNodes = [
-	{ id: 'china', label: '中国' },
-	{ id: 'china-tour', label: '中国からの観光客' },
-	{ id: 'cruise-ship', label: 'クルーズ船' },
-	{ id: 'hawai', label: 'ハワイ' },
-	{ id: 'cambodia', label: 'カンボジア' },
-	{ id: 'france', label: 'フランス' },
-	{ id: 'egypt', label: 'エジプト' }
-];
+var groupLabels = {
+	'china': '中国',
+	'china-tour': '中国からの観光客',
+	'cruise-ship': 'クルーズ船',
+	'hawai': 'ハワイ',
+	'cambodia': 'カンボジア',
+	'france': 'フランス',
+	'egypt': 'エジプト'
+};
 
 var clusters = [
 	{ id: 'sagamihara-hospital', label: '相模原中央病院クラスター', parentId: 'sagamihara', nodes:[27, 48, 60, 61, 78, 89] },
@@ -90,10 +90,12 @@ var loadData = function(id) {
 		var url = DATA_URL + '/' + id + '/' + DATA_FILE;
 
 		loadJSON(url).then(function(self) {
+			var ancestors = id.match(/^([^\/]+)(?:\/([^\/]+))?/);
 			var children = self.children || [];
 
 			self.data.forEach(function(data) {
 				data.parentId = self.id;
+				data.topGroupId = ancestors[2] || ancestors[1];
 			});
 
 			Promise.all(children.map(function(child) {
@@ -115,7 +117,7 @@ var loadData = function(id) {
 			reject(error);
 		});
 	});
-} 
+}
 
 var fullwidthToHalfwith = function(s) {
 	return s.replace(/[Ａ-Ｚａ-ｚ０-９]/g, function(s) {
@@ -145,20 +147,6 @@ loadData('japan').then(function(patients) {
 	var graph = new dagreD3.graphlib.Graph({ compound: true });
 	graph.setGraph({ rankdir: 'LR' });
 
-	initialNodes.forEach(function(node) {
-		var id = node.id;
-
-		return graph.setNode(id, {
-			id: id,
-			label: node.label,
-			width: 130,
-			height: 30,
-			rx: 5,
-			ry: 5,
-			style: 'stroke: #aaa; fill: #fff;'
-		});
-	});
-
 	patients.data.forEach(function(patient, i) {
 		var jid = patient.jid || '';
 		var id = jid || patient.parentId + (patient.id || patient.pid);
@@ -173,6 +161,7 @@ loadData('japan').then(function(patients) {
 		var dead = remarks.match(/死亡/);
 		var colors = boxColors[sex];
 		var sourceIds = [];
+		var sourceGroups = [];
 
 		(supplement.match(/No\.[\w\-０-９]+/g) || [])
 			.map(fullwidthToHalfwith)
@@ -181,21 +170,20 @@ loadData('japan').then(function(patients) {
 			});
 
 		if (attribute.match(/武漢|中国/) || supplement.match(/武漢.*(帰国|来日)/)) {
-			sourceIds.push('china');
+			sourceGroups.push('china');
 		} else if (supplement.match(/ツアー|観光客/)) {
-			sourceIds.push('china-tour');
+			sourceGroups.push('china-tour');
 		} else if (supplement.match(/ダイヤモンド/)) {
-			sourceIds.push('cruise-ship');
+			sourceGroups.push('cruise-ship');
 		} else if (supplement.match(/ハワイ/)) {
-			sourceIds.push('hawai');
+			sourceGroups.push('hawai');
 		} else if (supplement.match(/カンボジア/)) {
-			sourceIds.push('cambodia');
+			sourceGroups.push('cambodia');
 		} else if (supplement.match(/フランス/)) {
-			sourceIds.push('france');
+			sourceGroups.push('france');
 		} else if (supplement.match(/エジプト/)) {
-			sourceIds.push('egypt');
+			sourceGroups.push('egypt');
 		}
-
 
 		graph.setNode(id, {
 			id: id,
@@ -212,8 +200,7 @@ loadData('japan').then(function(patients) {
 			height: 30,
 			rx: 5,
 			ry: 5,
-			style: 'stroke: ' + colors.stroke +
-				'; fill: ' + colors.fill,
+			style: 'stroke: ' + colors.stroke + '; fill: ' + colors.fill + ';',
 			description: 'No: ' + jid +
 				'<br>居住地: ' + address +
 				'<br>年代: ' + age.replace('s', '代') +
@@ -225,6 +212,27 @@ loadData('japan').then(function(patients) {
 				'<br>発表日: ' + patient['date']
 		});
 
+		sourceGroups.forEach(function(group) {
+			var parentId = patient.topGroupId;
+			var sourceId = parentId + '-' + group;
+
+			sourceIds.push(sourceId);
+
+			if (!graph.hasNode(sourceId)) {
+				graph.setNode(sourceId, {
+					id: sourceId,
+					label: groupLabels[group],
+					width: 130,
+					height: 30,
+					rx: 5,
+					ry: 5,
+					class: 'initial-node'
+				});
+
+				graph.setParent(sourceId, parentId);
+			}
+		});
+
 		sourceIds.forEach(function(sourceId) {
 			graph.setEdge(sourceId, id, {
 				sourceId: sourceId,
@@ -232,13 +240,12 @@ loadData('japan').then(function(patients) {
 				label: '',
 				arrowhead: 'normal',
 				lineInterpolate: 'monotone',
-				lineTension: 0.0,
-				style: 'stroke: #aaa; fill: none; stroke-width: 1.5px;',
+				lineTension: 0,
 				arrowheadStyle: 'fill: #aaa'
 			});
 		});
 
-		graph.setParent(id, patient.parentId)
+		graph.setParent(id, patient.parentId);
 
 		clusters.forEach(function(cluster) {
 			if (cluster.nodes.indexOf(id) !== -1) {
@@ -254,7 +261,7 @@ loadData('japan').then(function(patients) {
 			id: id,
 			label: cluster.name,
 			clusterLabelPos: 'top',
-			style: 'stroke: none; fill: ' + THEME_COLOR + '; opacity: 0.1;'
+			style: 'stroke: none; fill: ' + THEME_COLOR + '; opacity: .1;'
 		});
 		if (cluster.parentId) {
 			graph.setParent(id, cluster.parentId);

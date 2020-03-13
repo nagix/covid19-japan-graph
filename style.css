@@ -73,6 +73,16 @@ svg#network:active {
 	cursor: grabbing;
 }
 
+.initial-node > rect {
+	stroke: #aaa;
+	fill: #fff;
+}
+.edgePath > path {
+	stroke: #aaa;
+	fill: none;
+	stroke-width: 2.5px;
+}
+
 div.container {
 	width: 400px;
 	height: 50px;
