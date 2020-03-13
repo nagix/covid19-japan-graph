@@ -14,7 +14,7 @@
 			"attribute": "タクシー運転手",
 			"remarks": null,
 			"supplement": "ダイヤモンド・プリンセス号に乗船していた4名を乗車",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-02-14"
 		},
 		{
@@ -24,7 +24,7 @@
 			"age": "60s",
 			"sex": "male",
 			"attribute": "タクシー運転手",
-			"remarks": null,
+			"remarks": "重症",
 			"supplement": "ダイヤモンド・プリンセス号に乗船していた乗客を乗車させた",
 			"discharged": null,
 			"date": "2020-02-19"

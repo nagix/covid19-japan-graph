@@ -1,0 +1,21 @@
+{
+	"id": "kawasaki",
+	"name": {
+		"ja": "川崎市"
+	},
+	"date": "2020\/03\/12 18:00",
+	"data": [
+		{
+			"id": 1,
+			"pid": 50,
+			"address": "神奈川県川崎市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "新型コロナウイルス感染症患者と接触",
+			"discharged": null,
+			"date": "2020-03-12"
+		}
+	]
+}

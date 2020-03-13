@@ -48,7 +48,7 @@
 			"sex": "male",
 			"attribute": null,
 			"remarks": null,
-			"supplement": null,
+			"supplement": "フランスに出張",
 			"discharged": null,
 			"date": "2020-02-24"
 		},
@@ -60,8 +60,8 @@
 			"sex": "male",
 			"attribute": null,
 			"remarks": null,
-			"supplement": null,
-			"discharged": null,
+			"supplement": "フランスに出張",
+			"discharged": "〇",
 			"date": "2020-02-27"
 		},
 		{
@@ -71,7 +71,7 @@
 			"sex": "male",
 			"attribute": null,
 			"remarks": "無症状",
-			"supplement": "No.128、No.170のパリ出張同行者",
+			"supplement": "No.128、No.170のフランス出張同行者",
 			"discharged": null,
 			"date": "2020-02-28"
 		},

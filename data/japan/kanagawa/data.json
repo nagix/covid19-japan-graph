@@ -9,6 +9,9 @@
 			"id": "yokohama"
 		},
 		{
+			"id": "kawasaki"
+		},
+		{
 			"id": "sagamihara"
 		}
 	],
@@ -60,18 +63,6 @@
 			"supplement": "ダイヤモンド・プリンセス号で陽性反応が出た患者を病院へ搬送",
 			"discharged": null,
 			"date": "2020-02-14"
-		},
-		{
-			"pid": 6,
-			"jid": 62,
-			"address": "神奈川県横浜市",
-			"age": "60s",
-			"sex": "male",
-			"attribute": "タクシー運転手",
-			"remarks": null,
-			"supplement": null,
-			"discharged": null,
-			"date": "2020-02-18"
 		},
 		{
 			"pid": 18,

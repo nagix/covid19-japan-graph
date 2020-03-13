@@ -26,7 +26,7 @@
 			"attribute": "農業",
 			"remarks": "2/28死亡",
 			"supplement": "No.29が勤務していた医療機関に受診歴あり",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-02-14"
 		},
 		{
@@ -62,7 +62,7 @@
 			"attribute": "会社員",
 			"remarks": null,
 			"supplement": "No.29が勤務する医療機関に入院中の患者",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-02-15"
 		},
 		{
@@ -74,7 +74,7 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "No.40の母",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-02-17"
 		},
 		{
@@ -85,7 +85,7 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "No.40の妻",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-02-17"
 		},
 		{
@@ -109,7 +109,7 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-02-17"
 		},
 		{
@@ -154,9 +154,9 @@
 			"age": "40s",
 			"sex": "male",
 			"attribute": null,
-			"remarks": "無症状",
-			"supplement": "No.40の濃厚接触者",
-			"discharged": null,
+			"remarks": null,
+			"supplement": "No.40の同僚（濃厚接触者）",
+			"discharged": "〇",
 			"date": "2020-02-22"
 		},
 		{

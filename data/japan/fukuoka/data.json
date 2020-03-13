@@ -17,7 +17,7 @@
 			"age": "60s",
 			"sex": "male",
 			"attribute": "無職",
-			"remarks": null,
+			"remarks": "重症",
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-02-20"
@@ -31,7 +31,7 @@
 			"attribute": "パートタイマー",
 			"remarks": null,
 			"supplement": "No.71の妻",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-02-20"
 		}
 	]

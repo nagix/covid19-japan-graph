@@ -14,7 +14,7 @@
 			"attribute": "武漢市からの旅行者",
 			"remarks": null,
 			"supplement": "1/19武漢市から来日",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-01-24"
 		},
 		{
@@ -26,7 +26,7 @@
 			"attribute": "武漢市からの旅行者",
 			"remarks": null,
 			"supplement": "1/18武漢市から来日",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-01-25"
 		},
 		{
@@ -38,7 +38,7 @@
 			"attribute": "中国からのツアーコンダクター",
 			"remarks": null,
 			"supplement": "1/20武漢市から来日",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-01-30"
 		},
 		{
@@ -176,7 +176,7 @@
 			"attribute": "タクシー運転手",
 			"remarks": null,
 			"supplement": "No.28の濃厚接触者",
-			"discharged": "〇",
+			"discharged": null,
 			"date": "2020-02-16"
 		},
 		{
@@ -246,7 +246,7 @@
 			"attribute": "会社員",
 			"remarks": null,
 			"supplement": "No.tokyo17の濃厚接触者",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-02-18"
 		},
 		{
@@ -450,7 +450,7 @@
 			"attribute": "医療従事者",
 			"remarks": null,
 			"supplement": "市川市のスポーツジム",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-01"
 		},
 		{

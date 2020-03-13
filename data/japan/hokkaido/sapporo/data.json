@@ -3,7 +3,7 @@
 	"name": {
 		"ja": "札幌市"
 	},
-	"date": "2020\/03\/12 18:00",
+	"date": "2020\/03\/13 16:00",
 	"data": [
 		{
 			"id": 1,
@@ -654,6 +654,66 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-12"
+		},
+		{
+			"id": 51,
+			"pid": 129,
+			"address": "札幌市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-13"
+		},
+		{
+			"id": 52,
+			"pid": 130,
+			"address": "札幌市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.501の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-13"
+		},
+		{
+			"id": 53,
+			"pid": 131,
+			"address": "札幌市",
+			"age": null,
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-13"
+		},
+		{
+			"id": 54,
+			"pid": 132,
+			"address": "札幌市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.503の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-13"
+		},
+		{
+			"id": 55,
+			"pid": 133,
+			"address": "札幌市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.563の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-13"
 		}
 	]
 }
