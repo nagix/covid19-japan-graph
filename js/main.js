@@ -21,7 +21,6 @@
 var DATA_URL = 'data';
 var DATA_FILE = 'data.json';
 var THEME_COLOR = '#009094';
-var INITIAL_SCALE = 0.66;
 var GRAPH_MARGIN = 20;
 
 var initialNodes = [
@@ -333,7 +332,7 @@ loadData('japan').then(function(patients) {
 		var dx = clientWidth / k - width;
 		var dy = clientHeight / k - height;
 		var extent = [
-			Math.min(xScale, yScale, INITIAL_SCALE),
+			Math.min(xScale, yScale),
 			Math.max(xScale, yScale, 1)
 		];
 		var scale = Math.min(Math.max(k, extent[0]), extent[1]);
@@ -356,9 +355,10 @@ loadData('japan').then(function(patients) {
 	resetHeight();
 	redraw({
 		transform: {
-			k: INITIAL_SCALE,
-			x: Math.max((svgElement.clientWidth / INITIAL_SCALE - width) / 2, GRAPH_MARGIN),
-			y: Math.max((svgElement.clientHeight / INITIAL_SCALE - height) / 2, GRAPH_MARGIN)
+			k: Math.min(Math.max(
+				svgElement.clientWidth / (width + GRAPH_MARGIN * 2),
+				svgElement.clientHeight / (height + GRAPH_MARGIN * 2)
+			), 1)
 		}
 	});
 
