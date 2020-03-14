@@ -25,9 +25,9 @@ var GRAPH_MARGIN = 20;
 
 var sources = {
 	'china': { label: { 'ja': '中国' } },
-	'china-tour': { label: { 'ja': '中国からの観光客' } },
+	'china-tourist': { label: { 'ja': '中国からの観光客' } },
 	'cruise-ship': { label: { 'ja': 'クルーズ船' } },
-	'hawai': { label: { 'ja': 'ハワイ' } },
+	'hawaii': { label: { 'ja': 'ハワイ' } },
 	'cambodia': { label: { 'ja': 'カンボジア' } },
 	'france': { label: { 'ja': 'フランス' } },
 	'egypt': { label: { 'ja': 'エジプト' } }
@@ -157,33 +157,17 @@ loadData('japan').then(function(patients) {
 		var remarks = patient.remarks || '';
 		var supplement = patient.supplement || '';
 		var discharged = patient.discharged || '';
+		var source = patient.source;
 		var severe = remarks.match(/重症/);
 		var dead = remarks.match(/死亡/);
 		var colors = boxColors[sex];
 		var sourceIds = [];
-		var sourceGroups = [];
 
 		(supplement.match(/No\.[\w\-０-９]+/g) || [])
 			.map(fullwidthToHalfwith)
 			.forEach(function(value) {
 				sourceIds.push(value.replace('No.', ''));
 			});
-
-		if (attribute.match(/武漢|中国/) || supplement.match(/武漢.*(帰国|来日)/)) {
-			sourceGroups.push('china');
-		} else if (supplement.match(/ツアー|観光客/)) {
-			sourceGroups.push('china-tour');
-		} else if (supplement.match(/ダイヤモンド/)) {
-			sourceGroups.push('cruise-ship');
-		} else if (supplement.match(/ハワイ/)) {
-			sourceGroups.push('hawai');
-		} else if (supplement.match(/カンボジア/)) {
-			sourceGroups.push('cambodia');
-		} else if (supplement.match(/フランス/)) {
-			sourceGroups.push('france');
-		} else if (supplement.match(/エジプト/)) {
-			sourceGroups.push('egypt');
-		}
 
 		graph.setNode(id, {
 			id: id,
@@ -212,16 +196,16 @@ loadData('japan').then(function(patients) {
 				'<br>発表日: ' + patient['date']
 		});
 
-		sourceGroups.forEach(function(group) {
+		if (source) {
 			var parentId = patient.topGroupId;
-			var sourceId = parentId + '-' + group;
+			var sourceId = parentId + '-' + source;
 
 			sourceIds.push(sourceId);
 
 			if (!graph.hasNode(sourceId)) {
 				graph.setNode(sourceId, {
 					id: sourceId,
-					label: sources[group].label.ja,
+					label: sources[source].label.ja,
 					width: 130,
 					height: 30,
 					rx: 5,
@@ -231,7 +215,7 @@ loadData('japan').then(function(patients) {
 
 				graph.setParent(sourceId, parentId);
 			}
-		});
+		}
 
 		sourceIds.forEach(function(sourceId) {
 			graph.setEdge(sourceId, id, {
@@ -267,6 +251,7 @@ loadData('japan').then(function(patients) {
 		var parentId = cluster.parentId;
 
 		graph.setNode(id, {
+			id: id,
 			label: cluster.label.ja,
 			clusterLabelPos: 'top',
 			style: 'fill: #ffffcc;'

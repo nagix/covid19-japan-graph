@@ -121,6 +121,7 @@
 			"remarks": null,
 			"supplement": "1/29武漢からチャーター便（第1便）で帰国",
 			"discharged": null,
+			"source": "china",
 			"date": "2020-01-30"
 		},
 		{
@@ -132,6 +133,7 @@
 			"remarks": null,
 			"supplement": "1/31武漢からチャーター便（第3便）で帰国",
 			"discharged": null,
+			"source": "china",
 			"date": "2020-02-01"
 		},
 		{
@@ -143,6 +145,7 @@
 			"remarks": null,
 			"supplement": "1/29武漢からチャーター便（第1便）で帰国",
 			"discharged": null,
+			"source": "china",
 			"date": "2020-02-01"
 		},
 		{
@@ -154,6 +157,7 @@
 			"remarks": null,
 			"supplement": "1/30武漢からチャーター便（第2便）で帰国",
 			"discharged": null,
+			"source": "china",
 			"date": "2020-02-04"
 		},
 		{
@@ -165,6 +169,7 @@
 			"remarks": null,
 			"supplement": "1/22武漢市から来日、No.4 と同じバスツアーに参加",
 			"discharged": "〇",
+			"source": "china",
 			"date": "2020-02-04"
 		},
 		{
@@ -176,6 +181,7 @@
 			"remarks": null,
 			"supplement": "1/30武漢からチャーター便（第2便）で帰国",
 			"discharged": null,
+			"source": "china",
 			"date": "2020-02-05"
 		},
 		{
@@ -187,18 +193,8 @@
 			"remarks": null,
 			"supplement": "2/7武漢からチャーター便（第4便）で帰国",
 			"discharged": null,
+			"source": "china",
 			"date": "2020-02-08"
-		},
-		{
-			"jid": 25,
-			"address": "湖北省武漢市",
-			"age": "50s",
-			"sex": "male",
-			"attribute": null,
-			"remarks": null,
-			"supplement": "1/29武漢からチャーター便（第1便）で帰国",
-			"discharged": null,
-			"date": "2020-02-10"
 		},
 		{
 			"jid": 49,
@@ -209,6 +205,7 @@
 			"remarks": null,
 			"supplement": "ダイヤモンド・プリンセス号で事務業務に従事",
 			"discharged": null,
+			"source": "cruise-ship",
 			"date": "2020-02-17"
 		},
 		{
@@ -231,6 +228,7 @@
 			"remarks": null,
 			"supplement": "ダイヤモンド・プリンセス号で事務業務に従事",
 			"discharged": null,
+			"source": "cruise-ship",
 			"date": "2020-02-20"
 		},
 		{
@@ -242,6 +240,7 @@
 			"remarks": null,
 			"supplement": "ダイヤモンド・プリンセス号で事務業務に従事",
 			"discharged": null,
+			"source": "cruise-ship",
 			"date": "2020-02-20"
 		},
 		{
@@ -253,6 +252,7 @@
 			"remarks": null,
 			"supplement": "ダイヤモンド・プリンセス号で事務業務に従事",
 			"discharged": null,
+			"source": "cruise-ship",
 			"date": "2020-02-24"
 		},
 		{
@@ -264,6 +264,7 @@
 			"remarks": null,
 			"supplement": "ダイヤモンド・プリンセス号で検疫を実施",
 			"discharged": null,
+			"source": "cruise-ship",
 			"date": "2020-02-24"
 		},
 		{
@@ -275,6 +276,7 @@
 			"remarks": null,
 			"supplement": "ダイヤモンド・プリンセス号で検体採取の補助",
 			"discharged": null,
+			"source": "cruise-ship",
 			"date": "2020-02-28"
 		},
 		{
@@ -286,6 +288,7 @@
 			"remarks": null,
 			"supplement": "3/4カンボジアから帰国",
 			"discharged": null,
+			"source": "cambodia",
 			"date": "2020-03-04"
 		}
 	]

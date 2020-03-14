@@ -26,6 +26,7 @@
 			"remarks": null,
 			"supplement": "1/6武漢市から帰国",
 			"discharged": "〇",
+			"source": "china",
 			"date": "2020-01-15"
 		},
 		{
@@ -38,6 +39,7 @@
 			"remarks": null,
 			"supplement": "ダイヤモンド・プリンセス号で検疫を実施",
 			"discharged": null,
+			"source": "cruise-ship",
 			"date": "2020-02-11"
 		},
 		{
@@ -63,6 +65,7 @@
 			"remarks": null,
 			"supplement": "ダイヤモンド・プリンセス号で陽性反応が出た患者を病院へ搬送",
 			"discharged": null,
+			"source": "cruise-ship",
 			"date": "2020-02-14"
 		},
 		{
@@ -230,6 +233,7 @@
 			"remarks": null,
 			"supplement": "3/1までエジプト滞在",
 			"discharged": null,
+			"source": "egypt",
 			"date": "2020-03-13"
 		}
 	]

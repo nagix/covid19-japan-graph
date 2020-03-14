@@ -15,6 +15,7 @@
 			"remarks": null,
 			"supplement": "1/19武漢市から来日",
 			"discharged": "〇",
+			"source": "china",
 			"date": "2020-01-24"
 		},
 		{
@@ -27,6 +28,7 @@
 			"remarks": null,
 			"supplement": "1/18武漢市から来日",
 			"discharged": "〇",
+			"source": "china",
 			"date": "2020-01-25"
 		},
 		{
@@ -39,6 +41,7 @@
 			"remarks": null,
 			"supplement": "1/20武漢市から来日",
 			"discharged": "〇",
+			"source": "china",
 			"date": "2020-01-30"
 		},
 		{
@@ -78,6 +81,7 @@
 			"supplement": "武漢からの観光客と接触し、至近距離で会話をした",
 			"discharged": "〇",
 			"cluster": "tokyo-yakatabune",
+			"source": "china-tourist",
 			"date": "2020-02-14"
 		},
 		{

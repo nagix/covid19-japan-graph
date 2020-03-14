@@ -25,6 +25,7 @@
 			"remarks": "無症状",
 			"supplement": "1/31武漢からチャーター便（第3便）で帰国",
 			"discharged": "〇",
+			"source": "china",
 			"date": "2020-02-01"
 		},
 		{
@@ -37,6 +38,7 @@
 			"remarks": null,
 			"supplement": "1/30武漢からチャーター便（第2便）で帰国",
 			"discharged": "〇",
+			"source": "china",
 			"date": "2020-02-10"
 		},
 		{
@@ -48,6 +50,7 @@
 			"remarks": null,
 			"supplement": "1/31武漢からチャーター便（第3便）で帰国",
 			"discharged": "〇",
+			"source": "china",
 			"date": "2020-02-14"
 		},
 		{
@@ -60,6 +63,7 @@
 			"remarks": null,
 			"supplement": "1/30武漢からチャーター便（第2便）で帰国、No.24の子",
 			"discharged": "〇",
+			"source": "china",
 			"date": "2020-02-21"
 		},
 		{
@@ -132,6 +136,7 @@
 			"remarks": null,
 			"supplement": "3/2までフランスに滞在",
 			"discharged": null,
+			"source": "france",
 			"date": "2020-03-10"
 		},
 		{
@@ -144,6 +149,7 @@
 			"remarks": null,
 			"supplement": "3/2までフランスに滞在",
 			"discharged": null,
+			"source": "france",
 			"date": "2020-03-10"
 		},
 		{
@@ -156,6 +162,7 @@
 			"remarks": null,
 			"supplement": "エジプト・ナイル川クルーズ",
 			"discharged": null,
+			"source": "egypt",
 			"date": "2020-03-11"
 		},
 		{
@@ -168,6 +175,7 @@
 			"remarks": null,
 			"supplement": "エジプト・ナイル川クルーズ、No.510の妻",
 			"discharged": null,
+			"source": "egypt",
 			"date": "2020-03-12"
 		},
 		{
@@ -180,6 +188,7 @@
 			"remarks": null,
 			"supplement": "エジプト・ナイル川クルーズ、No.510、No.595とエジプト同行",
 			"discharged": null,
+			"source": "egypt",
 			"date": "2020-03-12"
 		},
 		{

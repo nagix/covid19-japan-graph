@@ -16,6 +16,7 @@
 			"remarks": null,
 			"supplement": "米国ハワイ州渡航者",
 			"discharged": null,
+			"source": "hawaii",
 			"date": "2020-02-14"
 		},
 		{
@@ -30,6 +31,7 @@
 			"supplement": "米国ハワイ州渡航者、No.35の濃厚接触者",
 			"discharged": null,
 			"cluster": "nagoya-gym-a",
+			"source": "hawaii",
 			"date": "2020-02-15"
 		},
 		{

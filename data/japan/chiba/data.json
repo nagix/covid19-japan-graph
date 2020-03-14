@@ -20,6 +20,7 @@
 			"remarks": null,
 			"supplement": "バスガイドとしてツアー（中国人対象）に参加、No.6の濃厚接触者",
 			"discharged": null,
+			"source": "china-tourist",
 			"date": "2020-01-31"
 		},
 		{
@@ -32,6 +33,7 @@
 			"remarks": null,
 			"supplement": "1/29武漢からチャーター便（第1便）で帰国",
 			"discharged": null,
+			"source": "china",
 			"date": "2020-02-01"
 		},
 		{
@@ -44,6 +46,7 @@
 			"remarks": null,
 			"supplement": "1/21武漢市から来日",
 			"discharged": null,
+			"source": "china",
 			"date": "2020-02-04"
 		},
 		{
@@ -56,6 +59,7 @@
 			"remarks": null,
 			"supplement": "1/21武漢市から来日、No.17の濃厚接触者",
 			"discharged": null,
+			"source": "china",
 			"date": "2020-02-05"
 		},
 		{
@@ -68,6 +72,7 @@
 			"remarks": null,
 			"supplement": "1/29武漢からチャーター便（第1便）で帰国",
 			"discharged": null,
+			"source": "china",
 			"date": "2020-02-10"
 		},
 		{
@@ -155,6 +160,7 @@
 			"remarks": null,
 			"supplement": "2/18までダイヤモンド・プリンセスにDPATとして乗船",
 			"discharged": null,
+			"source": "cruise-ship",
 			"date": "2020-02-26"
 		},
 		{
@@ -167,6 +173,7 @@
 			"remarks": null,
 			"supplement": "2/20ダイヤモンド・プリンセス号を下船",
 			"discharged": null,
+			"source": "cruise-ship",
 			"date": "2020-02-26"
 		},
 		{
@@ -179,6 +186,7 @@
 			"remarks": null,
 			"supplement": "2/21ダイヤモンド・プリンセス号を下船",
 			"discharged": null,
+			"source": "cruise-ship",
 			"date": "2020-02-26"
 		},
 		{
@@ -299,6 +307,7 @@
 			"remarks": null,
 			"supplement": "2/28までエジプトツアー",
 			"discharged": null,
+			"source": "egypt",
 			"date": "2020-03-11"
 		},
 		{
@@ -311,6 +320,7 @@
 			"remarks": null,
 			"supplement": "2/28までエジプトツアー",
 			"discharged": null,
+			"source": "egypt",
 			"date": "2020-03-11"
 		},
 		{
@@ -359,6 +369,7 @@
 			"remarks": null,
 			"supplement": "エジプト・ナイル川クルーズ",
 			"discharged": null,
+			"source": "egypt",
 			"date": "2020-03-13"
 		}
 	]

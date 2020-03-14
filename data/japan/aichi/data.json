@@ -26,6 +26,7 @@
 			"remarks": null,
 			"supplement": "1/22武漢市から来日",
 			"discharged": "〇",
+			"source": "china",
 			"date": "2020-01-26"
 		},
 		{
@@ -38,6 +39,7 @@
 			"remarks": null,
 			"supplement": "1/20武漢市から来日",
 			"discharged": "〇",
+			"source": "china",
 			"date": "2020-01-28"
 		},
 		{

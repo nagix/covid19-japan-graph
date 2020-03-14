@@ -53,6 +53,7 @@
 			"remarks": null,
 			"supplement": "ダイヤモンド・プリンセス号まで送迎する公用車の運転を担当",
 			"discharged": null,
+			"source": "cruise-ship",
 			"date": "2020-02-27"
 		},
 		{
@@ -92,6 +93,7 @@
 			"remarks": "中等症～重症",
 			"supplement": "2/23までエジプトに滞在",
 			"discharged": null,
+			"source": "egypt",
 			"date": "2020-03-06"
 		},
 		{

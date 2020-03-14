@@ -16,6 +16,7 @@
 			"remarks": null,
 			"supplement": "1/22武漢市から帰国",
 			"discharged": "〇",
+			"source": "china",
 			"date": "2020-01-30"
 		},
 		{
@@ -29,6 +30,7 @@
 			"remarks": null,
 			"supplement": "勤務先で中国からの観光客に接客",
 			"discharged": "〇",
+			"source": "china-tourist",
 			"date": "2020-02-05"
 		},
 		{
