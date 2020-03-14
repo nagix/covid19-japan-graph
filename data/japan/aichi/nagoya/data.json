@@ -903,7 +903,7 @@
 			"sex": "female",
 			"attribute": null,
 			"remarks": null,
-			"supplement": "大阪市北区のライブハウス",
+			"supplement": "ライブハウスSoap Opera Classics Umeda",
 			"discharged": null,
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-08"
@@ -1221,6 +1221,7 @@
 		{
 			"id": 90,
 			"pid": 113,
+			"jid": 638,
 			"address": "名古屋市",
 			"age": "40s",
 			"sex": "male",
@@ -1233,6 +1234,7 @@
 		{
 			"id": 91,
 			"pid": 114,
+			"jid": 639,
 			"address": "名古屋市",
 			"age": "60s",
 			"sex": "male",

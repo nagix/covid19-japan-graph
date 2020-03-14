@@ -8,12 +8,13 @@
 		{
 			"id": 1,
 			"pid": 10,
+			"jid": 614,
 			"address": "埼玉県さいたま市",
 			"age": "40s",
 			"sex": "female",
 			"attribute": null,
 			"remarks": "無症状",
-			"supplement": "1/23・24大阪市北区のライブハウス",
+			"supplement": "2/23・24ライブハウスSoap Opera Classics Umeda",
 			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-06"

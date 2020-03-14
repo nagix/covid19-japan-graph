@@ -58,6 +58,7 @@
 		{
 			"id": 5,
 			"pid": 32,
+			"jid": 617,
 			"address": "横浜市",
 			"age": "20s",
 			"sex": "female",
@@ -96,6 +97,7 @@
 		{
 			"id": 8,
 			"pid": 47,
+			"jid": 618,
 			"address": "横浜市",
 			"age": "70s",
 			"sex": "male",

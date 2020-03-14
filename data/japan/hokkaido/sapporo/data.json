@@ -106,7 +106,7 @@
 			"sex": "male",
 			"attribute": "会社員",
 			"remarks": null,
-			"supplement": "大阪市都島区のライブハウス",
+			"supplement": "ライブハウスArc",
 			"discharged": null,
 			"cluster": "osaka-livehouse-a",
 			"date": "2020-02-26"
@@ -669,6 +669,7 @@
 		{
 			"id": 51,
 			"pid": 129,
+			"jid": 624,
 			"address": "札幌市",
 			"age": "50s",
 			"sex": "male",
@@ -681,6 +682,7 @@
 		{
 			"id": 52,
 			"pid": 130,
+			"jid": 625,
 			"address": "札幌市",
 			"age": "50s",
 			"sex": "female",
@@ -693,6 +695,7 @@
 		{
 			"id": 53,
 			"pid": 131,
+			"jid": 626,
 			"address": "札幌市",
 			"age": null,
 			"sex": "male",
@@ -705,6 +708,7 @@
 		{
 			"id": 54,
 			"pid": 132,
+			"jid": 627,
 			"address": "札幌市",
 			"age": "50s",
 			"sex": "female",
@@ -717,6 +721,7 @@
 		{
 			"id": 55,
 			"pid": 133,
+			"jid": 628,
 			"address": "札幌市",
 			"age": "70s",
 			"sex": "female",

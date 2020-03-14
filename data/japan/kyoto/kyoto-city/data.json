@@ -40,7 +40,7 @@
 			"sex": "female",
 			"attribute": "派遣社員",
 			"remarks": null,
-			"supplement": "2/15・16大阪市都島区のライブハウス",
+			"supplement": "2/15・16ライブハウスArc",
 			"discharged": "〇",
 			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-03"
@@ -54,7 +54,7 @@
 			"sex": "female",
 			"attribute": "事務職員",
 			"remarks": null,
-			"supplement": "2/15・16大阪市都島区のライブハウス、No.249と同行",
+			"supplement": "2/15・16ライブハウスArc、No.249と同行",
 			"discharged": "〇",
 			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-04"
@@ -81,7 +81,7 @@
 			"sex": "female",
 			"attribute": "臨時的任用の保育士",
 			"remarks": null,
-			"supplement": "2/24大阪市北区のライブハウス",
+			"supplement": "2/24ライブハウスSoap Opera Classics Umeda",
 			"discharged": null,
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-09"

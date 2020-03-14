@@ -14,7 +14,7 @@
 			"sex": "male",
 			"attribute": "会社員",
 			"remarks": null,
-			"supplement": "2/19大阪市北区のライブハウス",
+			"supplement": "2/19ライブハウスSoap Opera Classics Umeda",
 			"discharged": null,
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-06"
@@ -36,12 +36,13 @@
 		{
 			"id": 3,
 			"pid": 15,
+			"jid": 603,
 			"address": "兵庫県姫路市",
 			"age": "80s",
 			"sex": "male",
 			"attribute": "無職",
 			"remarks": "無症状",
-			"supplement": "No.414の家族",
+			"supplement": "No.414の父",
 			"discharged": null,
 			"date": "2020-03-09"
 		},
@@ -89,6 +90,7 @@
 		{
 			"id": 7,
 			"pid": 37,
+			"jid": 604,
 			"address": "入院中",
 			"age": "70s",
 			"sex": "female",

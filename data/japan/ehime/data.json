@@ -12,7 +12,7 @@
 			"sex": "female",
 			"attribute": "会社員",
 			"remarks": "無症状",
-			"supplement": "大阪市都島区のライブハウス",
+			"supplement": "ライブハウスArc",
 			"discharged": null,
 			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-02"
@@ -25,7 +25,7 @@
 			"sex": "female",
 			"attribute": "会社員",
 			"remarks": null,
-			"supplement": "大阪市都島区のライブハウス",
+			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-04"
 		}

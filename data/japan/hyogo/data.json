@@ -26,7 +26,7 @@
 			"sex": "female",
 			"attribute": "無職",
 			"remarks": "無症状",
-			"supplement": "2/15・16大阪市都島区のライブハウス",
+			"supplement": "2/15・16ライブハウスArc",
 			"discharged": null,
 			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-05"
@@ -39,7 +39,7 @@
 			"sex": "female",
 			"attribute": "パート",
 			"remarks": null,
-			"supplement": "2/19大阪市北区のライブハウス",
+			"supplement": "2/19ライブハウスSoap Opera Classics Umeda",
 			"discharged": null,
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-06"
@@ -52,8 +52,9 @@
 			"sex": "male",
 			"attribute": "会社員",
 			"remarks": null,
-			"supplement": "2/21大阪市内のライブハウス（調査中）",
+			"supplement": "2/21ライブハウスamericamura FANJ twice",
 			"discharged": null,
+			"cluster": "osaka-livehouse-d",
 			"date": "2020-03-06"
 		},
 		{
@@ -75,7 +76,7 @@
 			"sex": "male",
 			"attribute": "会社員",
 			"remarks": "無症状",
-			"supplement": "2/16大阪市都島区のライブハウス",
+			"supplement": "2/16ライブハウスArc",
 			"discharged": null,
 			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-09"
@@ -139,7 +140,7 @@
 			"sex": "female",
 			"attribute": "無職",
 			"remarks": null,
-			"supplement": "伊丹市内デイケア利用者の主たる介護者",
+			"supplement": "No.493伊丹市内デイケア利用者の主たる介護者",
 			"discharged": null,
 			"cluster": "itami-daycare",
 			"date": "2020-03-11"
@@ -234,6 +235,7 @@
 		},
 		{
 			"pid": 53,
+			"jid": 611,
 			"address": "兵庫県伊丹市",
 			"age": "40s",
 			"sex": "male",
@@ -245,6 +247,7 @@
 		},
 		{
 			"pid": 54,
+			"jid": 612,
 			"address": "兵庫県宝塚市",
 			"age": "50s",
 			"sex": "female",
@@ -261,13 +264,14 @@
 			"age": "50s",
 			"sex": "female",
 			"attribute": "看護師",
-			"remarks": null,
+			"remarks": "無症状",
 			"supplement": "北播磨総合医療センター勤務、No.494の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-13"
 		},
 		{
 			"pid": 56,
+			"jid": 613,
 			"address": "兵庫県伊丹市",
 			"age": "80s",
 			"sex": "male",

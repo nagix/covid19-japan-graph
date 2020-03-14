@@ -19,6 +19,7 @@
 		},
 		{
 			"pid": 2,
+			"jid": 622,
 			"address": "群馬県太田市",
 			"age": "60s",
 			"sex": "female",
@@ -30,6 +31,7 @@
 		},
 		{
 			"pid": 3,
+			"jid": 623,
 			"address": "群馬県太田市",
 			"age": "60s",
 			"sex": "female",

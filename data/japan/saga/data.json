@@ -1,0 +1,21 @@
+{
+	"id": "saga",
+	"label": {
+		"ja": "佐賀県"
+	},
+	"date": "2020\/03\/13 18:00",
+	"data": [
+		{
+			"pid": 1,
+			"jid": 634,
+			"address": "佐賀県佐賀市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "大学生",
+			"remarks": null,
+			"supplement": "3/4フランスから帰国",
+			"discharged": null,
+			"date": "2020-03-13"
+		}
+	]
+}
