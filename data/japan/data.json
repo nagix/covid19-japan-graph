@@ -4,112 +4,42 @@
 		"ja": "日本"
 	},
 	"date": "2020\/03\/04 18:00",
-	"children": [
-		{
-			"id": "hokkaido"
-		},
-		{
-			"id": "miyagi"
-		},
-		{
-			"id": "akita"
-		},
-		{
-			"id": "fukushima"
-		},
-		{
-			"id": "tochigi"
-		},
-		{
-			"id": "gunma"
-		},
-		{
-			"id": "saitama"
-		},
-		{
-			"id": "chiba"
-		},
-		{
-			"id": "tokyo"
-		},
-		{
-			"id": "kanagawa"
-		},
-		{
-			"id": "niigata"
-		},
-		{
-			"id": "ishikawa"
-		},
-		{
-			"id": "yamanashi"
-		},
-		{
-			"id": "nagano"
-		},
-		{
-			"id": "gifu"
-		},
-		{
-			"id": "shizuoka"
-		},
-		{
-			"id": "aichi"
-		},
-		{
-			"id": "mie"
-		},
-		{
-			"id": "shiga"
-		},
-		{
-			"id": "kyoto"
-		},
-		{
-			"id": "osaka"
-		},
-		{
-			"id": "hyogo"
-		},
-		{
-			"id": "nara"
-		},
-		{
-			"id": "wakayama"
-		},
-		{
-			"id": "hiroshima"
-		},
-		{
-			"id": "yamaguchi"
-		},
-		{
-			"id": "tokushima"
-		},
-		{
-			"id": "ehime"
-		},
-		{
-			"id": "kochi"
-		},
-		{
-			"id": "fukuoka"
-		},
-		{
-			"id": "saga"
-		},
-		{
-			"id": "kumamoto"
-		},
-		{
-			"id": "oita"
-		},
-		{
-			"id": "miyazaki"
-		},
-		{
-			"id": "okinawa"
-		}
+	"subgroups": [
+		"hokkaido",
+		"miyagi",
+		"akita",
+		"fukushima",
+		"tochigi",
+		"gunma",
+		"saitama",
+		"chiba",
+		"tokyo",
+		"kanagawa",
+		"niigata",
+		"ishikawa",
+		"yamanashi",
+		"nagano",
+		"gifu",
+		"shizuoka",
+		"aichi",
+		"mie",
+		"shiga",
+		"kyoto",
+		"osaka",
+		"hyogo",
+		"nara",
+		"wakayama",
+		"hiroshima",
+		"yamaguchi",
+		"tokushima",
+		"ehime",
+		"kochi",
+		"fukuoka",
+		"saga",
+		"kumamoto",
+		"oita",
+		"miyazaki",
+		"okinawa"
 	],
 	"data": [
 		{

@@ -4,10 +4,8 @@
 		"ja": "新潟県"
 	},
 	"date": "2020\/03\/03 18:00",
-	"children": [
-		{
-			"id": "niigata-city"
-		}
+	"subgroups": [
+		"niigata-city"
 	],
 	"data": [
 		{

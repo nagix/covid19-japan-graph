@@ -4,19 +4,11 @@
 		"ja": "兵庫県"
 	},
 	"date": "2020\/03\/12 18:00",
-	"children": [
-		{
-			"id": "amagasaki"
-		},
-		{
-			"id": "kobe"
-		},
-		{
-			"id": "nishinomiya"
-		},
-		{
-			"id": "himeji"
-		}
+	"subgroups": [
+		"amagasaki",
+		"kobe",
+		"nishinomiya",
+		"himeji"
 	],
 	"data": [
 		{

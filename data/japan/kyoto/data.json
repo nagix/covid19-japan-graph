@@ -4,10 +4,8 @@
 		"ja": "京都府"
 	},
 	"date": "2020\/03\/12 18:00",
-	"children": [
-		{
-			"id": "kyoto-city"
-		}
+	"subgroups": [
+		"kyoto-city"
 	],
 	"data": [
 		{

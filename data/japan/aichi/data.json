@@ -4,16 +4,10 @@
 		"ja": "愛知県"
 	},
 	"date": "2020\/03\/13 18:00",
-	"children": [
-		{
-			"id": "nagoya"
-		},
-		{
-			"id": "okazaki"
-		},
-		{
-			"id": "toyota"
-		}
+	"subgroups": [
+		"nagoya",
+		"okazaki",
+		"toyota"
 	],
 	"data": [
 		{
@@ -159,6 +153,7 @@
 			"remarks": null,
 			"supplement": "2/26フランスから帰国",
 			"discharged": null,
+			"source": "france",
 			"date": "2020-03-05"
 		},
 		{

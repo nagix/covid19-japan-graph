@@ -71,7 +71,7 @@
 		{
 			"pid": 6,
 			"address": "奈良県郡山保健所管内",
-			"age": "10歳未満",
+			"age": "u10",
 			"sex": "female",
 			"attribute": null,
 			"remarks": "無症状",

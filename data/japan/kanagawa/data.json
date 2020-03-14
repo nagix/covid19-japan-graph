@@ -4,16 +4,10 @@
 		"ja": "神奈川県"
 	},
 	"date": "2020\/03\/13 18:00",
-	"children": [
-		{
-			"id": "yokohama"
-		},
-		{
-			"id": "kawasaki"
-		},
-		{
-			"id": "sagamihara"
-		}
+	"subgroups": [
+		"yokohama",
+		"kawasaki",
+		"sagamihara"
 	],
 	"data": [
 		{

@@ -85,33 +85,33 @@ var loadJSON = function(url) {
 	});
 };
 
-var loadData = function(id) {
+var loadData = function(path) {
 	return new Promise(function(resolve, reject) {
-		var url = DATA_URL + '/' + id + '/' + DATA_FILE;
+		var url = DATA_URL + '/' + path + '/' + DATA_FILE;
 
 		loadJSON(url).then(function(self) {
-			var ancestors = id.match(/^([^\/]+)(?:\/([^\/]+))?/);
-			var children = self.children || [];
+			var id = self.id;
+			var ancestors = path.split('/');
+			var subgroups = self.subgroups || [];
 
-			self.data.forEach(function(data) {
-				data.parentId = self.id;
-				data.topGroupId = ancestors[2] || ancestors[1];
-			});
-
-			Promise.all(children.map(function(child) {
-				return loadData(id + '/' + child.id);
-			})).then(function(data) {
-				resolve(data.reduce(function(target, source, i) {
-					if (target.date < source.date) {
-						target.date = source.date;
-					}
-					target.children[i].label = source.label;
-					if (source.children) {
-						target.children[i].children = source.children;
-					}
-					target.data = target.data.concat(source.data);
-					return target;
-				}, self));
+			Promise.all(subgroups.map(function(subgroup) {
+				return loadData(path + '/' + subgroup);
+			})).then(function(patients) {
+				resolve(patients.reduce(function(target, source) {
+					return {
+						date: target.date > source.date ? target.date : source.date,
+						clusters: target.clusters.concat(source.clusters),
+						data: target.data.concat(source.data)
+					};
+				}, {
+					date: self.date,
+					clusters: [{ id: id, label: self.label, parentId: ancestors[ancestors.length - 2] }],
+					data: self.data.map(function(entry) {
+						entry.parentId = id;
+						entry.topGroupId = ancestors[1] || ancestors[0];
+						return entry;
+					})
+				}));
 			});
 		}).catch(function(error) {
 			reject(error);
@@ -119,23 +119,13 @@ var loadData = function(id) {
 	});
 }
 
-var fullwidthToHalfwith = function(s) {
-	return s.replace(/[Ａ-Ｚａ-ｚ０-９]/g, function(s) {
-		return String.fromCharCode(s.charCodeAt(0) - 0xFEE0);
-	});
+var ageText = function(age) {
+	return age.replace(/(\d+)s/, '$1代').replace(/u(\d+)/, '$1歳未満');
 };
 
 var tooltip = d3.select('body').append('div')
 	.attr('class', 'tooltip')
 	.style('opacity', 0);
-
-var getClusters = function(self, parentId) {
-	var children = self.children || [];
-
-	return children.reduce(function(target, source) {
-		return target.concat(getClusters(source, self.id));
-	}, [{ id: self.id, label: self.label.ja, parentId: parentId }]);
-}
 
 loadData('japan').then(function(patients) {
 
@@ -161,20 +151,16 @@ loadData('japan').then(function(patients) {
 		var severe = remarks.match(/重症/);
 		var dead = remarks.match(/死亡/);
 		var colors = boxColors[sex];
-		var sourceIds = [];
-
-		(supplement.match(/No\.[\w\-０-９]+/g) || [])
-			.map(fullwidthToHalfwith)
-			.forEach(function(value) {
-				sourceIds.push(value.replace('No.', ''));
-			});
+		var sourceIds = (supplement.match(/No\.[\w\-]+/g) || []).map(function(value) {
+			return value.replace('No.', '');
+		});
 
 		graph.setNode(id, {
 			id: id,
 			labelType: 'html',
 			label: '<div class="container">' +
 				'<div class="id" style="background-color: ' + colors.stroke + ';">' + jid + '</div>' +
-				'<div class="label">' + age.replace('s', '代') + dict[sex].ja + ' ' + attribute + '</div>' + (
+				'<div class="label">' + ageText(age) + dict[sex].ja + ' ' + attribute + '</div>' + (
 					dead ? '<div class="dead badge">死亡</div>' :
 					discharged ? '<div class="check"></div>' :
 					severe ? '<div class="severe badge">重症</div>' : ''
@@ -187,13 +173,13 @@ loadData('japan').then(function(patients) {
 			style: 'stroke: ' + colors.stroke + '; fill: ' + colors.fill + ';',
 			description: 'No: ' + jid +
 				'<br>居住地: ' + address +
-				'<br>年代: ' + age.replace('s', '代') +
+				'<br>年代: ' + ageText(age) +
 				'<br>性別: ' + dict[sex].ja +
 				'<br>属性: ' + attribute +
 				'<br>備考: ' + remarks +
 				'<br>補足: ' + supplement +
 				'<br>退院: ' + discharged +
-				'<br>発表日: ' + patient['date']
+				'<br>発表日: ' + patient.date
 		});
 
 		if (source) {
@@ -232,17 +218,18 @@ loadData('japan').then(function(patients) {
 		graph.setParent(id, patient.cluster || patient.parentId);
 	});
 
-	getClusters(patients).forEach(function(cluster) {
+	patients.clusters.forEach(function(cluster) {
 		var id = cluster.id;
+		var parentId = cluster.parentId;
 
 		graph.setNode(id, {
 			id: id,
-			label: cluster.label,
+			label: cluster.label.ja,
 			clusterLabelPos: 'top',
 			style: 'stroke: none; fill: ' + THEME_COLOR + '; opacity: .1;'
 		});
-		if (cluster.parentId) {
-			graph.setParent(id, cluster.parentId);
+		if (parentId) {
+			graph.setParent(id, parentId);
 		}
 	});
 
@@ -347,10 +334,13 @@ loadData('japan').then(function(patients) {
 	window.addEventListener('resize', redraw);
 
 	var selector = document.getElementById('prefecture-selector');
-	patients.children.forEach(function(prefecture) {
+	patients.clusters.filter(function(cluster) {
+		return cluster.parentId === 'japan';
+	}).forEach(function(cluster) {
 		var option = document.createElement('option');
-		option.value = prefecture.id;
-		option.innerHTML = prefecture.label.ja;
+
+		option.value = cluster.id;
+		option.innerHTML = cluster.label.ja;
 		selector.appendChild(option);
 	});
 	selector.addEventListener('change', function(event) {

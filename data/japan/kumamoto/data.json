@@ -4,10 +4,8 @@
 		"ja": "熊本県"
 	},
 	"date": "2020\/03\/04 18:00",
-	"children": [
-		{
-			"id": "kumamoto-city"
-		}
+	"subgroups": [
+		"kumamoto-city"
 	],
 	"data": [
 		{

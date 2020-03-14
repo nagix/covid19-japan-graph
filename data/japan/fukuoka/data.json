@@ -4,10 +4,8 @@
 		"ja": "福岡県"
 	},
 	"date": "2020\/02\/20 22:00",
-	"children": [
-		{
-			"id": "kitakyushu"
-		}
+	"subgroups": [
+		"kitakyushu"
 	],
 	"data": [
 		{

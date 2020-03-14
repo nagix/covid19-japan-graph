@@ -4,16 +4,10 @@
 		"ja": "北海道"
 	},
 	"date": "2020\/03\/13 15:00",
-	"children": [
-		{
-			"id": "sapporo"
-		},
-		{
-			"id": "otaru"
-		},
-		{
-			"id": "asahikawa"
-		}
+	"subgroups": [
+		"sapporo",
+		"otaru",
+		"asahikawa"
 	],
 	"data": [
 		{
@@ -45,7 +39,7 @@
 			"pid": 6,
 			"jid": 80,
 			"address": "上川総合振興局管内（中富良野町）",
-			"age": "10歳未満",
+			"age": "u10",
 			"sex": "male",
 			"attribute": "小学生（中富良野小学校）",
 			"remarks": null,
@@ -407,7 +401,7 @@
 			"pid": 47,
 			"jid": 181,
 			"address": "上川総合振興局管内",
-			"age": "10歳未満",
+			"age": "u10",
 			"sex": "male",
 			"attribute": null,
 			"remarks": null,
@@ -431,7 +425,7 @@
 			"pid": 49,
 			"jid": 183,
 			"address": "十勝総合振興局管内",
-			"age": "10歳未満",
+			"age": "u10",
 			"sex": "male",
 			"attribute": "保育園児",
 			"remarks": null,
@@ -515,7 +509,7 @@
 			"pid": 56,
 			"jid": 196,
 			"address": "石狩振興局管内（千歳市）",
-			"age": "10歳未満",
+			"age": "u10",
 			"sex": "male",
 			"attribute": null,
 			"remarks": null,

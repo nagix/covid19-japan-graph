@@ -4,10 +4,8 @@
 		"ja": "宮城県"
 	},
 	"date": "2020\/02\/29 18:00",
-	"children": [
-		{
-			"id": "sendai"
-		}
+	"subgroups": [
+		"sendai"
 	],
 	"data": [
 	]

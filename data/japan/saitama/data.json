@@ -4,16 +4,10 @@
 		"ja": "埼玉県"
 	},
 	"date": "2020\/03\/13 18:00",
-	"children": [
-		{
-			"id": "saitama-city"
-		},
-		{
-			"id": "kawaguchi"
-		},
-		{
-			"id": "kawagoe"
-		}
+	"subgroups": [
+		"saitama-city",
+		"kawaguchi",
+		"kawagoe"
 	],
 	"data": [
 		{

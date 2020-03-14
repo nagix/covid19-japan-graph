@@ -1,5 +1,5 @@
 {
-	"id": "niigata",
+	"id": "niigata-city",
 	"label": {
 		"ja": "新潟市"
 	},
@@ -159,7 +159,7 @@
 			"pid": 13,
 			"jid": 600,
 			"address": "新潟市中央区",
-			"age": "10歳未満",
+			"age": "u10",
 			"sex": "male",
 			"attribute": null,
 			"remarks": null,
