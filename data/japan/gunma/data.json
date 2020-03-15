@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "群馬県"
 	},
-	"date": "2020\/03\/12 18:00",
+	"date": "2020\/03\/14 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -40,6 +40,30 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-12"
+		},
+		{
+			"pid": 4,
+			"jid": 660,
+			"address": "群馬県邑楽郡大泉町",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "医師",
+			"remarks": null,
+			"supplement": "No.623の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-14"
+		},
+		{
+			"pid": 5,
+			"jid": 661,
+			"address": "群馬県邑楽郡大泉町",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.660の妻",
+			"discharged": null,
+			"date": "2020-03-14"
 		}
 	]
 }

@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "長野県"
 	},
-	"date": "2020\/03\/06 18:00",
+	"date": "2020\/03\/14 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -40,6 +40,19 @@
 			"discharged": null,
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-06"
+		},
+		{
+			"pid": 4,
+			"jid": 644,
+			"address": "長野県（松本保健所管内）",
+			"age": "20s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/9までフランスに滞在",
+			"discharged": null,
+			"source": "france",
+			"date": "2020-03-14"
 		}
 	]
 }

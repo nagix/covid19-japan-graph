@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "福島県"
 	},
-	"date": "2020\/03\/07 18:00",
+	"date": "2020\/03\/14 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -17,6 +17,19 @@
 			"discharged": null,
 			"source": "cruise-ship",
 			"date": "2020-03-07"
+		},
+		{
+			"pid": 2,
+			"jid": 645,
+			"address": "福島県郡山市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "エジプト・ナイル川クルーズ",
+			"discharged": null,
+			"source": "cruise-ship",
+			"date": "2020-03-14"
 		}
 	]
 }

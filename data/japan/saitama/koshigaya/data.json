@@ -1,0 +1,85 @@
+{
+	"id": "koshigaya",
+	"label": {
+		"ja": "越谷市"
+	},
+	"date": "2020\/03\/14 18:00",
+	"data": [
+		{
+			"id": 1,
+			"pid": 21,
+			"jid": 598,
+			"address": "埼玉県越谷市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-12"
+		},
+		{
+			"id": 2,
+			"pid": 26,
+			"jid": 655,
+			"address": "埼玉県越谷市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員（県内）",
+			"remarks": null,
+			"supplement": "No.598の子",
+			"discharged": null,
+			"date": "2020-03-14"
+		},
+		{
+			"id": 3,
+			"pid": 27,
+			"jid": 656,
+			"address": "埼玉県越谷市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "会社員（県内）",
+			"remarks": null,
+			"supplement": "No.598の子の配偶者",
+			"discharged": null,
+			"date": "2020-03-14"
+		},
+		{
+			"id": 4,
+			"pid": 28,
+			"jid": 657,
+			"address": "埼玉県越谷市",
+			"age": "10s",
+			"sex": "female",
+			"attribute": "高校生（県内）",
+			"remarks": null,
+			"supplement": "No.598の孫",
+			"discharged": null,
+			"date": "2020-03-14"
+		},
+		{
+			"id": 5,
+			"pid": 29,
+			"address": "埼玉県越谷市",
+			"age": "10s",
+			"sex": "female",
+			"attribute": "中学生",
+			"remarks": "無症状",
+			"supplement": "No.598の孫",
+			"discharged": null,
+			"date": "2020-03-14"
+		},
+		{
+			"id": 6,
+			"pid": 30,
+			"address": "埼玉県越谷市",
+			"age": "10s",
+			"sex": "female",
+			"attribute": "小学生",
+			"remarks": "無症状",
+			"supplement": "No.598の孫",
+			"discharged": null,
+			"date": "2020-03-14"
+		}
+	]
+}

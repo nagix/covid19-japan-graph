@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "千葉県"
 	},
-	"date": "2020\/03\/13 18:00",
+	"date": "2020\/03\/14 18:00",
 	"subgroups": [
 		"funabashi"
 	],
@@ -369,6 +369,30 @@
 			"discharged": null,
 			"source": "egypt",
 			"date": "2020-03-13"
+		},
+		{
+			"pid": 31,
+			"jid": 658,
+			"address": "千葉県匝瑳市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.621の親族",
+			"discharged": null,
+			"date": "2020-03-14"
+		},
+		{
+			"pid": 32,
+			"jid": 659,
+			"address": "千葉県匝瑳市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.621の同居家族",
+			"discharged": null,
+			"date": "2020-03-14"
 		}
 	]
 }

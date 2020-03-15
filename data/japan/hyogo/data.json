@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "兵庫県"
 	},
-	"date": "2020\/03\/12 18:00",
+	"date": "2020\/03\/14 18:00",
 	"subgroups": [
 		"amagasaki",
 		"kobe",
@@ -203,7 +203,7 @@
 		{
 			"pid": 45,
 			"jid": 573,
-			"address": "宝塚市",
+			"address": "兵庫県宝塚市",
 			"age": "50s",
 			"sex": "female",
 			"attribute": "事務職",
@@ -216,7 +216,7 @@
 		{
 			"pid": 46,
 			"jid": 574,
-			"address": "宝塚健康福祉事務所管内",
+			"address": "兵庫県宝塚健康福祉事務所管内",
 			"age": "50s",
 			"sex": "female",
 			"attribute": null,
@@ -272,6 +272,56 @@
 			"supplement": "大阪府で確認された患者の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-13"
+		},
+		{
+			"pid": 64,
+			"jid": 682,
+			"address": "兵庫県宝塚健康福祉事務所管内",
+			"age": "80s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.543の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-14"
+		},
+		{
+			"pid": 65,
+			"jid": 683,
+			"address": "兵庫県芦屋市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": "No.547の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-14"
+		},
+		{
+			"pid": 66,
+			"jid": 684,
+			"address": "兵庫県芦屋市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "ベトナムに滞在",
+			"discharged": null,
+			"source": "vietnam",
+			"date": "2020-03-14"
+		},
+		{
+			"pid": 67,
+			"jid": 685,
+			"address": "兵庫県三田市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "フィリピンに滞在",
+			"discharged": null,
+			"source": "philippines",
+			"date": "2020-03-14"
 		}
 	]
 }

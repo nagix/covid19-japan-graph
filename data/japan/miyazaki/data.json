@@ -8,13 +8,14 @@
 		{
 			"pid": 1,
 			"jid": 264,
-			"address": "宮崎市",
+			"address": "宮崎県宮崎市",
 			"age": "70s",
 			"sex": "male",
 			"attribute": "無職",
 			"remarks": null,
 			"supplement": "2/26まで米国ロサンゼルスに滞在",
 			"discharged": null,
+			"source": "losangeles",
 			"date": "2020-03-04"
 		}
 	]

@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "札幌市"
 	},
-	"date": "2020\/03\/13 16:00",
+	"date": "2020\/03\/14 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -730,6 +730,84 @@
 			"supplement": "No.563の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-13"
+		},
+		{
+			"id": 56,
+			"pid": 137,
+			"jid": 649,
+			"address": "札幌市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-13"
+		},
+		{
+			"id": 57,
+			"pid": 138,
+			"jid": 650,
+			"address": "札幌市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.564の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-14"
+		},
+		{
+			"id": 58,
+			"pid": 139,
+			"jid": 651,
+			"address": "札幌市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-14"
+		},
+		{
+			"id": 59,
+			"pid": 140,
+			"jid": 652,
+			"address": "札幌市",
+			"age": "80s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.564、No.650の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-14"
+		},
+		{
+			"id": 60,
+			"pid": 141,
+			"jid": 653,
+			"address": "札幌市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.558の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-14"
+		},
+		{
+			"id": 61,
+			"pid": 142,
+			"jid": 654,
+			"address": "札幌市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "団体職員",
+			"remarks": null,
+			"supplement": "No.566の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-14"
 		}
 	]
 }

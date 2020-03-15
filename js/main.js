@@ -30,7 +30,12 @@ var sources = {
 	'hawaii': { label: { 'ja': 'ハワイ' } },
 	'cambodia': { label: { 'ja': 'カンボジア' } },
 	'france': { label: { 'ja': 'フランス' } },
-	'egypt': { label: { 'ja': 'エジプト' } }
+	'egypt': { label: { 'ja': 'エジプト' } },
+	'uk': { label: { 'ja': 'イギリス' } },
+	'vietnam': { label: { 'ja': 'ベトナム' } },
+	'losangeles': { label: { 'ja': 'ロサンゼルス' } },
+	'philippines': { label: { 'ja': 'フィリピン' } },
+	'southeast-asia': { label: { 'ja': '東南アジア' } }
 };
 
 var clusters = {

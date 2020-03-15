@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "大阪府"
 	},
-	"date": "2020\/03\/13 20:30",
+	"date": "2020\/03\/14 22:00",
 	"data": [
 		{
 			"pid": 1,
@@ -222,7 +222,7 @@
 			"age": "70s",
 			"sex": "male",
 			"attribute": null,
-			"remarks": null,
+			"remarks": "重症",
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-04"
@@ -1149,6 +1149,127 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-13"
+		},
+		{
+			"pid": 93,
+			"jid": 671,
+			"address": "大阪府大阪市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-14"
+		},
+		{
+			"pid": 94,
+			"jid": 672,
+			"address": "大阪府大阪市",
+			"age": "80s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": "重症",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-14"
+		},
+		{
+			"pid": 95,
+			"jid": 673,
+			"address": "大阪府大阪市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-14"
+		},
+		{
+			"pid": 96,
+			"jid": 674,
+			"address": "大阪府大東市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "福祉施設職員（児童福祉施設）",
+			"remarks": null,
+			"supplement": "No.583の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-14"
+		},
+		{
+			"pid": 97,
+			"jid": 675,
+			"address": "大阪府茨木市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-14"
+		},
+		{
+			"pid": 98,
+			"jid": 676,
+			"address": "大阪府泉佐野市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-14"
+		},
+		{
+			"pid": 99,
+			"jid": 677,
+			"address": "大阪府門真市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "3/6まで東南アジアに滞在",
+			"discharged": null,
+			"source": "southeast-asia",
+			"date": "2020-03-14"
+		},
+		{
+			"pid": 100,
+			"jid": 678,
+			"address": "大阪府八尾市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "医療従事者",
+			"remarks": null,
+			"supplement": "No.581の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-14"
+		},
+		{
+			"pid": 101,
+			"jid": 679,
+			"address": "大阪府吹田市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "福祉施設職員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-14"
+		},
+		{
+			"pid": 102,
+			"jid": 680,
+			"address": "大阪府吹田市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-14"
 		}
 	]
 }

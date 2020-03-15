@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "尼崎市"
 	},
-	"date": "2020\/03\/11 18:00",
+	"date": "2020\/03\/14 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -45,6 +45,20 @@
 			"supplement": "No.490の同居人",
 			"discharged": null,
 			"date": "2020-03-11"
+		},
+		{
+			"id": 4,
+			"pid": 57,
+			"jid": 681,
+			"address": "兵庫県尼崎市",
+			"age": "80s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.490が勤務する伊丹市内デイケア利用者",
+			"discharged": null,
+			"cluster": "itami-daycare",
+			"date": "2020-03-14"
 		}
 	]
 }
