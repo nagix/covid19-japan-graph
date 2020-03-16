@@ -291,7 +291,7 @@ loadData('japan').then(function(patients) {
 
 	var resetHeight = function() {
 		svgElement.style.height =
-			document.body.clientHeight - svgElement.getBoundingClientRect().top;
+			(document.body.clientHeight - svgElement.getBoundingClientRect().top) + 'px';
 	}
 
 	var redraw = function(event) {
