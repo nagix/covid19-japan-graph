@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "神戸市"
 	},
-	"date": "2020\/03\/13 18:00",
+	"date": "2020\/03\/15 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -219,6 +219,56 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-13"
+		},
+		{
+			"id": 17,
+			"pid": 68,
+			"jid": 705,
+			"address": "兵庫県神戸市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": "3/4まで海外出張",
+			"discharged": null,
+			"date": "2020-03-15"
+		},
+		{
+			"id": 18,
+			"pid": 69,
+			"jid": 706,
+			"address": "兵庫県神戸市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.607、No.608と同居",
+			"discharged": null,
+			"date": "2020-03-15"
+		},
+		{
+			"id": 19,
+			"pid": 70,
+			"address": "兵庫県神戸市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "医師",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-15"
+		},
+		{
+			"id": 20,
+			"pid": 71,
+			"address": "兵庫県神戸市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "医師",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-15"
 		}
 	]
 }

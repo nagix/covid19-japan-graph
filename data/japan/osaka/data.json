@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "大阪府"
 	},
-	"date": "2020\/03\/14 22:00",
+	"date": "2020\/03\/15 19:40",
 	"data": [
 		{
 			"pid": 1,
@@ -1152,7 +1152,7 @@
 		},
 		{
 			"pid": 93,
-			"jid": 671,
+			"jid": 670,
 			"address": "大阪府大阪市",
 			"age": "50s",
 			"sex": "male",
@@ -1164,7 +1164,7 @@
 		},
 		{
 			"pid": 94,
-			"jid": 672,
+			"jid": 671,
 			"address": "大阪府大阪市",
 			"age": "80s",
 			"sex": "female",
@@ -1176,7 +1176,7 @@
 		},
 		{
 			"pid": 95,
-			"jid": 673,
+			"jid": 672,
 			"address": "大阪府大阪市",
 			"age": "50s",
 			"sex": "male",
@@ -1188,7 +1188,7 @@
 		},
 		{
 			"pid": 96,
-			"jid": 674,
+			"jid": 673,
 			"address": "大阪府大東市",
 			"age": "50s",
 			"sex": "female",
@@ -1200,7 +1200,7 @@
 		},
 		{
 			"pid": 97,
-			"jid": 675,
+			"jid": 674,
 			"address": "大阪府茨木市",
 			"age": "20s",
 			"sex": "female",
@@ -1212,7 +1212,7 @@
 		},
 		{
 			"pid": 98,
-			"jid": 676,
+			"jid": 675,
 			"address": "大阪府泉佐野市",
 			"age": "60s",
 			"sex": "male",
@@ -1224,7 +1224,7 @@
 		},
 		{
 			"pid": 99,
-			"jid": 677,
+			"jid": 676,
 			"address": "大阪府門真市",
 			"age": "30s",
 			"sex": "female",
@@ -1237,7 +1237,7 @@
 		},
 		{
 			"pid": 100,
-			"jid": 678,
+			"jid": 677,
 			"address": "大阪府八尾市",
 			"age": "40s",
 			"sex": "female",
@@ -1249,7 +1249,7 @@
 		},
 		{
 			"pid": 101,
-			"jid": 679,
+			"jid": 678,
 			"address": "大阪府吹田市",
 			"age": "60s",
 			"sex": "female",
@@ -1261,7 +1261,7 @@
 		},
 		{
 			"pid": 102,
-			"jid": 680,
+			"jid": 679,
 			"address": "大阪府吹田市",
 			"age": "30s",
 			"sex": "male",
@@ -1270,6 +1270,54 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-14"
+		},
+		{
+			"pid": 103,
+			"jid": 710,
+			"address": "大阪府堺市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.583、No.584、No.673と接触歴あり",
+			"discharged": null,
+			"date": "2020-03-15"
+		},
+		{
+			"pid": 104,
+			"jid": 711,
+			"address": "大阪府大阪市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.459の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-15"
+		},
+		{
+			"pid": 105,
+			"jid": 712,
+			"address": "大阪府大阪市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-15"
+		},
+		{
+			"pid": 106,
+			"jid": 713,
+			"address": "大阪府大阪市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.672の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-15"
 		}
 	]
 }

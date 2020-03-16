@@ -1250,7 +1250,7 @@
 		{
 			"id": 92,
 			"pid": 115,
-			"jid": 686,
+			"jid": 685,
 			"address": "愛知県名古屋市",
 			"age": "70s",
 			"sex": "female",
@@ -1263,20 +1263,20 @@
 		{
 			"id": 93,
 			"pid": 116,
-			"jid": 687,
+			"jid": 686,
 			"address": "愛知県名古屋市",
 			"age": "70s",
 			"sex": "male",
 			"attribute": null,
 			"remarks": null,
-			"supplement": "No.686の濃厚接触者",
+			"supplement": "No.685の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-14"
 		},
 		{
 			"id": 94,
 			"pid": 117,
-			"jid": 688,
+			"jid": 687,
 			"address": "愛知県名古屋市",
 			"age": "50s",
 			"sex": "female",
@@ -1289,7 +1289,7 @@
 		{
 			"id": 95,
 			"pid": 118,
-			"jid": 689,
+			"jid": 688,
 			"address": "愛知県名古屋市",
 			"age": "50s",
 			"sex": "female",
@@ -1302,7 +1302,7 @@
 		{
 			"id": 96,
 			"pid": 119,
-			"jid": 690,
+			"jid": 689,
 			"address": "愛知県名古屋市",
 			"age": "60s",
 			"sex": "female",
@@ -1315,7 +1315,7 @@
 		{
 			"id": 97,
 			"pid": 120,
-			"jid": 691,
+			"jid": 690,
 			"address": "愛知県名古屋市",
 			"age": "50s",
 			"sex": "female",

@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "北海道"
 	},
-	"date": "2020\/03\/13 15:00",
+	"date": "2020\/03\/15 17:00",
 	"subgroups": [
 		"sapporo",
 		"otaru",
@@ -868,6 +868,54 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-13"
+		},
+		{
+			"pid": 145,
+			"jid": 692,
+			"address": "空知総合振興局管内",
+			"age": "80s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": "重症",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-15"
+		},
+		{
+			"pid": 146,
+			"jid": 693,
+			"address": "苫小牧市",
+			"age": "u10",
+			"sex": "male",
+			"attribute": "保育園児",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-15"
+		},
+		{
+			"pid": 147,
+			"jid": 694,
+			"address": "オホーツク総合振興局管内",
+			"age": "80s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-15"
+		},
+		{
+			"pid": 148,
+			"jid": 695,
+			"address": "オホーツク総合振興局管内",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.694の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-15"
 		}
 	]
 }

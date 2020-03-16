@@ -213,19 +213,19 @@
 		},
 		{
 			"pid": 31,
-			"jid": 647,
+			"jid": 646,
 			"address": "埼玉県入間市",
 			"age": "30s",
 			"sex": "male",
 			"attribute": "会社員（都内勤務）",
 			"remarks": null,
-			"supplement": "勤務先社員No.648に新型コロナウイルスの感染あり",
+			"supplement": "勤務先社員No.647に新型コロナウイルスの感染あり",
 			"discharged": null,
 			"date": "2020-03-14"
 		},
 		{
 			"pid": 32,
-			"jid": 648,
+			"jid": 647,
 			"address": "埼玉県新座市",
 			"age": "20s",
 			"sex": "female",

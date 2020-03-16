@@ -43,7 +43,7 @@
 		},
 		{
 			"pid": 4,
-			"jid": 660,
+			"jid": 659,
 			"address": "群馬県邑楽郡大泉町",
 			"age": "70s",
 			"sex": "male",
@@ -55,13 +55,13 @@
 		},
 		{
 			"pid": 5,
-			"jid": 661,
+			"jid": 660,
 			"address": "群馬県邑楽郡大泉町",
 			"age": "70s",
 			"sex": "female",
 			"attribute": "無職",
 			"remarks": null,
-			"supplement": "No.660の妻",
+			"supplement": "No.659の妻",
 			"discharged": null,
 			"date": "2020-03-14"
 		}

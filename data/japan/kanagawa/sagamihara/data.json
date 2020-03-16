@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "相模原市"
 	},
-	"date": "2020\/03\/06 18:00",
+	"date": "2020\/03\/15 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -278,6 +278,57 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-06"
+		},
+		{
+			"id": 22,
+			"pid": 52,
+			"address": "神奈川県相模原市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.664と同一人物",
+			"discharged": null,
+			"date": "2020-03-06"
+		},
+		{
+			"id": 23,
+			"pid": 53,
+			"jid": 698,
+			"address": "神奈川県相模原市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.664の妻",
+			"discharged": null,
+			"date": "2020-03-15"
+		},
+		{
+			"id": 24,
+			"pid": 54,
+			"jid": 699,
+			"address": "神奈川県相模原市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.664の子",
+			"discharged": null,
+			"date": "2020-03-15"
+		},
+		{
+			"id": 25,
+			"pid": 55,
+			"jid": 700,
+			"address": "神奈川県相模原市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.227の関係者",
+			"discharged": null,
+			"date": "2020-03-15"
 		}
 	]
 }

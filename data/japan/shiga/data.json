@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "滋賀県"
 	},
-	"date": "2020\/03\/05 18:00",
+	"date": "2020\/03\/15 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -16,6 +16,18 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-05"
+		},
+		{
+			"pid": 2,
+			"jid": 704,
+			"address": "滋賀県東近江市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-15"
 		}
 	]
 }

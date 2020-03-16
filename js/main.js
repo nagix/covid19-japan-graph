@@ -35,7 +35,8 @@ var sources = {
 	'vietnam': { label: { 'ja': 'ベトナム' } },
 	'losangeles': { label: { 'ja': 'ロサンゼルス' } },
 	'philippines': { label: { 'ja': 'フィリピン' } },
-	'southeast-asia': { label: { 'ja': '東南アジア' } }
+	'southeast-asia': { label: { 'ja': '東南アジア' } },
+	'italy': { label: { 'ja': 'イタリア' } }
 };
 
 var clusters = {

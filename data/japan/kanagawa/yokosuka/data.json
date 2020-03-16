@@ -1,0 +1,23 @@
+{
+	"id": "yokosuka",
+	"label": {
+		"ja": "横須賀市"
+	},
+	"date": "2020\/03\/15 18:00",
+	"data": [
+		{
+			"id": 1,
+			"pid": 57,
+			"jid": 702,
+			"address": "神奈川県横須賀市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "介護職",
+			"remarks": null,
+			"supplement": "エジプト・ナイル川クルーズ",
+			"discharged": null,
+			"source": "egypt",
+			"date": "2020-03-15"
+		}
+	]
+}
