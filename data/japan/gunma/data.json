@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "群馬県"
 	},
-	"date": "2020\/03\/14 18:00",
+	"date": "2020\/03\/16 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -64,6 +64,18 @@
 			"supplement": "No.659の妻",
 			"discharged": null,
 			"date": "2020-03-14"
+		},
+		{
+			"pid": 6,
+			"jid": 723,
+			"address": "群馬県邑楽郡大泉町",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "事務職員",
+			"remarks": null,
+			"supplement": "No.623、No.659の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-16"
 		}
 	]
 }

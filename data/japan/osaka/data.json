@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "大阪府"
 	},
-	"date": "2020\/03\/15 19:40",
+	"date": "2020\/03\/16 19:20",
 	"data": [
 		{
 			"pid": 1,
@@ -1318,6 +1318,30 @@
 			"supplement": "No.672の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-15"
+		},
+		{
+			"pid": 107,
+			"jid": 718,
+			"address": "大阪府大東市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.718の同居家族",
+			"discharged": null,
+			"date": "2020-03-16"
+		},
+		{
+			"pid": 108,
+			"jid": 719,
+			"address": "大阪府大東市",
+			"age": "u10",
+			"sex": "male",
+			"attribute": "未就学児",
+			"remarks": null,
+			"supplement": "No.673の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-16"
 		}
 	]
 }

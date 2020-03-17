@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "北海道"
 	},
-	"date": "2020\/03\/15 17:00",
+	"date": "2020\/03\/16 17:00",
 	"subgroups": [
 		"sapporo",
 		"otaru",
@@ -19,7 +19,7 @@
 			"attribute": "武漢市からの旅行者",
 			"remarks": null,
 			"supplement": "1/21武漢から来日",
-			"discharged": null,
+			"discharged": "〇",
 			"source": "china",
 			"date": "2020-01-28"
 		},
@@ -916,6 +916,18 @@
 			"supplement": "No.694の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-15"
+		},
+		{
+			"pid": 149,
+			"jid": 714,
+			"address": "オホーツク総合振興局管内",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.630の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-16"
 		}
 	]
 }

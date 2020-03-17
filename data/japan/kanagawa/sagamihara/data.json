@@ -164,6 +164,7 @@
 			"remarks": null,
 			"supplement": null,
 			"discharged": null,
+			"cluster": "sagamihara-welfare",
 			"date": "2020-02-28"
 		},
 		{
@@ -202,6 +203,7 @@
 			"remarks": "無症状",
 			"supplement": "No.193の濃厚接触者",
 			"discharged": null,
+			"cluster": "sagamihara-welfare",
 			"date": "2020-03-02"
 		},
 		{
@@ -214,6 +216,7 @@
 			"remarks": "無症状",
 			"supplement": "No.193の濃厚接触者",
 			"discharged": null,
+			"cluster": "sagamihara-welfare",
 			"date": "2020-03-02"
 		},
 		{
@@ -226,6 +229,7 @@
 			"remarks": "無症状",
 			"supplement": "No.193の濃厚接触者",
 			"discharged": null,
+			"cluster": "sagamihara-welfare",
 			"date": "2020-03-02"
 		},
 		{
@@ -238,6 +242,7 @@
 			"remarks": "無症状",
 			"supplement": "No.193の濃厚接触者",
 			"discharged": null,
+			"cluster": "sagamihara-welfare",
 			"date": "2020-03-02"
 		},
 		{
@@ -251,6 +256,7 @@
 			"remarks": null,
 			"supplement": "No.193の福祉事業所の関係者",
 			"discharged": null,
+			"cluster": "sagamihara-welfare",
 			"date": "2020-03-05"
 		},
 		{
@@ -264,6 +270,7 @@
 			"remarks": null,
 			"supplement": "No.193の福祉事業所の関係者",
 			"discharged": null,
+			"cluster": "sagamihara-welfare",
 			"date": "2020-03-05"
 		},
 		{

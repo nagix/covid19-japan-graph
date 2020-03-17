@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "愛知県"
 	},
-	"date": "2020\/03\/13 18:00",
+	"date": "2020\/03\/16 18:00",
 	"subgroups": [
 		"nagoya",
 		"okazaki",
@@ -249,6 +249,19 @@
 			"supplement": "No.256の家族（濃厚接触者）",
 			"discharged": null,
 			"date": "2020-03-13"
+		},
+		{
+			"pid": 122,
+			"jid": 720,
+			"address": "愛知県一宮市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/2フィリピンから帰国",
+			"discharged": null,
+			"source": "philippines",
+			"date": "2020-03-16"
 		}
 	]
 }

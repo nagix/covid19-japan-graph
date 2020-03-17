@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "兵庫県"
 	},
-	"date": "2020\/03\/14 18:00",
+	"date": "2020\/03\/16 18:00",
 	"subgroups": [
 		"amagasaki",
 		"kobe",
@@ -56,9 +56,9 @@
 			"age": "80s",
 			"sex": "male",
 			"attribute": "無職",
-			"remarks": null,
+			"remarks": "3/16死亡",
 			"supplement": "No.393の夫",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-08"
 		},
 		{
@@ -106,7 +106,7 @@
 			"sex": "male",
 			"attribute": "無職",
 			"remarks": "死亡",
-			"supplement": "伊丹市内デイケア利用",
+			"supplement": "伊丹市内デイケア利用、宝塚第一病院の入院患者",
 			"discharged": "〇",
 			"cluster": "itami-daycare",
 			"date": "2020-03-11"
@@ -274,6 +274,67 @@
 			"date": "2020-03-13"
 		},
 		{
+			"pid": 58,
+			"address": "兵庫県宝塚健康福祉事務所管内",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": "無症状",
+			"supplement": "伊丹市内デイケアの従事者",
+			"discharged": null,
+			"cluster": "itami-daycare",
+			"date": "2020-03-14"
+		},
+		{
+			"pid": 59,
+			"address": "兵庫県宝塚健康福祉事務所管内",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": "無症状",
+			"supplement": "伊丹市内デイケアの従事者",
+			"discharged": null,
+			"cluster": "itami-daycare",
+			"date": "2020-03-14"
+		},
+		{
+			"pid": 61,
+			"address": "兵庫県伊丹市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": "無症状",
+			"supplement": "伊丹市内デイケアの従事者",
+			"discharged": null,
+			"cluster": "itami-daycare",
+			"date": "2020-03-14"
+		},
+		{
+			"pid": 62,
+			"address": "兵庫県伊丹市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": "無症状",
+			"supplement": "伊丹市内デイケアの従事者",
+			"discharged": null,
+			"cluster": "itami-daycare",
+			"date": "2020-03-14"
+		},
+		{
+			"pid": 63,
+			"jid": 728,
+			"address": "兵庫県伊丹市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "伊丹市内デイケアを利用",
+			"discharged": null,
+			"cluster": "itami-daycare",
+			"date": "2020-03-14"
+		},
+		{
 			"pid": 64,
 			"jid": 681,
 			"address": "兵庫県宝塚健康福祉事務所管内",
@@ -281,8 +342,9 @@
 			"sex": "male",
 			"attribute": null,
 			"remarks": null,
-			"supplement": "No.543の濃厚接触者",
+			"supplement": "No.543の濃厚接触者（宝塚第一病院の入院同室者）",
 			"discharged": null,
+			"cluster": "takarazuka-hospital",
 			"date": "2020-03-14"
 		},
 		{
@@ -322,6 +384,111 @@
 			"discharged": null,
 			"source": "philippines",
 			"date": "2020-03-14"
+		},
+		{
+			"pid": 72,
+			"address": "兵庫県宝塚健康福祉事務所管内",
+			"age": "80s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "伊丹市内デイケアを利用",
+			"discharged": null,
+			"cluster": "itami-daycare",
+			"date": "2020-03-15"
+		},
+		{
+			"pid": 73,
+			"address": "兵庫県伊丹健康福祉事務所管内",
+			"age": "80s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "伊丹市内デイケアを利用",
+			"discharged": null,
+			"cluster": "itami-daycare",
+			"date": "2020-03-15"
+		},
+		{
+			"pid": 74,
+			"address": "兵庫県伊丹健康福祉事務所管内",
+			"age": "80s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "伊丹市内デイケアを利用",
+			"discharged": null,
+			"cluster": "itami-daycare",
+			"date": "2020-03-15"
+		},
+		{
+			"pid": 75,
+			"address": "兵庫県伊丹市",
+			"age": "80s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "No.415の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-15"
+		},
+		{
+			"pid": 76,
+			"address": "兵庫県伊丹市",
+			"age": "80s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "No.hyogo75の同居人",
+			"discharged": null,
+			"date": "2020-03-15"
+		},
+		{
+			"pid": 77,
+			"address": "兵庫県宝塚健康福祉事務所管内",
+			"age": "90s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "No.543、No.681が入院、No.kobe19、No.kobe20が勤務の宝塚第一病院に入院",
+			"discharged": null,
+			"cluster": "takarazuka-hospital",
+			"date": "2020-03-15"
+		},
+		{
+			"pid": 78,
+			"address": "兵庫県宝塚健康福祉事務所管内",
+			"age": "90s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "No.543、No.681が入院、No.kobe19、No.kobe20が勤務の宝塚第一病院に入院",
+			"discharged": null,
+			"cluster": "takarazuka-hospital",
+			"date": "2020-03-16"
+		},
+		{
+			"pid": 80,
+			"address": "兵庫県加西市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "看護師（北播磨総合医療センター）",
+			"remarks": null,
+			"supplement": "No.hyogo55の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-16"
+		},
+		{
+			"pid": 81,
+			"jid": 724,
+			"address": "兵庫県加東健康福祉事務所管内",
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-16"
 		}
 	]
 }

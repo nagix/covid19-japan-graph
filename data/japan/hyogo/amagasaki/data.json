@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "尼崎市"
 	},
-	"date": "2020\/03\/14 18:00",
+	"date": "2020\/03\/16 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -59,6 +59,33 @@
 			"discharged": null,
 			"cluster": "itami-daycare",
 			"date": "2020-03-14"
+		},
+		{
+			"id": 5,
+			"pid": 60,
+			"address": "兵庫県尼崎市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": "無症状",
+			"supplement": "伊丹市内デイケアの従事者",
+			"discharged": null,
+			"cluster": "itami-daycare",
+			"date": "2020-03-14"
+		},
+		{
+			"id": 6,
+			"pid": 82,
+			"jid": 725,
+			"address": "兵庫県尼崎市",
+			"age": "80s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "宝塚第一病院の医師の濃厚接触者",
+			"discharged": null,
+			"cluster": "takarazuka-hospital",
+			"date": "2020-03-16"
 		}
 	]
 }

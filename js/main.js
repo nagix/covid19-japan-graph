@@ -41,6 +41,7 @@ var sources = {
 
 var clusters = {
 	'sagamihara-hospital': { label: { 'ja': '相模原中央病院クラスター' }, parentId: 'sagamihara' },
+	'sagamihara-welfare': { label: { 'ja': '相模原福祉施設クラスター' }, parentId: 'sagamihara' },
 	'tokyo-yakatabune': { label: { 'ja': '屋形船新年会クラスター' }, parentId: 'tokyo' },
 	'wakayama-hospital': { label: { 'ja': '和歌山済生会有田病院クラスター' }, parentId: 'wakayama' },
 	'nagoya-gym-a': { label: { 'ja': '名古屋スポーツジムAクラスター' }, parentId: 'nagoya' },
@@ -48,7 +49,7 @@ var clusters = {
 	'nagoya-gym-b': { label: { 'ja': '名古屋スポーツジムBクラスター' }, parentId: 'nagoya' },
 	'kitami-exhibition': { label: { 'ja': '北見展示会クラスター' }, parentId: 'hokkaido' },
 	'osaka-livehouse-a': { label: { 'ja': '大阪京橋ライブハウスArcクラスター' }, parentId: 'osaka' },
-	'niigata-pingpong': { label: { 'ja': '新潟卓球スクールクラスター' }, parentId: 'niigata' },
+	'niigata-pingpong': { label: { 'ja': '新潟卓球スクールクラスター' }, parentId: 'niigata-city' },
 	'nagoya-dayservice-a': { label: { 'ja': '名古屋高齢者デイサービスAクラスター' }, parentId: 'nagoya' },
 	'sapporo-livebar': { label: { 'ja': '札幌中ライブバークラスター' }, parentId: 'sapporo' },
 	'nagoya-dayservice-b': { label: { 'ja': '名古屋高齢者デイサービスBクラスター' }, parentId: 'nagoya' },
@@ -58,7 +59,8 @@ var clusters = {
 	'himeji-hospital': { label: { 'ja': '姫路仁恵病院クラスター' }, parentId: 'himeji' },
 	'osaka-livehouse-c': { label: { 'ja': '大阪北区ライブハウスLIVE HOUSE Rumioクラスター' }, parentId: 'osaka' },
 	'kobe-kindergarten': { label: { 'ja': '神戸こども園クラスター' }, parentId: 'kobe' },
-	'osaka-livehouse-d': { label: { 'ja': '大阪中央区ライブハウスamericamura FANJ twiceクラスター' }, parentId: 'osaka' }
+	'osaka-livehouse-d': { label: { 'ja': '大阪中央区ライブハウスamericamura FANJ twiceクラスター' }, parentId: 'osaka' },
+	'takarazuka-hospital': { label: { 'ja': '宝塚第一病院クラスター' }, parentId: 'hyogo' }
 };
 
 var boxColors = {
