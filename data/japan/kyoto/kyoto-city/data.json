@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "京都市"
 	},
-	"date": "2020\/03\/12 18:00",
+	"date": "2020\/03\/17 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -116,8 +116,8 @@
 		},
 		{
 			"id": 9,
-			"jid": 587,
 			"pid": 17,
+			"jid": 587,
 			"address": "京都府京都市",
 			"age": null,
 			"sex": null,
@@ -126,6 +126,33 @@
 			"supplement": "No.522の保護者",
 			"discharged": null,
 			"date": "2020-03-12"
+		},
+		{
+			"id": 10,
+			"pid": 18,
+			"jid": 750,
+			"address": "京都府京都市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "同居の母がエジプト・ナイル川クルーズに参加",
+			"discharged": null,
+			"date": "2020-03-17"
+		},
+		{
+			"id": 11,
+			"pid": 19,
+			"jid": 751,
+			"address": "京都府京都市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "臨時的任用の右京区役所職員",
+			"remarks": null,
+			"supplement": "エジプト・ナイル川クルーズに参加、No.521の濃厚接触者",
+			"discharged": null,
+			"source": "egypt",
+			"date": "2020-03-17"
 		}
 	]
 }

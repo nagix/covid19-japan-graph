@@ -36,7 +36,8 @@ var sources = {
 	'losangeles': { label: { 'ja': 'ロサンゼルス' } },
 	'philippines': { label: { 'ja': 'フィリピン' } },
 	'southeast-asia': { label: { 'ja': '東南アジア' } },
-	'italy': { label: { 'ja': 'イタリア' } }
+	'italy': { label: { 'ja': 'イタリア' } },
+	'finland': { label: { 'ja': 'フィンランド' } }
 };
 
 var clusters = {
@@ -60,7 +61,9 @@ var clusters = {
 	'osaka-livehouse-c': { label: { 'ja': '大阪北区ライブハウスLIVE HOUSE Rumioクラスター' }, parentId: 'osaka' },
 	'kobe-kindergarten': { label: { 'ja': '神戸こども園クラスター' }, parentId: 'kobe' },
 	'osaka-livehouse-d': { label: { 'ja': '大阪中央区ライブハウスamericamura FANJ twiceクラスター' }, parentId: 'osaka' },
-	'takarazuka-hospital': { label: { 'ja': '宝塚第一病院クラスター' }, parentId: 'hyogo' }
+	'takarazuka-hospital': { label: { 'ja': '宝塚第一病院クラスター' }, parentId: 'hyogo' },
+	'kobe-longterm-care': { label: { 'ja': '神戸介護保険通所事業所ラスター' }, parentId: 'kobe' },
+	'oizumi-clinic': { label: { 'ja': '大泉町診療所クラスター' }, parentId: 'gunma' }
 };
 
 var boxColors = {

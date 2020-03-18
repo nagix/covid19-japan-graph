@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "滋賀県"
 	},
-	"date": "2020\/03\/16 18:00",
+	"date": "2020\/03\/17 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -40,6 +40,18 @@
 			"supplement": "No.704の妻",
 			"discharged": null,
 			"date": "2020-03-16"
+		},
+		{
+			"pid": 4,
+			"jid": 731,
+			"address": "滋賀県大津市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "タイ、ヨルダン、トルコ、カタール、イギリス、フランス、スペイン、ポルトガル、モロッコ、フィンランドに滞在",
+			"discharged": null,
+			"date": "2020-03-17"
 		}
 	]
 }

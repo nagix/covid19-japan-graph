@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "福岡県"
 	},
-	"date": "2020\/02\/20 22:00",
+	"date": "2020\/03\/17 18:00",
 	"subgroups": [
 		"kitakyushu"
 	],
@@ -31,6 +31,19 @@
 			"supplement": "No.71の妻",
 			"discharged": "〇",
 			"date": "2020-02-20"
+		},
+		{
+			"pid": 4,
+			"jid": 755,
+			"address": "福岡県福岡市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "学生（九州大学）",
+			"remarks": null,
+			"supplement": "3/9フィンランドから帰国",
+			"discharged": null,
+			"source": "finland",
+			"date": "2020-03-17"
 		}
 	]
 }

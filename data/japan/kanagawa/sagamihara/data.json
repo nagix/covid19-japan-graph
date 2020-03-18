@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "相模原市"
 	},
-	"date": "2020\/03\/15 18:00",
+	"date": "2020\/03\/17 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -27,9 +27,9 @@
 			"age": "80s",
 			"sex": "male",
 			"attribute": null,
-			"remarks": null,
+			"remarks": "3/16死亡",
 			"supplement": "No.27が入院していた相模原市内の病院に入院",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "sagamihara-hospital",
 			"date": "2020-02-19"
 		},
@@ -329,13 +329,26 @@
 			"pid": 55,
 			"jid": 700,
 			"address": "神奈川県相模原市",
-			"age": "40s",
-			"sex": "female",
+			"age": "80s",
+			"sex": "male",
 			"attribute": null,
 			"remarks": null,
 			"supplement": "No.227の関係者",
 			"discharged": null,
 			"date": "2020-03-15"
+		},
+		{
+			"id": 26,
+			"pid": 58,
+			"jid": 730,
+			"address": "神奈川県相模原市",
+			"age": "80s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.700の関係者",
+			"discharged": null,
+			"date": "2020-03-17"
 		}
 	]
 }

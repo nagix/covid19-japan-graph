@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "兵庫県"
 	},
-	"date": "2020\/03\/16 18:00",
+	"date": "2020\/03\/17 18:00",
 	"subgroups": [
 		"amagasaki",
 		"kobe",
@@ -473,7 +473,7 @@
 			"age": "50s",
 			"sex": "female",
 			"attribute": "看護師（北播磨総合医療センター）",
-			"remarks": null,
+			"remarks": "陽性確定",
 			"supplement": "No.hyogo55の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-16"
@@ -489,6 +489,19 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-16"
+		},
+		{
+			"pid": 86,
+			"jid": 738,
+			"address": "兵庫県伊丹健康福祉事務所管内",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "伊丹市内デイケアを利用",
+			"discharged": null,
+			"cluster": "itami-daycare",
+			"date": "2020-03-17"
 		}
 	]
 }

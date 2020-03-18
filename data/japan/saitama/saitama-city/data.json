@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "さいたま市"
 	},
-	"date": "2020\/03\/12 18:00",
+	"date": "2020\/03\/17 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -58,6 +58,19 @@
 			"supplement": "No.575の母",
 			"discharged": null,
 			"date": "2020-03-12"
+		},
+		{
+			"id": 5,
+			"pid": 33,
+			"jid": 743,
+			"address": "埼玉県さいたま市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.575の父、No.576の夫（同居家族）",
+			"discharged": null,
+			"date": "2020-03-17"
 		}
 	]
 }

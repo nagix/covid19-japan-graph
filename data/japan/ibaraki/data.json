@@ -1,0 +1,22 @@
+{
+	"id": "ibaraki",
+	"label": {
+		"ja": "茨城県"
+	},
+	"date": "2020\/03\/17 18:00",
+	"data": [
+		{
+			"pid": 1,
+			"jid": 734,
+			"address": "茨城県ひたちなか市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "2/27までイタリア・トスカーナ州に出張",
+			"discharged": null,
+			"source": "italy",
+			"date": "2020-03-17"
+		}
+	]
+}

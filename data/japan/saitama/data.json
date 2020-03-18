@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "埼玉県"
 	},
-	"date": "2020\/03\/14 18:00",
+	"date": "2020\/03\/17 18:00",
 	"subgroups": [
 		"saitama-city",
 		"kawaguchi",
@@ -234,6 +234,58 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-14"
+		},
+		{
+			"pid": 34,
+			"jid": 739,
+			"address": "埼玉県深谷市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "団体職員（都内勤務）",
+			"remarks": null,
+			"supplement": "エジプト・ナイル川クルーズ",
+			"discharged": null,
+			"source": "egypt",
+			"date": "2020-03-17"
+		},
+		{
+			"pid": 35,
+			"jid": 740,
+			"address": "埼玉県深谷市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "エジプト・ナイル川クルーズ、No.739の妻",
+			"discharged": null,
+			"source": "egypt",
+			"date": "2020-03-17"
+		},
+		{
+			"pid": 36,
+			"jid": 741,
+			"address": "埼玉県志木市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/13までイギリス滞在",
+			"discharged": null,
+			"source": "uk",
+			"date": "2020-03-17"
+		},
+		{
+			"pid": 37,
+			"jid": 742,
+			"address": "埼玉県熊谷市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "2/11ダイヤモンド・プリンセス号を下船",
+			"discharged": null,
+			"source": "cruise-ship",
+			"date": "2020-03-17"
 		}
 	]
 }

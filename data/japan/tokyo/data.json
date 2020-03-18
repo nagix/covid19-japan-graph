@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "東京都"
 	},
-	"date": "2020\/03\/15 19:00",
+	"date": "2020\/03\/17 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -1098,6 +1098,150 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-15"
+		},
+		{
+			"pid": 91,
+			"jid": 756,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-17"
+		},
+		{
+			"pid": 92,
+			"jid": 757,
+			"address": "東京都",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-17"
+		},
+		{
+			"pid": 93,
+			"jid": 758,
+			"address": "東京都",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-17"
+		},
+		{
+			"pid": 94,
+			"jid": 759,
+			"address": "東京都",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-17"
+		},
+		{
+			"pid": 95,
+			"jid": 760,
+			"address": "東京都",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "団体役員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-17"
+		},
+		{
+			"pid": 96,
+			"jid": 761,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-17"
+		},
+		{
+			"pid": 97,
+			"jid": 762,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-17"
+		},
+		{
+			"pid": 98,
+			"jid": 763,
+			"address": "東京都",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-17"
+		},
+		{
+			"pid": 99,
+			"jid": 764,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-17"
+		},
+		{
+			"pid": 100,
+			"jid": 765,
+			"address": "東京都",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-17"
+		},
+		{
+			"pid": 101,
+			"jid": 766,
+			"address": "東京都",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-17"
+		},
+		{
+			"pid": 102,
+			"jid": 767,
+			"address": "東京都",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "パート従業員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-17"
 		}
 	]
 }

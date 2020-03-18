@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "大阪府"
 	},
-	"date": "2020\/03\/16 19:20",
+	"date": "2020\/03\/17 19:20",
 	"data": [
 		{
 			"pid": 1,
@@ -1342,6 +1342,53 @@
 			"supplement": "No.673の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-16"
+		},
+		{
+			"pid": 109,
+			"jid": 752,
+			"address": "大阪府大阪市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.583、No.584、No.673、No.710と接触あり",
+			"discharged": null,
+			"date": "2020-03-17"
+		},
+		{
+			"pid": 110,
+			"jid": 753,
+			"address": "大阪府大阪市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.461の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-17"
+		},
+		{
+			"pid": 111,
+			"address": "大阪府大阪市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": "陽性確定",
+			"supplement": "No.282の濃厚接触者（同居家族）",
+			"discharged": null,
+			"date": "2020-03-17"
+		},
+		{
+			"pid": 112,
+			"jid": 754,
+			"address": "大阪府泉佐野市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.675の濃厚接触者（同居家族）",
+			"discharged": null,
+			"date": "2020-03-17"
 		}
 	]
 }

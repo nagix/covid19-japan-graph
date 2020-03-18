@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "群馬県"
 	},
-	"date": "2020\/03\/16 18:00",
+	"date": "2020\/03\/17 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -39,6 +39,7 @@
 			"remarks": null,
 			"supplement": null,
 			"discharged": null,
+			"cluster": "oizumi-clinic",
 			"date": "2020-03-12"
 		},
 		{
@@ -51,6 +52,7 @@
 			"remarks": null,
 			"supplement": "No.623の濃厚接触者",
 			"discharged": null,
+			"cluster": "oizumi-clinic",
 			"date": "2020-03-14"
 		},
 		{
@@ -75,7 +77,59 @@
 			"remarks": null,
 			"supplement": "No.623、No.659の濃厚接触者",
 			"discharged": null,
+			"cluster": "oizumi-clinic",
 			"date": "2020-03-16"
+		},
+		{
+			"pid": 7,
+			"jid": 746,
+			"address": "群馬県太田市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.391の父、No.622の夫（同居家族）",
+			"discharged": null,
+			"date": "2020-03-17"
+		},
+		{
+			"pid": 8,
+			"jid": 747,
+			"address": "群馬県邑楽郡大泉町",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "運転手",
+			"remarks": null,
+			"supplement": "No.623、No.659の濃厚接触者",
+			"discharged": null,
+			"cluster": "oizumi-clinic",
+			"date": "2020-03-17"
+		},
+		{
+			"pid": 9,
+			"jid": 748,
+			"address": "群馬県太田市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "事務職員",
+			"remarks": null,
+			"supplement": "No.623、No.659、No.723の濃厚接触者",
+			"discharged": null,
+			"cluster": "oizumi-clinic",
+			"date": "2020-03-17"
+		},
+		{
+			"pid": 10,
+			"jid": 749,
+			"address": "群馬県邑楽郡大泉町",
+			"age": "50s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.623、No.659、No.723の濃厚接触者",
+			"discharged": null,
+			"cluster": "oizumi-clinic",
+			"date": "2020-03-17"
 		}
 	]
 }

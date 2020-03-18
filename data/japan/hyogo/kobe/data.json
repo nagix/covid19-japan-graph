@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "神戸市"
 	},
-	"date": "2020\/03\/16 18:00",
+	"date": "2020\/03\/17 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -193,6 +193,7 @@
 			"remarks": null,
 			"supplement": null,
 			"discharged": null,
+			"cluster": "kobe-longterm-care",
 			"date": "2020-03-13"
 		},
 		{
@@ -219,6 +220,7 @@
 			"remarks": null,
 			"supplement": null,
 			"discharged": null,
+			"cluster": "kobe-longterm-care",
 			"date": "2020-03-13"
 		},
 		{
@@ -245,6 +247,7 @@
 			"remarks": null,
 			"supplement": "No.607、No.608と同居",
 			"discharged": null,
+			"cluster": "kobe-longterm-care",
 			"date": "2020-03-15"
 		},
 		{
@@ -285,6 +288,47 @@
 			"supplement": "3/4まで海外渡航",
 			"discharged": null,
 			"date": "2020-03-16"
+		},
+		{
+			"id": 22,
+			"pid": 83,
+			"jid": 735,
+			"address": "兵庫県神戸市",
+			"age": "80s",
+			"sex": "female",
+			"attribute": "",
+			"remarks": null,
+			"supplement": "",
+			"discharged": null,
+			"cluster": "kobe-longterm-care",
+			"date": "2020-03-17"
+		},
+		{
+			"id": 23,
+			"pid": 84,
+			"jid": 736,
+			"address": "兵庫県神戸市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "",
+			"remarks": null,
+			"supplement": "",
+			"discharged": null,
+			"cluster": "kobe-longterm-care",
+			"date": "2020-03-17"
+		},
+		{
+			"id": 24,
+			"pid": 85,
+			"jid": 737,
+			"address": "兵庫県西宮市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "",
+			"remarks": null,
+			"supplement": "",
+			"discharged": null,
+			"date": "2020-03-17"
 		}
 	]
 }

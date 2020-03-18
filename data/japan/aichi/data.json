@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "愛知県"
 	},
-	"date": "2020\/03\/16 18:00",
+	"date": "2020\/03\/17 18:00",
 	"subgroups": [
 		"nagoya",
 		"okazaki",
@@ -262,6 +262,18 @@
 			"discharged": null,
 			"source": "philippines",
 			"date": "2020-03-16"
+		},
+		{
+			"pid": 124,
+			"jid": 745,
+			"address": "愛知県清須市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-17"
 		}
 	]
 }
