@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "大阪府"
 	},
-	"date": "2020\/03\/17 19:20",
+	"date": "2020\/03\/18 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -1389,6 +1389,66 @@
 			"supplement": "No.675の濃厚接触者（同居家族）",
 			"discharged": null,
 			"date": "2020-03-17"
+		},
+		{
+			"pid": 113,
+			"jid": 785,
+			"address": "大阪府池田市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.636の濃厚接触者（同居家族）",
+			"discharged": null,
+			"date": "2020-03-18"
+		},
+		{
+			"pid": 114,
+			"jid": 786,
+			"address": "大阪府池田市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "福祉施設職員（送迎スタッフ）",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-18"
+		},
+		{
+			"pid": 115,
+			"jid": 787,
+			"address": "大阪府泉佐野市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員（事務職）",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-18"
+		},
+		{
+			"pid": 116,
+			"jid": 788,
+			"address": "大阪府泉佐野市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "スーパー勤務",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-18"
+		},
+		{
+			"pid": 117,
+			"jid": 789,
+			"address": "大阪府高槻市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "調理師（医療機関）",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-18"
 		}
 	]
 }

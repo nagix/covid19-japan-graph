@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "千葉県"
 	},
-	"date": "2020\/03\/14 18:00",
+	"date": "2020\/03\/18 18:00",
 	"subgroups": [
 		"funabashi"
 	],
@@ -393,6 +393,32 @@
 			"supplement": "No.621の同居家族",
 			"discharged": null,
 			"date": "2020-03-14"
+		},
+		{
+			"pid": 33,
+			"jid": 777,
+			"address": "千葉県印西市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/15までオランダに滞在",
+			"discharged": null,
+			"source": "netherlands",
+			"date": "2020-03-18"
+		},
+		{
+			"pid": 34,
+			"jid": 778,
+			"address": "千葉県市川市",
+			"age": "80s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"source": "netherlands",
+			"date": "2020-03-18"
 		}
 	]
 }

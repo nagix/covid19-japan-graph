@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "北海道"
 	},
-	"date": "2020\/03\/16 17:00",
+	"date": "2020\/03\/18 17:00",
 	"subgroups": [
 		"sapporo",
 		"otaru",
@@ -928,6 +928,18 @@
 			"supplement": "No.630の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-16"
+		},
+		{
+			"pid": 150,
+			"jid": 775,
+			"address": "釧路総合振興局管内",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-18"
 		}
 	]
 }

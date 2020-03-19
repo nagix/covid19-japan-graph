@@ -209,11 +209,12 @@
 		{
 			"id": 16,
 			"pid": 17,
+			"jid": 805,
 			"address": "新潟県新潟市東区",
 			"age": "50s",
 			"sex": "female",
 			"attribute": "福祉施設職員",
-			"remarks": "陽性確定",
+			"remarks": null,
 			"supplement": "No.769の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-16"

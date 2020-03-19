@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "埼玉県"
 	},
-	"date": "2020\/03\/17 18:00",
+	"date": "2020\/03\/18 18:00",
 	"subgroups": [
 		"saitama-city",
 		"kawaguchi",
@@ -70,7 +70,7 @@
 			"attribute": "埼玉県職員（埼玉県農業技術研究センター）",
 			"remarks": null,
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-05"
 		},
 		{
@@ -286,6 +286,19 @@
 			"discharged": null,
 			"source": "cruise-ship",
 			"date": "2020-03-17"
+		},
+		{
+			"pid": 38,
+			"jid": 782,
+			"address": "埼玉県志木市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "3/15までノルウェーに滞在",
+			"discharged": null,
+			"source": "norway",
+			"date": "2020-03-18"
 		}
 	]
 }

@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "愛知県"
 	},
-	"date": "2020\/03\/17 18:00",
+	"date": "2020\/03\/18 18:00",
 	"subgroups": [
 		"nagoya",
 		"okazaki",
@@ -274,6 +274,42 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-17"
+		},
+		{
+			"pid": 126,
+			"address": "愛知県一宮市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "3/2フィリピンから帰国、No.720の家族（濃厚接触者）",
+			"discharged": null,
+			"source": "philippines",
+			"date": "2020-03-18"
+		},
+		{
+			"pid": 127,
+			"address": "愛知県一宮市",
+			"age": "u10",
+			"sex": "female",
+			"attribute": "小学生",
+			"remarks": "無症状",
+			"supplement": "3/2フィリピンから帰国、No.720、No.783の家族（濃厚接触者）",
+			"discharged": null,
+			"source": "philippines",
+			"date": "2020-03-18"
+		},
+		{
+			"pid": 128,
+			"jid": 783,
+			"address": "愛知県知多郡武豊町",
+			"age": "30s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-18"
 		}
 	]
 }

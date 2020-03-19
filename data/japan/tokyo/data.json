@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "東京都"
 	},
-	"date": "2020\/03\/17 18:00",
+	"date": "2020\/03\/18 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -310,7 +310,7 @@
 			"attribute": "無職",
 			"remarks": null,
 			"supplement": "No.56の同居者",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-02-19"
 		},
 		{
@@ -371,7 +371,7 @@
 			"attribute": "会社員",
 			"remarks": null,
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-02-24"
 		},
 		{
@@ -383,7 +383,7 @@
 			"attribute": "会社員",
 			"remarks": null,
 			"supplement": "都外確定例との濃厚接触者",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-02-24"
 		},
 		{
@@ -395,7 +395,7 @@
 			"attribute": "会社員",
 			"remarks": null,
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-02-24"
 		},
 		{
@@ -541,7 +541,7 @@
 			"attribute": "会社員",
 			"remarks": null,
 			"supplement": "ライブハウスArc",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-04"
 		},
@@ -554,7 +554,7 @@
 			"attribute": "小学生",
 			"remarks": null,
 			"supplement": "No.250の濃厚接触者",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-05"
 		},
 		{
@@ -566,7 +566,7 @@
 			"attribute": "保育園児",
 			"remarks": null,
 			"supplement": "No.250の濃厚接触者",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-05"
 		},
 		{
@@ -578,7 +578,7 @@
 			"attribute": "無職",
 			"remarks": null,
 			"supplement": "No.250の濃厚接触者",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-05"
 		},
 		{
@@ -1242,6 +1242,114 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-17"
+		},
+		{
+			"pid": 103,
+			"jid": 790,
+			"address": "東京都外",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": "3/14イタリアから帰国",
+			"discharged": null,
+			"date": "2020-03-18"
+		},
+		{
+			"pid": 104,
+			"jid": 791,
+			"address": "東京都",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-18"
+		},
+		{
+			"pid": 105,
+			"jid": 792,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-18"
+		},
+		{
+			"pid": 106,
+			"jid": 793,
+			"address": "東京都外",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-18"
+		},
+		{
+			"pid": 107,
+			"jid": 794,
+			"address": "東京都",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-18"
+		},
+		{
+			"pid": 108,
+			"jid": 795,
+			"address": "東京都",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-18"
+		},
+		{
+			"pid": 109,
+			"jid": 796,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-18"
+		},
+		{
+			"pid": 110,
+			"jid": 797,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "パート従業員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-18"
+		},
+		{
+			"pid": 111,
+			"jid": 798,
+			"address": "東京都",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-18"
 		}
 	]
 }

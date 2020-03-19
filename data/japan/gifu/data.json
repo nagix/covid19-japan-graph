@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "岐阜県"
 	},
-	"date": "2020\/02\/27 19:00",
+	"date": "2020\/03\/18 19:00",
 	"data": [
 		{
 			"pid": 1,
@@ -28,6 +28,19 @@
 			"supplement": "No.168の濃厚接触者",
 			"discharged": null,
 			"date": "2020-02-27"
+		},
+		{
+			"pid": 3,
+			"jid": 771,
+			"address": "岐阜県岐阜市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/9までニューヨークへ渡航",
+			"discharged": null,
+			"source": "usa",
+			"date": "2020-03-18"
 		}
 	]
 }

@@ -4,6 +4,9 @@
 		"ja": "栃木県"
 	},
 	"date": "2020\/03\/05 22:00",
+	"subgroups": [
+		"utsunomiya"
+	],
 	"data": [
 		{
 			"pid": 1,

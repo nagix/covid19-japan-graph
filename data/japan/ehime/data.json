@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "愛媛県"
 	},
-	"date": "2020\/03\/04 18:00",
+	"date": "2020\/03\/18 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -28,6 +28,19 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-04"
+		},
+		{
+			"pid": 3,
+			"jid": 770,
+			"address": "愛媛県松山市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "会社員（海外勤務）",
+			"remarks": null,
+			"supplement": "3/16イタリアから帰国",
+			"discharged": null,
+			"source": "italy",
+			"date": "2020-03-18"
 		}
 	]
 }

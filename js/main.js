@@ -33,11 +33,14 @@ var sources = {
 	'egypt': { label: { 'ja': 'エジプト' } },
 	'uk': { label: { 'ja': 'イギリス' } },
 	'vietnam': { label: { 'ja': 'ベトナム' } },
-	'losangeles': { label: { 'ja': 'ロサンゼルス' } },
+	'usa': { label: { 'ja': '米国' } },
 	'philippines': { label: { 'ja': 'フィリピン' } },
 	'southeast-asia': { label: { 'ja': '東南アジア' } },
 	'italy': { label: { 'ja': 'イタリア' } },
-	'finland': { label: { 'ja': 'フィンランド' } }
+	'finland': { label: { 'ja': 'フィンランド' } },
+	'netherlands': { label: { 'ja': 'オランダ' } },
+	'thailand': { label: { 'ja': 'タイ' } },
+	'norway': { label: { 'ja': 'ノルウェー' } }
 };
 
 var clusters = {
@@ -62,7 +65,7 @@ var clusters = {
 	'kobe-kindergarten': { label: { 'ja': '神戸こども園クラスター' }, parentId: 'kobe' },
 	'osaka-livehouse-d': { label: { 'ja': '大阪中央区ライブハウスamericamura FANJ twiceクラスター' }, parentId: 'osaka' },
 	'takarazuka-hospital': { label: { 'ja': '宝塚第一病院クラスター' }, parentId: 'hyogo' },
-	'kobe-longterm-care': { label: { 'ja': '神戸介護保険通所事業所ラスター' }, parentId: 'kobe' },
+	'kobe-longterm-care': { label: { 'ja': '神戸介護保険通所事業所クラスター' }, parentId: 'kobe' },
 	'oizumi-clinic': { label: { 'ja': '大泉町診療所クラスター' }, parentId: 'gunma' }
 };
 

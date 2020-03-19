@@ -296,9 +296,9 @@
 			"address": "兵庫県神戸市",
 			"age": "80s",
 			"sex": "female",
-			"attribute": "",
+			"attribute": null,
 			"remarks": null,
-			"supplement": "",
+			"supplement": "神戸市内の介護保険通所事業所の利用者",
 			"discharged": null,
 			"cluster": "kobe-longterm-care",
 			"date": "2020-03-17"
@@ -310,9 +310,9 @@
 			"address": "兵庫県神戸市",
 			"age": "40s",
 			"sex": "male",
-			"attribute": "",
+			"attribute": "会社員",
 			"remarks": null,
-			"supplement": "",
+			"supplement": "神戸市内の介護保険通所事業所に勤務",
 			"discharged": null,
 			"cluster": "kobe-longterm-care",
 			"date": "2020-03-17"
@@ -324,9 +324,9 @@
 			"address": "兵庫県西宮市",
 			"age": "50s",
 			"sex": "female",
-			"attribute": "",
+			"attribute": null,
 			"remarks": null,
-			"supplement": "",
+			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-17"
 		}

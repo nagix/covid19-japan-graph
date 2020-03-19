@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "京都市"
 	},
-	"date": "2020\/03\/17 18:00",
+	"date": "2020\/03\/18 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -84,7 +84,7 @@
 			"attribute": "臨時的任用の保育士",
 			"remarks": null,
 			"supplement": "2/24ライブハウスSoap Opera Classics Umeda",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-09"
 		},
@@ -153,6 +153,19 @@
 			"discharged": null,
 			"source": "egypt",
 			"date": "2020-03-17"
+		},
+		{
+			"id": 12,
+			"pid": 20,
+			"jid": 779,
+			"address": "京都府京都市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "園児の保護者",
+			"remarks": null,
+			"supplement": "No.522の保護者",
+			"discharged": null,
+			"date": "2020-03-18"
 		}
 	]
 }
