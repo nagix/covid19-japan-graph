@@ -1,0 +1,22 @@
+{
+	"id": "yokkaichi",
+	"label": {
+		"ja": "四日市市"
+	},
+	"date": "2020\/03\/19 18:00",
+	"data": [
+		{
+			"id": 1,
+			"pid": 9,
+			"jid": 806,
+			"address": "三重県四日市市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "東京都の患者との接触",
+			"discharged": null,
+			"date": "2020-03-19"
+		}
+	]
+}

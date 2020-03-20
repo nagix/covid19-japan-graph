@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "埼玉県"
 	},
-	"date": "2020\/03\/18 18:00",
+	"date": "2020\/03\/19 18:00",
 	"subgroups": [
 		"saitama-city",
 		"kawaguchi",
@@ -299,6 +299,57 @@
 			"discharged": null,
 			"source": "norway",
 			"date": "2020-03-18"
+		},
+		{
+			"pid": 39,
+			"jid": 824,
+			"address": "埼玉県志木市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "3/15までノルウェーに滞在、No.782の夫",
+			"discharged": null,
+			"source": "norway",
+			"date": "2020-03-19"
+		},
+		{
+			"pid": 40,
+			"jid": 825,
+			"address": "埼玉県桶川市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員（県外勤務）",
+			"remarks": null,
+			"supplement": "3/15までスペインに滞在",
+			"discharged": null,
+			"source": "spain",
+			"date": "2020-03-19"
+		},
+		{
+			"pid": 41,
+			"jid": 826,
+			"address": "埼玉県狭山市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": "3/15までイギリスに滞在",
+			"discharged": null,
+			"source": "uk",
+			"date": "2020-03-19"
+		},
+		{
+			"pid": 42,
+			"jid": 827,
+			"address": "埼玉県春日部市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員（県内勤務）",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-19"
 		}
 	]
 }

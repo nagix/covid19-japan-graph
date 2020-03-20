@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "茨城県"
 	},
-	"date": "2020\/03\/18 18:00",
+	"date": "2020\/03\/19 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -29,6 +29,19 @@
 			"supplement": "3/16ヨーロッパから帰国",
 			"discharged": null,
 			"date": "2020-03-18"
+		},
+		{
+			"pid": 3,
+			"jid": 840,
+			"address": "茨城県（県南地域）",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/15タイから帰国",
+			"discharged": null,
+			"source": "thailand",
+			"date": "2020-03-19"
 		}
 	]
 }

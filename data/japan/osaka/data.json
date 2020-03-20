@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "大阪府"
 	},
-	"date": "2020\/03\/18 18:00",
+	"date": "2020\/03\/19 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -222,9 +222,9 @@
 			"age": "70s",
 			"sex": "male",
 			"attribute": null,
-			"remarks": "重症",
+			"remarks": "3/18死亡",
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-04"
 		},
 		{
@@ -1449,6 +1449,31 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-18"
+		},
+		{
+			"pid": 118,
+			"jid": 822,
+			"address": "大阪府大阪市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.osaka52、No.356、No.420の濃厚接触者（同居家族）",
+			"discharged": null,
+			"date": "2020-03-19"
+		},
+		{
+			"pid": 119,
+			"jid": 823,
+			"address": "大阪府吹田市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": "3/12までイギリス滞在",
+			"discharged": null,
+			"source": "uk",
+			"date": "2020-03-19"
 		}
 	]
 }

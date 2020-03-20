@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "福岡県"
 	},
-	"date": "2020\/03\/17 18:00",
+	"date": "2020\/03\/19 18:00",
 	"subgroups": [
 		"kitakyushu"
 	],
@@ -44,6 +44,19 @@
 			"discharged": null,
 			"source": "finland",
 			"date": "2020-03-17"
+		},
+		{
+			"pid": 5,
+			"jid": 810,
+			"address": "福岡県宗像市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "会社員（海外勤務）",
+			"remarks": null,
+			"supplement": "3/16イタリアから帰国、No.770の濃厚接触者",
+			"discharged": null,
+			"source": "italy",
+			"date": "2020-03-19"
 		}
 	]
 }

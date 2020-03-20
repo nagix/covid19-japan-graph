@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "和歌山県"
 	},
-	"date": "2020\/03\/15 18:00",
+	"date": "2020\/03\/19 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -189,6 +189,18 @@
 			"supplement": "新型コロナウイルス陽性患者の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-15"
+		},
+		{
+			"pid": 16,
+			"jid": 809,
+			"address": "和歌山県和歌山市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "新型コロナウイルス陽性患者の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-19"
 		}
 	]
 }

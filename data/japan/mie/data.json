@@ -4,6 +4,9 @@
 		"ja": "三重県"
 	},
 	"date": "2020\/03\/14 18:00",
+	"subgroups": [
+		"yokkaichi"
+	],
 	"data": [
 		{
 			"pid": 1,

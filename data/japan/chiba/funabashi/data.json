@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "船橋市"
 	},
-	"date": "2020\/03\/01 18:00",
+	"date": "2020\/03\/19 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -17,6 +17,19 @@
 			"supplement": "No.220の子、2/19〜20に行動を共にした",
 			"discharged": null,
 			"date": "2020-03-01"
+		},
+		{
+			"id": 2,
+			"pid": 37,
+			"jid": 813,
+			"address": "千葉県船橋市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-19"
 		}
 	]
 }

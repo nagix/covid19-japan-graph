@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "熊本市"
 	},
-	"date": "2020\/02\/25 18:00",
+	"date": "2020\/03\/19 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -56,6 +56,20 @@
 			"supplement": "No.92の母親、No.93の配偶者",
 			"discharged": null,
 			"date": "2020-02-25"
+		},
+		{
+			"id": 5,
+			"pid": 7,
+			"jid": 839,
+			"address": "熊本県熊本市東区",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "無職（主婦）",
+			"remarks": null,
+			"supplement": "3/14スペインから帰国",
+			"discharged": null,
+			"source": "spain",
+			"date": "2020-03-19"
 		}
 	]
 }

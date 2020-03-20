@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "神奈川県"
 	},
-	"date": "2020\/03\/15 18:00",
+	"date": "2020\/03\/19 18:00",
 	"subgroups": [
 		"yokohama",
 		"kawasaki",
@@ -243,6 +243,57 @@
 			"discharged": null,
 			"source": "egypt",
 			"date": "2020-03-13"
+		},
+		{
+			"pid": 63,
+			"jid": 814,
+			"address": "神奈川県平塚保健福祉事務所管内",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "3/13フランスから帰国",
+			"discharged": null,
+			"source": "france",
+			"date": "2020-03-19"
+		},
+		{
+			"pid": 64,
+			"jid": 815,
+			"address": "神奈川県鎌倉保健福祉事務所管内",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "パートタイム従業員",
+			"remarks": null,
+			"supplement": "3/4までエジプト滞在",
+			"discharged": null,
+			"source": "egypt",
+			"date": "2020-03-19"
+		},
+		{
+			"pid": 65,
+			"jid": 816,
+			"address": "神奈川県厚木保健福祉事務所管内",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-19"
+		},
+		{
+			"pid": 66,
+			"jid": 817,
+			"address": "神奈川県厚木保健福祉事務所管内",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "1/18まで上海市滞在",
+			"discharged": null,
+			"source": "china",
+			"date": "2020-03-19"
 		}
 	]
 }

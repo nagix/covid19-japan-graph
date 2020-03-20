@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "相模原市"
 	},
-	"date": "2020\/03\/17 18:00",
+	"date": "2020\/03\/19 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -349,6 +349,20 @@
 			"supplement": "No.700の関係者",
 			"discharged": null,
 			"date": "2020-03-17"
+		},
+		{
+			"id": 27,
+			"pid": 67,
+			"jid": 818,
+			"address": "神奈川県相模原市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/16までイギリスに滞在",
+			"discharged": null,
+			"source": "uk",
+			"date": "2020-03-19"
 		}
 	]
 }

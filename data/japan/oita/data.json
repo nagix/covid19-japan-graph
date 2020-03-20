@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "大分県"
 	},
-	"date": "2020\/03\/03 18:00",
+	"date": "2020\/03\/19 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -16,6 +16,30 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-03"
+		},
+		{
+			"pid": 2,
+			"jid": 807,
+			"address": "大分県臼杵市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-19"
+		},
+		{
+			"pid": 3,
+			"jid": 808,
+			"address": "大分県臼杵市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.807の妻",
+			"discharged": null,
+			"date": "2020-03-19"
 		}
 	]
 }

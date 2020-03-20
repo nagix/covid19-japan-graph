@@ -40,7 +40,9 @@ var sources = {
 	'finland': { label: { 'ja': 'フィンランド' } },
 	'netherlands': { label: { 'ja': 'オランダ' } },
 	'thailand': { label: { 'ja': 'タイ' } },
-	'norway': { label: { 'ja': 'ノルウェー' } }
+	'norway': { label: { 'ja': 'ノルウェー' } },
+	'ireland': { label: { 'ja': 'アイルランド' } },
+	'spain': { label: { 'ja': 'スペイン' } }
 };
 
 var clusters = {

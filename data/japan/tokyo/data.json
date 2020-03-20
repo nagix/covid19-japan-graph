@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "東京都"
 	},
-	"date": "2020\/03\/18 18:00",
+	"date": "2020\/03\/19 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -1350,6 +1350,90 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-18"
+		},
+		{
+			"pid": 112,
+			"jid": 832,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-19"
+		},
+		{
+			"pid": 113,
+			"jid": 833,
+			"address": "東京都",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社役員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-19"
+		},
+		{
+			"pid": 114,
+			"jid": 834,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-19"
+		},
+		{
+			"pid": 115,
+			"jid": 835,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-19"
+		},
+		{
+			"pid": 116,
+			"jid": 836,
+			"address": "東京都",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-19"
+		},
+		{
+			"pid": 117,
+			"jid": 837,
+			"address": "東京都",
+			"age": "80s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": "重症",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-19"
+		},
+		{
+			"pid": 118,
+			"jid": 838,
+			"address": "東京都",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-19"
 		}
 	]
 }

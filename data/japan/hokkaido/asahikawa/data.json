@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "旭川市"
 	},
-	"date": "2020\/03\/08 18:00",
+	"date": "2020\/03\/19 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -121,6 +121,19 @@
 			"supplement": "No.266の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-08"
+		},
+		{
+			"id": 10,
+			"pid": 157,
+			"jid": 821,
+			"address": "旭川市",
+			"age": "50s",
+			"sex": "male",
+			"attribufete": "医師",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-19"
 		}
 	]
 }
