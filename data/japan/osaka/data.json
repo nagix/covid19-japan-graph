@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "大阪府"
 	},
-	"date": "2020\/03\/19 18:00",
+	"date": "2020\/03\/20 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -1474,6 +1474,54 @@
 			"discharged": null,
 			"source": "uk",
 			"date": "2020-03-19"
+		},
+		{
+			"pid": 120,
+			"jid": 879,
+			"address": "大阪府大阪市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-20"
+		},
+		{
+			"pid": 121,
+			"jid": 880,
+			"address": "大阪府大阪市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "重症",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-20"
+		},
+		{
+			"pid": 122,
+			"jid": 881,
+			"address": "大阪府吹田市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.823の濃厚接触者（同居家族）",
+			"discharged": null,
+			"date": "2020-03-20"
+		},
+		{
+			"pid": 123,
+			"jid": 882,
+			"address": "大阪府吹田市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.823の濃厚接触者（同居家族）、No.881の同居家族",
+			"discharged": null,
+			"date": "2020-03-20"
 		}
 	]
 }

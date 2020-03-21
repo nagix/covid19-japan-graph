@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "京都市"
 	},
-	"date": "2020\/03\/18 18:00",
+	"date": "2020\/03\/20 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -166,6 +166,19 @@
 			"supplement": "No.522の保護者",
 			"discharged": null,
 			"date": "2020-03-18"
+		},
+		{
+			"id": 13,
+			"pid": 21,
+			"jid": 851,
+			"address": "京都府京都市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "飲食店勤務",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-20"
 		}
 	]
 }

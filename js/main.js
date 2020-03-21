@@ -68,7 +68,8 @@ var clusters = {
 	'osaka-livehouse-d': { label: { 'ja': '大阪中央区ライブハウスamericamura FANJ twiceクラスター' }, parentId: 'osaka' },
 	'takarazuka-hospital': { label: { 'ja': '宝塚第一病院クラスター' }, parentId: 'hyogo' },
 	'kobe-longterm-care': { label: { 'ja': '神戸介護保険通所事業所クラスター' }, parentId: 'kobe' },
-	'oizumi-clinic': { label: { 'ja': '大泉町診療所クラスター' }, parentId: 'gunma' }
+	'oizumi-clinic': { label: { 'ja': '大泉町診療所クラスター' }, parentId: 'gunma' },
+	'oita-hospital': { label: { 'ja': '大分医療センタークラスター' }, parentId: 'oita' }
 };
 
 var boxColors = {
@@ -383,9 +384,9 @@ loadData('japan').then(function(patients) {
 		document.getElementById('loader').style.display = 'none';
 	}, 1000);
 
-}).catch(function(error) {
+})/*.catch(function(error) {
 	document.getElementById('loader').style.display = 'none';
 	document.getElementById('loading-error').innerHTML = 'Loading failed. Please reload the page.';
 	document.getElementById('loading-error').style.display = 'block';
 	throw error;
-});
+})*/;

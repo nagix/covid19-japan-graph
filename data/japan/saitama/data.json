@@ -350,6 +350,17 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-19"
+		},
+		{
+			"pid": 44,
+			"address": "埼玉県春日部市",
+			"age": "80s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": "無症状",
+			"supplement": "No.827の母",
+			"discharged": null,
+			"date": "2020-03-20"
 		}
 	]
 }

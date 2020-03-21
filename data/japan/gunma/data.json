@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "群馬県"
 	},
-	"date": "2020\/03\/17 18:00",
+	"date": "2020\/03\/20 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -130,6 +130,18 @@
 			"discharged": null,
 			"cluster": "oizumi-clinic",
 			"date": "2020-03-17"
+		},
+		{
+			"pid": 11,
+			"jid": 874,
+			"address": "群馬県太田市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.623の夫（濃厚接触者）",
+			"discharged": null,
+			"date": "2020-03-20"
 		}
 	]
 }

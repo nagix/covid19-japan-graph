@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "尼崎市"
 	},
-	"date": "2020\/03\/16 18:00",
+	"date": "2020\/03\/20 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -86,6 +86,20 @@
 			"discharged": null,
 			"cluster": "takarazuka-hospital",
 			"date": "2020-03-16"
+		},
+		{
+			"id": 7,
+			"pid": 101,
+			"jid": 875,
+			"address": "兵庫県尼崎市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": "3/15までイギリスに留学、No.826と同じ大学",
+			"discharged": null,
+			"source": "uk",
+			"date": "2020-03-20"
 		}
 	]
 }

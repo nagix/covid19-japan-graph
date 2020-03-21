@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "姫路市"
 	},
-	"date": "2020\/03\/12 18:00",
+	"date": "2020\/03\/20 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -153,6 +153,48 @@
 			"discharged": null,
 			"cluster": "himeji-hospital",
 			"date": "2020-03-12"
+		},
+		{
+			"id": 12,
+			"pid": 92,
+			"jid": 847,
+			"address": "入院中",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.414が勤務していた医療機関の入院患者",
+			"discharged": null,
+			"cluster": "himeji-hospital",
+			"date": "2020-03-19"
+		},
+		{
+			"id": 13,
+			"pid": 94,
+			"jid": 848,
+			"address": "入院中",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.414が勤務していた医療機関の入院患者",
+			"discharged": null,
+			"cluster": "himeji-hospital",
+			"date": "2020-03-20"
+		},
+		{
+			"id": 14,
+			"pid": 95,
+			"jid": 849,
+			"address": "入院中",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.414が勤務していた医療機関の入院患者",
+			"discharged": null,
+			"cluster": "himeji-hospital",
+			"date": "2020-03-20"
 		}
 	]
 }

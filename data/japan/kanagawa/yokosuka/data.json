@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "横須賀市"
 	},
-	"date": "2020\/03\/18 18:00",
+	"date": "2020\/03\/20 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -30,6 +30,19 @@
 			"supplement": "No.702が勤務していた病棟の入所者",
 			"discharged": null,
 			"date": "2020-03-18"
+		},
+		{
+			"id": 3,
+			"pid": 69,
+			"jid": 861,
+			"address": "神奈川県横須賀市",
+			"age": "90s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.702が勤務していた病棟の入所者",
+			"discharged": null,
+			"date": "2020-03-20"
 		}
 	]
 }

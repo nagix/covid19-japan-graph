@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "石川県"
 	},
-	"date": "2020\/03\/09 18:00",
+	"date": "2020\/03\/20 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -86,9 +86,22 @@
 			"sex": "male",
 			"attribute": null,
 			"remarks": null,
-			"supplement": null,
+			"supplement": "No.843の同居者（濃厚接触者）",
 			"discharged": null,
 			"date": "2020-03-09"
+		},
+		{
+			"pid": 8,
+			"jid": 843,
+			"address": "石川県",
+			"age": "70s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/28までエジプト旅行",
+			"discharged": null,
+			"source": "egypt",
+			"date": "2020-03-20"
 		}
 	]
 }
