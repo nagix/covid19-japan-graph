@@ -51,7 +51,7 @@
 			"remarks": null,
 			"supplement": "3/9までフランスに滞在",
 			"discharged": null,
-			"source": "france",
+			"sources": ["france"],
 			"date": "2020-03-14"
 		}
 	]

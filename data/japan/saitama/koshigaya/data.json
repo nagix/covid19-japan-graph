@@ -28,7 +28,7 @@
 			"attribute": "会社員（県内）",
 			"remarks": null,
 			"supplement": "No.598の子",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-14"
 		},
 		{
@@ -41,7 +41,7 @@
 			"attribute": "会社員（県内）",
 			"remarks": null,
 			"supplement": "No.598の子の配偶者",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-14"
 		},
 		{
@@ -54,7 +54,7 @@
 			"attribute": "高校生（県内）",
 			"remarks": null,
 			"supplement": "No.598の孫",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-14"
 		},
 		{
@@ -78,7 +78,7 @@
 			"attribute": "小学生",
 			"remarks": "無症状",
 			"supplement": "No.598の孫",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-14"
 		},
 		{
@@ -90,9 +90,9 @@
 			"sex": "female",
 			"attribute": "旅行添乗員",
 			"remarks": null,
-			"supplement": "3/16フランスから帰国",
+			"supplement": "3/16までスペイン、フランスに滞在",
 			"discharged": null,
-			"source": "france",
+			"sources": ["spain", "france"],
 			"date": "2020-03-20"
 		}
 	]

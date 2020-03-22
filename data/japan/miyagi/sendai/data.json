@@ -16,7 +16,7 @@
 			"remarks": null,
 			"supplement": "2/20ダイヤモンド・プリンセス号を下船",
 			"discharged": "〇",
-			"source": "cruise-ship",
+			"sources": ["cruise-ship"],
 			"date": "2020-02-29"
 		}
 	]

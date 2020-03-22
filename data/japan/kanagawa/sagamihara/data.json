@@ -359,9 +359,9 @@
 			"sex": "male",
 			"attribute": null,
 			"remarks": null,
-			"supplement": "3/16までイギリスに滞在",
+			"supplement": "3/16までスペイン、フランス、イギリスに滞在",
 			"discharged": null,
-			"source": "uk",
+			"sources": ["spain", "france", "uk"],
 			"date": "2020-03-19"
 		}
 	]

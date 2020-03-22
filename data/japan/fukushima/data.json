@@ -15,7 +15,7 @@
 			"remarks": null,
 			"supplement": "2/21ダイヤモンド・プリンセス号を下船",
 			"discharged": null,
-			"source": "cruise-ship",
+			"sources": ["cruise-ship"],
 			"date": "2020-03-07"
 		},
 		{
@@ -28,7 +28,7 @@
 			"remarks": null,
 			"supplement": "エジプト・ナイル川クルーズ",
 			"discharged": null,
-			"source": "egypt",
+			"sources": ["egypt"],
 			"date": "2020-03-14"
 		}
 	]

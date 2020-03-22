@@ -15,7 +15,7 @@
 			"remarks": null,
 			"supplement": "武漢市からのツアー客の乗るバスにガイドとして乗った、No.6の濃厚接触者",
 			"discharged": "〇",
-			"source": "china-tourist",
+			"sources": ["china-tourist"],
 			"date": "2020-01-29"
 		},
 		{
@@ -1232,7 +1232,7 @@
 			"remarks": null,
 			"supplement": "3/6まで東南アジアに滞在",
 			"discharged": null,
-			"source": "southeast-asia",
+			"sources": ["southeast-asia"],
 			"date": "2020-03-14"
 		},
 		{
@@ -1472,7 +1472,7 @@
 			"remarks": null,
 			"supplement": "3/12までイギリス滞在",
 			"discharged": null,
-			"source": "uk",
+			"sources": ["uk"],
 			"date": "2020-03-19"
 		},
 		{

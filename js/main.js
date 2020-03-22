@@ -23,11 +23,10 @@ var DATA_FILE = 'data.json';
 var THEME_COLOR = '#009094';
 var GRAPH_MARGIN = 20;
 
-var sources = {
+var sourceMaster = {
 	'china': { label: { 'ja': '中国' } },
 	'china-tourist': { label: { 'ja': '中国からの観光客' } },
 	'cruise-ship': { label: { 'ja': 'クルーズ船' } },
-	'hawaii': { label: { 'ja': 'ハワイ' } },
 	'cambodia': { label: { 'ja': 'カンボジア' } },
 	'france': { label: { 'ja': 'フランス' } },
 	'egypt': { label: { 'ja': 'エジプト' } },
@@ -43,10 +42,17 @@ var sources = {
 	'norway': { label: { 'ja': 'ノルウェー' } },
 	'ireland': { label: { 'ja': 'アイルランド' } },
 	'spain': { label: { 'ja': 'スペイン' } },
-	'portugal': { label: { 'ja': 'ポルトガル' } }
+	'portugal': { label: { 'ja': 'ポルトガル' } },
+	'russia': { label: { 'ja': 'ロシア' } },
+	'europe': { label: { 'ja': 'ヨーロッパ' } },
+	'jordan': { label: { 'ja': 'ヨルダン' } },
+	'turkey': { label: { 'ja': 'トルコ' } },
+	'qatar': { label: { 'ja': 'カタール' } },
+	'morocco': { label: { 'ja': 'モロッコ' } },
+	'switzerland': { label: { 'ja': 'スイス' } }
 };
 
-var clusters = {
+var clusterMaster = {
 	'sagamihara-hospital': { label: { 'ja': '相模原中央病院クラスター' }, parentId: 'sagamihara' },
 	'sagamihara-welfare': { label: { 'ja': '相模原福祉施設クラスター' }, parentId: 'sagamihara' },
 	'tokyo-yakatabune': { label: { 'ja': '屋形船新年会クラスター' }, parentId: 'tokyo' },
@@ -165,7 +171,7 @@ loadData('japan').then(function(patients) {
 		var remarks = patient.remarks || '';
 		var supplement = patient.supplement || '';
 		var discharged = patient.discharged || '';
-		var source = patient.source;
+		var sources = patient.sources || [];
 		var severe = remarks.match(/重症/);
 		var dead = remarks.match(/死亡/);
 		var colors = boxColors[sex];
@@ -200,7 +206,7 @@ loadData('japan').then(function(patients) {
 				'<br>発表日: ' + patient.date
 		});
 
-		if (source) {
+		sources.forEach(function(source) {
 			var parentId = patient.topGroupId;
 			var sourceId = parentId + '-' + source;
 
@@ -209,7 +215,7 @@ loadData('japan').then(function(patients) {
 			if (!graph.hasNode(sourceId)) {
 				graph.setNode(sourceId, {
 					id: sourceId,
-					label: sources[source].label.ja,
+					label: sourceMaster[source].label.ja,
 					width: 130,
 					height: 30,
 					rx: 5,
@@ -219,7 +225,7 @@ loadData('japan').then(function(patients) {
 
 				graph.setParent(sourceId, parentId);
 			}
-		}
+		});
 
 		sourceIds.forEach(function(sourceId) {
 			graph.setEdge(sourceId, id, {
@@ -251,8 +257,8 @@ loadData('japan').then(function(patients) {
 		}
 	});
 
-	Object.keys(clusters).forEach(function(id) {
-		var cluster = clusters[id];
+	Object.keys(clusterMaster).forEach(function(id) {
+		var cluster = clusterMaster[id];
 		var parentId = cluster.parentId;
 
 		graph.setNode(id, {

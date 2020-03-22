@@ -21,7 +21,7 @@
 			"remarks": null,
 			"supplement": "1/6武漢市から帰国",
 			"discharged": "〇",
-			"source": "china",
+			"sources": ["china"],
 			"date": "2020-01-15"
 		},
 		{
@@ -34,7 +34,7 @@
 			"remarks": null,
 			"supplement": "ダイヤモンド・プリンセス号で検疫を実施",
 			"discharged": null,
-			"source": "cruise-ship",
+			"sources": ["cruise-ship"],
 			"date": "2020-02-11"
 		},
 		{
@@ -60,7 +60,7 @@
 			"remarks": null,
 			"supplement": "ダイヤモンド・プリンセス号で陽性反応が出た患者を病院へ搬送",
 			"discharged": null,
-			"source": "cruise-ship",
+			"sources": ["cruise-ship"],
 			"date": "2020-02-14"
 		},
 		{
@@ -228,7 +228,7 @@
 			"remarks": null,
 			"supplement": "3/1までエジプト滞在",
 			"discharged": null,
-			"source": "egypt",
+			"sources": ["egypt"],
 			"date": "2020-03-13"
 		},
 		{
@@ -241,7 +241,7 @@
 			"remarks": null,
 			"supplement": "3/1までエジプト滞在",
 			"discharged": null,
-			"source": "egypt",
+			"sources": ["egypt"],
 			"date": "2020-03-13"
 		},
 		{
@@ -252,9 +252,9 @@
 			"sex": "male",
 			"attribute": "無職",
 			"remarks": null,
-			"supplement": "3/13フランスから帰国",
+			"supplement": "3/12までスペイン、フランスに滞在",
 			"discharged": null,
-			"source": "france",
+			"sources": ["spain", "france"],
 			"date": "2020-03-19"
 		},
 		{
@@ -267,7 +267,7 @@
 			"remarks": null,
 			"supplement": "3/4までエジプト滞在",
 			"discharged": null,
-			"source": "egypt",
+			"sources": ["egypt"],
 			"date": "2020-03-19"
 		},
 		{
@@ -292,7 +292,7 @@
 			"remarks": null,
 			"supplement": "1/18まで上海市滞在",
 			"discharged": null,
-			"source": "china",
+			"sources": ["china"],
 			"date": "2020-03-19"
 		},
 		{
@@ -329,7 +329,7 @@
 			"remarks": null,
 			"supplement": "3/15までフランス滞在",
 			"discharged": null,
-			"source": "france",
+			"sources": ["france"],
 			"date": "2020-03-21"
 		}
 	]

@@ -40,9 +40,9 @@
 			"sex": "female",
 			"attribute": "学生（九州大学）",
 			"remarks": null,
-			"supplement": "3/9フィンランドから帰国",
+			"supplement": "3/9までロシア、フィンランドに滞在",
 			"discharged": null,
-			"source": "finland",
+			"sources": ["russia", "finland"],
 			"date": "2020-03-17"
 		},
 		{
@@ -55,7 +55,7 @@
 			"remarks": null,
 			"supplement": "3/16イタリアから帰国、No.770の濃厚接触者",
 			"discharged": null,
-			"source": "italy",
+			"sources": ["italy"],
 			"date": "2020-03-19"
 		}
 	]

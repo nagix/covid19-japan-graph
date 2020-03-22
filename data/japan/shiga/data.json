@@ -51,6 +51,7 @@
 			"remarks": null,
 			"supplement": "タイ、ヨルダン、トルコ、カタール、イギリス、フランス、スペイン、ポルトガル、モロッコ、フィンランドに滞在",
 			"discharged": null,
+			"sources": ["thailand", "jordan", "turkey", "qatar", "uk", "france", "spain", "portugal", "morocco", "finland"],
 			"date": "2020-03-17"
 		}
 	]

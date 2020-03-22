@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "日本"
 	},
-	"date": "2020\/03\/04 18:00",
+	"date": "2020\/03\/21 18:00",
 	"subgroups": [
 		"hokkaido",
 		"miyagi",
@@ -55,7 +55,7 @@
 			"remarks": null,
 			"supplement": "1/29武漢からチャーター便（第1便）で帰国",
 			"discharged": null,
-			"source": "china",
+			"sources": ["china"],
 			"date": "2020-01-30"
 		},
 		{
@@ -67,7 +67,7 @@
 			"remarks": null,
 			"supplement": "1/31武漢からチャーター便（第3便）で帰国",
 			"discharged": null,
-			"source": "china",
+			"sources": ["china"],
 			"date": "2020-02-01"
 		},
 		{
@@ -79,7 +79,7 @@
 			"remarks": null,
 			"supplement": "1/29武漢からチャーター便（第1便）で帰国",
 			"discharged": null,
-			"source": "china",
+			"sources": ["china"],
 			"date": "2020-02-01"
 		},
 		{
@@ -91,7 +91,7 @@
 			"remarks": null,
 			"supplement": "1/30武漢からチャーター便（第2便）で帰国",
 			"discharged": null,
-			"source": "china",
+			"sources": ["china"],
 			"date": "2020-02-04"
 		},
 		{
@@ -103,7 +103,7 @@
 			"remarks": null,
 			"supplement": "1/22武漢市から来日、No.4 と同じバスツアーに参加",
 			"discharged": "〇",
-			"source": "china",
+			"sources": ["china"],
 			"date": "2020-02-04"
 		},
 		{
@@ -115,7 +115,7 @@
 			"remarks": null,
 			"supplement": "1/30武漢からチャーター便（第2便）で帰国",
 			"discharged": null,
-			"source": "china",
+			"sources": ["china"],
 			"date": "2020-02-05"
 		},
 		{
@@ -127,7 +127,7 @@
 			"remarks": null,
 			"supplement": "2/7武漢からチャーター便（第4便）で帰国",
 			"discharged": null,
-			"source": "china",
+			"sources": ["china"],
 			"date": "2020-02-08"
 		},
 		{
@@ -139,7 +139,7 @@
 			"remarks": null,
 			"supplement": "ダイヤモンド・プリンセス号で事務業務に従事",
 			"discharged": null,
-			"source": "cruise-ship",
+			"sources": ["cruise-ship"],
 			"date": "2020-02-17"
 		},
 		{
@@ -162,7 +162,7 @@
 			"remarks": null,
 			"supplement": "ダイヤモンド・プリンセス号で事務業務に従事",
 			"discharged": null,
-			"source": "cruise-ship",
+			"sources": ["cruise-ship"],
 			"date": "2020-02-20"
 		},
 		{
@@ -174,7 +174,7 @@
 			"remarks": null,
 			"supplement": "ダイヤモンド・プリンセス号で事務業務に従事",
 			"discharged": null,
-			"source": "cruise-ship",
+			"sources": ["cruise-ship"],
 			"date": "2020-02-20"
 		},
 		{
@@ -186,7 +186,7 @@
 			"remarks": null,
 			"supplement": "ダイヤモンド・プリンセス号で事務業務に従事",
 			"discharged": null,
-			"source": "cruise-ship",
+			"sources": ["cruise-ship"],
 			"date": "2020-02-24"
 		},
 		{
@@ -198,7 +198,7 @@
 			"remarks": null,
 			"supplement": "ダイヤモンド・プリンセス号で検疫を実施",
 			"discharged": null,
-			"source": "cruise-ship",
+			"sources": ["cruise-ship"],
 			"date": "2020-02-24"
 		},
 		{
@@ -210,7 +210,7 @@
 			"remarks": null,
 			"supplement": "ダイヤモンド・プリンセス号で検体採取の補助",
 			"discharged": null,
-			"source": "cruise-ship",
+			"sources": ["cruise-ship"],
 			"date": "2020-02-28"
 		},
 		{
@@ -220,10 +220,190 @@
 			"sex": "male",
 			"attribute": "自営業",
 			"remarks": null,
-			"supplement": "3/4カンボジアから帰国",
+			"supplement": "3/4までフィリピン、カンボジアに滞在",
 			"discharged": null,
-			"source": "cambodia",
+			"sources": ["philippines", "cambodia"],
 			"date": "2020-03-04"
+		},
+		{
+			"pid": 3,
+			"address": "大阪府",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "3/11までイタリア・ロンバルディア州に滞在",
+			"discharged": null,
+			"sources": ["italy"],
+			"date": "2020-03-13"
+		},
+		{
+			"pid": 4,
+			"address": null,
+			"age": "20s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "3/11までイタリア・ロンバルディア州、ヴェネト州に滞在",
+			"discharged": null,
+			"sources": ["italy"],
+			"date": "2020-03-14"
+		},
+		{
+			"pid": 5,
+			"address": "東京都",
+			"age": "20s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "3/12までイギリス、イタリア・ヴェネト州、エミリア=ロマーニャ州、フランスに滞在",
+			"discharged": null,
+			"sources": ["uk", "italy", "france"],
+			"date": "2020-03-15"
+		},
+		{
+			"pid": 6,
+			"address": null,
+			"age": "10s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "イタリアに半年間滞在",
+			"discharged": null,
+			"sources": ["italy"],
+			"date": "2020-03-15"
+		},
+		{
+			"pid": 7,
+			"address": null,
+			"age": null,
+			"sex": null,
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "イタリアに滞在",
+			"discharged": null,
+			"sources": ["italy"],
+			"date": "2020-03-18"
+		},
+		{
+			"pid": 8,
+			"address": null,
+			"age": null,
+			"sex": null,
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "イタリアに滞在",
+			"discharged": null,
+			"sources": ["italy"],
+			"date": "2020-03-18"
+		},
+		{
+			"pid": 9,
+			"address": "大阪府",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/18までイタリア・ロンバルディア州に滞在",
+			"discharged": null,
+			"sources": ["italy"],
+			"date": "2020-03-20"
+		},
+		{
+			"pid": 10,
+			"address": "福岡県",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/11までイタリア・ピエモンテ州に滞在",
+			"discharged": null,
+			"sources": ["italy"],
+			"date": "2020-03-20"
+		},
+		{
+			"pid": 11,
+			"address": "和歌山県",
+			"age": "20s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/18までスイスに滞在",
+			"discharged": null,
+			"sources": ["switzerland"],
+			"date": "2020-03-20"
+		},
+		{
+			"pid": 12,
+			"address": "愛知県",
+			"age": "30s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/13までスペイン・マドリード州に滞在",
+			"discharged": null,
+			"sources": ["spain"],
+			"date": "2020-03-20"
+		},
+		{
+			"pid": 13,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/19までフランス・パリに滞在",
+			"discharged": null,
+			"sources": ["france"],
+			"date": "2020-03-21"
+		},
+		{
+			"pid": 14,
+			"address": "東京都",
+			"age": "20s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/19までスペイン・マドリード州に滞在",
+			"discharged": null,
+			"sources": ["spain"],
+			"date": "2020-03-21"
+		},
+		{
+			"pid": 15,
+			"address": "埼玉県",
+			"age": "20s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/19までスペイン・マドリード州に滞在",
+			"discharged": null,
+			"sources": ["spain"],
+			"date": "2020-03-21"
+		},
+		{
+			"pid": 16,
+			"address": "沖縄県",
+			"age": "10s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/19までスペイン・マドリード州に滞在",
+			"discharged": null,
+			"sources": ["spain"],
+			"date": "2020-03-21"
+		},
+		{
+			"pid": 17,
+			"address": "神奈川県",
+			"age": "20s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/8までイタリア・ヴェネト州に滞在",
+			"discharged": null,
+			"sources": ["italy"],
+			"date": "2020-03-21"
 		}
 	]
 }

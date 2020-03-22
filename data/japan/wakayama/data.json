@@ -139,7 +139,7 @@
 			"remarks": null,
 			"supplement": "DMATとしてダイヤモンド・プリンセス号で活動",
 			"discharged": "〇",
-			"source": "cruise-ship",
+			"sources": ["cruise-ship"],
 			"date": "2020-02-18"
 		},
 		{

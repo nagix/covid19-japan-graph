@@ -15,7 +15,7 @@
 			"remarks": null,
 			"supplement": "2/26まで米国ロサンゼルスに滞在",
 			"discharged": null,
-			"source": "usa",
+			"sources": ["usa"],
 			"date": "2020-03-04"
 		},
 		{

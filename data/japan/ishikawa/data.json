@@ -50,7 +50,7 @@
 			"remarks": null,
 			"supplement": "フランスに出張",
 			"discharged": null,
-			"source": "france",
+			"sources": ["france"],
 			"date": "2020-02-24"
 		},
 		{
@@ -63,7 +63,7 @@
 			"remarks": null,
 			"supplement": "フランスに出張",
 			"discharged": "〇",
-			"source": "france",
+			"sources": ["france"],
 			"date": "2020-02-27"
 		},
 		{
@@ -75,7 +75,7 @@
 			"remarks": "無症状",
 			"supplement": "No.128、No.170のフランス出張同行者",
 			"discharged": null,
-			"source": "france",
+			"sources": ["france"],
 			"date": "2020-02-28"
 		},
 		{
@@ -100,7 +100,7 @@
 			"remarks": null,
 			"supplement": "2/28までエジプト旅行",
 			"discharged": null,
-			"source": "egypt",
+			"sources": ["egypt"],
 			"date": "2020-03-20"
 		}
 	]

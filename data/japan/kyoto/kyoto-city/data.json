@@ -16,7 +16,7 @@
 			"remarks": null,
 			"supplement": "1/22武漢市から帰国",
 			"discharged": "〇",
-			"source": "china",
+			"sources": ["china"],
 			"date": "2020-01-30"
 		},
 		{
@@ -30,7 +30,7 @@
 			"remarks": null,
 			"supplement": "勤務先で中国からの観光客に接客",
 			"discharged": "〇",
-			"source": "china-tourist",
+			"sources": ["china-tourist"],
 			"date": "2020-02-05"
 		},
 		{
@@ -151,7 +151,7 @@
 			"remarks": null,
 			"supplement": "エジプト・ナイル川クルーズに参加、No.521の濃厚接触者",
 			"discharged": null,
-			"source": "egypt",
+			"sources": ["egypt"],
 			"date": "2020-03-17"
 		},
 		{
@@ -191,7 +191,7 @@
 			"remarks": null,
 			"supplement": "3/16オランダから帰国",
 			"discharged": null,
-			"source": "netherlands",
+			"sources": ["netherlands"],
 			"date": "2020-03-21"
 		}
 	]

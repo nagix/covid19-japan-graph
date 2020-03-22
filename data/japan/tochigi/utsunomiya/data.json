@@ -16,7 +16,7 @@
 			"remarks": null,
 			"supplement": "3/14タイから帰国",
 			"discharged": null,
-			"source": "thailand",
+			"sources": ["thailand"],
 			"date": "2020-03-18"
 		}
 	]

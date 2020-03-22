@@ -18,7 +18,7 @@
 			"remarks": null,
 			"supplement": "1/13武漢から帰国",
 			"discharged": "〇",
-			"source": "china",
+			"sources": ["china"],
 			"date": "2020-01-30"
 		},
 		{
@@ -103,7 +103,7 @@
 			"remarks": null,
 			"supplement": "2/16ダイヤモンド・プリンセス号を下船",
 			"discharged": null,
-			"source": "cruise-ship",
+			"sources": ["cruise-ship"],
 			"date": "2020-03-14"
 		}
 	]

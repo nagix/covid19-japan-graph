@@ -15,7 +15,7 @@
 			"remarks": null,
 			"supplement": "1/19武漢市から来日",
 			"discharged": "〇",
-			"source": "china",
+			"sources": ["china"],
 			"date": "2020-01-24"
 		},
 		{
@@ -28,7 +28,7 @@
 			"remarks": null,
 			"supplement": "1/18武漢市から来日",
 			"discharged": "〇",
-			"source": "china",
+			"sources": ["china"],
 			"date": "2020-01-25"
 		},
 		{
@@ -41,7 +41,7 @@
 			"remarks": null,
 			"supplement": "1/20武漢市から来日",
 			"discharged": "〇",
-			"source": "china",
+			"sources": ["china"],
 			"date": "2020-01-30"
 		},
 		{
@@ -81,7 +81,7 @@
 			"supplement": "武漢からの観光客と接触し、至近距離で会話をした",
 			"discharged": "〇",
 			"cluster": "tokyo-yakatabune",
-			"source": "china-tourist",
+			"sources": ["china-tourist"],
 			"date": "2020-02-14"
 		},
 		{
@@ -936,9 +936,9 @@
 			"age": "80s",
 			"sex": "female",
 			"attribute": "無職",
-			"remarks": null,
+			"remarks": "3/20死亡",
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-13"
 		},
 		{
@@ -962,7 +962,7 @@
 			"remarks": null,
 			"supplement": "3/10までイギリス滞在",
 			"discharged": null,
-			"source": "uk",
+			"sources": ["uk"],
 			"date": "2020-03-14"
 		},
 		{
@@ -987,7 +987,7 @@
 			"remarks": null,
 			"supplement": "3/6フランスより帰国",
 			"discharged": null,
-			"source": "france",
+			"sources": ["france"],
 			"date": "2020-03-14"
 		},
 		{
@@ -1072,7 +1072,7 @@
 			"remarks": null,
 			"supplement": "イタリア・ヴェネト州に滞在",
 			"discharged": null,
-			"source": "italy",
+			"sources": ["italy"],
 			"date": "2020-03-15"
 		},
 		{
@@ -1601,7 +1601,7 @@
 			"remarks": null,
 			"supplement": "3/17フランスから帰国",
 			"discharged": null,
-			"source": "france",
+			"sources": ["france"],
 			"date": "2020-03-21"
 		},
 		{

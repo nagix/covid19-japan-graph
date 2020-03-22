@@ -15,7 +15,7 @@
 			"remarks": null,
 			"supplement": "2/27までイタリア・トスカーナ州に出張",
 			"discharged": null,
-			"source": "italy",
+			"sources": ["italy"],
 			"date": "2020-03-17"
 		},
 		{
@@ -28,6 +28,7 @@
 			"remarks": null,
 			"supplement": "3/16ヨーロッパから帰国",
 			"discharged": null,
+			"source": "europe",
 			"date": "2020-03-18"
 		},
 		{
@@ -40,7 +41,7 @@
 			"remarks": null,
 			"supplement": "3/15タイから帰国",
 			"discharged": null,
-			"source": "thailand",
+			"sources": ["thailand"],
 			"date": "2020-03-19"
 		}
 	]

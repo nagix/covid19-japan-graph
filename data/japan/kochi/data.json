@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "高知県"
 	},
-	"date": "2020\/03\/12 18:00",
+	"date": "2020\/03\/19 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -147,7 +147,7 @@
 			"remarks": null,
 			"supplement": "2/28までエジプトのカイロに滞在",
 			"discharged": "〇",
-			"source": "egypt",
+			"sources": ["egypt"],
 			"date": "2020-03-08"
 		}
 	]

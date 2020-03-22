@@ -18,7 +18,7 @@
 			"remarks": null,
 			"supplement": "2/28までフィリピンに滞在",
 			"discharged": null,
-			"source": "philippines",
+			"sources": ["philippines"],
 			"date": "2020-03-05"
 		},
 		{

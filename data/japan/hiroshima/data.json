@@ -27,7 +27,7 @@
 			"remarks": null,
 			"supplement": "3/15までフィリピンに出張",
 			"discharged": null,
-			"source": "philippines",
+			"sources": ["philippines"],
 			"date": "2020-03-20"
 		}
 	]

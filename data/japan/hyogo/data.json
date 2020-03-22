@@ -369,7 +369,7 @@
 			"remarks": null,
 			"supplement": "ベトナムに滞在",
 			"discharged": null,
-			"source": "vietnam",
+			"sources": ["vietnam"],
 			"date": "2020-03-14"
 		},
 		{
@@ -382,7 +382,7 @@
 			"remarks": null,
 			"supplement": "フィリピンに滞在",
 			"discharged": null,
-			"source": "philippines",
+			"sources": ["philippines"],
 			"date": "2020-03-14"
 		},
 		{

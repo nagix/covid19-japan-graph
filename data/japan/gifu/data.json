@@ -39,7 +39,7 @@
 			"remarks": null,
 			"supplement": "3/9までニューヨークへ渡航",
 			"discharged": null,
-			"source": "usa",
+			"sources": ["usa"],
 			"date": "2020-03-18"
 		}
 	]

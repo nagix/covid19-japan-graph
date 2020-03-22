@@ -15,7 +15,7 @@
 			"remarks": null,
 			"supplement": "3/4フランスから帰国",
 			"discharged": null,
-			"source": "france",
+			"sources": ["france"],
 			"date": "2020-03-13"
 		}
 	]

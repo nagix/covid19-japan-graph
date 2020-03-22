@@ -98,7 +98,7 @@
 			"remarks": null,
 			"supplement": "3/15までイギリスに留学、No.826と同じ大学",
 			"discharged": null,
-			"source": "uk",
+			"sources": ["uk"],
 			"date": "2020-03-20"
 		},
 		{
@@ -112,7 +112,7 @@
 			"remarks": null,
 			"supplement": "3/8までイギリスから帰国",
 			"discharged": null,
-			"source": "uk",
+			"sources": ["uk"],
 			"date": "2020-03-21"
 		}
 	]

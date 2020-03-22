@@ -18,7 +18,7 @@
 			"remarks": null,
 			"supplement": "バスガイドとしてツアー（中国人対象）に参加、No.6の濃厚接触者",
 			"discharged": null,
-			"source": "china-tourist",
+			"sources": ["china-tourist"],
 			"date": "2020-01-31"
 		},
 		{
@@ -31,7 +31,7 @@
 			"remarks": null,
 			"supplement": "1/29武漢からチャーター便（第1便）で帰国",
 			"discharged": null,
-			"source": "china",
+			"sources": ["china"],
 			"date": "2020-02-01"
 		},
 		{
@@ -44,7 +44,7 @@
 			"remarks": null,
 			"supplement": "1/21武漢市から来日",
 			"discharged": null,
-			"source": "china",
+			"sources": ["china"],
 			"date": "2020-02-04"
 		},
 		{
@@ -57,7 +57,7 @@
 			"remarks": null,
 			"supplement": "1/21武漢市から来日、No.17の濃厚接触者",
 			"discharged": null,
-			"source": "china",
+			"sources": ["china"],
 			"date": "2020-02-05"
 		},
 		{
@@ -70,7 +70,7 @@
 			"remarks": null,
 			"supplement": "1/29武漢からチャーター便（第1便）で帰国",
 			"discharged": null,
-			"source": "china",
+			"sources": ["china"],
 			"date": "2020-02-10"
 		},
 		{
@@ -158,7 +158,7 @@
 			"remarks": null,
 			"supplement": "2/18までダイヤモンド・プリンセスにDPATとして乗船",
 			"discharged": null,
-			"source": "cruise-ship",
+			"sources": ["cruise-ship"],
 			"date": "2020-02-26"
 		},
 		{
@@ -171,7 +171,7 @@
 			"remarks": null,
 			"supplement": "2/20ダイヤモンド・プリンセス号を下船",
 			"discharged": null,
-			"source": "cruise-ship",
+			"sources": ["cruise-ship"],
 			"date": "2020-02-26"
 		},
 		{
@@ -184,7 +184,7 @@
 			"remarks": null,
 			"supplement": "2/21ダイヤモンド・プリンセス号を下船",
 			"discharged": null,
-			"source": "cruise-ship",
+			"sources": ["cruise-ship"],
 			"date": "2020-02-26"
 		},
 		{
@@ -305,7 +305,7 @@
 			"remarks": null,
 			"supplement": "2/28までエジプトツアー",
 			"discharged": null,
-			"source": "egypt",
+			"sources": ["egypt"],
 			"date": "2020-03-11"
 		},
 		{
@@ -318,7 +318,7 @@
 			"remarks": null,
 			"supplement": "2/28までエジプトツアー",
 			"discharged": null,
-			"source": "egypt",
+			"sources": ["egypt"],
 			"date": "2020-03-11"
 		},
 		{
@@ -367,7 +367,7 @@
 			"remarks": null,
 			"supplement": "エジプト・ナイル川クルーズ",
 			"discharged": null,
-			"source": "egypt",
+			"sources": ["egypt"],
 			"date": "2020-03-13"
 		},
 		{
@@ -404,7 +404,7 @@
 			"remarks": null,
 			"supplement": "3/15までオランダに滞在",
 			"discharged": null,
-			"source": "netherlands",
+			"sources": ["netherlands"],
 			"date": "2020-03-18"
 		},
 		{
@@ -417,7 +417,6 @@
 			"remarks": null,
 			"supplement": null,
 			"discharged": null,
-			"source": null,
 			"date": "2020-03-18"
 		},
 		{
@@ -430,7 +429,7 @@
 			"remarks": null,
 			"supplement": "3/8までアイルランドに滞在",
 			"discharged": null,
-			"source": "ireland",
+			"sources": ["ireland"],
 			"date": "2020-03-19"
 		},
 		{
@@ -477,9 +476,9 @@
 			"sex": "male",
 			"attribute": "会社員",
 			"remarks": null,
-			"supplement": "3/14までスペインに滞在、No.777とともに日本へ入国",
+			"supplement": "3/15までスペイン、オランダに滞在、No.777とともに日本へ入国",
 			"discharged": null,
-			"source": "spain",
+			"sources": ["spain", "netherlands"],
 			"date": "2020-03-20"
 		},
 		{
@@ -490,9 +489,9 @@
 			"sex": "male",
 			"attribute": "会社員",
 			"remarks": null,
-			"supplement": "3/14までアイルランドに滞在、No.777とともに日本へ入国",
+			"supplement": "3/15までアイルランド、オランダに滞在、No.777とともに日本へ入国",
 			"discharged": null,
-			"source": "ireland",
+			"sources": ["ireland", "netherlands"],
 			"date": "2020-03-20"
 		},
 		{

@@ -14,7 +14,7 @@
 			"remarks": "無症状",
 			"supplement": "2/19ダイヤモンド・プリンセス号を下船",
 			"discharged": "〇",
-			"source": "cruise-ship",
+			"sources": ["cruise-ship"],
 			"date": "2020-03-06"
 		},
 		{

@@ -20,7 +20,7 @@
 			"remarks": "無症状",
 			"supplement": "1/31武漢からチャーター便（第3便）で帰国",
 			"discharged": "〇",
-			"source": "china",
+			"sources": ["china"],
 			"date": "2020-02-01"
 		},
 		{
@@ -33,7 +33,7 @@
 			"remarks": null,
 			"supplement": "1/30武漢からチャーター便（第2便）で帰国",
 			"discharged": "〇",
-			"source": "china",
+			"sources": ["china"],
 			"date": "2020-02-10"
 		},
 		{
@@ -45,7 +45,7 @@
 			"remarks": null,
 			"supplement": "1/31武漢からチャーター便（第3便）で帰国",
 			"discharged": "〇",
-			"source": "china",
+			"sources": ["china"],
 			"date": "2020-02-14"
 		},
 		{
@@ -58,7 +58,7 @@
 			"remarks": null,
 			"supplement": "1/30武漢からチャーター便（第2便）で帰国、No.24の子",
 			"discharged": "〇",
-			"source": "china",
+			"sources": ["china"],
 			"date": "2020-02-21"
 		},
 		{
@@ -131,7 +131,7 @@
 			"remarks": null,
 			"supplement": "3/2までフランスに滞在",
 			"discharged": null,
-			"source": "france",
+			"sources": ["france"],
 			"date": "2020-03-10"
 		},
 		{
@@ -144,7 +144,7 @@
 			"remarks": null,
 			"supplement": "3/2までフランスに滞在",
 			"discharged": null,
-			"source": "france",
+			"sources": ["france"],
 			"date": "2020-03-10"
 		},
 		{
@@ -157,7 +157,7 @@
 			"remarks": null,
 			"supplement": "エジプト・ナイル川クルーズ",
 			"discharged": null,
-			"source": "egypt",
+			"sources": ["egypt"],
 			"date": "2020-03-11"
 		},
 		{
@@ -170,7 +170,7 @@
 			"remarks": null,
 			"supplement": "エジプト・ナイル川クルーズ、No.510の妻",
 			"discharged": null,
-			"source": "egypt",
+			"sources": ["egypt"],
 			"date": "2020-03-12"
 		},
 		{
@@ -183,7 +183,7 @@
 			"remarks": null,
 			"supplement": "エジプト・ナイル川クルーズ、No.510、No.595とエジプト同行",
 			"discharged": null,
-			"source": "egypt",
+			"sources": ["egypt"],
 			"date": "2020-03-12"
 		},
 		{
@@ -208,7 +208,7 @@
 			"remarks": null,
 			"supplement": "3/1までスペイン、イギリスに渡航",
 			"discharged": null,
-			"source": "uk",
+			"sources": ["spain", "uk"],
 			"date": "2020-03-13"
 		},
 		{
@@ -245,7 +245,7 @@
 			"remarks": null,
 			"supplement": "エジプト・ナイル川クルーズ",
 			"discharged": null,
-			"source": "egypt",
+			"sources": ["egypt"],
 			"date": "2020-03-17"
 		},
 		{
@@ -258,7 +258,7 @@
 			"remarks": null,
 			"supplement": "エジプト・ナイル川クルーズ、No.739の妻",
 			"discharged": null,
-			"source": "egypt",
+			"sources": ["egypt"],
 			"date": "2020-03-17"
 		},
 		{
@@ -271,7 +271,7 @@
 			"remarks": null,
 			"supplement": "3/13までイギリス滞在",
 			"discharged": null,
-			"source": "uk",
+			"sources": ["uk"],
 			"date": "2020-03-17"
 		},
 		{
@@ -284,7 +284,7 @@
 			"remarks": null,
 			"supplement": "2/11ダイヤモンド・プリンセス号を下船",
 			"discharged": null,
-			"source": "cruise-ship",
+			"sources": ["cruise-ship"],
 			"date": "2020-03-17"
 		},
 		{
@@ -295,9 +295,9 @@
 			"sex": "female",
 			"attribute": "無職",
 			"remarks": null,
-			"supplement": "3/15までノルウェーに滞在",
+			"supplement": "3/15までフィンランド、ノルウェーに滞在",
 			"discharged": null,
-			"source": "norway",
+			"sources": ["finland", "norway"],
 			"date": "2020-03-18"
 		},
 		{
@@ -308,9 +308,9 @@
 			"sex": "male",
 			"attribute": "無職",
 			"remarks": null,
-			"supplement": "3/15までノルウェーに滞在、No.782の夫",
+			"supplement": "3/15までフィンランド、ノルウェーに滞在、No.782の夫",
 			"discharged": null,
-			"source": "norway",
+			"sources": ["finland", "norway"],
 			"date": "2020-03-19"
 		},
 		{
@@ -323,7 +323,7 @@
 			"remarks": null,
 			"supplement": "3/15までスペインに滞在",
 			"discharged": null,
-			"source": "spain",
+			"sources": ["spain"],
 			"date": "2020-03-19"
 		},
 		{
@@ -336,7 +336,7 @@
 			"remarks": null,
 			"supplement": "3/15までイギリスに滞在",
 			"discharged": null,
-			"source": "uk",
+			"sources": ["uk"],
 			"date": "2020-03-19"
 		},
 		{

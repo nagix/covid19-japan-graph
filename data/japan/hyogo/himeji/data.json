@@ -207,7 +207,7 @@
 			"remarks": null,
 			"supplement": "3/18スペインより帰国",
 			"discharged": null,
-			"source": "spain",
+			"sources": ["spain"],
 			"date": "2020-03-21"
 		}
 	]

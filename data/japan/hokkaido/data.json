@@ -20,7 +20,7 @@
 			"remarks": null,
 			"supplement": "1/21武漢から来日",
 			"discharged": "〇",
-			"source": "china",
+			"sources": ["china"],
 			"date": "2020-01-28"
 		},
 		{

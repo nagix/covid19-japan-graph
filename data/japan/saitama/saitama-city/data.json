@@ -42,8 +42,8 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "エジプト・ナイル川クルーズ",
-			"discharged": null,
-			"source": "egypt",
+			"discharged": "〇",
+			"sources": ["egypt"],
 			"date": "2020-03-12"
 		},
 		{

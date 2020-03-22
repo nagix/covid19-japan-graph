@@ -18,7 +18,7 @@
 			"remarks": null,
 			"supplement": "2/19ダイヤモンド・プリンセス号を下船",
 			"discharged": null,
-			"source": "cruise-ship",
+			"sources": ["cruise-ship"],
 			"date": "2020-02-22"
 		},
 		{
@@ -44,7 +44,7 @@
 			"remarks": null,
 			"supplement": "3/15ポルトガルから帰国",
 			"discharged": null,
-			"source": "portugal",
+			"sources": ["portugal"],
 			"date": "2020-03-21"
 		}
 	]

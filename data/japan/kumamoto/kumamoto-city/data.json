@@ -54,7 +54,7 @@
 			"attribute": "会社員",
 			"remarks": null,
 			"supplement": "No.92の母親、No.93の配偶者",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-02-25"
 		},
 		{
@@ -68,7 +68,7 @@
 			"remarks": null,
 			"supplement": "3/14スペインから帰国",
 			"discharged": null,
-			"source": "spain",
+			"sources": ["spain"],
 			"date": "2020-03-19"
 		}
 	]

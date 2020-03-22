@@ -39,7 +39,7 @@
 			"remarks": null,
 			"supplement": "3/16イタリアから帰国",
 			"discharged": null,
-			"source": "italy",
+			"sources": ["italy"],
 			"date": "2020-03-18"
 		}
 	]

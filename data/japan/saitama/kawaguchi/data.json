@@ -42,7 +42,7 @@
 			"remarks": null,
 			"supplement": "3/13にベトナムから帰国",
 			"discharged": null,
-			"source": "vietnam",
+			"sources": ["vietnam"],
 			"date": "2020-03-21"
 		}
 	]
