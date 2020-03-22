@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "川崎市"
 	},
-	"date": "2020\/03\/12 18:00",
+	"date": "2020\/03\/22 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -17,6 +17,32 @@
 			"supplement": "新型コロナウイルス感染症患者と接触",
 			"discharged": null,
 			"date": "2020-03-12"
+		},
+		{
+			"id": 2,
+			"pid": 77,
+			"jid": 952,
+			"address": "神奈川県川崎市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-22"
+		},
+		{
+			"id": 3,
+			"pid": 78,
+			"jid": 953,
+			"address": "国外",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/21まで国内旅行",
+			"discharged": null,
+			"date": "2020-03-22"
 		}
 	]
 }

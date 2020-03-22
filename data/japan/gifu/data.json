@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "岐阜県"
 	},
-	"date": "2020\/03\/18 19:00",
+	"date": "2020\/03\/22 19:00",
 	"data": [
 		{
 			"pid": 1,
@@ -41,6 +41,31 @@
 			"discharged": null,
 			"sources": ["usa"],
 			"date": "2020-03-18"
+		},
+		{
+			"pid": 4,
+			"jid": 954,
+			"address": "岐阜県各務原市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/17までスペイン、フランスに滞在",
+			"discharged": null,
+			"sources": ["spain", "france"],
+			"date": "2020-03-22"
+		},
+		{
+			"pid": 5,
+			"jid": 955,
+			"address": "岐阜県可児市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-22"
 		}
 	]
 }

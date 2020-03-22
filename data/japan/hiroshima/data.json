@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "広島県"
 	},
-	"date": "2020\/03\/20 18:00",
+	"date": "2020\/03\/22 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -29,6 +29,18 @@
 			"discharged": null,
 			"sources": ["philippines"],
 			"date": "2020-03-20"
+		},
+		{
+			"pid": 3,
+			"jid": 919,
+			"address": "広島県尾道市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.842の同僚",
+			"discharged": null,
+			"date": "2020-03-22"
 		}
 	]
 }

@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "札幌市"
 	},
-	"date": "2020\/03\/20 17:00",
+	"date": "2020\/03\/22 17:00",
 	"data": [
 		{
 			"id": 1,
@@ -925,6 +925,19 @@
 			"supplement": "No.819の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-20"
+		},
+		{
+			"id": 71,
+			"pid": 160,
+			"jid": 928,
+			"address": "札幌市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-22"
 		}
 	]
 }

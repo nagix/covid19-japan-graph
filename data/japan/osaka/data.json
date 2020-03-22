@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "大阪府"
 	},
-	"date": "2020\/03\/21 18:00",
+	"date": "2020\/03\/22 18:40",
 	"data": [
 		{
 			"pid": 1,
@@ -831,9 +831,9 @@
 			"age": "70s",
 			"sex": "male",
 			"attribute": null,
-			"remarks": "重症",
+			"remarks": "3/21死亡",
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-10"
 		},
 		{
@@ -1546,6 +1546,80 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-21"
+		},
+		{
+			"pid": 126,
+			"jid": 943,
+			"address": "大阪府大阪市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-22"
+		},
+		{
+			"pid": 127,
+			"jid": 944,
+			"address": "大阪府大阪市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-22"
+		},
+		{
+			"pid": 128,
+			"jid": 945,
+			"address": "大阪府枚方市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/18までスペインに滞在",
+			"discharged": null,
+			"sources": ["spain"],
+			"date": "2020-03-22"
+		},
+		{
+			"pid": 129,
+			"jid": 946,
+			"address": "大阪府枚方市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/18までスペインに滞在、No.945の同居家族",
+			"discharged": null,
+			"sources": ["spain"],
+			"date": "2020-03-22"
+		},
+		{
+			"pid": 130,
+			"address": "大阪府枚方市",
+			"age": "u10",
+			"sex": "female",
+			"attribute": "保育園児",
+			"remarks": "無症状",
+			"supplement": "3/18までスペインに滞在、No.128、No.129の同居家族",
+			"discharged": null,
+			"sources": ["spain"],
+			"date": "2020-03-22"
+		},
+		{
+			"pid": 131,
+			"jid": 947,
+			"address": "大阪府八尾市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-22"
 		}
 	]
 }

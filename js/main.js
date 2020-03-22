@@ -49,7 +49,9 @@ var sourceMaster = {
 	'turkey': { label: { 'ja': 'トルコ' } },
 	'qatar': { label: { 'ja': 'カタール' } },
 	'morocco': { label: { 'ja': 'モロッコ' } },
-	'switzerland': { label: { 'ja': 'スイス' } }
+	'switzerland': { label: { 'ja': 'スイス' } },
+	'cotedivoirc': { label: { 'ja': 'コートジボワール' } },
+	'mexico': { label: { 'ja': 'メキシコ' } }
 };
 
 var clusterMaster = {
@@ -152,7 +154,7 @@ var tooltip = d3.select('body').append('div')
 	.style('opacity', 0);
 
 loadData('japan').then(function(patients) {
-
+console.log(patients)
 	document.getElementById('last-update').innerHTML = patients.date;
 	patients.data.sort(function(a, b) {
 		return a.jid > b.jid;

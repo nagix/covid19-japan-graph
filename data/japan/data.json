@@ -31,6 +31,7 @@
 		"hyogo",
 		"nara",
 		"wakayama",
+		"okayama",
 		"hiroshima",
 		"yamaguchi",
 		"tokushima",
@@ -404,6 +405,18 @@
 			"discharged": null,
 			"sources": ["italy"],
 			"date": "2020-03-21"
+		},
+		{
+			"pid": 18,
+			"address": "東京都",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/20までイギリス・ロンドンに滞在",
+			"discharged": null,
+			"sources": ["uk"],
+			"date": "2020-03-22"
 		}
 	]
 }

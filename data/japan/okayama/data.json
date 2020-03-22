@@ -1,0 +1,22 @@
+{
+	"id": "okayama",
+	"label": {
+		"ja": "岡山県"
+	},
+	"date": "2020\/03\/22 18:00",
+	"data": [
+		{
+			"pid": 1,
+			"jid": 940,
+			"address": "愛媛県愛南町",
+			"age": "60s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/15までスペイン滞在",
+			"discharged": null,
+			"sources": ["spain"],
+			"date": "2020-03-22"
+		}
+	]
+}

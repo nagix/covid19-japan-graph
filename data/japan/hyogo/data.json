@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "兵庫県"
 	},
-	"date": "2020\/03\/20 18:00",
+	"date": "2020\/03\/22 18:00",
 	"subgroups": [
 		"amagasaki",
 		"kobe",
@@ -118,9 +118,9 @@
 			"age": "70s",
 			"sex": "male",
 			"attribute": "無職",
-			"remarks": null,
+			"remarks": "3/22死亡",
 			"supplement": "伊丹市内デイケア利用",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "itami-daycare",
 			"date": "2020-03-11"
 		},
@@ -438,9 +438,9 @@
 			"age": "80s",
 			"sex": "female",
 			"attribute": null,
-			"remarks": "無症状",
+			"remarks": "3/22死亡",
 			"supplement": "No.hyogo75の同居人",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-15"
 		},
 		{
@@ -687,6 +687,42 @@
 			"discharged": null,
 			"cluster": "itami-daycare",
 			"date": "2020-03-21"
+		},
+		{
+			"pid": 109,
+			"jid": 949,
+			"address": "兵庫県伊丹健康福祉事務所管内",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.799の同居者",
+			"discharged": null,
+			"date": "2020-03-22"
+		},
+		{
+			"pid": 110,
+			"address": "兵庫県宝塚市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": "無症状",
+			"supplement": "伊丹市内デイケアを利用",
+			"discharged": null,
+			"cluster": "itami-daycare",
+			"date": "2020-03-22"
+		},
+		{
+			"pid": 111,
+			"address": "兵庫県尼崎市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": "無症状",
+			"supplement": "伊丹市内デイケアを利用",
+			"discharged": null,
+			"cluster": "itami-daycare",
+			"date": "2020-03-22"
 		}
 	]
 }

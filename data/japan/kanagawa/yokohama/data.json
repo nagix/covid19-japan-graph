@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "横浜市"
 	},
-	"date": "2020\/03\/17 18:00",
+	"date": "2020\/03\/22 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -15,7 +15,7 @@
 			"attribute": "タクシー運転手",
 			"remarks": null,
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-02-18"
 		},
 		{
@@ -27,7 +27,7 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "No.62の濃厚接触者",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-02-20"
 		},
 		{
@@ -39,7 +39,7 @@
 			"attribute": "会社員",
 			"remarks": null,
 			"supplement": "No.62、No.yokohama2の濃厚接触者",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-02-21"
 		},
 		{
@@ -52,7 +52,7 @@
 			"attribute": "横浜検疫所職員",
 			"remarks": null,
 			"supplement": "ダイヤモンド・プリンセス号まで送迎する公用車の運転を担当",
-			"discharged": null,
+			"discharged": "〇",
 			"sources": ["cruise-ship"],
 			"date": "2020-02-27"
 		},
@@ -90,9 +90,9 @@
 			"age": "70s",
 			"sex": "male",
 			"attribute": "無職",
-			"remarks": "中等症～重症",
+			"remarks": null,
 			"supplement": "2/23までエジプトに滞在",
-			"discharged": null,
+			"discharged": "〇",
 			"sources": ["egypt"],
 			"date": "2020-03-06"
 		},
@@ -173,6 +173,20 @@
 			"supplement": "No.618の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-17"
+		},
+		{
+			"id": 14,
+			"pid": 77,
+			"jid": 923,
+			"address": "神奈川県横浜市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/15スペインから帰国",
+			"discharged": null,
+			"sources": ["spain"],
+			"date": "2020-03-22"
 		}
 	]
 }

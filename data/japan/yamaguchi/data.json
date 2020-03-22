@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "山口県"
 	},
-	"date": "2020\/03\/05 18:00",
+	"date": "2020\/03\/22 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -38,6 +38,19 @@
 			"supplement": "No.258の子",
 			"discharged": null,
 			"date": "2020-03-05"
+		},
+		{
+			"pid": 4,
+			"jid": 937,
+			"address": "山口県下関市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/9フィリピンから帰国",
+			"discharged": null,
+			"sources": ["philippines"],
+			"date": "2020-03-22"
 		}
 	]
 }

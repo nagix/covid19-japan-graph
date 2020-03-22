@@ -1,0 +1,49 @@
+{
+	"id": "fujisawa",
+	"label": {
+		"ja": "藤沢市"
+	},
+	"date": "2020\/03\/22 18:00",
+	"data": [
+		{
+			"id": 1,
+			"pid": 74,
+			"jid": 920,
+			"address": "神奈川県藤沢市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/16スペインから帰国",
+			"discharged": null,
+			"sources": ["spain"],
+			"date": "2020-03-22"
+		},
+		{
+			"id": 2,
+			"pid": 75,
+			"jid": 921,
+			"address": "神奈川県藤沢市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-22"
+		},
+		{
+			"id": 3,
+			"pid": 76,
+			"jid": 922,
+			"address": "神奈川県藤沢市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-22"
+		}
+	]
+}

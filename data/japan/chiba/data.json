@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "千葉県"
 	},
-	"date": "2020\/03\/21 18:00",
+	"date": "2020\/03\/22 18:00",
 	"subgroups": [
 		"funabashi"
 	],
@@ -517,6 +517,31 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-21"
+		},
+		{
+			"pid": 44,
+			"jid": 929,
+			"address": "千葉県我孫子市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/16までコートジボワールに出張",
+			"discharged": null,
+			"sources": ["cotedivoirc"],
+			"date": "2020-03-22"
+		},
+		{
+			"pid": 45,
+			"jid": 930,
+			"address": "千葉県市川市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社役員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-22"
 		}
 	]
 }

@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "愛知県"
 	},
-	"date": "2020\/03\/21 18:00",
+	"date": "2020\/03\/22 18:00",
 	"subgroups": [
 		"nagoya",
 		"okazaki",
@@ -359,6 +359,18 @@
 			"supplement": "No.894の家族（濃厚接触者）",
 			"discharged": null,
 			"date": "2020-03-21"
+		},
+		{
+			"pid": 142,
+			"jid": 938,
+			"address": "愛知県豊川市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.828の職場での濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-22"
 		}
 	]
 }
