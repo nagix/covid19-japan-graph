@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "千葉県"
 	},
-	"date": "2020\/03\/20 18:00",
+	"date": "2020\/03\/21 18:00",
 	"subgroups": [
 		"funabashi"
 	],
@@ -506,6 +506,18 @@
 			"supplement": "東京都で確認された患者と接触",
 			"discharged": null,
 			"date": "2020-03-20"
+		},
+		{
+			"pid": 43,
+			"jid": 896,
+			"address": "千葉県市川市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-21"
 		}
 	]
 }

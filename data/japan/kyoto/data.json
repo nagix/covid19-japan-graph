@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "京都府"
 	},
-	"date": "2020\/03\/12 18:00",
+	"date": "2020\/03\/18 18:00",
 	"subgroups": [
 		"kyoto-city"
 	],
@@ -102,6 +102,17 @@
 			"supplement": "No.380の勤務病棟に入院",
 			"discharged": null,
 			"date": "2020-03-12"
+		},
+		{
+			"pid": 20,
+			"address": "京都府乙訓保健所管内",
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-18"
 		}
 	]
 }

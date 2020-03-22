@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "北海道"
 	},
-	"date": "2020\/03\/18 17:00",
+	"date": "2020\/03\/21 17:00",
 	"subgroups": [
 		"sapporo",
 		"otaru",
@@ -940,6 +940,18 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-18"
+		},
+		{
+			"pid": 159,
+			"jid": 890,
+			"address": "釧路総合振興局管内",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "海外への渡航歴あり",
+			"discharged": null,
+			"date": "2020-03-21"
 		}
 	]
 }

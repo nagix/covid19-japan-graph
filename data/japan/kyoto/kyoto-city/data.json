@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "京都市"
 	},
-	"date": "2020\/03\/20 18:00",
+	"date": "2020\/03\/21 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -134,7 +134,7 @@
 			"address": "京都府京都市",
 			"age": "30s",
 			"sex": "male",
-			"attribute": null,
+			"attribute": "医療機関の事務職員",
 			"remarks": null,
 			"supplement": "同居の母がエジプト・ナイル川クルーズに参加",
 			"discharged": null,
@@ -156,7 +156,7 @@
 		},
 		{
 			"id": 12,
-			"pid": 20,
+			"pid": 21,
 			"jid": 779,
 			"address": "京都府京都市",
 			"age": "60s",
@@ -169,7 +169,7 @@
 		},
 		{
 			"id": 13,
-			"pid": 21,
+			"pid": 22,
 			"jid": 851,
 			"address": "京都府京都市",
 			"age": "70s",
@@ -179,6 +179,20 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-20"
+		},
+		{
+			"id": 14,
+			"pid": 23,
+			"jid": 907,
+			"address": "京都府京都市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/16オランダから帰国",
+			"discharged": null,
+			"source": "netherlands",
+			"date": "2020-03-21"
 		}
 	]
 }

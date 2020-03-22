@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "栃木県"
 	},
-	"date": "2020\/03\/05 22:00",
+	"date": "2020\/03\/21 18:00",
 	"subgroups": [
 		"utsunomiya"
 	],
@@ -11,7 +11,7 @@
 		{
 			"pid": 1,
 			"jid": 111,
-			"address": "栃木県(県南健康福祉センター管内)",
+			"address": "栃木県（県南健康福祉センター管内）",
 			"age": "60s",
 			"sex": "female",
 			"attribute": null,
@@ -24,7 +24,7 @@
 		{
 			"pid": 2,
 			"jid": 313,
-			"address": "栃木県(県南健康福祉センター管内)",
+			"address": "栃木県（県南健康福祉センター管内）",
 			"age": "30s",
 			"sex": "female",
 			"attribute": null,
@@ -33,6 +33,19 @@
 			"discharged": null,
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-05"
+		},
+		{
+			"pid": 4,
+			"jid": 883,
+			"address": "栃木県（県南健康福祉センター管内）",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/15ポルトガルから帰国",
+			"discharged": null,
+			"source": "portugal",
+			"date": "2020-03-21"
 		}
 	]
 }

@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "埼玉県"
 	},
-	"date": "2020\/03\/19 18:00",
+	"date": "2020\/03\/21 18:00",
 	"subgroups": [
 		"saitama-city",
 		"kawaguchi",
@@ -361,6 +361,30 @@
 			"supplement": "No.827の母",
 			"discharged": null,
 			"date": "2020-03-20"
+		},
+		{
+			"pid": 46,
+			"jid": 905,
+			"address": "埼玉県春日部市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員（県内勤務）",
+			"remarks": null,
+			"supplement": "No.827の同僚",
+			"discharged": null,
+			"date": "2020-03-21"
+		},
+		{
+			"pid": 47,
+			"jid": 906,
+			"address": "埼玉県春日部市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "会社員（県内勤務）",
+			"remarks": null,
+			"supplement": "No.827、No.905の同僚",
+			"discharged": null,
+			"date": "2020-03-21"
 		}
 	]
 }

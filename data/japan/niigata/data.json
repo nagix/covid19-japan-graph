@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "新潟県"
 	},
-	"date": "2020\/03\/03 18:00",
+	"date": "2020\/03\/21 18:00",
 	"subgroups": [
 		"niigata-city"
 	],
@@ -20,6 +20,18 @@
 			"discharged": null,
 			"cluster": "niigata-pingpong",
 			"date": "2020-03-02"
+		},
+		{
+			"pid": 26,
+			"jid": 884,
+			"address": "新潟県長岡市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-21"
 		}
 	]
 }

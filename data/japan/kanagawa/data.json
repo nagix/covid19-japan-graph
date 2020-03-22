@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "神奈川県"
 	},
-	"date": "2020\/03\/19 18:00",
+	"date": "2020\/03\/21 18:00",
 	"subgroups": [
 		"yokohama",
 		"kawasaki",
@@ -294,6 +294,43 @@
 			"discharged": null,
 			"source": "china",
 			"date": "2020-03-19"
+		},
+		{
+			"pid": 71,
+			"jid": 891,
+			"address": "神奈川県平塚保健福祉事務所管内",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-21"
+		},
+		{
+			"pid": 72,
+			"jid": 892,
+			"address": "神奈川県平塚保健福祉事務所管内",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-21"
+		},
+		{
+			"pid": 73,
+			"jid": 893,
+			"address": "神奈川県平塚保健福祉事務所管内",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": "3/15までフランス滞在",
+			"discharged": null,
+			"source": "france",
+			"date": "2020-03-21"
 		}
 	]
 }

@@ -42,7 +42,8 @@ var sources = {
 	'thailand': { label: { 'ja': 'タイ' } },
 	'norway': { label: { 'ja': 'ノルウェー' } },
 	'ireland': { label: { 'ja': 'アイルランド' } },
-	'spain': { label: { 'ja': 'スペイン' } }
+	'spain': { label: { 'ja': 'スペイン' } },
+	'portugal': { label: { 'ja': 'ポルトガル' } }
 };
 
 var clusters = {

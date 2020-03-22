@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "愛知県"
 	},
-	"date": "2020\/03\/19 18:00",
+	"date": "2020\/03\/21 18:00",
 	"subgroups": [
 		"nagoya",
 		"okazaki",
@@ -334,6 +334,31 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-19"
+		},
+		{
+			"pid": 140,
+			"jid": 894,
+			"address": "愛知県知多市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/15までノルウェー滞在",
+			"discharged": null,
+			"source": "norway",
+			"date": "2020-03-21"
+		},
+		{
+			"pid": 141,
+			"jid": 895,
+			"address": "愛知県知多市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.894の家族（濃厚接触者）",
+			"discharged": null,
+			"date": "2020-03-21"
 		}
 	]
 }

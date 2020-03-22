@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "大分県"
 	},
-	"date": "2020\/03\/20 18:00",
+	"date": "2020\/03\/21 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -51,7 +51,7 @@
 			"sex": "female",
 			"attribute": "医療機関職員",
 			"remarks": null,
-			"supplement": "No.807、808の濃厚接触者",
+			"supplement": "No.807、No.808の濃厚接触者",
 			"discharged": null,
 			"cluster": "oita-hospital",
 			"date": "2020-03-20"
@@ -64,7 +64,7 @@
 			"sex": "female",
 			"attribute": "医療機関職員",
 			"remarks": null,
-			"supplement": "No.807、808の濃厚接触者",
+			"supplement": "No.807、No.808の濃厚接触者",
 			"discharged": null,
 			"cluster": "oita-hospital",
 			"date": "2020-03-20"
@@ -76,7 +76,7 @@
 			"sex": "female",
 			"attribute": "医療機関職員",
 			"remarks": "無症状",
-			"supplement": "No.807、808の濃厚接触者",
+			"supplement": "No.807、No.808の濃厚接触者",
 			"discharged": null,
 			"cluster": "oita-hospital",
 			"date": "2020-03-20"
@@ -88,7 +88,7 @@
 			"sex": "male",
 			"attribute": "医療機関職員",
 			"remarks": "無症状",
-			"supplement": "No.807、808の濃厚接触者",
+			"supplement": "No.807、No.808の濃厚接触者",
 			"discharged": null,
 			"cluster": "oita-hospital",
 			"date": "2020-03-20"
@@ -101,10 +101,75 @@
 			"sex": "male",
 			"attribute": "無職",
 			"remarks": null,
-			"supplement": "No.807、808の濃厚接触者",
+			"supplement": "No.807、No.808の濃厚接触者",
 			"discharged": null,
 			"cluster": "oita-hospital",
 			"date": "2020-03-20"
+		},
+		{
+			"pid": 9,
+			"jid": 885,
+			"address": "大分県大分市",
+			"age": "80s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.859、No.oita7の濃厚接触者",
+			"discharged": null,
+			"cluster": "oita-hospital",
+			"date": "2020-03-21"
+		},
+		{
+			"pid": 10,
+			"jid": 886,
+			"address": "大分県大分市",
+			"age": "80s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"cluster": "oita-hospital",
+			"date": "2020-03-21"
+		},
+		{
+			"pid": 11,
+			"jid": 887,
+			"address": "大分県大分市",
+			"age": "90s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"cluster": "oita-hospital",
+			"date": "2020-03-21"
+		},
+		{
+			"pid": 12,
+			"jid": 888,
+			"address": "大分県大分市",
+			"age": "80s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"cluster": "oita-hospital",
+			"date": "2020-03-21"
+		},
+		{
+			"pid": 13,
+			"jid": 889,
+			"address": "大分県大分市",
+			"age": "90s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"cluster": "oita-hospital",
+			"date": "2020-03-21"
 		}
 	]
 }

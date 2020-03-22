@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "姫路市"
 	},
-	"date": "2020\/03\/20 18:00",
+	"date": "2020\/03\/21 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -195,6 +195,20 @@
 			"discharged": null,
 			"cluster": "himeji-hospital",
 			"date": "2020-03-20"
+		},
+		{
+			"id": 15,
+			"pid": 102,
+			"jid": 899,
+			"address": "姫路市内指定医療機関入院",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "3/18スペインより帰国",
+			"discharged": null,
+			"source": "spain",
+			"date": "2020-03-21"
 		}
 	]
 }

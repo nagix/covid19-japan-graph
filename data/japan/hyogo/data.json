@@ -638,6 +638,55 @@
 			"discharged": null,
 			"cluster": "itami-daycare",
 			"date": "2020-03-20"
+		},
+		{
+			"pid": 104,
+			"pid": 901,
+			"address": "兵庫県宝塚市",
+			"age": "80s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "伊丹市内デイケア利用者の妻",
+			"discharged": null,
+			"date": "2020-03-21"
+		},
+		{
+			"pid": 105,
+			"pid": 902,
+			"address": "兵庫県伊丹市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "伊丹市内デイケア利用者の同居者",
+			"discharged": null,
+			"date": "2020-03-21"
+		},
+		{
+			"pid": 106,
+			"pid": 903,
+			"address": "兵庫県宝塚市",
+			"age": "80s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "伊丹市内デイケアを利用",
+			"discharged": null,
+			"cluster": "itami-daycare",
+			"date": "2020-03-21"
+		},
+		{
+			"pid": 107,
+			"address": "兵庫県伊丹市",
+			"age": "90s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": "無症状",
+			"supplement": "伊丹市内デイケアを利用",
+			"discharged": null,
+			"cluster": "itami-daycare",
+			"date": "2020-03-21"
 		}
 	]
 }

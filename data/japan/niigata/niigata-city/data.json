@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "新潟市"
 	},
-	"date": "2020\/03\/20 18:00",
+	"date": "2020\/03\/21 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -270,11 +270,12 @@
 		{
 			"id": 21,
 			"pid": 22,
+			"jid": 915,
 			"address": "新潟県新潟市東区",
 			"age": "20s",
 			"sex": "male",
 			"attribute": "医療機関職員",
-			"remarks": "陽性確定",
+			"remarks": null,
 			"supplement": "No.805の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-18"
@@ -282,11 +283,12 @@
 		{
 			"id": 22,
 			"pid": 23,
+			"jid": 916,
 			"address": "新潟県新潟市東区",
 			"age": "70s",
 			"sex": "female",
 			"attribute": "無職",
-			"remarks": "陽性確定",
+			"remarks": null,
 			"supplement": "No.769の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-19"
@@ -294,11 +296,12 @@
 		{
 			"id": 23,
 			"pid": 24,
+			"jid": 917,
 			"address": "新潟県新潟市江南区",
 			"age": "u10",
 			"sex": "female",
 			"attribute": "乳幼児",
-			"remarks": "陽性確定",
+			"remarks": null,
 			"supplement": "No.451の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-19"
@@ -306,14 +309,27 @@
 		{
 			"id": 24,
 			"pid": 25,
+			"jid": 918,
 			"address": "新潟県新潟市江南区",
 			"age": "30s",
 			"sex": "female",
 			"attribute": "医療機関職員",
-			"remarks": "陽性確定",
+			"remarks": null,
 			"supplement": "No.niigata-city17の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-20"
+		},
+		{
+			"id": 25,
+			"pid": 27,
+			"address": "新潟県新潟市中央区",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": "陽性確定",
+			"supplement": "No.248の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-21"
 		}
 	]
 }

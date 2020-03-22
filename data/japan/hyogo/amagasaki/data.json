@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "尼崎市"
 	},
-	"date": "2020\/03\/20 18:00",
+	"date": "2020\/03\/21 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -100,6 +100,20 @@
 			"discharged": null,
 			"source": "uk",
 			"date": "2020-03-20"
+		},
+		{
+			"id": 8,
+			"pid": 103,
+			"jid": 900,
+			"address": "兵庫県尼崎市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/8までイギリスから帰国",
+			"discharged": null,
+			"source": "uk",
+			"date": "2020-03-21"
 		}
 	]
 }

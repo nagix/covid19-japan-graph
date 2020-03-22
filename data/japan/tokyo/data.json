@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "東京都"
 	},
-	"date": "2020\/03\/20 18:00",
+	"date": "2020\/03\/21 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -1566,6 +1566,91 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-20"
+		},
+		{
+			"pid": 130,
+			"jid": 908,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-21"
+		},
+		{
+			"pid": 131,
+			"jid": 909,
+			"address": "東京都",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-21"
+		},
+		{
+			"pid": 132,
+			"jid": 910,
+			"address": "東京都",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": "3/17フランスから帰国",
+			"discharged": null,
+			"source": "france",
+			"date": "2020-03-21"
+		},
+		{
+			"pid": 133,
+			"jid": 911,
+			"address": "東京都",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-21"
+		},
+		{
+			"pid": 134,
+			"jid": 912,
+			"address": "東京都",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "医療従事者",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-21"
+		},
+		{
+			"pid": 135,
+			"jid": 913,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-21"
+		},
+		{
+			"pid": 136,
+			"jid": 914,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社役員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-21"
 		}
 	]
 }
