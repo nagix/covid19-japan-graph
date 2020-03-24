@@ -51,7 +51,10 @@ var sourceMaster = {
 	'morocco': { label: { 'ja': 'モロッコ' } },
 	'switzerland': { label: { 'ja': 'スイス' } },
 	'cotedivoirc': { label: { 'ja': 'コートジボワール' } },
-	'mexico': { label: { 'ja': 'メキシコ' } }
+	'mexico': { label: { 'ja': 'メキシコ' } },
+	'southafrica': { label: { 'ja': '南アフリカ' } },
+	'belgium': { label: { 'ja': 'ベルギー' } },
+	'oversea': { label: { 'ja': '海外' } }
 };
 
 var clusterMaster = {
@@ -78,7 +81,8 @@ var clusterMaster = {
 	'takarazuka-hospital': { label: { 'ja': '宝塚第一病院クラスター' }, parentId: 'hyogo' },
 	'kobe-longterm-care': { label: { 'ja': '神戸介護保険通所事業所クラスター' }, parentId: 'kobe' },
 	'oizumi-clinic': { label: { 'ja': '大泉町診療所クラスター' }, parentId: 'gunma' },
-	'oita-hospital': { label: { 'ja': '大分医療センタークラスター' }, parentId: 'oita' }
+	'oita-hospital': { label: { 'ja': '大分医療センタークラスター' }, parentId: 'oita' },
+	'nippon-cargo-airlines': { label: { 'ja': '日本貨物航空クラスター' }, parentId: 'chiba' }
 };
 
 var boxColors = {

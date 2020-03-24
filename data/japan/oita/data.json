@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "大分県"
 	},
-	"date": "2020\/03\/22 18:00",
+	"date": "2020\/03\/23 20:30",
 	"data": [
 		{
 			"pid": 1,
@@ -221,6 +221,61 @@
 			"supplement": "No.885の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-22"
+		},
+		{
+			"pid": 18,
+			"address": "大分県大分市",
+			"age": "80s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": "無症状",
+			"supplement": "No.oita7の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-22"
+		},
+		{
+			"pid": 19,
+			"address": "大分県臼杵市",
+			"age": "90s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": "無症状",
+			"supplement": "No.oita7の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-22"
+		},
+		{
+			"pid": 20,
+			"address": "大分県大分市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "医療機関職員",
+			"remarks": "無症状",
+			"supplement": "No.860、No.886の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-22"
+		},
+		{
+			"pid": 21,
+			"address": "大分県大分市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "医療機関職員",
+			"remarks": "無症状",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-22"
+		},
+		{
+			"pid": 22,
+			"address": "大分県大分市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "医療機関職員",
+			"remarks": null,
+			"supplement": "No.924の接触者",
+			"discharged": null,
+			"date": "2020-03-23"
 		}
 	]
 }

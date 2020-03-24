@@ -1,0 +1,37 @@
+{
+	"id": "gifu-city",
+	"label": {
+		"ja": "岐阜市"
+	},
+	"date": "2020\/03\/23 14:30",
+	"data": [
+		{
+			"id": 1,
+			"pid": 3,
+			"jid": 771,
+			"address": "岐阜県岐阜市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": "3/9まで米国・ニューヨークへ渡航",
+			"discharged": null,
+			"sources": ["usa"],
+			"date": "2020-03-18"
+		},
+		{
+			"id": 2,
+			"pid": 8,
+			"jid": 961,
+			"address": "岐阜県岐阜市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/12までフィリピンへ渡航",
+			"discharged": null,
+			"sources": ["philippines"],
+			"date": "2020-03-23"
+		}
+	]
+}

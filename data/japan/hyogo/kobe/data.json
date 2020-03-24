@@ -234,6 +234,7 @@
 			"remarks": null,
 			"supplement": "3/4まで海外出張",
 			"discharged": null,
+			"sources": ["oversea"],
 			"date": "2020-03-15"
 		},
 		{
@@ -287,6 +288,7 @@
 			"remarks": null,
 			"supplement": "3/4まで海外渡航",
 			"discharged": null,
+			"sources": ["oversea"],
 			"date": "2020-03-16"
 		},
 		{

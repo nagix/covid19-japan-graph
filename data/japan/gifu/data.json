@@ -3,7 +3,10 @@
 	"label": {
 		"ja": "岐阜県"
 	},
-	"date": "2020\/03\/22 19:00",
+	"date": "2020\/03\/23 18:00",
+	"subgroups": [
+		"gifu-city"
+	],
 	"data": [
 		{
 			"pid": 1,
@@ -30,19 +33,6 @@
 			"date": "2020-02-27"
 		},
 		{
-			"pid": 3,
-			"jid": 771,
-			"address": "岐阜県岐阜市",
-			"age": "50s",
-			"sex": "male",
-			"attribute": null,
-			"remarks": null,
-			"supplement": "3/9までニューヨークへ渡航",
-			"discharged": null,
-			"sources": ["usa"],
-			"date": "2020-03-18"
-		},
-		{
 			"pid": 4,
 			"jid": 954,
 			"address": "岐阜県各務原市",
@@ -66,6 +56,31 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-22"
+		},
+		{
+			"pid": 6,
+			"jid": 959,
+			"address": "岐阜県各務原市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.954と共に3/17までスペイン、フランスに滞在",
+			"discharged": null,
+			"sources": ["spain", "france"],
+			"date": "2020-03-23"
+		},
+		{
+			"pid": 7,
+			"jid": 960,
+			"address": "岐阜県可児市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.955の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-23"
 		}
 	]
 }

@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "愛知県"
 	},
-	"date": "2020\/03\/22 18:00",
+	"date": "2020\/03\/23 18:00",
 	"subgroups": [
 		"nagoya",
 		"okazaki",
@@ -371,6 +371,18 @@
 			"supplement": "No.828の職場での濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-22"
+		},
+		{
+			"pid": 145,
+			"jid": 972,
+			"address": "愛知県春日井市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-23"
 		}
 	]
 }

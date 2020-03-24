@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "茨城県"
 	},
-	"date": "2020\/03\/19 18:00",
+	"date": "2020\/03\/23 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -21,28 +21,52 @@
 		{
 			"pid": 2,
 			"jid": 781,
-			"address": "茨城県",
+			"address": "茨城県つくば市",
 			"age": "20s",
 			"sex": "male",
-			"attribute": "会社員",
+			"attribute": "学生",
 			"remarks": null,
-			"supplement": "3/16ヨーロッパから帰国",
+			"supplement": "3/15までスペイン、フランス、ベルギーに滞在",
 			"discharged": null,
-			"source": "europe",
+			"sources": ["spain", "france", "belgium"],
 			"date": "2020-03-18"
 		},
 		{
 			"pid": 3,
 			"jid": 840,
-			"address": "茨城県（県南地域）",
+			"address": "茨城県阿見町",
 			"age": "50s",
 			"sex": "male",
 			"attribute": "会社員",
-			"remarks": null,
+			"remarks": "重症",
 			"supplement": "3/15タイから帰国",
 			"discharged": null,
 			"sources": ["thailand"],
 			"date": "2020-03-19"
+		},
+		{
+			"pid": 4,
+			"jid": 962,
+			"address": "茨城県土浦市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "派遣社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-23"
+		},
+		{
+			"pid": 5,
+			"jid": 963,
+			"address": "茨城県つくば市",
+			"age": "80s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-23"
 		}
 	]
 }

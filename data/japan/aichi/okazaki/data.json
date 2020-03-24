@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "岡崎市"
 	},
-	"date": "2020\/03\/11 18:00",
+	"date": "2020\/03\/23 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -30,6 +30,20 @@
 			"supplement": "No.552の家族",
 			"discharged": null,
 			"date": "2020-03-11"
+		},
+		{
+			"id": 3,
+			"pid": 144,
+			"jid": 973,
+			"address": "愛知県岡崎市",
+			"age": "80s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "3/23死亡",
+			"supplement": "3/11米国・ニューヨークから帰国",
+			"discharged": "〇",
+			"sources": ["usa"],
+			"date": "2020-03-23"
 		}
 	]
 }

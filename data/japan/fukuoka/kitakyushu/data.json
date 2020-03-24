@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "北九州市"
 	},
-	"date": "2020\/03\/01 18:00",
+	"date": "2020\/03\/23 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -17,6 +17,19 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-01"
+		},
+		{
+			"id": 2,
+			"pid": 6,
+			"jid": 975,
+			"address": "福岡県北九州市小倉北区",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "北九州市職員（小倉南区役所）",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-23"
 		}
 	]
 }

@@ -1,0 +1,34 @@
+{
+	"id": "aomori",
+	"label": {
+		"ja": "青森県"
+	},
+	"date": "2020\/03\/23 18:00",
+	"data": [
+		{
+			"pid": 1,
+			"jid": 976,
+			"address": "青森県八戸市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "会社経営",
+			"remarks": null,
+			"supplement": "3/15までスペイン滞在",
+			"discharged": null,
+			"sources": ["spain"],
+			"date": "2020-03-23"
+		},
+		{
+			"pid": 2,
+			"jid": 977,
+			"address": "青森県八戸市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.976の妻",
+			"discharged": null,
+			"date": "2020-03-23"
+		}
+	]
+}

@@ -3,9 +3,10 @@
 	"label": {
 		"ja": "日本"
 	},
-	"date": "2020\/03\/21 18:00",
+	"date": "2020\/03\/23 18:00",
 	"subgroups": [
 		"hokkaido",
+		"aomori",
 		"miyagi",
 		"akita",
 		"fukushima",
@@ -304,7 +305,7 @@
 			"age": "40s",
 			"sex": "male",
 			"attribute": null,
-			"remarks": null,
+			"remarks": "無症状",
 			"supplement": "3/18までイタリア・ロンバルディア州に滞在",
 			"discharged": null,
 			"sources": ["italy"],
@@ -316,7 +317,7 @@
 			"age": "30s",
 			"sex": "male",
 			"attribute": null,
-			"remarks": null,
+			"remarks": "無症状",
 			"supplement": "3/11までイタリア・ピエモンテ州に滞在",
 			"discharged": null,
 			"sources": ["italy"],
@@ -328,7 +329,7 @@
 			"age": "20s",
 			"sex": "female",
 			"attribute": null,
-			"remarks": null,
+			"remarks": "無症状",
 			"supplement": "3/18までスイスに滞在",
 			"discharged": null,
 			"sources": ["switzerland"],
@@ -352,7 +353,7 @@
 			"age": "40s",
 			"sex": "female",
 			"attribute": null,
-			"remarks": null,
+			"remarks": "無症状",
 			"supplement": "3/19までフランス・パリに滞在",
 			"discharged": null,
 			"sources": ["france"],
@@ -364,7 +365,7 @@
 			"age": "20s",
 			"sex": "male",
 			"attribute": null,
-			"remarks": null,
+			"remarks": "無症状",
 			"supplement": "3/19までスペイン・マドリード州に滞在",
 			"discharged": null,
 			"sources": ["spain"],
@@ -376,7 +377,7 @@
 			"age": "20s",
 			"sex": "female",
 			"attribute": null,
-			"remarks": null,
+			"remarks": "無症状",
 			"supplement": "3/19までスペイン・マドリード州に滞在",
 			"discharged": null,
 			"sources": ["spain"],
@@ -384,10 +385,10 @@
 		},
 		{
 			"pid": 16,
-			"address": "沖縄県",
+			"address": "沖縄県中部保健所管内",
 			"age": "10s",
 			"sex": "female",
-			"attribute": null,
+			"attribute": "学生",
 			"remarks": null,
 			"supplement": "3/19までスペイン・マドリード州に滞在",
 			"discharged": null,
@@ -417,6 +418,18 @@
 			"discharged": null,
 			"sources": ["uk"],
 			"date": "2020-03-22"
+		},
+		{
+			"pid": 19,
+			"address": "静岡県",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "3/21までイタリア・ロンバルディア州に滞在",
+			"discharged": null,
+			"sources": ["italy"],
+			"date": "2020-03-23"
 		}
 	]
 }

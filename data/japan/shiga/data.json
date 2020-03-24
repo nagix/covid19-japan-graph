@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "滋賀県"
 	},
-	"date": "2020\/03\/17 18:00",
+	"date": "2020\/03\/23 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -53,6 +53,19 @@
 			"discharged": null,
 			"sources": ["thailand", "jordan", "turkey", "qatar", "uk", "france", "spain", "portugal", "morocco", "finland"],
 			"date": "2020-03-17"
+		},
+		{
+			"pid": 5,
+			"jid": 971,
+			"address": "滋賀県大津市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/20までヨーロッパに滞在",
+			"discharged": null,
+			"sources": ["europe"],
+			"date": "2020-03-23"
 		}
 	]
 }

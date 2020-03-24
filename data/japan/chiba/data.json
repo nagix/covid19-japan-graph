@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "千葉県"
 	},
-	"date": "2020\/03\/22 18:00",
+	"date": "2020\/03\/23 18:00",
 	"subgroups": [
 		"funabashi"
 	],
@@ -405,6 +405,7 @@
 			"supplement": "3/15までオランダに滞在",
 			"discharged": null,
 			"sources": ["netherlands"],
+			"cluster": "nippon-cargo-airlines",
 			"date": "2020-03-18"
 		},
 		{
@@ -479,6 +480,7 @@
 			"supplement": "3/15までスペイン、オランダに滞在、No.777とともに日本へ入国",
 			"discharged": null,
 			"sources": ["spain", "netherlands"],
+			"cluster": "nippon-cargo-airlines",
 			"date": "2020-03-20"
 		},
 		{
@@ -492,6 +494,7 @@
 			"supplement": "3/15までアイルランド、オランダに滞在、No.777とともに日本へ入国",
 			"discharged": null,
 			"sources": ["ireland", "netherlands"],
+			"cluster": "nippon-cargo-airlines",
 			"date": "2020-03-20"
 		},
 		{
@@ -542,6 +545,48 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-22"
+		},
+		{
+			"pid": 46,
+			"jid": 968,
+			"address": "アイルランド",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/15までスイス、オランダに滞在、No.777、No.855、No.856とともに日本へ入国",
+			"discharged": null,
+			"sources": ["switzerland", "netherlands"],
+			"cluster": "nippon-cargo-airlines",
+			"date": "2020-03-23"
+		},
+		{
+			"pid": 47,
+			"jid": 969,
+			"address": "南アフリカ",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/15まで南アフリカ、オランダに滞在、No.777、No.855、No.856とともに日本へ入国",
+			"discharged": null,
+			"sources": ["southafrica", "netherlands"],
+			"cluster": "nippon-cargo-airlines",
+			"date": "2020-03-23"
+		},
+		{
+			"pid": 48,
+			"jid": 970,
+			"address": "ジンバブエ",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/15までオランダに滞在、No.777、No.855、No.856とともに日本へ入国",
+			"discharged": null,
+			"sources": ["netherlands"],
+			"cluster": "nippon-cargo-airlines",
+			"date": "2020-03-23"
 		}
 	]
 }

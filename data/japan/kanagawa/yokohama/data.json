@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "横浜市"
 	},
-	"date": "2020\/03\/22 18:00",
+	"date": "2020\/03\/23 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -176,7 +176,7 @@
 		},
 		{
 			"id": 14,
-			"pid": 77,
+			"pid": 70,
 			"jid": 923,
 			"address": "神奈川県横浜市",
 			"age": "30s",
@@ -186,7 +186,20 @@
 			"supplement": "3/15スペインから帰国",
 			"discharged": null,
 			"sources": ["spain"],
-			"date": "2020-03-22"
+			"date": "2020-03-20"
+		},
+		{
+			"id": 15,
+			"pid": 74,
+			"jid": 956,
+			"address": "神奈川県横浜市",
+			"age": "90s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-21"
 		}
 	]
 }

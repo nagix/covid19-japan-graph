@@ -951,6 +951,7 @@
 			"remarks": null,
 			"supplement": "海外への渡航歴あり",
 			"discharged": null,
+			"sources": ["oversea"],
 			"date": "2020-03-21"
 		}
 	]

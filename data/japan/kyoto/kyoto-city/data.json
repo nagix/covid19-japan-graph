@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "京都市"
 	},
-	"date": "2020\/03\/22 18:00",
+	"date": "2020\/03\/23 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -206,6 +206,19 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-22"
+		},
+		{
+			"id": 16,
+			"pid": 25,
+			"jid": 974,
+			"address": "京都府京都市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-23"
 		}
 	]
 }

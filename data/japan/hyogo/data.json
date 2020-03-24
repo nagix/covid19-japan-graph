@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "兵庫県"
 	},
-	"date": "2020\/03\/22 18:00",
+	"date": "2020\/03\/23 18:00",
 	"subgroups": [
 		"amagasaki",
 		"kobe",
@@ -723,6 +723,30 @@
 			"discharged": null,
 			"cluster": "itami-daycare",
 			"date": "2020-03-22"
+		},
+		{
+			"pid": 112,
+			"jid": 957,
+			"address": "兵庫県伊丹健康福祉事務所管内",
+			"age": "80s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.hyogo93の同居者",
+			"discharged": null,
+			"date": "2020-03-23"
+		},
+		{
+			"pid": 113,
+			"jid": 958,
+			"address": "兵庫県伊丹市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.hyogo62の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-23"
 		}
 	]
 }

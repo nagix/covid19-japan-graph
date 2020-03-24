@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "埼玉県"
 	},
-	"date": "2020\/03\/22 18:00",
+	"date": "2020\/03\/23 18:00",
 	"subgroups": [
 		"saitama-city",
 		"kawaguchi",
@@ -408,6 +408,18 @@
 			"supplement": "No.827、No.905、No.906の同僚",
 			"discharged": null,
 			"date": "2020-03-22"
+		},
+		{
+			"pid": 55,
+			"jid": 967,
+			"address": "埼玉県所沢市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-23"
 		}
 	]
 }
