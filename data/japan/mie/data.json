@@ -102,7 +102,7 @@
 			"attribute": "無職",
 			"remarks": null,
 			"supplement": "2/16ダイヤモンド・プリンセス号を下船",
-			"discharged": null,
+			"discharged": "〇",
 			"sources": ["cruise-ship"],
 			"date": "2020-03-14"
 		}

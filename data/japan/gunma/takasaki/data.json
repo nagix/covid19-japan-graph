@@ -1,0 +1,23 @@
+{
+	"id": "takasaki",
+	"label": {
+		"ja": "高崎市"
+	},
+	"date": "2020\/03\/24 18:00",
+	"data": [
+		{
+			"id": 1,
+			"pid": 13,
+			"jid": 1000,
+			"address": "群馬県高崎市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": "3/5までフィリピンに滞在",
+			"discharged": null,
+			"sources": ["philippines"],
+			"date": "2020-03-24"
+		}
+	]
+}

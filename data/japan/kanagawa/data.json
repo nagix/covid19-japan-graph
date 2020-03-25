@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "神奈川県"
 	},
-	"date": "2020\/03\/21 18:00",
+	"date": "2020\/03\/24 18:00",
 	"subgroups": [
 		"yokohama",
 		"kawasaki",
@@ -332,6 +332,68 @@
 			"discharged": null,
 			"sources": ["france"],
 			"date": "2020-03-21"
+		},
+		{
+			"pid": 80,
+			"jid": 1022,
+			"address": "神奈川県小田原保健福祉事務所管内",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": "重症",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 81,
+			"jid": 1023,
+			"address": "神奈川県厚木保健福祉事務所管内",
+			"age": "10s",
+			"sex": "female",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 82,
+			"jid": 1024,
+			"address": "神奈川県平塚保健福祉事務所管内",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "3/16米国・ニューヨーク州から帰国",
+			"discharged": null,
+			"sources": ["usa"],
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 83,
+			"jid": 1025,
+			"address": "神奈川県平塚保健福祉事務所管内",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "主婦",
+			"remarks": null,
+			"supplement": "No.892の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 84,
+			"jid": 1026,
+			"address": "神奈川県平塚保健福祉事務所管内",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/19までボリビアに滞在",
+			"discharged": null,
+			"sources": ["bolivia"],
+			"date": "2020-03-24"
 		}
 	]
 }

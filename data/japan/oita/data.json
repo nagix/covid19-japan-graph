@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "大分県"
 	},
-	"date": "2020\/03\/23 20:30",
+	"date": "2020\/03\/24 16:30",
 	"data": [
 		{
 			"pid": 1,
@@ -14,7 +14,7 @@
 			"attribute": "接客業",
 			"remarks": null,
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-03"
 		},
 		{
@@ -268,6 +268,7 @@
 		},
 		{
 			"pid": 22,
+			"jid": 993,
 			"address": "大分県大分市",
 			"age": "20s",
 			"sex": "female",
@@ -276,6 +277,17 @@
 			"supplement": "No.924の接触者",
 			"discharged": null,
 			"date": "2020-03-23"
+		},
+		{
+			"pid": 23,
+			"address": "大分県大分市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
 		}
 	]
 }

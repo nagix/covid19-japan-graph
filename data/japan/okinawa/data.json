@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "沖縄県"
 	},
-	"date": "2020\/02\/20 18:00",
+	"date": "2020\/02\/23 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -45,10 +45,11 @@
 		},
 		{
 			"pid": 4,
+			"jid": 992,
 			"address": "沖縄県南部保健所管内",
 			"age": "20s",
 			"sex": "male",
-			"attribute": null,
+			"attribute": "ホテル従業員",
 			"remarks": null,
 			"supplement": "3/14までベルギーに滞在",
 			"discharged": null,

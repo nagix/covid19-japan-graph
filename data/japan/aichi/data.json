@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "愛知県"
 	},
-	"date": "2020\/03\/23 18:00",
+	"date": "2020\/03\/24 18:00",
 	"subgroups": [
 		"nagoya",
 		"okazaki",
@@ -383,6 +383,30 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-23"
+		},
+		{
+			"pid": 146,
+			"jid": 1035,
+			"address": "愛知県稲沢市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 147,
+			"jid": 1036,
+			"address": "愛知県稲沢市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.146の家族",
+			"discharged": null,
+			"date": "2020-03-24"
 		}
 	]
 }

@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "京都市"
 	},
-	"date": "2020\/03\/23 18:00",
+	"date": "2020\/03\/24 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -150,7 +150,7 @@
 			"attribute": "臨時的任用の右京区役所職員",
 			"remarks": null,
 			"supplement": "エジプト・ナイル川クルーズに参加、No.521の濃厚接触者",
-			"discharged": null,
+			"discharged": "〇",
 			"sources": ["egypt"],
 			"date": "2020-03-17"
 		},
@@ -219,6 +219,33 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-23"
+		},
+		{
+			"id": 17,
+			"pid": 26,
+			"jid": 1020,
+			"address": "京都府京都市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/15までフランス、ルクセンブルグに滞在",
+			"discharged": null,
+			"sources": ["france", "luxembourg"],
+			"date": "2020-03-24"
+		},
+		{
+			"id": 18,
+			"pid": 27,
+			"jid": 1021,
+			"address": "京都府京都市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
 		}
 	]
 }

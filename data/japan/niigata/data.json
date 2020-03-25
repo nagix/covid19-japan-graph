@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "新潟県"
 	},
-	"date": "2020\/03\/21 18:00",
+	"date": "2020\/03\/24 18:00",
 	"subgroups": [
 		"niigata-city"
 	],
@@ -32,6 +32,19 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-21"
+		},
+		{
+			"pid": 28,
+			"jid": 994,
+			"address": "新潟県小千谷市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": "3/11までフィリピンに滞在",
+			"discharged": null,
+			"sources": ["philippines"],
+			"date": "2020-03-24"
 		}
 	]
 }

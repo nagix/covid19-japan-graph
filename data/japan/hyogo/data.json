@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "兵庫県"
 	},
-	"date": "2020\/03\/23 18:00",
+	"date": "2020\/03\/24 18:00",
 	"subgroups": [
 		"amagasaki",
 		"kobe",
@@ -747,6 +747,42 @@
 			"supplement": "No.hyogo62の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-23"
+		},
+		{
+			"pid": 114,
+			"jid": 1047,
+			"address": "兵庫県伊丹市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "伊丹市内デイケア利用陽性者の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 115,
+			"address": "兵庫県伊丹市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": "無症状",
+			"supplement": "伊丹市内デイケア利用陽性者の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 116,
+			"jid": 1048,
+			"address": "兵庫県伊丹健康福祉事務所管内",
+			"age": "80s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "伊丹市内デイケアを利用",
+			"discharged": null,
+			"cluster": "itami-daycare",
+			"date": "2020-03-24"
 		}
 	]
 }

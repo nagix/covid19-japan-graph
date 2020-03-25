@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "山梨県"
 	},
-	"date": "2020\/03\/07 18:00",
+	"date": "2020\/03\/24 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -28,6 +28,32 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-07"
+		},
+		{
+			"pid": 3,
+			"jid": 1037,
+			"address": "山梨県",
+			"age": "30s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "海外への渡航歴あり",
+			"discharged": null,
+			"sources": ["oversea"],
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 4,
+			"jid": 1038,
+			"address": "山梨県",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "海外への渡航歴あり",
+			"discharged": null,
+			"sources": ["oversea"],
+			"date": "2020-03-24"
 		}
 	]
 }

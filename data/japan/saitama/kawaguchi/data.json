@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "川口市"
 	},
-	"date": "2020\/03\/22 18:00",
+	"date": "2020\/03\/24 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -16,7 +16,7 @@
 			"remarks": null,
 			"supplement": "No.596の子、No.597の姉",
 			"discharged": null,
-			"date": "2020-03-13"
+			"date": "2020-03-24"
 		},
 		{
 			"id": 2,
@@ -97,6 +97,19 @@
 			"discharged": null,
 			"sources": ["france"],
 			"date": "2020-03-22"
+		},
+		{
+			"id": 8,
+			"pid": 62,
+			"jid": 1039,
+			"address": "埼玉県川口市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員（埼玉県内）",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
 		}
 	]
 }

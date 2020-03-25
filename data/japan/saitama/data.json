@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "埼玉県"
 	},
-	"date": "2020\/03\/23 18:00",
+	"date": "2020\/03\/24 18:00",
 	"subgroups": [
 		"saitama-city",
 		"kawaguchi",
@@ -420,6 +420,80 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-23"
+		},
+		{
+			"pid": 56,
+			"jid": 1040,
+			"address": "埼玉県春日部市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": "No.951の同居家族",
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 57,
+			"jid": 1041,
+			"address": "埼玉県深谷市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "3/17ポルトガルから帰国",
+			"discharged": null,
+			"sources": ["portugal"],
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 58,
+			"jid": 1042,
+			"address": "埼玉県深谷市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "3/17ポルトガルから帰国、No.1043の同居家族",
+			"discharged": null,
+			"sources": ["portugal"],
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 59,
+			"jid": 1043,
+			"address": "埼玉県戸田市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員（県外勤務）",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 60,
+			"jid": 1044,
+			"address": "埼玉県さいたま市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員（県外勤務）",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 61,
+			"jid": 1045,
+			"address": "埼玉県坂戸市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員（県外勤務）",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
 		}
 	]
 }

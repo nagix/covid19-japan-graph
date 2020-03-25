@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "長野県"
 	},
-	"date": "2020\/03\/14 18:00",
+	"date": "2020\/03\/24 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -25,7 +25,7 @@
 			"attribute": null,
 			"remarks": "無症状",
 			"supplement": "No.140の同居家族",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-02-26"
 		},
 		{
@@ -37,7 +37,7 @@
 			"attribute": "会社員（滝沢牧場）",
 			"remarks": null,
 			"supplement": "2/19ライブハウスSoap Opera Classics Umeda",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-06"
 		},
@@ -53,6 +53,18 @@
 			"discharged": null,
 			"sources": ["france"],
 			"date": "2020-03-14"
+		},
+		{
+			"pid": 5,
+			"jid": 1046,
+			"address": "長野県（松本保健所管内）",
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
 		}
 	]
 }

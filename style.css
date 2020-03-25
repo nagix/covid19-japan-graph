@@ -138,6 +138,13 @@ div.dead {
 	color: #fff;
 }
 
+.date > rect {
+	fill: #f00;
+}
+.date > text {
+	fill: #fff;
+}
+
 div.tooltip {
 	top: 0;
 	left: 0;

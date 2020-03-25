@@ -3,7 +3,10 @@
 	"label": {
 		"ja": "群馬県"
 	},
-	"date": "2020\/03\/20 18:00",
+	"date": "2020\/03\/24 18:00",
+	"subgroups": [
+		"takasaki"
+	],
 	"data": [
 		{
 			"pid": 1,
@@ -142,6 +145,18 @@
 			"supplement": "No.623の夫（濃厚接触者）",
 			"discharged": null,
 			"date": "2020-03-20"
+		},
+		{
+			"pid": 12,
+			"jid": 999,
+			"address": "群馬県前橋市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "医師",
+			"remarks": null,
+			"supplement": "3/23まで新型コロナウイルス感染症患者の診療",
+			"discharged": null,
+			"date": "2020-03-24"
 		}
 	]
 }

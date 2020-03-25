@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "東京都"
 	},
-	"date": "2020\/03\/23 21:15",
+	"date": "2020\/03\/24 21:45",
 	"data": [
 		{
 			"pid": 1,
@@ -1876,6 +1876,210 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-23"
+		},
+		{
+			"pid": 155,
+			"jid": 1004,
+			"address": "東京都",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "会社役員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 156,
+			"jid": 1005,
+			"address": "東京都",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "海外への渡航歴あり",
+			"discharged": null,
+			"sources": ["oversea"],
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 157,
+			"jid": 1006,
+			"address": "東京都",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 158,
+			"jid": 1007,
+			"address": "東京都",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 159,
+			"address": "東京都",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 160,
+			"address": "東京都",
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 161,
+			"address": "東京都",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 162,
+			"jid": 1008,
+			"address": "東京都",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 163,
+			"jid": 1009,
+			"address": "東京都",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "医療従事者",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 164,
+			"jid": 1010,
+			"address": "東京都",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 165,
+			"jid": 1011,
+			"address": "東京都",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 166,
+			"jid": 1012,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 167,
+			"jid": 1013,
+			"address": "東京都",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 168,
+			"jid": 1014,
+			"address": "東京都",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "海外への渡航歴あり",
+			"discharged": null,
+			"sources": ["oversea"],
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 169,
+			"jid": 1015,
+			"address": "東京都",
+			"age": "10s",
+			"sex": "female",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": "海外への渡航歴あり",
+			"discharged": null,
+			"sources": ["oversea"],
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 170,
+			"jid": 1016,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "パート従業員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 171,
+			"jid": 1017,
+			"address": "東京都",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
 		}
 	]
 }

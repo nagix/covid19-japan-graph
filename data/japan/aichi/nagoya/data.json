@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "名古屋市"
 	},
-	"date": "2020\/03\/22 18:00",
+	"date": "2020\/03\/24 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -1490,6 +1490,19 @@
 			"supplement": "No.831と接触あり",
 			"discharged": null,
 			"date": "2020-03-22"
+		},
+		{
+			"id": 111,
+			"pid": 148,
+			"jid": 1034,
+			"address": "愛知県名古屋市",
+			"age": "80s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.831の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-24"
 		}
 	]
 }

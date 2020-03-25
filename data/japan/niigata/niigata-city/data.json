@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "新潟市"
 	},
-	"date": "2020\/03\/21 18:00",
+	"date": "2020\/03\/24 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -322,11 +322,12 @@
 		{
 			"id": 25,
 			"pid": 27,
+			"jid": 1050,
 			"address": "新潟県新潟市中央区",
 			"age": "70s",
 			"sex": "male",
 			"attribute": "無職",
-			"remarks": "陽性確定",
+			"remarks": null,
 			"supplement": "No.248の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-21"

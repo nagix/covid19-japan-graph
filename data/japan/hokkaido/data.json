@@ -26,7 +26,7 @@
 		{
 			"pid": 4,
 			"jid": 64,
-			"address": "渡島総合振興局管内（七飯町）",
+			"address": "北海道七飯町",
 			"age": "60s",
 			"sex": "male",
 			"attribute": "七飯町議会議員",
@@ -38,7 +38,7 @@
 		{
 			"pid": 6,
 			"jid": 80,
-			"address": "上川総合振興局管内（中富良野町）",
+			"address": "北海道中富良野町",
 			"age": "u10",
 			"sex": "male",
 			"attribute": "小学生（中富良野小学校）",
@@ -50,7 +50,7 @@
 		{
 			"pid": 7,
 			"jid": 81,
-			"address": "上川総合振興局管内（中富良野町）",
+			"address": "北海道中富良野町",
 			"age": "10s",
 			"sex": "male",
 			"attribute": "小学生（中富良野小学校）",
@@ -62,7 +62,7 @@
 		{
 			"pid": 8,
 			"jid": 82,
-			"address": "石狩振興局管内（千歳市）",
+			"address": "北海道千歳市",
 			"age": "40s",
 			"sex": "female",
 			"attribute": "検疫官（小樽検疫所千歳空港検疫所支所）",
@@ -86,7 +86,7 @@
 		{
 			"pid": 10,
 			"jid": 99,
-			"address": "渡島総合振興局管内（知内町）",
+			"address": "北海道知内町",
 			"age": "80s",
 			"sex": "male",
 			"attribute": "無職",
@@ -98,7 +98,7 @@
 		{
 			"pid": 12,
 			"jid": 101,
-			"address": "渡島総合振興局管内（函館市）",
+			"address": "北海道函館市",
 			"age": "50s",
 			"sex": "female",
 			"attribute": "医療従事者（看護師）",
@@ -110,7 +110,7 @@
 		{
 			"pid": 13,
 			"jid": 102,
-			"address": "渡島総合振興局管内（函館市）",
+			"address": "北海道函館市",
 			"age": "60s",
 			"sex": "male",
 			"attribute": "無職",
@@ -122,7 +122,7 @@
 		{
 			"pid": 14,
 			"jid": 103,
-			"address": "根室振興局管内（根室市）",
+			"address": "北海道根室市",
 			"age": "50s",
 			"sex": "female",
 			"attribute": "パート従業員",
@@ -146,7 +146,7 @@
 		{
 			"pid": 16,
 			"jid": 105,
-			"address": "石狩振興局管内（江別市）",
+			"address": "北海道江別市",
 			"age": "50s",
 			"sex": "female",
 			"attribute": "パート従業員",
@@ -158,7 +158,7 @@
 		{
 			"pid": 17,
 			"jid": 113,
-			"address": "オホーツク総合振興局管内（北見市）",
+			"address": "北海道北見市",
 			"age": "50s",
 			"sex": "male",
 			"attribute": "会社員",
@@ -171,7 +171,7 @@
 		{
 			"pid": 21,
 			"jid": 120,
-			"address": "上川総合振興局管内（美瑛町）",
+			"address": "北海道美瑛町",
 			"age": "20s",
 			"sex": "male",
 			"attribute": "公務員（消防士）",
@@ -183,10 +183,10 @@
 		{
 			"pid": 22,
 			"jid": 121,
-			"address": "上川総合振興局管内",
+			"address": "北海道愛別町",
 			"age": "70s",
 			"sex": "male",
-			"attribute": "調査中",
+			"attribute": "スクールバス運転手",
 			"remarks": null,
 			"supplement": null,
 			"discharged": null,
@@ -195,7 +195,7 @@
 		{
 			"pid": 23,
 			"jid": 122,
-			"address": "釧路総合振興局管内（釧路市）",
+			"address": "北海道釧路市",
 			"age": "30s",
 			"sex": "female",
 			"attribute": "パート従業員",
@@ -243,7 +243,7 @@
 		{
 			"pid": 29,
 			"jid": 131,
-			"address": "オホーツク総合振興局管内",
+			"address": "北海道北見市",
 			"age": "20s",
 			"sex": "female",
 			"attribute": "会社員",
@@ -266,7 +266,7 @@
 		},
 		{
 			"pid": 32,
-			"address": "上川総合振興局管内（美瑛町）",
+			"address": "北海道美瑛町",
 			"age": "60s",
 			"sex": "male",
 			"attribute": "開業医",
@@ -278,7 +278,7 @@
 		{
 			"pid": 33,
 			"jid": 151,
-			"address": "オホーツク総合振興局管内",
+			"address": "北海道北見市",
 			"age": "20s",
 			"sex": "male",
 			"attribute": "会社員",
@@ -303,7 +303,7 @@
 		{
 			"pid": 36,
 			"jid": 155,
-			"address": "日高振興局管内（新ひだか町）",
+			"address": "北海道新ひだか町",
 			"age": "70s",
 			"sex": "female",
 			"attribute": "無職",
@@ -315,7 +315,7 @@
 		{
 			"pid": 37,
 			"jid": 156,
-			"address": "日高振興局管内（新ひだか町）",
+			"address": "北海道新ひだか町",
 			"age": "70s",
 			"sex": "female",
 			"attribute": "無職",
@@ -327,7 +327,7 @@
 		{
 			"pid": 38,
 			"jid": 154,
-			"address": "渡島総合振興局管内（函館市）",
+			"address": "北海道函館市",
 			"age": "高齢者",
 			"sex": null,
 			"attribute": "無職",
@@ -339,7 +339,7 @@
 		{
 			"pid": 42,
 			"jid": 176,
-			"address": "オホーツク総合振興局管内",
+			"address": "北海道北見市",
 			"age": "30s",
 			"sex": "male",
 			"attribute": "会社員",
@@ -351,7 +351,7 @@
 		{
 			"pid": 43,
 			"jid": 177,
-			"address": "オホーツク総合振興局管内",
+			"address": "北海道北見市",
 			"age": "70s",
 			"sex": "male",
 			"attribute": "無職",
@@ -364,7 +364,7 @@
 		{
 			"pid": 44,
 			"jid": 178,
-			"address": "釧路総合振興局管内（厚岸町）",
+			"address": "北海道厚岸町",
 			"age": "60s",
 			"sex": "male",
 			"attribute": "自営業",
@@ -388,7 +388,7 @@
 		{
 			"pid": 46,
 			"jid": 180,
-			"address": "空知総合振興局管内（滝川市）",
+			"address": "北海道滝川市",
 			"age": "40s",
 			"sex": "male",
 			"attribute": "会社員",
@@ -424,19 +424,19 @@
 		{
 			"pid": 49,
 			"jid": 183,
-			"address": "十勝総合振興局管内",
+			"address": "北海道中札内村",
 			"age": "u10",
 			"sex": "male",
 			"attribute": "保育園児",
 			"remarks": null,
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-02-27"
 		},
 		{
 			"pid": 50,
 			"jid": 184,
-			"address": "上川総合振興局管8（美瑛町）",
+			"address": "北海道美瑛町",
 			"age": "80s",
 			"sex": "male",
 			"attribute": "無職",
@@ -448,7 +448,7 @@
 		{
 			"pid": 51,
 			"jid": 185,
-			"address": "檜山振興局管内（せたな町）",
+			"address": "北海道せたな町",
 			"age": "30s",
 			"sex": "male",
 			"attribute": "公務員（消防士）",
@@ -460,7 +460,7 @@
 		{
 			"pid": 52,
 			"jid": 186,
-			"address": "檜山振興局管内（せたな町）",
+			"address": "北海道せたな町",
 			"age": "80s",
 			"sex": "male",
 			"attribute": "自営業",
@@ -472,7 +472,7 @@
 		{
 			"pid": 53,
 			"jid": 187,
-			"address": "渡島総合振興局管内（八雲町）",
+			"address": "北海道八雲町",
 			"age": "60s",
 			"sex": "male",
 			"attribute": "会社員",
@@ -484,7 +484,7 @@
 		{
 			"pid": 54,
 			"jid": 188,
-			"address": "渡島総合振興局管内（木古内町）",
+			"address": "北海道木古内町",
 			"age": "40s",
 			"sex": "female",
 			"attribute": "町立国保病院（看護師）",
@@ -496,7 +496,7 @@
 		{
 			"pid": 55,
 			"jid": 195,
-			"address": "檜山振興局管内（せたな町）",
+			"address": "北海道せたな町",
 			"age": "80s",
 			"sex": "female",
 			"attribute": "無職",
@@ -508,7 +508,7 @@
 		{
 			"pid": 56,
 			"jid": 196,
-			"address": "石狩振興局管内（千歳市）",
+			"address": "北海道千歳市",
 			"age": "u10",
 			"sex": "male",
 			"attribute": null,
@@ -520,7 +520,7 @@
 		{
 			"pid": 57,
 			"jid": 197,
-			"address": "空知総合振興局管内（深川市）",
+			"address": "北海道深川市",
 			"age": "80s",
 			"sex": "male",
 			"attribute": "無職",
@@ -544,7 +544,7 @@
 		{
 			"pid": 59,
 			"jid": 199,
-			"address": "上川総合振興局管内（中富良野町）",
+			"address": "北海道中富良野町",
 			"age": "60s",
 			"sex": "male",
 			"attribute": "無職",
@@ -556,7 +556,7 @@
 		{
 			"pid": 60,
 			"jid": 200,
-			"address": "オホーツク総合振興局管内（北見市）",
+			"address": "北海道北見市",
 			"age": "60s",
 			"sex": "male",
 			"attribute": "会社員",
@@ -569,7 +569,7 @@
 		{
 			"pid": 61,
 			"jid": 201,
-			"address": "オホーツク総合振興局管内（北見市）",
+			"address": "北海道北見市",
 			"age": "60s",
 			"sex": "female",
 			"attribute": "無職",
@@ -605,7 +605,7 @@
 		{
 			"pid": 67,
 			"jid": 213,
-			"address": "胆振総合振興局管内（苫小牧市）",
+			"address": "北海道苫小牧市",
 			"age": "90s",
 			"sex": "female",
 			"attribute": "無職",
@@ -617,7 +617,7 @@
 		{
 			"pid": 71,
 			"jid": 222,
-			"address": "石狩振興局管内（江別市）",
+			"address": "北海道江別市",
 			"age": "20s",
 			"sex": "female",
 			"attribute": "看護師",
@@ -629,7 +629,7 @@
 		{
 			"pid": 72,
 			"jid": 223,
-			"address": "オホーツク総合振興局管内（北見市）",
+			"address": "北海道北見市",
 			"age": "40s",
 			"sex": "male",
 			"attribute": "会社員",
@@ -642,7 +642,7 @@
 		{
 			"pid": 73,
 			"jid": 235,
-			"address": "オホーツク総合振興局管内（北見市）",
+			"address": "北海道北見市",
 			"age": "60s",
 			"sex": "male",
 			"attribute": "自営業",
@@ -655,7 +655,7 @@
 		{
 			"pid": 74,
 			"jid": 236,
-			"address": "オホーツク総合振興局管内（北見市）",
+			"address": "北海道北見市",
 			"age": "60s",
 			"sex": "male",
 			"attribute": "自営業",
@@ -668,7 +668,7 @@
 		{
 			"pid": 75,
 			"jid": 237,
-			"address": "オホーツク総合振興局管内（北見市）",
+			"address": "オホーツク総合振興局管内",
 			"age": "50s",
 			"sex": "male",
 			"attribute": "会社員",
@@ -680,7 +680,7 @@
 		{
 			"pid": 80,
 			"jid": 265,
-			"address": "オホーツク総合振興局管内（北見市）",
+			"address": "北海道北見市",
 			"age": "50s",
 			"sex": "male",
 			"attribute": null,
@@ -692,7 +692,7 @@
 		{
 			"pid": 87,
 			"jid": 317,
-			"address": "石狩振興局管内（北広島市）",
+			"address": "北海道北広島市",
 			"age": "70s",
 			"sex": "male",
 			"attribute": "無職",
@@ -740,7 +740,7 @@
 		{
 			"pid": 91,
 			"jid": 372,
-			"address": "空知総合振興局管内(滝川市)",
+			"address": "北海道滝川市",
 			"age": "40s",
 			"sex": "female",
 			"attribute": "パート従業員",
@@ -752,7 +752,7 @@
 		{
 			"pid": 92,
 			"jid": 373,
-			"address": "オホーツク総合振興局管内（北見市）",
+			"address": "北海道北見市",
 			"age": "60s",
 			"sex": "female",
 			"attribute": "会社員",
@@ -764,7 +764,7 @@
 		{
 			"pid": 99,
 			"jid": 409,
-			"address": "空知総合振興局管内（岩見沢市）",
+			"address": "北海道岩見沢市",
 			"age": "60s",
 			"sex": "male",
 			"attribute": "無職",
@@ -776,7 +776,7 @@
 		{
 			"pid": 100,
 			"jid": 410,
-			"address": "空知総合振興局管内（岩見沢市）",
+			"address": "北海道岩見沢市",
 			"age": "70s",
 			"sex": "female",
 			"attribute": "無職",
@@ -860,13 +860,14 @@
 		{
 			"pid": 136,
 			"jid": 631,
-			"address": "オホーツク総合振興局管内",
+			"address": "北海道北見市",
 			"age": "50s",
 			"sex": "male",
 			"attribute": null,
 			"remarks": null,
-			"supplement": null,
+			"supplement": "札幌市内のライブバーを利用",
 			"discharged": null,
+			"cluster": "sapporo-livebar",
 			"date": "2020-03-13"
 		},
 		{

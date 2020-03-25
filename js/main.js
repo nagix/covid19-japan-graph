@@ -22,6 +22,7 @@ var DATA_URL = 'data';
 var DATA_FILE = 'data.json';
 var THEME_COLOR = '#009094';
 var GRAPH_MARGIN = 20;
+var RECENT = '2020-03-23';
 
 var sourceMaster = {
 	'china': { label: { 'ja': '中国' } },
@@ -54,6 +55,9 @@ var sourceMaster = {
 	'mexico': { label: { 'ja': 'メキシコ' } },
 	'southafrica': { label: { 'ja': '南アフリカ' } },
 	'belgium': { label: { 'ja': 'ベルギー' } },
+	'luxembourg': { label: { 'ja': 'ルクセンブルグ' } },
+	'bolivia': { label: { 'ja': 'ボリビア' } },
+	'southkorea': { label: { 'ja': '韓国' } },
 	'oversea': { label: { 'ja': '海外' } }
 };
 
@@ -180,6 +184,7 @@ console.log(patients)
 		var sources = patient.sources || [];
 		var severe = remarks.match(/重症/);
 		var dead = remarks.match(/死亡/);
+		var date = patient.date;
 		var colors = boxColors[sex];
 		var sourceIds = (supplement.match(/No\.[\w\-]+/g) || []).map(function(value) {
 			return value.replace('No.', '');
@@ -209,7 +214,8 @@ console.log(patients)
 				'<br>備考: ' + remarks +
 				'<br>補足: ' + supplement +
 				'<br>退院: ' + discharged +
-				'<br>発表日: ' + patient.date
+				'<br>発表日: ' + patient.date,
+			date: date >= RECENT ? +date.substring(5, 7) + '/' + +date.substring(8, 10) : undefined
 		});
 
 		sources.forEach(function(source) {
@@ -289,6 +295,24 @@ console.log(patients)
 
 	var render = new dagreD3.render();
 	render(inner, graph);
+
+	var g = inner.selectAll('g.node')
+		.filter(function(d) {
+			return graph.node(d).date;
+		})
+		.append('g')
+			.attr('class', 'date')
+			.attr('transform', 'translate(176, -40)');
+	g.append('rect')
+		.attr('width', 48)
+		.attr('height', 30)
+		.attr('rx', 15)
+		.attr('ry', 15);
+	g.append('text')
+		.attr('x', 24)
+		.attr('y', 21)
+		.attr('text-anchor', 'middle')
+		.text(function(d) { return graph.node(d).date; });
 
 	inner.selectAll('g.node')
 		.on('mouseover', function(d) {

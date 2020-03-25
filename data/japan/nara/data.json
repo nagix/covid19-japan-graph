@@ -14,7 +14,7 @@
 			"attribute": "バス運転手",
 			"remarks": null,
 			"supplement": "武漢からのツアー客を運転手としてバスに乗せた",
-			"discharged": null,
+			"discharged": "〇",
 			"sources": ["china-tourist"],
 			"date": "2020-01-28"
 		},

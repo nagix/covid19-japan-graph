@@ -3,12 +3,12 @@
 	"label": {
 		"ja": "大阪府"
 	},
-	"date": "2020\/03\/23 20:00",
+	"date": "2020\/03\/24 20:00",
 	"data": [
 		{
 			"pid": 1,
 			"jid": 8,
-			"address": "大阪府",
+			"address": "大阪府大阪市",
 			"age": "40s",
 			"sex": "female",
 			"attribute": "バスガイド",
@@ -20,32 +20,32 @@
 		},
 		{
 			"jid": 159,
-			"address": "大阪府",
+			"address": "大阪府大阪市",
 			"age": "40s",
 			"sex": "female",
 			"attribute": "バスガイド",
 			"remarks": null,
 			"supplement": "No.8と同一人物",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-02-26"
 		},
 		{
 			"pid": 2,
 			"jid": 173,
-			"address": "大阪府",
+			"address": "大阪府大阪市",
 			"age": "40s",
 			"sex": "male",
 			"attribute": null,
 			"remarks": null,
 			"supplement": "ライブハウスArc、No.157と行動を共にしていた",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-a",
 			"date": "2020-02-27"
 		},
 		{
 			"pid": 3,
 			"jid": 208,
-			"address": "大阪府",
+			"address": "大阪府大阪市",
 			"age": "40s",
 			"sex": "female",
 			"attribute": null,
@@ -56,169 +56,169 @@
 		},
 		{
 			"pid": 4,
-			"address": "大阪府",
+			"address": "大阪府大阪市",
 			"age": "u10",
 			"sex": "female",
 			"attribute": null,
 			"remarks": "無症状",
 			"supplement": "No.173の同居家族",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-02-28"
 		},
 		{
 			"pid": 5,
 			"jid": 240,
-			"address": "大阪府",
+			"address": "大阪府大阪市",
 			"age": "50s",
 			"sex": "male",
 			"attribute": null,
 			"remarks": null,
 			"supplement": "No.157と接触あり",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-02"
 		},
 		{
 			"pid": 6,
 			"jid": 241,
-			"address": "大阪府",
+			"address": "大阪府大阪市",
 			"age": "40s",
 			"sex": "female",
 			"attribute": null,
 			"remarks": null,
 			"supplement": "ライブハウスArc、No.240と接触あり",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-02"
 		},
 		{
 			"pid": 7,
 			"jid": 251,
-			"address": "大阪府",
+			"address": "大阪府枚方市",
 			"age": "50s",
 			"sex": "male",
 			"attribute": null,
 			"remarks": null,
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-03"
 		},
 		{
 			"pid": 8,
 			"jid": 252,
-			"address": "大阪府",
+			"address": "大阪府大阪市",
 			"age": "40s",
 			"sex": "female",
 			"attribute": null,
 			"remarks": null,
 			"supplement": "2/15ライブハウスArc",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-03"
 		},
 		{
 			"pid": 9,
-			"address": "大阪府",
+			"address": "大阪府守口市",
 			"age": "40s",
 			"sex": "female",
 			"attribute": null,
 			"remarks": "無症状",
 			"supplement": "2/15・16ライブハウスArc",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-04"
 		},
 		{
 			"pid": 10,
 			"jid": 281,
-			"address": "大阪府",
+			"address": "大阪府箕面市",
 			"age": "30s",
 			"sex": "female",
 			"attribute": null,
 			"remarks": null,
 			"supplement": "2/15・16ライブハウスArc",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-04"
 		},
 		{
 			"pid": 11,
-			"address": "大阪府",
+			"address": "大阪府東大阪市",
 			"age": "40s",
 			"sex": "female",
 			"attribute": null,
 			"remarks": "無症状",
 			"supplement": "No.208が勤務していた医療機関の職員・濃厚接触者",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-04"
 		},
 		{
 			"pid": 12,
 			"jid": 282,
-			"address": "大阪府",
+			"address": "大阪府大阪市",
 			"age": "30s",
 			"sex": "male",
 			"attribute": null,
 			"remarks": null,
 			"supplement": "2/16ライブハウスArc、No.240と接触",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-04"
 		},
 		{
 			"pid": 13,
 			"jid": 283,
-			"address": "大阪府",
+			"address": "大阪府吹田市",
 			"age": "60s",
 			"sex": "female",
 			"attribute": null,
 			"remarks": null,
 			"supplement": "2/23ライブハウスSoap Opera Classics Umeda",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-04"
 		},
 		{
 			"pid": 14,
 			"jid": 284,
-			"address": "大阪府",
+			"address": "大阪府枚方市",
 			"age": "50s",
 			"sex": "female",
 			"attribute": null,
 			"remarks": null,
 			"supplement": "No.251の妻・濃厚接触者",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-04"
 		},
 		{
 			"pid": 15,
 			"jid": 285,
-			"address": "大阪府",
+			"address": "大阪府大阪市",
 			"age": "50s",
 			"sex": "male",
 			"attribute": null,
 			"remarks": null,
 			"supplement": "2/19ライブハウスSoap Opera Classics Umeda",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-04"
 		},
 		{
 			"pid": 16,
 			"jid": 286,
-			"address": "大阪府",
+			"address": "大阪府松原市",
 			"age": "30s",
 			"sex": "female",
 			"attribute": "幼稚園職員",
 			"remarks": null,
 			"supplement": "2/19ライブハウスSoap Opera Classics Umeda",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-04"
 		},
 		{
 			"pid": 17,
 			"jid": 287,
-			"address": "大阪府",
+			"address": "大阪府東大阪市",
 			"age": "70s",
 			"sex": "male",
 			"attribute": null,
@@ -235,7 +235,7 @@
 			"attribute": null,
 			"remarks": "無症状",
 			"supplement": "2/16ライブハウスArc",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-05"
 		},
@@ -286,7 +286,7 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "2/19ライブハウスSoap Opera Classics Umeda",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-06"
 		},
@@ -299,7 +299,7 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "2/19ライブハウスSoap Opera Classics Umeda",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-06"
 		},
@@ -336,7 +336,7 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "2/19ライブハウスSoap Opera Classics Umeda",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-06"
 		},
@@ -349,7 +349,7 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "2/19ライブハウスSoap Opera Classics Umeda",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-06"
 		},
@@ -362,7 +362,7 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "2/19ライブハウスSoap Opera Classics Umeda",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-06"
 		},
@@ -375,7 +375,7 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "2/23ライブハウスSoap Opera Classics Umeda",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-06"
 		},
@@ -398,7 +398,7 @@
 			"attribute": "医療従事者",
 			"remarks": "無症状",
 			"supplement": "No.283が受診した医療機関に勤務",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-06"
 		},
 		{
@@ -410,7 +410,7 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "2/15・16ライブハウスArc",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-07"
 		},
@@ -422,7 +422,7 @@
 			"attribute": null,
 			"remarks": "無症状",
 			"supplement": "2/15・16ライブハウスArc",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-07"
 		},
@@ -434,7 +434,7 @@
 			"attribute": null,
 			"remarks": "無症状",
 			"supplement": "2/15・16ライブハウスArc",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-07"
 		},
@@ -446,7 +446,7 @@
 			"attribute": null,
 			"remarks": "無症状",
 			"supplement": "2/15・16ライブハウスArc",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-a",
 			"date": "2020-03-07"
 		},
@@ -459,7 +459,7 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "2/19ライブハウスSoap Opera Classics Umeda",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-07"
 		},
@@ -472,7 +472,7 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "2/19ライブハウスSoap Opera Classics Umeda",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-07"
 		},
@@ -483,9 +483,9 @@
 			"age": "40s",
 			"sex": "female",
 			"attribute": null,
-			"remarks": "重症",
+			"remarks": null,
 			"supplement": "2/19ライブハウスSoap Opera Classics Umeda",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-07"
 		},
@@ -498,7 +498,7 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "2/19ライブハウスSoap Opera Classics Umeda",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-07"
 		},
@@ -511,7 +511,7 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "2/19ライブハウスSoap Opera Classics Umeda",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-07"
 		},
@@ -536,7 +536,7 @@
 			"attribute": "会社員",
 			"remarks": null,
 			"supplement": "2/19ライブハウスSoap Opera Classics Umeda",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-08"
 		},
@@ -561,7 +561,7 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "No.osaka52の同居家族（濃厚接触者）",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-08"
 		},
 		{
@@ -572,7 +572,7 @@
 			"attribute": "金融機関勤務",
 			"remarks": "無症状",
 			"supplement": "2/19ライブハウスSoap Opera Classics Umeda",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-08"
 		},
@@ -585,7 +585,7 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "2/19ライブハウスSoap Opera Classics Umeda",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-08"
 		},
@@ -611,7 +611,7 @@
 			"attribute": "認可保育所勤務",
 			"remarks": null,
 			"supplement": "2/19ライブハウスSoap Opera Classics Umeda",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-08"
 		},
@@ -623,7 +623,7 @@
 			"attribute": null,
 			"remarks": "無症状",
 			"supplement": "2/23ライブハウスSoap Opera Classics Umeda",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-08"
 		},
@@ -636,7 +636,7 @@
 			"attribute": "会社員",
 			"remarks": null,
 			"supplement": "2/19ライブハウスSoap Opera Classics Umeda",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-08"
 		},
@@ -674,7 +674,7 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "2/19ライブハウスSoap Opera Classics Umeda",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-08"
 		},
@@ -783,7 +783,7 @@
 			"attribute": "スーパー勤務",
 			"remarks": null,
 			"supplement": "2/24ライブハウスSoap Opera Classics Umeda",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-10"
 		},
@@ -796,7 +796,7 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "2/19ライブハウスSoap Opera Classics Umeda",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-10"
 		},
@@ -808,7 +808,7 @@
 			"attribute": null,
 			"remarks": "無症状",
 			"supplement": "2/19ライブハウスSoap Opera Classics Umeda",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-10"
 		},
@@ -845,7 +845,7 @@
 			"attribute": "自営業",
 			"remarks": null,
 			"supplement": "2/21ライブハウスamericamura FANJ twice",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-d",
 			"date": "2020-03-10"
 		},
@@ -917,7 +917,7 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "2/21ライブハウスamericamura FANJ twice",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-d",
 			"date": "2020-03-10"
 		},
@@ -942,7 +942,7 @@
 			"attribute": "医療従事者",
 			"remarks": null,
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-11"
 		},
 		{
@@ -953,7 +953,7 @@
 			"attribute": null,
 			"remarks": "無症状",
 			"supplement": "2/19ライブハウスSoap Opera Classics Umeda、No.421の濃厚接触者、No.400との接触あり",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-11"
 		},
@@ -979,7 +979,7 @@
 			"attribute": "無職",
 			"remarks": null,
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-11"
 		},
 		{
@@ -991,7 +991,7 @@
 			"attribute": "会社員",
 			"remarks": null,
 			"supplement": "No.422の濃厚接触者",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-11"
 		},
 		{
@@ -1015,7 +1015,7 @@
 			"attribute": "会社員",
 			"remarks": null,
 			"supplement": "No.460の濃厚接触者",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-12"
 		},
 		{
@@ -1111,7 +1111,7 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "No.421の濃厚接触者",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-12"
 		},
 		{
@@ -1123,7 +1123,7 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "No.400の濃厚接触者",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-13"
 		},
 		{
@@ -1231,7 +1231,7 @@
 			"attribute": "無職",
 			"remarks": null,
 			"supplement": "3/6まで東南アジアに滞在",
-			"discharged": null,
+			"discharged": "〇",
 			"sources": ["southeast-asia"],
 			"date": "2020-03-14"
 		},
@@ -1656,6 +1656,102 @@
 			"supplement": "No.898の濃厚接触者（同居家族）",
 			"discharged": null,
 			"date": "2020-03-23"
+		},
+		{
+			"pid": 135,
+			"jid": 1027,
+			"address": "大阪府大阪市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 136,
+			"jid": 1028,
+			"address": "大阪府大阪市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.943の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 137,
+			"jid": 1029,
+			"address": "大阪府大阪市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 138,
+			"jid": 1030,
+			"address": "大阪府豊中市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 139,
+			"jid": 1031,
+			"address": "大阪府堺市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "事務職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 140,
+			"jid": 1032,
+			"address": "大阪府箕面市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/7まで韓国に滞在",
+			"discharged": null,
+			"sources": ["southkorea"],
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 141,
+			"jid": 1033,
+			"address": "大阪府吹田市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 142,
+			"address": "大阪府八尾市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": "無症状",
+			"supplement": "No.947の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-24"
 		}
 	]
 }

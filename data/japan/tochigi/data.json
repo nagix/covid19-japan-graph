@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "栃木県"
 	},
-	"date": "2020\/03\/21 18:00",
+	"date": "2020\/03\/24 18:00",
 	"subgroups": [
 		"utsunomiya"
 	],
@@ -30,7 +30,7 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "2/23ライブハウス",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-05"
 		},
@@ -46,6 +46,31 @@
 			"discharged": null,
 			"sources": ["portugal"],
 			"date": "2020-03-21"
+		},
+		{
+			"pid": 5,
+			"jid": 995,
+			"address": "栃木県（県南健康福祉センター管内）",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/19フィリピンから帰国",
+			"discharged": null,
+			"sources": ["philippines"],
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 6,
+			"jid": 996,
+			"address": "栃木県（安足健康福祉センター管内）",
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
 		}
 	]
 }
