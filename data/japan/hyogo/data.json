@@ -783,6 +783,18 @@
 			"discharged": null,
 			"cluster": "itami-daycare",
 			"date": "2020-03-24"
+		},
+		{
+			"pid": 119,
+			"address": "兵庫県宝塚市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "宝塚第一病院の職員",
+			"remarks": "無症状",
+			"supplement": "No.543、No.681、No.hyogo77、No.hyogo78の濃厚接触者",
+			"discharged": null,
+			"cluster": "takarazuka-hospital",
+			"date": "2020-03-25"
 		}
 	]
 }

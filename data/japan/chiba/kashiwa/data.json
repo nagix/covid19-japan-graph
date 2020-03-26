@@ -1,0 +1,22 @@
+{
+	"id": "kashiwa",
+	"label": {
+		"ja": "柏市"
+	},
+	"date": "2020\/03\/25 18:00",
+	"data": [
+		{
+			"id": 3,
+			"pid": 50,
+			"jid": 1067,
+			"address": "千葉県柏市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-25"
+		}
+	]
+}

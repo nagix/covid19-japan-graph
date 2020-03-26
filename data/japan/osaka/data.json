@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "大阪府"
 	},
-	"date": "2020\/03\/24 20:00",
+	"date": "2020\/03\/25 20:00",
 	"data": [
 		{
 			"pid": 1,
@@ -1752,6 +1752,78 @@
 			"supplement": "No.947の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-24"
+		},
+		{
+			"pid": 143,
+			"jid": 1072,
+			"address": "大阪府大阪市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.947の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-25"
+		},
+		{
+			"pid": 144,
+			"jid": 1073,
+			"address": "大阪府堺市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-25"
+		},
+		{
+			"pid": 145,
+			"jid": 1074,
+			"address": "大阪府東大阪市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.943の濃厚接触者（仕事関係）",
+			"discharged": null,
+			"date": "2020-03-25"
+		},
+		{
+			"pid": 146,
+			"jid": 1075,
+			"address": "大阪府箕面市",
+			"age": "80s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-25"
+		},
+		{
+			"pid": 147,
+			"jid": 1076,
+			"address": "大阪府羽曳野市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.713の濃厚接触者（同僚）",
+			"discharged": null,
+			"date": "2020-03-25"
+		},
+		{
+			"pid": 148,
+			"jid": 1077,
+			"address": "大阪府羽曳野市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.1076の濃厚接触者（同居家族）",
+			"discharged": null,
+			"date": "2020-03-25"
 		}
 	]
 }

@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "長崎県"
 	},
-	"date": "2020\/03\/14 18:00",
+	"date": "2020\/03\/25 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -15,6 +15,19 @@
 			"supplement": "No.583と接触",
 			"discharged": null,
 			"date": "2020-03-14"
+		},
+		{
+			"pid": 2,
+			"jid": 1055,
+			"address": "長崎県長与町",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "大学生",
+			"remarks": null,
+			"supplement": "3/16イギリスから帰国",
+			"discharged": null,
+			"sources": ["uk"],
+			"date": "2020-03-25"
 		}
 	]
 }

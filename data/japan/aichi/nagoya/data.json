@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "名古屋市"
 	},
-	"date": "2020\/03\/24 18:00",
+	"date": "2020\/03\/25 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -1255,9 +1255,9 @@
 			"age": "70s",
 			"sex": "female",
 			"attribute": null,
-			"remarks": null,
+			"remarks": "3/25死亡",
 			"supplement": "No.278と入院前に接触あり",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "nagoya-dayservice-b",
 			"date": "2020-03-14"
 		},
@@ -1503,6 +1503,19 @@
 			"supplement": "No.831の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-24"
+		},
+		{
+			"id": 112,
+			"pid": 154,
+			"jid": 1086,
+			"address": "愛知県名古屋市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.831と接触あり",
+			"discharged": null,
+			"date": "2020-03-25"
 		}
 	]
 }

@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "西宮市"
 	},
-	"date": "2020\/03\/10 18:00",
+	"date": "2020\/03\/24 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -72,6 +72,30 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-10"
+		},
+		{
+			"id": 7,
+			"pid": 117,
+			"address": "兵庫県西宮市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "医師",
+			"remarks": null,
+			"supplement": "No.489に救急外来当直として対応",
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"id": 8,
+			"pid": 118,
+			"address": "兵庫県西宮市",
+			"age": "80s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
 		}
 	]
 }

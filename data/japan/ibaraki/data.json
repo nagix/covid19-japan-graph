@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "茨城県"
 	},
-	"date": "2020\/03\/23 18:00",
+	"date": "2020\/03\/24 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -67,6 +67,77 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-23"
+		},
+		{
+			"pid": 5,
+			"jid": 963,
+			"address": "茨城県つくば市",
+			"age": "80s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-23"
+		},
+		{
+			"pid": 6,
+			"jid": 1051,
+			"address": "茨城県つくば市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.963の妻、同居",
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 7,
+			"jid": 1052,
+			"address": "県外",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "医療従事者",
+			"remarks": null,
+			"supplement": "No.963の娘、付き添い",
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 8,
+			"address": "茨城県桜川市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "家政婦",
+			"remarks": "無症状",
+			"supplement": "No.963の付き添い",
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 9,
+			"jid": 1053,
+			"address": "茨城県つくば市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "社交ダンス講師",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 10,
+			"jid": 1054,
+			"address": "茨城県牛久市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "ゴルフ場従業員（キッチン担当）",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
 		}
 	]
 }

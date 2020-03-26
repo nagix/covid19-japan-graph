@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "日本"
 	},
-	"date": "2020\/03\/23 18:00",
+	"date": "2020\/03\/25 18:00",
 	"subgroups": [
 		"hokkaido",
 		"aomori",
@@ -430,6 +430,66 @@
 			"discharged": null,
 			"sources": ["italy"],
 			"date": "2020-03-23"
+		},
+		{
+			"pid": 20,
+			"address": "奈良県",
+			"age": "20s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/23までスイスに滞在",
+			"discharged": null,
+			"sources": ["switzerland"],
+			"date": "2020-03-25"
+		},
+		{
+			"pid": 21,
+			"address": "カナダ",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/23までタイ・バンコクに滞在",
+			"discharged": null,
+			"sources": ["thailand"],
+			"date": "2020-03-25"
+		},
+		{
+			"pid": 22,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/23までエチオピアに滞在",
+			"discharged": null,
+			"sources": ["ethiopia"],
+			"date": "2020-03-25"
+		},
+		{
+			"pid": 23,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/23までエチオピアに滞在",
+			"discharged": null,
+			"sources": ["ethiopia"],
+			"date": "2020-03-25"
+		},
+		{
+			"pid": 24,
+			"address": null,
+			"age": "20s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "ヨーロッパに滞在",
+			"discharged": null,
+			"sources": ["europe"],
+			"date": "2020-03-25"
 		}
 	]
 }

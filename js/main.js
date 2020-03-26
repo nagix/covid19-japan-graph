@@ -22,7 +22,7 @@ var DATA_URL = 'data';
 var DATA_FILE = 'data.json';
 var THEME_COLOR = '#009094';
 var GRAPH_MARGIN = 20;
-var RECENT = '2020-03-23';
+var RECENT = '2020-03-24';
 
 var sourceMaster = {
 	'china': { label: { 'ja': '中国' } },
@@ -58,6 +58,7 @@ var sourceMaster = {
 	'luxembourg': { label: { 'ja': 'ルクセンブルグ' } },
 	'bolivia': { label: { 'ja': 'ボリビア' } },
 	'southkorea': { label: { 'ja': '韓国' } },
+	'ethiopia': { label: { 'ja': 'エチオピア' } },
 	'oversea': { label: { 'ja': '海外' } }
 };
 
@@ -86,7 +87,9 @@ var clusterMaster = {
 	'kobe-longterm-care': { label: { 'ja': '神戸介護保険通所事業所クラスター' }, parentId: 'kobe' },
 	'oizumi-clinic': { label: { 'ja': '大泉町診療所クラスター' }, parentId: 'gunma' },
 	'oita-hospital': { label: { 'ja': '大分医療センタークラスター' }, parentId: 'oita' },
-	'nippon-cargo-airlines': { label: { 'ja': '日本貨物航空クラスター' }, parentId: 'chiba' }
+	'nippon-cargo-airlines': { label: { 'ja': '日本貨物航空クラスター' }, parentId: 'chiba' },
+	'gifu-chorus': { label: { 'ja': '岐阜合唱団クラスター' }, parentId: 'gifu' },
+	'taito-hospital': { label: { 'ja': '台東区永寿総合病院クラスター' }, parentId: 'tokyo' }
 };
 
 var boxColors = {

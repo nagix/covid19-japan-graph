@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "大分県"
 	},
-	"date": "2020\/03\/24 16:30",
+	"date": "2020\/03\/25 15:30",
 	"data": [
 		{
 			"pid": 1,
@@ -284,10 +284,32 @@
 			"age": "70s",
 			"sex": "male",
 			"attribute": null,
-			"remarks": "陽性確定",
+			"remarks": "無症状",
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-24"
+		},
+		{
+			"pid": 24,
+			"address": "大分県大分市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "医療機関職員",
+			"remarks": "無症状",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-25"
+		},
+		{
+			"pid": 25,
+			"address": "大分県大分市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "医療機関職員",
+			"remarks": "無症状",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-25"
 		}
 	]
 }

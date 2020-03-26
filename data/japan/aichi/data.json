@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "愛知県"
 	},
-	"date": "2020\/03\/24 18:00",
+	"date": "2020\/03\/25 18:00",
 	"subgroups": [
 		"nagoya",
 		"okazaki",
@@ -407,6 +407,67 @@
 			"supplement": "No.146の家族",
 			"discharged": null,
 			"date": "2020-03-24"
+		},
+		{
+			"pid": 149,
+			"address": "愛知県稲沢市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "No.1035の家族（濃厚接触者）",
+			"discharged": null,
+			"date": "2020-03-25"
+		},
+		{
+			"pid": 150,
+			"jid": 1082,
+			"address": "愛知県春日井市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.972の同僚（濃厚接触者）",
+			"discharged": null,
+			"date": "2020-03-25"
+		},
+		{
+			"pid": 151,
+			"jid": 1083,
+			"address": "愛知県春日井市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.972の同僚（濃厚接触者）",
+			"discharged": null,
+			"date": "2020-03-25"
+		},
+		{
+			"pid": 152,
+			"jid": 1084,
+			"address": "愛知県犬山市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.955、No.960、No.1002、No.1003と同じ合唱団に参加",
+			"discharged": null,
+			"cluster": "gifu-chorus",
+			"date": "2020-03-25"
+		},
+		{
+			"pid": 153,
+			"jid": 1085,
+			"address": "愛知県みよし市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/20フランスから帰国",
+			"discharged": null,
+			"sources": ["france"],
+			"date": "2020-03-25"
 		}
 	]
 }

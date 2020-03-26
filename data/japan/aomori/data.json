@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "青森県"
 	},
-	"date": "2020\/03\/23 18:00",
+	"date": "2020\/03\/25 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -29,6 +29,56 @@
 			"supplement": "No.976の妻",
 			"discharged": null,
 			"date": "2020-03-23"
+		},
+		{
+			"pid": 3,
+			"address": "青森県八戸市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": "無症状",
+			"supplement": "3/15までスペイン滞在",
+			"discharged": null,
+			"sources": ["spain"],
+			"date": "2020-03-25"
+		},
+		{
+			"pid": 4,
+			"address": "青森県八戸市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "自営業",
+			"remarks": "無症状",
+			"supplement": "3/15までスペイン滞在",
+			"discharged": null,
+			"sources": ["spain"],
+			"date": "2020-03-25"
+		},
+		{
+			"pid": 5,
+			"jid": 1056,
+			"address": "青森県八戸市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "3/15までスペイン滞在",
+			"discharged": null,
+			"sources": ["spain"],
+			"date": "2020-03-25"
+		},
+		{
+			"pid": 6,
+			"jid": 1057,
+			"address": "青森県八戸市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "3/15までスペイン滞在",
+			"discharged": null,
+			"sources": ["spain"],
+			"date": "2020-03-25"
 		}
 	]
 }

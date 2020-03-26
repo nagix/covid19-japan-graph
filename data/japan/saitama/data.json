@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "埼玉県"
 	},
-	"date": "2020\/03\/24 18:00",
+	"date": "2020\/03\/25 18:00",
 	"subgroups": [
 		"saitama-city",
 		"kawaguchi",
@@ -494,6 +494,17 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-24"
+		},
+		{
+			"pid": 63,
+			"address": "埼玉県所沢市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": "無症状",
+			"supplement": "No.967の妻（同居家族）",
+			"discharged": null,
+			"date": "2020-03-25"
 		}
 	]
 }

@@ -90,7 +90,7 @@ div.container {
 }
 div.id {
 	display: inline-block;
-	width: 50px;
+	width: 60px;
 	height: 100%;
 	border-top-left-radius: 5px;
 	border-bottom-left-radius: 5px;
@@ -101,7 +101,7 @@ div.id {
 	color: #fff;
 }
 div.label {
-	width: 350px;
+	width: 340px;
 	height: 100%;
 	padding: 10px;
 	box-sizing: border-box;

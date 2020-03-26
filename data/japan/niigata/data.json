@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "新潟県"
 	},
-	"date": "2020\/03\/24 18:00",
+	"date": "2020\/03\/25 18:00",
 	"subgroups": [
 		"niigata-city"
 	],
@@ -45,6 +45,17 @@
 			"discharged": null,
 			"sources": ["philippines"],
 			"date": "2020-03-24"
+		},
+		{
+			"pid": 29,
+			"address": "新潟県小千谷市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": "無症状",
+			"supplement": "No.994の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-25"
 		}
 	]
 }
