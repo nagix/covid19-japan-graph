@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "愛知県"
 	},
-	"date": "2020\/03\/25 18:00",
+	"date": "2020\/03\/26 18:00",
 	"subgroups": [
 		"nagoya",
 		"okazaki",
@@ -342,9 +342,9 @@
 			"age": "70s",
 			"sex": "male",
 			"attribute": null,
-			"remarks": null,
+			"remarks": "3/26死亡",
 			"supplement": "3/15までフィンランド、ノルウェー滞在",
-			"discharged": null,
+			"discharged": "〇",
 			"sources": ["finland", "norway"],
 			"date": "2020-03-21"
 		},
@@ -468,6 +468,19 @@
 			"discharged": null,
 			"sources": ["france"],
 			"date": "2020-03-25"
+		},
+		{
+			"pid": 155,
+			"jid": 1182,
+			"address": "愛知県犬山市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/13までクルーズ船（スペイン、フランス、イタリア）旅行",
+			"discharged": null,
+			"sources": ["spain", "france", "italy"],
+			"date": "2020-03-26"
 		}
 	]
 }

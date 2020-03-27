@@ -1,0 +1,22 @@
+{
+	"id": "kagoshima",
+	"label": {
+		"ja": "鹿児島県"
+	},
+	"date": "2020\/03\/26 18:00",
+	"data": [
+		{
+			"pid": 1,
+			"jid": 1200,
+			"address": "イギリス",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "会社役員",
+			"remarks": null,
+			"supplement": "3/23イギリスから帰国",
+			"discharged": null,
+			"sources": ["uk"],
+			"date": "2020-03-26"
+		}
+	]
+}

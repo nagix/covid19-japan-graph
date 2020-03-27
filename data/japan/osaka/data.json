@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "大阪府"
 	},
-	"date": "2020\/03\/25 20:00",
+	"date": "2020\/03\/26 20:30",
 	"data": [
 		{
 			"pid": 1,
@@ -1519,7 +1519,7 @@
 			"sex": "female",
 			"attribute": "無職",
 			"remarks": null,
-			"supplement": "No.823の濃厚接触者（同居家族）、No.881の同居家族",
+			"supplement": "No.823の濃厚接触者（同居家族）",
 			"discharged": null,
 			"date": "2020-03-20"
 		},
@@ -1824,6 +1824,103 @@
 			"supplement": "No.1076の濃厚接触者（同居家族）",
 			"discharged": null,
 			"date": "2020-03-25"
+		},
+		{
+			"pid": 149,
+			"address": "大阪府羽曳野市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "医療従事者",
+			"remarks": "無症状",
+			"supplement": "3/24米国から帰国",
+			"discharged": null,
+			"sources": ["usa"],
+			"date": "2020-03-25"
+		},
+		{
+			"pid": 150,
+			"jid": 1175,
+			"address": "大阪府大阪市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.1027の濃厚接触者（同居家族）",
+			"discharged": null,
+			"date": "2020-03-26"
+		},
+		{
+			"pid": 151,
+			"jid": 1176,
+			"address": "大阪府大阪市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-26"
+		},
+		{
+			"pid": 152,
+			"jid": 1177,
+			"address": "大阪府大阪市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-26"
+		},
+		{
+			"pid": 153,
+			"jid": 1178,
+			"address": "大阪府高槻市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "事務職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-26"
+		},
+		{
+			"pid": 154,
+			"jid": 1179,
+			"address": "大阪府豊中市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "事務職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-26"
+		},
+		{
+			"pid": 155,
+			"jid": 1180,
+			"address": "大阪府吹田市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "3/17までノルウェー、フィンランドに滞在",
+			"discharged": null,
+			"sources": ["norway", "finland"],
+			"date": "2020-03-26"
+		},
+		{
+			"pid": 156,
+			"jid": 1181,
+			"address": "大阪府門真市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-26"
 		}
 	]
 }

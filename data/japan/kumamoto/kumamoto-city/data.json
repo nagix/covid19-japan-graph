@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "熊本市"
 	},
-	"date": "2020\/03\/19 18:00",
+	"date": "2020\/03\/26 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -70,6 +70,19 @@
 			"discharged": null,
 			"sources": ["spain"],
 			"date": "2020-03-19"
+		},
+		{
+			"id": 6,
+			"pid": 8,
+			"jid": 1134,
+			"address": "不定",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-26"
 		}
 	]
 }

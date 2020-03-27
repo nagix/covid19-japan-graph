@@ -15,7 +15,7 @@
 			"attribute": "無職",
 			"remarks": null,
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-12"
 		},
 		{
@@ -66,7 +66,7 @@
 			"attribute": "中学生",
 			"remarks": "無症状",
 			"supplement": "No.598の孫",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-14"
 		},
 		{

@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "岐阜県"
 	},
-	"date": "2020\/03\/25 18:00",
+	"date": "2020\/03\/26 18:00",
 	"subgroups": [
 		"gifu-city"
 	],
@@ -92,7 +92,7 @@
 			"sex": "female",
 			"attribute": null,
 			"remarks": null,
-			"supplement": "No.955およびNo.960と同じ合唱団に参加",
+			"supplement": "No.955、No.960と同じ合唱団に参加",
 			"discharged": null,
 			"cluster": "gifu-chorus",
 			"date": "2020-03-24"
@@ -105,7 +105,7 @@
 			"sex": "female",
 			"attribute": null,
 			"remarks": null,
-			"supplement": "No.955およびNo.960と同じ合唱団に参加",
+			"supplement": "No.955、No.960と同じ合唱団に参加",
 			"discharged": null,
 			"cluster": "gifu-chorus",
 			"date": "2020-03-24"
@@ -118,9 +118,46 @@
 			"sex": "female",
 			"attribute": null,
 			"remarks": null,
-			"supplement": "No.955およびNo.960と同じスポーツジム",
+			"supplement": "No.955、No.960と同じスポーツジム",
 			"discharged": null,
 			"date": "2020-03-24"
+		},
+		{
+			"pid": 13,
+			"jid": 1132,
+			"address": "岐阜県可児市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.960と同じ合唱団に参加",
+			"discharged": null,
+			"cluster": "gifu-chorus",
+			"date": "2020-03-26"
+		},
+		{
+			"pid": 14,
+			"jid": 1133,
+			"address": "岐阜県可児市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.955、No.960と同じ合唱団に参加",
+			"discharged": null,
+			"cluster": "gifu-chorus",
+			"date": "2020-03-26"
+		},
+		{
+			"pid": 15,
+			"address": "岐阜県可児市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "No.1129の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-26"
 		}
 	]
 }

@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "群馬県"
 	},
-	"date": "2020\/03\/24 18:00",
+	"date": "2020\/03\/26 18:00",
 	"subgroups": [
 		"takasaki"
 	],
@@ -157,6 +157,18 @@
 			"supplement": "3/23まで新型コロナウイルス感染症患者の診療",
 			"discharged": null,
 			"date": "2020-03-24"
+		},
+		{
+			"pid": 14,
+			"jid": 1199,
+			"address": "群馬県館林市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "看護師",
+			"remarks": null,
+			"supplement": "3/14まで新型コロナウイルス感染症患者のケア",
+			"discharged": null,
+			"date": "2020-03-26"
 		}
 	]
 }

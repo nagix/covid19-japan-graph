@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "山口県"
 	},
-	"date": "2020\/03\/25 18:00",
+	"date": "2020\/03\/26 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -64,6 +64,18 @@
 			"discharged": null,
 			"sources": ["europe"],
 			"date": "2020-03-25"
+		},
+		{
+			"pid": 6,
+			"jid": 1130,
+			"address": "山口県山口市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "主婦",
+			"remarks": null,
+			"supplement": "No.1062の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-26"
 		}
 	]
 }

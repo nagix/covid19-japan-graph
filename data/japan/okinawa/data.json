@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "沖縄県"
 	},
-	"date": "2020\/02\/23 18:00",
+	"date": "2020\/02\/26 14:00",
 	"data": [
 		{
 			"pid": 1,
@@ -55,6 +55,28 @@
 			"discharged": null,
 			"sources": ["belgium"],
 			"date": "2020-03-23"
+		},
+		{
+			"pid": 5,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/9まで台湾に滞在",
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"pid": 6,
+			"address": "沖縄県那覇市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-26"
 		}
 	]
 }

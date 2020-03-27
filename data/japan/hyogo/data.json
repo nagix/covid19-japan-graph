@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "兵庫県"
 	},
-	"date": "2020\/03\/24 18:00",
+	"date": "2020\/03\/26 18:00",
 	"subgroups": [
 		"amagasaki",
 		"kobe",
@@ -795,6 +795,17 @@
 			"discharged": null,
 			"cluster": "takarazuka-hospital",
 			"date": "2020-03-25"
+		},
+		{
+			"pid": 120,
+			"address": "兵庫県伊丹市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": "無症状",
+			"supplement": "No.493の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-26"
 		}
 	]
 }

@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "北海道"
 	},
-	"date": "2020\/03\/21 17:00",
+	"date": "2020\/03\/26 17:10",
 	"subgroups": [
 		"sapporo",
 		"otaru",
@@ -805,7 +805,7 @@
 			"sex": "female",
 			"attribute": "無職",
 			"remarks": null,
-			"supplement": "No.318、445の濃厚接触者",
+			"supplement": "No.318、No.445の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-09"
 		},
@@ -954,6 +954,18 @@
 			"discharged": null,
 			"sources": ["oversea"],
 			"date": "2020-03-21"
+		},
+		{
+			"pid": 168,
+			"jid": 1145,
+			"address": "北海道倶知安町",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "飲食店従業員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-26"
 		}
 	]
 }

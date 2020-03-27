@@ -1,0 +1,22 @@
+{
+	"id": "hiroshima-city",
+	"label": {
+		"ja": "広島市"
+	},
+	"date": "2020\/03\/26 18:00",
+	"data": [
+		{
+			"id": 2,
+			"pid": 4,
+			"jid": 1198,
+			"address": "広島県広島市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-26"
+		}
+	]
+}

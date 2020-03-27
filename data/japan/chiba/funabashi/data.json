@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "船橋市"
 	},
-	"date": "2020\/03\/19 18:00",
+	"date": "2020\/03\/26 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -30,6 +30,34 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-19"
+		},
+		{
+			"id": 3,
+			"pid": 55,
+			"jid": 1186,
+			"address": "千葉県船橋市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "3/21イギリスから帰国",
+			"discharged": null,
+			"sources": ["uk"],
+			"date": "2020-03-26"
+		},
+		{
+			"id": 4,
+			"pid": 56,
+			"jid": 1187,
+			"address": "千葉県船橋市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/13フィリピンから帰国",
+			"discharged": null,
+			"sources": ["philippines"],
+			"date": "2020-03-26"
 		}
 	]
 }

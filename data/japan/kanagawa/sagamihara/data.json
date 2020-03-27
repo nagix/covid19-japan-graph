@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "相模原市"
 	},
-	"date": "2020\/03\/19 18:00",
+	"date": "2020\/03\/26 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -363,6 +363,19 @@
 			"discharged": null,
 			"sources": ["spain", "france", "uk"],
 			"date": "2020-03-19"
+		},
+		{
+			"id": 28,
+			"pid": 93,
+			"jid": 1183,
+			"address": "神奈川県相模原市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-26"
 		}
 	]
 }

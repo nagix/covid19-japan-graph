@@ -45,6 +45,7 @@
 		"kumamoto",
 		"oita",
 		"miyazaki",
+		"kagoshima",
 		"okinawa"
 	],
 	"data": [
@@ -209,7 +210,7 @@
 			"age": "30s",
 			"sex": "female",
 			"attribute": "検疫官",
-			"remarks": null,
+			"remarks": "無症状",
 			"supplement": "ダイヤモンド・プリンセス号で検体採取の補助",
 			"discharged": null,
 			"sources": ["cruise-ship"],

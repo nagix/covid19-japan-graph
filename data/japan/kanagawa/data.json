@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "神奈川県"
 	},
-	"date": "2020\/03\/24 18:00",
+	"date": "2020\/03\/26 18:00",
 	"subgroups": [
 		"yokohama",
 		"kawasaki",
@@ -394,6 +394,42 @@
 			"discharged": null,
 			"sources": ["bolivia"],
 			"date": "2020-03-24"
+		},
+		{
+			"pid": 90,
+			"jid": 1142,
+			"address": "神奈川県小田原保健福祉事務所管内",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.1022の同居家族",
+			"discharged": null,
+			"date": "2020-03-26"
+		},
+		{
+			"pid": 91,
+			"jid": 1143,
+			"address": "神奈川県平塚保健福祉事務所管内",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.1024の濃厚接触者（同居家族）",
+			"discharged": null,
+			"date": "2020-03-26"
+		},
+		{
+			"pid": 92,
+			"jid": 1144,
+			"address": "神奈川県鎌倉保健福祉事務所管内",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "東京都の陽性患者の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-26"
 		}
 	]
 }

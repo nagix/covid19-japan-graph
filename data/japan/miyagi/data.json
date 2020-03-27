@@ -3,10 +3,22 @@
 	"label": {
 		"ja": "宮城県"
 	},
-	"date": "2020\/02\/29 18:00",
+	"date": "2020\/03\/26 18:00",
 	"subgroups": [
 		"sendai"
 	],
 	"data": [
+		{
+			"pid": 2,
+			"jid": 1131,
+			"address": "宮城県七ヶ浜町",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "東京都の陽性患者の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-26"
+		}
 	]
 }

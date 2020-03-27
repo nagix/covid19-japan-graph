@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "高知県"
 	},
-	"date": "2020\/03\/19 18:00",
+	"date": "2020\/03\/25 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -134,7 +134,7 @@
 			"attribute": "無職",
 			"remarks": null,
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-08"
 		},
 		{

@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "名古屋市"
 	},
-	"date": "2020\/03\/25 18:00",
+	"date": "2020\/03\/26 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -1516,6 +1516,32 @@
 			"supplement": "No.831と接触あり",
 			"discharged": null,
 			"date": "2020-03-25"
+		},
+		{
+			"id": 113,
+			"pid": 156,
+			"jid": 1173,
+			"address": "愛知県名古屋市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.406、No.407、No.430、No.484の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-26"
+		},
+		{
+			"id": 114,
+			"pid": 157,
+			"jid": 1174,
+			"address": "愛知県名古屋市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.433、No.434、No.591の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-26"
 		}
 	]
 }

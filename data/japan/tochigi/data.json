@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "栃木県"
 	},
-	"date": "2020\/03\/24 18:00",
+	"date": "2020\/03\/26 18:00",
 	"subgroups": [
 		"utsunomiya"
 	],
@@ -71,6 +71,54 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-24"
+		},
+		{
+			"pid": 7,
+			"jid": 1137,
+			"address": "栃木県（安足健康福祉センター管内）",
+			"age": "60s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.996の妻",
+			"discharged": null,
+			"date": "2020-03-26"
+		},
+		{
+			"pid": 8,
+			"jid": 1138,
+			"address": "栃木県（県西健康福祉センター管内）",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.996の会社同僚",
+			"discharged": null,
+			"date": "2020-03-26"
+		},
+		{
+			"pid": 9,
+			"jid": 1139,
+			"address": "栃木県（県西健康福祉センター管内）",
+			"age": "50s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.1138の妻",
+			"discharged": null,
+			"date": "2020-03-26"
+		},
+		{
+			"pid": 10,
+			"jid": 1140,
+			"address": "栃木県（県南健康福祉センター管内）",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "県外の陽性患者と接触",
+			"discharged": null,
+			"date": "2020-03-26"
 		}
 	]
 }

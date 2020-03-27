@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "滋賀県"
 	},
-	"date": "2020\/03\/23 18:00",
+	"date": "2020\/03\/26 18:00",
 	"data": [
 		{
 			"pid": 1,
@@ -66,6 +66,19 @@
 			"discharged": null,
 			"sources": ["europe"],
 			"date": "2020-03-23"
+		},
+		{
+			"pid": 6,
+			"jid": 1172,
+			"address": "滋賀県野洲市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/16までポルトガル、スペインに滞在",
+			"discharged": null,
+			"sources": ["portugal", "spain"],
+			"date": "2020-03-26"
 		}
 	]
 }

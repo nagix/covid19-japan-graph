@@ -4,6 +4,9 @@
 		"ja": "広島県"
 	},
 	"date": "2020\/03\/22 18:00",
+	"subgroups": [
+		"hiroshima-city"
+	],
 	"data": [
 		{
 			"pid": 1,

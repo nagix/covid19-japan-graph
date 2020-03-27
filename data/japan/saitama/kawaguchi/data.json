@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "川口市"
 	},
-	"date": "2020\/03\/24 18:00",
+	"date": "2020\/03\/26 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -107,9 +107,36 @@
 			"sex": "male",
 			"attribute": "会社員（埼玉県内）",
 			"remarks": null,
-			"supplement": null,
+			"supplement": "No.1196の父（同居家族）",
 			"discharged": null,
 			"date": "2020-03-24"
+		},
+		{
+			"id": 9,
+			"pid": 64,
+			"jid": 1195,
+			"address": "埼玉県川口市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.1196の母（同居家族）",
+			"discharged": null,
+			"date": "2020-03-26"
+		},
+		{
+			"id": 10,
+			"pid": 65,
+			"jid": 1196,
+			"address": "埼玉県川口市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "3/9までスペイン、フランスに滞在",
+			"discharged": null,
+			"sources": ["spain", "france"],
+			"date": "2020-03-26"
 		}
 	]
 }

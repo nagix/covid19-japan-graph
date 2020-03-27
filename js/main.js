@@ -22,7 +22,7 @@ var DATA_URL = 'data';
 var DATA_FILE = 'data.json';
 var THEME_COLOR = '#009094';
 var GRAPH_MARGIN = 20;
-var RECENT = '2020-03-24';
+var RECENT = '2020-03-25';
 
 var sourceMaster = {
 	'china': { label: { 'ja': '中国' } },
@@ -59,6 +59,9 @@ var sourceMaster = {
 	'bolivia': { label: { 'ja': 'ボリビア' } },
 	'southkorea': { label: { 'ja': '韓国' } },
 	'ethiopia': { label: { 'ja': 'エチオピア' } },
+	'germany': { label: { 'ja': 'ドイツ' } },
+	'austria': { label: { 'ja': 'オーストリア' } },
+	'brazil': { label: { 'ja': 'ブラジル' } },
 	'oversea': { label: { 'ja': '海外' } }
 };
 

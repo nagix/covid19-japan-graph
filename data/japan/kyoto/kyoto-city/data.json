@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "京都市"
 	},
-	"date": "2020\/03\/25 18:00",
+	"date": "2020\/03\/26 18:00",
 	"data": [
 		{
 			"id": 1,
@@ -299,6 +299,33 @@
 			"supplement": "No.1021の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-25"
+		},
+		{
+			"id": 23,
+			"pid": 32,
+			"jid": 1188,
+			"address": "京都府京都市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.907とともに3/16オランダから帰国",
+			"discharged": null,
+			"sources": ["netherlands"],
+			"date": "2020-03-26"
+		},
+		{
+			"id": 24,
+			"pid": 33,
+			"jid": 1189,
+			"address": "京都府京都市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-26"
 		}
 	]
 }

@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "千葉県"
 	},
-	"date": "2020\/03\/25 18:00",
+	"date": "2020\/03\/26 18:00",
 	"subgroups": [
 		"funabashi",
 		"kashiwa"
@@ -652,6 +652,19 @@
 			"discharged": null,
 			"sources": ["spain"],
 			"date": "2020-03-25"
+		},
+		{
+			"pid": 57,
+			"jid": 1185,
+			"address": "千葉県松戸市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "3/15までドイツ、オーストリアに滞在",
+			"discharged": null,
+			"sources": ["germany", "austria"],
+			"date": "2020-03-26"
 		}
 	]
 }

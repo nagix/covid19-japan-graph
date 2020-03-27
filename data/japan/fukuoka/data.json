@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "福岡県"
 	},
-	"date": "2020\/03\/24 18:00",
+	"date": "2020\/03\/26 18:00",
 	"subgroups": [
 		"fukuoka-city",
 		"kitakyushu"
@@ -82,6 +82,19 @@
 			"supplement": "No.1021の妻",
 			"discharged": null,
 			"date": "2020-03-24"
+		},
+		{
+			"pid": 12,
+			"jid": 1197,
+			"address": "福岡県糟屋郡",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/17までスペイン、イギリス滞在",
+			"discharged": null,
+			"sources": ["spain", "uk"],
+			"date": "2020-03-26"
 		}
 	]
 }

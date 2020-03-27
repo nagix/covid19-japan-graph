@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "埼玉県"
 	},
-	"date": "2020\/03\/25 18:00",
+	"date": "2020\/03\/26 18:00",
 	"subgroups": [
 		"saitama-city",
 		"kawaguchi",
@@ -182,7 +182,7 @@
 			"attribute": "無職",
 			"remarks": null,
 			"supplement": "エジプト・ナイル川クルーズ、No.510、No.595とエジプト同行",
-			"discharged": null,
+			"discharged": "〇",
 			"sources": ["egypt"],
 			"date": "2020-03-12"
 		},
@@ -207,7 +207,7 @@
 			"attribute": "会社員（都内勤務）",
 			"remarks": null,
 			"supplement": "3/1までスペイン、イギリスに渡航",
-			"discharged": null,
+			"discharged": "〇",
 			"sources": ["spain", "uk"],
 			"date": "2020-03-13"
 		},
@@ -220,7 +220,7 @@
 			"attribute": "会社員（都内勤務）",
 			"remarks": null,
 			"supplement": "勤務先社員No.647に新型コロナウイルスの感染あり",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-14"
 		},
 		{
@@ -505,6 +505,67 @@
 			"supplement": "No.967の妻（同居家族）",
 			"discharged": null,
 			"date": "2020-03-25"
+		},
+		{
+			"pid": 66,
+			"jid": 1190,
+			"address": "埼玉県戸田市",
+			"age": "u10",
+			"sex": "male",
+			"attribute": "保育園児",
+			"remarks": null,
+			"supplement": "No.1043の子（同居家族）",
+			"discharged": null,
+			"date": "2020-03-26"
+		},
+		{
+			"pid": 67,
+			"jid": 1191,
+			"address": "埼玉県白岡市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員（県外勤務）",
+			"remarks": null,
+			"supplement": "3/17までブラジル滞在",
+			"discharged": null,
+			"sources": ["brazil"],
+			"date": "2020-03-26"
+		},
+		{
+			"pid": 68,
+			"jid": 1192,
+			"address": "埼玉県和光市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "会社員（県外勤務）",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-26"
+		},
+		{
+			"pid": 69,
+			"jid": 1193,
+			"address": "埼玉県春日部市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "医療従事者（県内勤務）",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-26"
+		},
+		{
+			"pid": 70,
+			"jid": 1194,
+			"address": "埼玉県ときがわ町",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員（県内勤務）",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-26"
 		}
 	]
 }
