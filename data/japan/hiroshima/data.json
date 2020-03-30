@@ -1,14 +1,18 @@
 {
-	"id": "hiroshima",
+	"name": "hiroshima",
 	"label": {
 		"ja": "広島県"
 	},
+	"prefix": {
+		"ja": ""
+	},
 	"date": "2020\/03\/22 18:00",
-	"subgroups": [
-		"hiroshima-city"
-	],
-	"data": [
+	"children": [
 		{
+			"ref": "hiroshima-city"
+		},
+		{
+			"name": "hiroshima-1",
 			"pid": 1,
 			"jid": 371,
 			"address": "広島県広島市",
@@ -21,6 +25,7 @@
 			"date": "2020-03-07"
 		},
 		{
+			"name": "hiroshima-2",
 			"pid": 2,
 			"jid": 842,
 			"address": "広島県尾道市",
@@ -34,6 +39,7 @@
 			"date": "2020-03-20"
 		},
 		{
+			"name": "hiroshima-3",
 			"pid": 3,
 			"jid": 919,
 			"address": "広島県尾道市",
@@ -43,6 +49,7 @@
 			"remarks": null,
 			"supplement": "No.842の同僚",
 			"discharged": null,
+			"sources": ["hiroshima-2"],
 			"date": "2020-03-22"
 		}
 	]

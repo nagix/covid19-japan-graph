@@ -1,11 +1,12 @@
 {
-	"id": "sapporo",
+	"name": "sapporo",
 	"label": {
 		"ja": "札幌市"
 	},
-	"date": "2020\/03\/25 17:00",
-	"data": [
+	"date": "2020\/03\/27 17:00",
+	"children": [
 		{
+			"name": "hokkaido-2",
 			"id": 1,
 			"pid": 2,
 			"jid": 36,
@@ -19,6 +20,7 @@
 			"date": "2020-02-14"
 		},
 		{
+			"name": "hokkaido-3",
 			"id": 2,
 			"pid": 3,
 			"jid": 63,
@@ -32,6 +34,7 @@
 			"date": "2020-02-18"
 		},
 		{
+			"name": "hokkaido-5",
 			"id": 3,
 			"pid": 5,
 			"jid": 72,
@@ -42,9 +45,11 @@
 			"remarks": null,
 			"supplement": "No.63とともに雪まつりで事務作業に従事",
 			"discharged": null,
+			"sources": ["hokkaido-3"],
 			"date": "2020-02-19"
 		},
 		{
+			"name": "hokkaido-18",
 			"id": 4,
 			"pid": 18,
 			"jid": 114,
@@ -58,6 +63,7 @@
 			"date": "2020-02-22"
 		},
 		{
+			"name": "hokkaido-27",
 			"id": 5,
 			"pid": 27,
 			"jid": 129,
@@ -68,9 +74,11 @@
 			"remarks": null,
 			"supplement": "No.114の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-18"],
 			"date": "2020-02-24"
 		},
 		{
+			"name": "hokkaido-28",
 			"id": 6,
 			"pid": 28,
 			"jid": 130,
@@ -85,6 +93,7 @@
 			"date": "2020-02-24"
 		},
 		{
+			"name": "hokkaido-31",
 			"id": 7,
 			"pid": 31,
 			"jid": 143,
@@ -95,9 +104,11 @@
 			"remarks": null,
 			"supplement": "No.129の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-27"],
 			"date": "2020-02-25"
 		},
 		{
+			"name": "hokkaido-39",
 			"id": 8,
 			"pid": 39,
 			"jid": 157,
@@ -112,6 +123,7 @@
 			"date": "2020-02-26"
 		},
 		{
+			"name": "hokkaido-40",
 			"id": 9,
 			"pid": 40,
 			"jid": 174,
@@ -123,9 +135,11 @@
 			"supplement": "No.130の濃厚接触者",
 			"discharged": null,
 			"cluster": "kitami-exhibition",
+			"sources": ["hokkaido-28"],
 			"date": "2020-02-27"
 		},
 		{
+			"name": "hokkaido-41",
 			"id": 10,
 			"pid": 41,
 			"jid": 175,
@@ -137,9 +151,11 @@
 			"supplement": "No.130の濃厚接触者",
 			"discharged": null,
 			"cluster": "kitami-exhibition",
+			"sources": ["hokkaido-28"],
 			"date": "2020-02-27"
 		},
 		{
+			"name": "hokkaido-64",
 			"id": 11,
 			"pid": 64,
 			"jid": 204,
@@ -153,6 +169,7 @@
 			"date": "2020-02-28"
 		},
 		{
+			"name": "hokkaido-65",
 			"id": 12,
 			"pid": 65,
 			"jid": 205,
@@ -167,6 +184,7 @@
 			"date": "2020-02-28"
 		},
 		{
+			"name": "hokkaido-66",
 			"id": 13,
 			"pid": 66,
 			"jid": 206,
@@ -180,6 +198,7 @@
 			"date": "2020-02-28"
 		},
 		{
+			"name": "hokkaido-68",
 			"id": 14,
 			"pid": 68,
 			"jid": 214,
@@ -193,6 +212,7 @@
 			"date": "2020-02-29"
 		},
 		{
+			"name": "hokkaido-69",
 			"id": 15,
 			"pid": 69,
 			"jid": 215,
@@ -206,6 +226,7 @@
 			"date": "2020-02-29"
 		},
 		{
+			"name": "hokkaido-70",
 			"id": 16,
 			"pid": 70,
 			"jid": 216,
@@ -219,6 +240,7 @@
 			"date": "2020-02-29"
 		},
 		{
+			"name": "hokkaido-77",
 			"id": 17,
 			"pid": 77,
 			"jid": 239,
@@ -229,9 +251,11 @@
 			"remarks": null,
 			"supplement": "No.215の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-69"],
 			"date": "2020-03-02"
 		},
 		{
+			"name": "hokkaido-78",
 			"id": 18,
 			"pid": 78,
 			"jid": 244,
@@ -242,9 +266,11 @@
 			"remarks": null,
 			"supplement": "No.216の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-70"],
 			"date": "2020-03-03"
 		},
 		{
+			"name": "hokkaido-79",
 			"id": 19,
 			"pid": 79,
 			"jid": 245,
@@ -256,9 +282,11 @@
 			"supplement": "No.216の濃厚接触者",
 			"discharged": null,
 			"cluster": "sapporo-livebar",
+			"sources": ["hokkaido-70"],
 			"date": "2020-03-03"
 		},
 		{
+			"name": "hokkaido-83",
 			"id": 20,
 			"pid": 83,
 			"jid": 290,
@@ -272,6 +300,7 @@
 			"date": "2020-03-05"
 		},
 		{
+			"name": "hokkaido-84",
 			"id": 21,
 			"pid": 84,
 			"jid": 314,
@@ -283,9 +312,11 @@
 			"supplement": "No.245の濃厚接触者",
 			"discharged": null,
 			"cluster": "sapporo-livebar",
+			"sources": ["hokkaido-79"],
 			"date": "2020-03-06"
 		},
 		{
+			"name": "hokkaido-85",
 			"id": 22,
 			"pid": 85,
 			"jid": 316,
@@ -297,9 +328,11 @@
 			"supplement": "No.245の濃厚接触者",
 			"discharged": null,
 			"cluster": "sapporo-livebar",
+			"sources": ["hokkaido-79"],
 			"date": "2020-03-06"
 		},
 		{
+			"name": "hokkaido-86",
 			"id": 23,
 			"pid": 86,
 			"jid": 316,
@@ -313,6 +346,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "hokkaido-93",
 			"id": 24,
 			"pid": 93,
 			"jid": 374,
@@ -326,6 +360,7 @@
 			"date": "2020-03-07"
 		},
 		{
+			"name": "hokkaido-94",
 			"id": 25,
 			"pid": 94,
 			"jid": 375,
@@ -339,6 +374,7 @@
 			"date": "2020-03-07"
 		},
 		{
+			"name": "hokkaido-95",
 			"id": 26,
 			"pid": 95,
 			"jid": 376,
@@ -352,6 +388,7 @@
 			"date": "2020-03-07"
 		},
 		{
+			"name": "hokkaido-96",
 			"id": 27,
 			"pid": 96,
 			"jid": 377,
@@ -362,9 +399,11 @@
 			"remarks": null,
 			"supplement": "No.290の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-83"],
 			"date": "2020-03-07"
 		},
 		{
+			"name": "hokkaido-97",
 			"id": 28,
 			"pid": 97,
 			"jid": 378,
@@ -376,9 +415,11 @@
 			"supplement": "No.245の濃厚接触者",
 			"discharged": null,
 			"cluster": "sapporo-livebar",
+			"sources": ["hokkaido-79"],
 			"date": "2020-03-07"
 		},
 		{
+			"name": "hokkaido-98",
 			"id": 29,
 			"pid": 98,
 			"jid": 379,
@@ -390,9 +431,11 @@
 			"supplement": "No.245の濃厚接触者",
 			"discharged": null,
 			"cluster": "sapporo-livebar",
+			"sources": ["hokkaido-79"],
 			"date": "2020-03-07"
 		},
 		{
+			"name": "hokkaido-102",
 			"id": 30,
 			"pid": 102,
 			"jid": 440,
@@ -406,6 +449,7 @@
 			"date": "2020-03-09"
 		},
 		{
+			"name": "hokkaido-103",
 			"id": 31,
 			"pid": 103,
 			"jid": 441,
@@ -416,9 +460,11 @@
 			"remarks": null,
 			"supplement": "No.376の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-95"],
 			"date": "2020-03-09"
 		},
 		{
+			"name": "hokkaido-104",
 			"id": 32,
 			"pid": 104,
 			"jid": 442,
@@ -429,9 +475,11 @@
 			"remarks": null,
 			"supplement": "No.376の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-95"],
 			"date": "2020-03-09"
 		},
 		{
+			"name": "hokkaido-105",
 			"id": 33,
 			"pid": 105,
 			"jid": 443,
@@ -442,9 +490,11 @@
 			"remarks": null,
 			"supplement": "No.376の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-95"],
 			"date": "2020-03-09"
 		},
 		{
+			"name": "hokkaido-106",
 			"id": 34,
 			"pid": 106,
 			"jid": 444,
@@ -455,9 +505,11 @@
 			"remarks": null,
 			"supplement": "No.215の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-69"],
 			"date": "2020-03-09"
 		},
 		{
+			"name": "hokkaido-109",
 			"id": 35,
 			"pid": 109,
 			"jid": 501,
@@ -468,9 +520,11 @@
 			"remarks": null,
 			"supplement": "No.379の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-98"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "hokkaido-110",
 			"id": 36,
 			"pid": 110,
 			"jid": 502,
@@ -481,9 +535,11 @@
 			"remarks": null,
 			"supplement": "No.245の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-79"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "hokkaido-111",
 			"id": 37,
 			"pid": 111,
 			"jid": 503,
@@ -495,9 +551,11 @@
 			"supplement": "No.244、No.245の濃厚接触者",
 			"discharged": null,
 			"cluster": "sapporo-livebar",
+			"sources": ["hokkaido-78", "hokkaido-79"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "hokkaido-112",
 			"id": 38,
 			"pid": 112,
 			"jid": 514,
@@ -506,11 +564,13 @@
 			"sex": "female",
 			"attribute": "無職",
 			"remarks": null,
-			"supplement": "No.502 の濃厚接触者",
+			"supplement": "No.502の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-110"],
 			"date": "2020-03-11"
 		},
 		{
+			"name": "hokkaido-113",
 			"id": 39,
 			"pid": 113,
 			"jid": 515,
@@ -524,6 +584,7 @@
 			"date": "2020-03-11"
 		},
 		{
+			"name": "hokkaido-114",
 			"id": 40,
 			"pid": 114,
 			"jid": 516,
@@ -537,6 +598,7 @@
 			"date": "2020-03-11"
 		},
 		{
+			"name": "hokkaido-115",
 			"id": 41,
 			"pid": 115,
 			"jid": 517,
@@ -547,9 +609,11 @@
 			"remarks": null,
 			"supplement": "No.290の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-83"],
 			"date": "2020-03-11"
 		},
 		{
+			"name": "hokkaido-120",
 			"id": 42,
 			"pid": 120,
 			"jid": 558,
@@ -563,6 +627,7 @@
 			"date": "2020-03-12"
 		},
 		{
+			"name": "hokkaido-121",
 			"id": 43,
 			"pid": 121,
 			"jid": 559,
@@ -573,9 +638,11 @@
 			"remarks": null,
 			"supplement": "No.558の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-120"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "hokkaido-122",
 			"id": 44,
 			"pid": 122,
 			"jid": 560,
@@ -586,9 +653,11 @@
 			"remarks": null,
 			"supplement": "No.502の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-110"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "hokkaido-123",
 			"id": 45,
 			"pid": 123,
 			"jid": 561,
@@ -599,9 +668,11 @@
 			"remarks": null,
 			"supplement": "No.560の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-122"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "hokkaido-124",
 			"id": 46,
 			"pid": 124,
 			"jid": 562,
@@ -612,9 +683,11 @@
 			"remarks": null,
 			"supplement": "No.244、No.245の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-78", "hokkaido-79"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "hokkaido-125",
 			"id": 47,
 			"pid": 125,
 			"jid": 563,
@@ -625,9 +698,11 @@
 			"remarks": null,
 			"supplement": "No.379、No.501の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-98", "hokkaido-109"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "hokkaido-126",
 			"id": 48,
 			"pid": 126,
 			"jid": 564,
@@ -641,6 +716,7 @@
 			"date": "2020-03-12"
 		},
 		{
+			"name": "hokkaido-127",
 			"id": 49,
 			"pid": 127,
 			"jid": 565,
@@ -654,6 +730,7 @@
 			"date": "2020-03-12"
 		},
 		{
+			"name": "hokkaido-128",
 			"id": 50,
 			"pid": 128,
 			"jid": 566,
@@ -667,6 +744,7 @@
 			"date": "2020-03-12"
 		},
 		{
+			"name": "hokkaido-129",
 			"id": 51,
 			"pid": 129,
 			"jid": 624,
@@ -680,6 +758,7 @@
 			"date": "2020-03-13"
 		},
 		{
+			"name": "hokkaido-130",
 			"id": 52,
 			"pid": 130,
 			"jid": 625,
@@ -690,9 +769,11 @@
 			"remarks": null,
 			"supplement": "No.501の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-109"],
 			"date": "2020-03-13"
 		},
 		{
+			"name": "hokkaido-131",
 			"id": 53,
 			"pid": 131,
 			"jid": 626,
@@ -706,6 +787,7 @@
 			"date": "2020-03-13"
 		},
 		{
+			"name": "hokkaido-132",
 			"id": 54,
 			"pid": 132,
 			"jid": 627,
@@ -716,9 +798,11 @@
 			"remarks": null,
 			"supplement": "No.503の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-111"],
 			"date": "2020-03-13"
 		},
 		{
+			"name": "hokkaido-133",
 			"id": 55,
 			"pid": 133,
 			"jid": 628,
@@ -729,9 +813,11 @@
 			"remarks": null,
 			"supplement": "No.563の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-125"],
 			"date": "2020-03-13"
 		},
 		{
+			"name": "hokkaido-137",
 			"id": 56,
 			"pid": 137,
 			"jid": 648,
@@ -745,6 +831,7 @@
 			"date": "2020-03-13"
 		},
 		{
+			"name": "hokkaido-138",
 			"id": 57,
 			"pid": 138,
 			"jid": 649,
@@ -755,9 +842,11 @@
 			"remarks": null,
 			"supplement": "No.564の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-126"],
 			"date": "2020-03-14"
 		},
 		{
+			"name": "hokkaido-139",
 			"id": 58,
 			"pid": 139,
 			"jid": 650,
@@ -771,6 +860,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "hokkaido-140",
 			"id": 59,
 			"pid": 140,
 			"jid": 651,
@@ -781,9 +871,11 @@
 			"remarks": null,
 			"supplement": "No.564、No.649の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-126", "hokkaido-138"],
 			"date": "2020-03-14"
 		},
 		{
+			"name": "hokkaido-141",
 			"id": 60,
 			"pid": 141,
 			"jid": 652,
@@ -794,9 +886,11 @@
 			"remarks": null,
 			"supplement": "No.558の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-120"],
 			"date": "2020-03-14"
 		},
 		{
+			"name": "hokkaido-142",
 			"id": 61,
 			"pid": 142,
 			"jid": 653,
@@ -807,9 +901,11 @@
 			"remarks": null,
 			"supplement": "No.566の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-128"],
 			"date": "2020-03-14"
 		},
 		{
+			"name": "hokkaido-143",
 			"id": 62,
 			"pid": 143,
 			"jid": 696,
@@ -823,6 +919,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "hokkaido-144",
 			"id": 63,
 			"pid": 144,
 			"jid": 697,
@@ -833,9 +930,11 @@
 			"remarks": "重症",
 			"supplement": "No.290、No.377の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-83", "hokkaido-96"],
 			"date": "2020-03-14"
 		},
 		{
+			"name": "hokkaido-150",
 			"id": 64,
 			"pid": 150,
 			"jid": 715,
@@ -849,6 +948,7 @@
 			"date": "2020-03-16"
 		},
 		{
+			"name": "hokkaido-151",
 			"id": 65,
 			"pid": 151,
 			"jid": 716,
@@ -859,9 +959,11 @@
 			"remarks": null,
 			"supplement": "No.564、No.649例目、No.651の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-126", "hokkaido-138", "hokkaido-140"],
 			"date": "2020-03-16"
 		},
 		{
+			"name": "hokkaido-152",
 			"id": 66,
 			"pid": 152,
 			"jid": 717,
@@ -872,9 +974,11 @@
 			"remarks": null,
 			"supplement": "No.696の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-143"],
 			"date": "2020-03-16"
 		},
 		{
+			"name": "hokkaido-154",
 			"id": 67,
 			"pid": 154,
 			"jid": 776,
@@ -888,6 +992,7 @@
 			"date": "2020-03-18"
 		},
 		{
+			"name": "hokkaido-155",
 			"id": 68,
 			"pid": 155,
 			"jid": 819,
@@ -901,6 +1006,7 @@
 			"date": "2020-03-19"
 		},
 		{
+			"name": "hokkaido-156",
 			"id": 69,
 			"pid": 156,
 			"jid": 820,
@@ -914,6 +1020,7 @@
 			"date": "2020-03-19"
 		},
 		{
+			"name": "hokkaido-158",
 			"id": 70,
 			"pid": 158,
 			"jid": 850,
@@ -924,9 +1031,11 @@
 			"remarks": null,
 			"supplement": "No.819の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-155"],
 			"date": "2020-03-20"
 		},
 		{
+			"name": "hokkaido-160",
 			"id": 71,
 			"pid": 160,
 			"jid": 928,
@@ -940,6 +1049,7 @@
 			"date": "2020-03-22"
 		},
 		{
+			"name": "hokkaido-163",
 			"id": 72,
 			"pid": 163,
 			"jid": 997,
@@ -953,6 +1063,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "hokkaido-165",
 			"id": 73,
 			"pid": 165,
 			"jid": 1064,
@@ -966,6 +1077,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "hokkaido-166",
 			"id": 74,
 			"pid": 166,
 			"jid": 1065,
@@ -979,6 +1091,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "hokkaido-167",
 			"id": 75,
 			"pid": 167,
 			"jid": 1066,
@@ -990,6 +1103,20 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-25"
+		},
+		{
+			"name": "hokkaido-169",
+			"id": 76,
+			"pid": 169,
+			"jid": 1216,
+			"address": "北海道札幌市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社経営",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
 		}
 	]
 }

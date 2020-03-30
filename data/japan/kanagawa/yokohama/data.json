@@ -1,11 +1,12 @@
 {
-	"id": "yokohama",
+	"name": "yokohama",
 	"label": {
 		"ja": "横浜市"
 	},
-	"date": "2020\/03\/23 18:00",
-	"data": [
+	"date": "2020\/03\/26 18:00",
+	"children": [
 		{
+			"name": "kanagawa-6",
 			"id": 1,
 			"pid": 6,
 			"jid": 62,
@@ -19,6 +20,7 @@
 			"date": "2020-02-18"
 		},
 		{
+			"name": "kanagawa-10",
 			"id": 2,
 			"pid": 10,
 			"address": "神奈川県横浜市",
@@ -28,9 +30,11 @@
 			"remarks": null,
 			"supplement": "No.62の濃厚接触者",
 			"discharged": "〇",
+			"sources": ["kanagawa-6"],
 			"date": "2020-02-20"
 		},
 		{
+			"name": "kanagawa-11",
 			"id": 3,
 			"pid": 11,
 			"address": "神奈川県横浜市",
@@ -38,11 +42,13 @@
 			"sex": "female",
 			"attribute": "会社員",
 			"remarks": null,
-			"supplement": "No.62、No.yokohama2の濃厚接触者",
+			"supplement": "神奈川県6例目、10例目の濃厚接触者",
 			"discharged": "〇",
+			"sources": ["kanagawa-6", "kanagawa-10"],
 			"date": "2020-02-21"
 		},
 		{
+			"name": "kanagawa-24",
 			"id": 4,
 			"pid": 24,
 			"jid": 191,
@@ -57,6 +63,7 @@
 			"date": "2020-02-27"
 		},
 		{
+			"name": "kanagawa-32",
 			"id": 5,
 			"pid": 32,
 			"jid": 617,
@@ -70,6 +77,7 @@
 			"date": "2020-03-03"
 		},
 		{
+			"name": "kanagawa-33",
 			"id": 6,
 			"pid": 33,
 			"jid": 368,
@@ -83,6 +91,7 @@
 			"date": "2020-03-05"
 		},
 		{
+			"name": "kanagawa-41",
 			"id": 7,
 			"pid": 41,
 			"jid": 369,
@@ -97,6 +106,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "kanagawa-47",
 			"id": 8,
 			"pid": 47,
 			"jid": 618,
@@ -107,9 +117,11 @@
 			"remarks": null,
 			"supplement": "No.369と同じジムを利用",
 			"discharged": null,
+			"sources": ["kanagawa-41"],
 			"date": "2020-03-11"
 		},
 		{
+			"name": "kanagawa-48",
 			"id": 9,
 			"pid": 48,
 			"jid": 641,
@@ -123,6 +135,7 @@
 			"date": "2020-03-12"
 		},
 		{
+			"name": "kanagawa-49",
 			"id": 10,
 			"pid": 49,
 			"jid": 642,
@@ -136,6 +149,7 @@
 			"date": "2020-03-12"
 		},
 		{
+			"name": "kanagawa-59",
 			"id": 11,
 			"pid": 59,
 			"jid": 772,
@@ -149,6 +163,7 @@
 			"date": "2020-03-17"
 		},
 		{
+			"name": "kanagawa-59",
 			"id": 12,
 			"pid": 59,
 			"jid": 773,
@@ -159,9 +174,11 @@
 			"remarks": null,
 			"supplement": "No.642の濃厚接触者",
 			"discharged": null,
+			"sources": ["kanagawa-49"],
 			"date": "2020-03-17"
 		},
 		{
+			"name": "kanagawa-59",
 			"id": 13,
 			"pid": 59,
 			"jid": 774,
@@ -172,9 +189,11 @@
 			"remarks": null,
 			"supplement": "No.618の濃厚接触者",
 			"discharged": null,
+			"sources": ["kanagawa-47"],
 			"date": "2020-03-17"
 		},
 		{
+			"name": "kanagawa-70",
 			"id": 14,
 			"pid": 70,
 			"jid": 923,
@@ -189,6 +208,7 @@
 			"date": "2020-03-20"
 		},
 		{
+			"name": "kanagawa-74",
 			"id": 15,
 			"pid": 74,
 			"jid": 956,
@@ -200,6 +220,20 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-21"
+		},
+		{
+			"name": "kanagawa-93",
+			"id": 16,
+			"pid": 93,
+			"address": "神奈川県横浜市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/21米国・ニューヨーク州から帰国",
+			"discharged": null,
+			"sources": ["usa"],
+			"date": "2020-03-26"
 		}
 	]
 }

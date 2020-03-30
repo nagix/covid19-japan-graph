@@ -1,11 +1,12 @@
 {
-	"id": "fukuoka-city",
+	"name": "fukuoka-city",
 	"label": {
 		"ja": "福岡市"
 	},
 	"date": "2020\/03\/26 18:00",
-	"data": [
+	"children": [
 		{
+			"name": "fukuoka-7",
 			"id": 4,
 			"pid": 7,
 			"jid": 1049,
@@ -19,6 +20,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "fukuoka-10",
 			"id": 5,
 			"pid": 10,
 			"address": "福岡県福岡市東区",
@@ -31,6 +33,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "fukuoka-11",
 			"id": 6,
 			"pid": 11,
 			"address": "福岡県福岡市城南区",

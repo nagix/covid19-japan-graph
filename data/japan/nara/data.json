@@ -1,11 +1,15 @@
 {
-	"id": "nara",
+	"name": "nara",
 	"label": {
 		"ja": "奈良県"
 	},
+	"prefix": {
+		"ja": "奈良"
+	},
 	"date": "2020\/03\/22 18:00",
-	"data": [
+	"children": [
 		{
+			"name": "nara-1",
 			"pid": 1,
 			"jid": 6,
 			"address": "奈良県",
@@ -19,6 +23,7 @@
 			"date": "2020-01-28"
 		},
 		{
+			"name": "nara-2",
 			"pid": 2,
 			"jid": 330,
 			"address": "奈良県奈良市",
@@ -32,6 +37,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "nara-3",
 			"pid": 3,
 			"address": "奈良県奈良市",
 			"age": "70s",
@@ -39,11 +45,12 @@
 			"attribute": null,
 			"remarks": "無症状",
 			"supplement": "2/19ダイヤモンド・プリンセス号を下船",
-			"discharged": null,
+			"discharged": "〇",
 			"sources": ["cruise-ship"],
 			"date": "2020-03-06"
 		},
 		{
+			"name": "nara-4",
 			"pid": 4,
 			"address": "奈良県奈良市",
 			"age": "60s",
@@ -51,11 +58,12 @@
 			"attribute": null,
 			"remarks": "無症状",
 			"supplement": "2/21ダイヤモンド・プリンセス号を下船",
-			"discharged": null,
+			"discharged": "〇",
 			"sources": ["cruise-ship"],
 			"date": "2020-03-06"
 		},
 		{
+			"name": "nara-5",
 			"pid": 5,
 			"jid": 439,
 			"address": "奈良県郡山保健所管内",
@@ -64,11 +72,12 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "2/24・2/26ライブハウスSoap Opera Classics Umeda",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
 			"date": "2020-03-09"
 		},
 		{
+			"name": "nara-6",
 			"pid": 6,
 			"address": "奈良県郡山保健所管内",
 			"age": "u10",
@@ -77,9 +86,11 @@
 			"remarks": "無症状",
 			"supplement": "No.439の濃厚接触者",
 			"discharged": null,
+			"sources": ["nara-5"],
 			"date": "2020-03-09"
 		},
 		{
+			"name": "nara-7",
 			"pid": 7,
 			"address": "奈良県郡山保健所管内",
 			"age": "40s",
@@ -92,6 +103,7 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "nara-8",
 			"pid": 8,
 			"jid": 530,
 			"address": "奈良県奈良市",
@@ -104,6 +116,7 @@
 			"date": "2020-03-11"
 		},
 		{
+			"name": "nara-9",
 			"pid": 9,
 			"jid": 931,
 			"address": "奈良県郡山保健所管内",

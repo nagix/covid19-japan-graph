@@ -1,14 +1,18 @@
 {
-	"id": "okayama",
+	"name": "okayama",
 	"label": {
 		"ja": "岡山県"
 	},
-	"date": "2020\/03\/22 18:00",
-	"data": [
+	"prefix": {
+		"ja": "岡山"
+	},
+	"date": "2020\/03\/27 18:00",
+	"children": [
 		{
+			"name": "okayama-1",
 			"pid": 1,
 			"jid": 940,
-			"address": "愛媛県愛南町",
+			"address": "岡山県岡山市",
 			"age": "60s",
 			"sex": "female",
 			"attribute": null,
@@ -17,6 +21,20 @@
 			"discharged": null,
 			"sources": ["spain"],
 			"date": "2020-03-22"
+		},
+		{
+			"name": "okayama-2",
+			"pid": 2,
+			"jid": 1214,
+			"address": "岡山県里庄町",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": "3/17までフィリピン滞在",
+			"discharged": null,
+			"sources": ["philippines"],
+			"date": "2020-03-27"
 		}
 	]
 }

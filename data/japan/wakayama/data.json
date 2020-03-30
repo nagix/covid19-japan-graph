@@ -1,11 +1,15 @@
 {
-	"id": "wakayama",
+	"name": "wakayama",
 	"label": {
 		"ja": "和歌山県"
 	},
+	"prefix": {
+		"ja": "和歌山"
+	},
 	"date": "2020\/03\/19 18:00",
-	"data": [
+	"children": [
 		{
+			"name": "wakayama-1",
 			"pid": 1,
 			"jid": 29,
 			"address": "和歌山県和歌山市",
@@ -16,9 +20,11 @@
 			"supplement": "No.38が勤務していた医療機関に勤務",
 			"discharged": "〇",
 			"cluster": "wakayama-hospital",
+			"sources": ["wakayama-3"],
 			"date": "2020-02-13"
 		},
 		{
+			"name": "wakayama-2",
 			"pid": 2,
 			"jid": 31,
 			"address": "和歌山県",
@@ -29,9 +35,11 @@
 			"supplement": "No.29が勤務していた医療機関に受診歴あり",
 			"discharged": "〇",
 			"cluster": "wakayama-hospital",
+			"sources": ["wakayama-1"],
 			"date": "2020-02-14"
 		},
 		{
+			"name": "wakayama-3",
 			"pid": 3,
 			"jid": 38,
 			"address": "和歌山県",
@@ -42,9 +50,11 @@
 			"supplement": "No.20の濃厚接触者",
 			"discharged": "〇",
 			"cluster": "wakayama-hospital",
+			"sources": ["chiba-4"],
 			"date": "2020-02-15"
 		},
 		{
+			"name": "wakayama-4",
 			"pid": 4,
 			"jid": 39,
 			"address": "和歌山県",
@@ -54,9 +64,11 @@
 			"remarks": null,
 			"supplement": "No.38の妻",
 			"discharged": "〇",
+			"sources": ["wakayama-3"],
 			"date": "2020-02-15"
 		},
 		{
+			"name": "wakayama-5",
 			"pid": 5,
 			"jid": 40,
 			"address": "和歌山県",
@@ -67,9 +79,11 @@
 			"supplement": "No.29が勤務する医療機関に入院中の患者",
 			"discharged": "〇",
 			"cluster": "wakayama-hospital",
+			"sources": ["wakayama-1"],
 			"date": "2020-02-15"
 		},
 		{
+			"name": "wakayama-6",
 			"pid": 6,
 			"jid": 50,
 			"address": "和歌山県",
@@ -79,9 +93,11 @@
 			"remarks": null,
 			"supplement": "No.40の母",
 			"discharged": "〇",
+			"sources": ["wakayama-5"],
 			"date": "2020-02-17"
 		},
 		{
+			"name": "wakayama-7",
 			"pid": 7,
 			"address": "和歌山県",
 			"age": "50s",
@@ -90,9 +106,11 @@
 			"remarks": null,
 			"supplement": "No.40の妻",
 			"discharged": "〇",
+			"sources": ["wakayama-5"],
 			"date": "2020-02-17"
 		},
 		{
+			"name": "wakayama-8",
 			"pid": 8,
 			"jid": 51,
 			"address": "和歌山県",
@@ -102,9 +120,11 @@
 			"remarks": null,
 			"supplement": "No.40の弟",
 			"discharged": null,
+			"sources": ["wakayama-5"],
 			"date": "2020-02-17"
 		},
 		{
+			"name": "wakayama-9",
 			"pid": 9,
 			"jid": 52,
 			"address": "和歌山県",
@@ -117,6 +137,7 @@
 			"date": "2020-02-17"
 		},
 		{
+			"name": "wakayama-10",
 			"pid": 10,
 			"jid": 54,
 			"address": "和歌山県",
@@ -127,9 +148,11 @@
 			"supplement": "No.31と同室",
 			"discharged": "〇",
 			"cluster": "wakayama-hospital",
+			"sources": ["wakayama-2"],
 			"date": "2020-02-18"
 		},
 		{
+			"name": "wakayama-11",
 			"pid": 11,
 			"jid": 55,
 			"address": "和歌山県",
@@ -143,6 +166,7 @@
 			"date": "2020-02-18"
 		},
 		{
+			"name": "wakayama-12",
 			"pid": 12,
 			"address": "和歌山県",
 			"age": "10s",
@@ -151,9 +175,11 @@
 			"remarks": "無症状",
 			"supplement": "No.38の子",
 			"discharged": "〇",
+			"sources": ["wakayama-3"],
 			"date": "2020-02-18"
 		},
 		{
+			"name": "wakayama-13",
 			"pid": 13,
 			"jid": 95,
 			"address": "和歌山県和歌山市",
@@ -163,9 +189,11 @@
 			"remarks": null,
 			"supplement": "No.40の同僚（濃厚接触者）",
 			"discharged": "〇",
+			"sources": ["wakayama-5"],
 			"date": "2020-02-22"
 		},
 		{
+			"name": "wakayama-14",
 			"pid": 14,
 			"jid": 303,
 			"address": "和歌山県湯浅保健所管内",
@@ -179,6 +207,7 @@
 			"date": "2020-03-05"
 		},
 		{
+			"name": "wakayama-15",
 			"pid": 15,
 			"jid": 703,
 			"address": "和歌山県和歌山市",
@@ -188,9 +217,11 @@
 			"remarks": null,
 			"supplement": "No.584の濃厚接触者",
 			"discharged": null,
+			"sources": ["osaka-88"],
 			"date": "2020-03-15"
 		},
 		{
+			"name": "wakayama-16",
 			"pid": 16,
 			"jid": 809,
 			"address": "和歌山県和歌山市",
@@ -203,6 +234,7 @@
 			"date": "2020-03-19"
 		},
 		{
+			"name": "wakayama-17",
 			"pid": 17,
 			"jid": 841,
 			"address": "和歌山県和歌山市",
@@ -212,6 +244,7 @@
 			"remarks": null,
 			"supplement": "No.809と同じ勤務先",
 			"discharged": null,
+			"sources": ["wakayama-16"],
 			"date": "2020-03-19"
 		}
 	]

@@ -1,11 +1,15 @@
 {
-	"id": "nagasaki",
+	"name": "nagasaki",
 	"label": {
 		"ja": "長崎県"
 	},
+	"prefix": {
+		"ja": "長崎"
+	},
 	"date": "2020\/03\/25 18:00",
-	"data": [
+	"children": [
 		{
+			"name": "nagasaki-1",
 			"pid": 1,
 			"address": "長崎県壱岐保健所管内",
 			"age": "30s",
@@ -14,9 +18,11 @@
 			"remarks": "無症状",
 			"supplement": "No.583と接触",
 			"discharged": null,
+			"sources": ["osaka-87"],
 			"date": "2020-03-14"
 		},
 		{
+			"name": "nagasaki-2",
 			"pid": 2,
 			"jid": 1055,
 			"address": "長崎県長与町",

@@ -1,11 +1,15 @@
 {
-	"id": "fukushima",
+	"name": "fukushima",
 	"label": {
 		"ja": "福島県"
 	},
+	"prefix": {
+		"ja": "福島"
+	},
 	"date": "2020\/03\/14 18:00",
-	"data": [
+	"children": [
 		{
+			"name": "fukushima-1",
 			"pid": 1,
 			"jid": 385,
 			"address": "福島県いわき市",
@@ -19,6 +23,7 @@
 			"date": "2020-03-07"
 		},
 		{
+			"name": "fukushima-2",
 			"pid": 2,
 			"jid": 645,
 			"address": "福島県郡山市",

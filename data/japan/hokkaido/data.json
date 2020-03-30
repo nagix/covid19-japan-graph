@@ -1,16 +1,24 @@
 {
-	"id": "hokkaido",
+	"name": "hokkaido",
 	"label": {
 		"ja": "北海道"
 	},
+	"prefix": {
+		"ja": "北海道"
+	},
 	"date": "2020\/03\/26 17:10",
-	"subgroups": [
-		"sapporo",
-		"otaru",
-		"asahikawa"
-	],
-	"data": [
+	"children": [
 		{
+			"ref": "sapporo"
+		},
+		{
+			"ref": "otaru"
+		},
+		{
+			"ref": "asahikawa"
+		},
+		{
+			"name": "hokkaido-1",
 			"pid": 1,
 			"jid": 7,
 			"address": "湖北省武漢市",
@@ -24,6 +32,7 @@
 			"date": "2020-01-28"
 		},
 		{
+			"name": "hokkaido-4",
 			"pid": 4,
 			"jid": 64,
 			"address": "北海道七飯町",
@@ -36,6 +45,7 @@
 			"date": "2020-02-19"
 		},
 		{
+			"name": "hokkaido-6",
 			"pid": 6,
 			"jid": 80,
 			"address": "北海道中富良野町",
@@ -48,6 +58,7 @@
 			"date": "2020-02-21"
 		},
 		{
+			"name": "hokkaido-7",
 			"pid": 7,
 			"jid": 81,
 			"address": "北海道中富良野町",
@@ -57,9 +68,11 @@
 			"remarks": null,
 			"supplement": "No.80の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-6"],
 			"date": "2020-02-21"
 		},
 		{
+			"name": "hokkaido-8",
 			"pid": 8,
 			"jid": 82,
 			"address": "北海道千歳市",
@@ -72,6 +85,7 @@
 			"date": "2020-02-21"
 		},
 		{
+			"name": "hokkaido-9",
 			"pid": 9,
 			"jid": 98,
 			"address": "胆振総合振興局管内",
@@ -84,6 +98,7 @@
 			"date": "2020-02-22"
 		},
 		{
+			"name": "hokkaido-10",
 			"pid": 10,
 			"jid": 99,
 			"address": "北海道知内町",
@@ -96,6 +111,7 @@
 			"date": "2020-02-22"
 		},
 		{
+			"name": "hokkaido-12",
 			"pid": 12,
 			"jid": 101,
 			"address": "北海道函館市",
@@ -105,9 +121,11 @@
 			"remarks": null,
 			"supplement": "No.64と接触あり",
 			"discharged": null,
+			"sources": ["hokkaido-4"],
 			"date": "2020-02-22"
 		},
 		{
+			"name": "hokkaido-13",
 			"pid": 13,
 			"jid": 102,
 			"address": "北海道函館市",
@@ -120,6 +138,7 @@
 			"date": "2020-02-22"
 		},
 		{
+			"name": "hokkaido-14",
 			"pid": 14,
 			"jid": 103,
 			"address": "北海道根室市",
@@ -132,6 +151,7 @@
 			"date": "2020-02-22"
 		},
 		{
+			"name": "hokkaido-15",
 			"pid": 15,
 			"jid": 104,
 			"address": "胆振総合振興局管内",
@@ -144,6 +164,7 @@
 			"date": "2020-02-22"
 		},
 		{
+			"name": "hokkaido-16",
 			"pid": 16,
 			"jid": 105,
 			"address": "北海道江別市",
@@ -156,6 +177,7 @@
 			"date": "2020-02-22"
 		},
 		{
+			"name": "hokkaido-17",
 			"pid": 17,
 			"jid": 113,
 			"address": "北海道北見市",
@@ -169,6 +191,7 @@
 			"date": "2020-02-22"
 		},
 		{
+			"name": "hokkaido-21",
 			"pid": 21,
 			"jid": 120,
 			"address": "北海道美瑛町",
@@ -181,6 +204,7 @@
 			"date": "2020-02-23"
 		},
 		{
+			"name": "hokkaido-22",
 			"pid": 22,
 			"jid": 121,
 			"address": "北海道愛別町",
@@ -193,6 +217,7 @@
 			"date": "2020-02-23"
 		},
 		{
+			"name": "hokkaido-23",
 			"pid": 23,
 			"jid": 122,
 			"address": "北海道釧路市",
@@ -205,6 +230,7 @@
 			"date": "2020-02-23"
 		},
 		{
+			"name": "hokkaido-24",
 			"pid": 24,
 			"jid": 123,
 			"address": "胆振総合振興局管内",
@@ -212,11 +238,13 @@
 			"sex": "male",
 			"attribute": "無職",
 			"remarks": null,
-			"supplement": "N0.98の濃厚接触者",
+			"supplement": "No.98の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-9"],
 			"date": "2020-02-23"
 		},
 		{
+			"name": "hokkaido-25",
 			"pid": 25,
 			"jid": 124,
 			"address": "胆振総合振興局管内",
@@ -226,9 +254,11 @@
 			"remarks": null,
 			"supplement": "No.104の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-15"],
 			"date": "2020-02-23"
 		},
 		{
+			"name": "hokkaido-26",
 			"pid": 26,
 			"jid": 125,
 			"address": "石狩振興局管内",
@@ -241,6 +271,7 @@
 			"date": "2020-02-23"
 		},
 		{
+			"name": "hokkaido-29",
 			"pid": 29,
 			"jid": 131,
 			"address": "北海道北見市",
@@ -250,9 +281,11 @@
 			"remarks": null,
 			"supplement": "No.113の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-17"],
 			"date": "2020-02-24"
 		},
 		{
+			"name": "hokkaido-30",
 			"pid": 30,
 			"jid": 132,
 			"address": "石狩振興局管内",
@@ -265,6 +298,7 @@
 			"date": "2020-02-24"
 		},
 		{
+			"name": "hokkaido-32",
 			"pid": 32,
 			"address": "北海道美瑛町",
 			"age": "60s",
@@ -273,9 +307,11 @@
 			"remarks": "無症状",
 			"supplement": "No.120の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-21"],
 			"date": "2020-02-25"
 		},
 		{
+			"name": "hokkaido-33",
 			"pid": 33,
 			"jid": 151,
 			"address": "北海道北見市",
@@ -289,6 +325,7 @@
 			"date": "2020-02-25"
 		},
 		{
+			"name": "hokkaido-35",
 			"pid": 35,
 			"jid": 153,
 			"address": "釧路総合振興局管内",
@@ -301,6 +338,7 @@
 			"date": "2020-02-25"
 		},
 		{
+			"name": "hokkaido-36",
 			"pid": 36,
 			"jid": 155,
 			"address": "北海道新ひだか町",
@@ -313,6 +351,7 @@
 			"date": "2020-02-26"
 		},
 		{
+			"name": "hokkaido-37",
 			"pid": 37,
 			"jid": 156,
 			"address": "北海道新ひだか町",
@@ -325,6 +364,7 @@
 			"date": "2020-02-26"
 		},
 		{
+			"name": "hokkaido-38",
 			"pid": 38,
 			"jid": 154,
 			"address": "北海道函館市",
@@ -337,6 +377,7 @@
 			"date": "2020-02-26"
 		},
 		{
+			"name": "hokkaido-42",
 			"pid": 42,
 			"jid": 176,
 			"address": "北海道北見市",
@@ -349,6 +390,7 @@
 			"date": "2020-02-27"
 		},
 		{
+			"name": "hokkaido-43",
 			"pid": 43,
 			"jid": 177,
 			"address": "北海道北見市",
@@ -359,9 +401,11 @@
 			"supplement": "No.99、No.113、No.130、No.151、No.174、No.175の濃厚接触者",
 			"discharged": null,
 			"cluster": "kitami-exhibition",
+			"sources": ["hokkaido-10", "hokkaido-28", "hokkaido-29", "hokkaido-33", "hokkaido-40", "hokkaido-41"],
 			"date": "2020-02-27"
 		},
 		{
+			"name": "hokkaido-44",
 			"pid": 44,
 			"jid": 178,
 			"address": "北海道厚岸町",
@@ -374,6 +418,7 @@
 			"date": "2020-02-27"
 		},
 		{
+			"name": "hokkaido-45",
 			"pid": 45,
 			"jid": 179,
 			"address": "釧路総合振興局管内",
@@ -386,6 +431,7 @@
 			"date": "2020-02-27"
 		},
 		{
+			"name": "hokkaido-46",
 			"pid": 46,
 			"jid": 180,
 			"address": "北海道滝川市",
@@ -398,6 +444,7 @@
 			"date": "2020-02-27"
 		},
 		{
+			"name": "hokkaido-47",
 			"pid": 47,
 			"jid": 181,
 			"address": "上川総合振興局管内",
@@ -410,6 +457,7 @@
 			"date": "2020-02-27"
 		},
 		{
+			"name": "hokkaido-48",
 			"pid": 48,
 			"jid": 182,
 			"address": "オホーツク総合振興局管内",
@@ -422,6 +470,7 @@
 			"date": "2020-02-27"
 		},
 		{
+			"name": "hokkaido-49",
 			"pid": 49,
 			"jid": 183,
 			"address": "北海道中札内村",
@@ -434,6 +483,7 @@
 			"date": "2020-02-27"
 		},
 		{
+			"name": "hokkaido-50",
 			"pid": 50,
 			"jid": 184,
 			"address": "北海道美瑛町",
@@ -446,6 +496,7 @@
 			"date": "2020-02-27"
 		},
 		{
+			"name": "hokkaido-51",
 			"pid": 51,
 			"jid": 185,
 			"address": "北海道せたな町",
@@ -458,6 +509,7 @@
 			"date": "2020-02-27"
 		},
 		{
+			"name": "hokkaido-52",
 			"pid": 52,
 			"jid": 186,
 			"address": "北海道せたな町",
@@ -470,6 +522,7 @@
 			"date": "2020-02-27"
 		},
 		{
+			"name": "hokkaido-53",
 			"pid": 53,
 			"jid": 187,
 			"address": "北海道八雲町",
@@ -482,6 +535,7 @@
 			"date": "2020-02-27"
 		},
 		{
+			"name": "hokkaido-54",
 			"pid": 54,
 			"jid": 188,
 			"address": "北海道木古内町",
@@ -491,9 +545,11 @@
 			"remarks": null,
 			"supplement": "No.99の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-10"],
 			"date": "2020-02-27"
 		},
 		{
+			"name": "hokkaido-55",
 			"pid": 55,
 			"jid": 195,
 			"address": "北海道せたな町",
@@ -506,6 +562,7 @@
 			"date": "2020-02-28"
 		},
 		{
+			"name": "hokkaido-56",
 			"pid": 56,
 			"jid": 196,
 			"address": "北海道千歳市",
@@ -518,6 +575,7 @@
 			"date": "2020-02-28"
 		},
 		{
+			"name": "hokkaido-57",
 			"pid": 57,
 			"jid": 197,
 			"address": "北海道深川市",
@@ -530,6 +588,7 @@
 			"date": "2020-02-28"
 		},
 		{
+			"name": "hokkaido-58",
 			"pid": 58,
 			"jid": 198,
 			"address": "上川総合振興局管内",
@@ -542,6 +601,7 @@
 			"date": "2020-02-28"
 		},
 		{
+			"name": "hokkaido-59",
 			"pid": 59,
 			"jid": 199,
 			"address": "北海道中富良野町",
@@ -549,11 +609,12 @@
 			"sex": "male",
 			"attribute": "無職",
 			"remarks": null,
-			"supplement": "No.100の濃厚接触者",
+			"supplement": null,
 			"discharged": null,
 			"date": "2020-02-28"
 		},
 		{
+			"name": "hokkaido-60",
 			"pid": 60,
 			"jid": 200,
 			"address": "北海道北見市",
@@ -567,6 +628,7 @@
 			"date": "2020-02-28"
 		},
 		{
+			"name": "hokkaido-61",
 			"pid": 61,
 			"jid": 201,
 			"address": "北海道北見市",
@@ -579,6 +641,7 @@
 			"date": "2020-02-28"
 		},
 		{
+			"name": "hokkaido-62",
 			"pid": 62,
 			"jid": 202,
 			"address": "釧路総合振興局管内",
@@ -591,6 +654,7 @@
 			"date": "2020-02-28"
 		},
 		{
+			"name": "hokkaido-63",
 			"pid": 63,
 			"jid": 203,
 			"address": "釧路総合振興局管内",
@@ -603,6 +667,7 @@
 			"date": "2020-02-28"
 		},
 		{
+			"name": "hokkaido-67",
 			"pid": 67,
 			"jid": 213,
 			"address": "北海道苫小牧市",
@@ -615,6 +680,7 @@
 			"date": "2020-02-29"
 		},
 		{
+			"name": "hokkaido-71",
 			"pid": 71,
 			"jid": 222,
 			"address": "北海道江別市",
@@ -627,6 +693,7 @@
 			"date": "2020-03-01"
 		},
 		{
+			"name": "hokkaido-72",
 			"pid": 72,
 			"jid": 223,
 			"address": "北海道北見市",
@@ -637,9 +704,11 @@
 			"supplement": "No.130の濃厚接触者",
 			"discharged": null,
 			"cluster": "kitami-exhibition",
+			"sources": ["hokkaido-28"],
 			"date": "2020-03-01"
 		},
 		{
+			"name": "hokkaido-73",
 			"pid": 73,
 			"jid": 235,
 			"address": "北海道北見市",
@@ -653,6 +722,7 @@
 			"date": "2020-03-02"
 		},
 		{
+			"name": "hokkaido-74",
 			"pid": 74,
 			"jid": 236,
 			"address": "北海道北見市",
@@ -666,6 +736,7 @@
 			"date": "2020-03-02"
 		},
 		{
+			"name": "hokkaido-75",
 			"pid": 75,
 			"jid": 237,
 			"address": "オホーツク総合振興局管内",
@@ -675,9 +746,11 @@
 			"remarks": null,
 			"supplement": "No.176の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-42"],
 			"date": "2020-03-02"
 		},
 		{
+			"name": "hokkaido-80",
 			"pid": 80,
 			"jid": 265,
 			"address": "北海道北見市",
@@ -690,6 +763,7 @@
 			"date": "2020-03-04"
 		},
 		{
+			"name": "hokkaido-87",
 			"pid": 87,
 			"jid": 317,
 			"address": "北海道北広島市",
@@ -702,6 +776,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "hokkaido-88",
 			"pid": 88,
 			"jid": 318,
 			"address": "石狩振興局管内",
@@ -714,6 +789,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "hokkaido-89",
 			"pid": 89,
 			"jid": 319,
 			"address": "オホーツク総合振興局管内",
@@ -726,6 +802,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "hokkaido-90",
 			"pid": 90,
 			"jid": 320,
 			"address": "オホーツク総合振興局管内",
@@ -738,6 +815,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "hokkaido-91",
 			"pid": 91,
 			"jid": 372,
 			"address": "北海道滝川市",
@@ -747,9 +825,11 @@
 			"remarks": null,
 			"supplement": "No.180の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-46"],
 			"date": "2020-03-07"
 		},
 		{
+			"name": "hokkaido-92",
 			"pid": 92,
 			"jid": 373,
 			"address": "北海道北見市",
@@ -759,9 +839,11 @@
 			"remarks": null,
 			"supplement": "No.200の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-60"],
 			"date": "2020-03-07"
 		},
 		{
+			"name": "hokkaido-99",
 			"pid": 99,
 			"jid": 409,
 			"address": "北海道岩見沢市",
@@ -774,6 +856,7 @@
 			"date": "2020-03-08"
 		},
 		{
+			"name": "hokkaido-100",
 			"pid": 100,
 			"jid": 410,
 			"address": "北海道岩見沢市",
@@ -783,9 +866,11 @@
 			"remarks": null,
 			"supplement": "No.409の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-99"],
 			"date": "2020-03-08"
 		},
 		{
+			"name": "hokkaido-107",
 			"pid": 107,
 			"jid": 445,
 			"address": "石狩振興局管内",
@@ -795,9 +880,11 @@
 			"remarks": null,
 			"supplement": "No.318の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-88"],
 			"date": "2020-03-09"
 		},
 		{
+			"name": "hokkaido-108",
 			"pid": 108,
 			"jid": 446,
 			"address": "石狩振興局管内",
@@ -807,9 +894,11 @@
 			"remarks": null,
 			"supplement": "No.318、No.445の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-88", "hokkaido-107"],
 			"date": "2020-03-09"
 		},
 		{
+			"name": "hokkaido-116",
 			"pid": 116,
 			"jid": 518,
 			"address": "空知総合振興局管内",
@@ -819,9 +908,11 @@
 			"remarks": null,
 			"supplement": "No.317の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-87"],
 			"date": "2020-03-11"
 		},
 		{
+			"name": "hokkaido-117",
 			"pid": 117,
 			"jid": 519,
 			"address": "オホーツク総合振興局管内",
@@ -834,18 +925,21 @@
 			"date": "2020-03-11"
 		},
 		{
+			"name": "hokkaido-134",
 			"pid": 134,
 			"jid": 629,
-			"address": "石狩振興局管内",
+			"address": "北海道北広島市",
 			"age": "70s",
 			"sex": "female",
 			"attribute": null,
 			"remarks": null,
-			"supplement": null,
+			"supplement": "北海道87例目の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-87"],
 			"date": "2020-03-13"
 		},
 		{
+			"name": "hokkaido-135",
 			"pid": 135,
 			"jid": 630,
 			"address": "オホーツク総合振興局管内",
@@ -858,6 +952,7 @@
 			"date": "2020-03-13"
 		},
 		{
+			"name": "hokkaido-136",
 			"pid": 136,
 			"jid": 631,
 			"address": "北海道北見市",
@@ -868,9 +963,11 @@
 			"supplement": "札幌市内のライブバーを利用",
 			"discharged": null,
 			"cluster": "sapporo-livebar",
+			"sources": ["hokkaido-119"],
 			"date": "2020-03-13"
 		},
 		{
+			"name": "hokkaido-145",
 			"pid": 145,
 			"jid": 692,
 			"address": "空知総合振興局管内",
@@ -883,6 +980,7 @@
 			"date": "2020-03-15"
 		},
 		{
+			"name": "hokkaido-146",
 			"pid": 146,
 			"jid": 693,
 			"address": "苫小牧市",
@@ -895,6 +993,7 @@
 			"date": "2020-03-15"
 		},
 		{
+			"name": "hokkaido-147",
 			"pid": 147,
 			"jid": 694,
 			"address": "オホーツク総合振興局管内",
@@ -907,6 +1006,7 @@
 			"date": "2020-03-15"
 		},
 		{
+			"name": "hokkaido-148",
 			"pid": 148,
 			"jid": 695,
 			"address": "オホーツク総合振興局管内",
@@ -916,9 +1016,11 @@
 			"remarks": null,
 			"supplement": "No.694の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-147"],
 			"date": "2020-03-15"
 		},
 		{
+			"name": "hokkaido-149",
 			"pid": 149,
 			"jid": 714,
 			"address": "オホーツク総合振興局管内",
@@ -928,9 +1030,11 @@
 			"remarks": null,
 			"supplement": "No.630の濃厚接触者",
 			"discharged": null,
+			"sources": ["hokkaido-135"],
 			"date": "2020-03-16"
 		},
 		{
+			"name": "hokkaido-150",
 			"pid": 150,
 			"jid": 775,
 			"address": "釧路総合振興局管内",
@@ -943,6 +1047,7 @@
 			"date": "2020-03-18"
 		},
 		{
+			"name": "hokkaido-159",
 			"pid": 159,
 			"jid": 890,
 			"address": "釧路総合振興局管内",
@@ -956,6 +1061,7 @@
 			"date": "2020-03-21"
 		},
 		{
+			"name": "hokkaido-168",
 			"pid": 168,
 			"jid": 1145,
 			"address": "北海道倶知安町",

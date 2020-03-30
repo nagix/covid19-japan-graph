@@ -1,15 +1,24 @@
 {
-	"id": "chiba",
+	"name": "chiba",
 	"label": {
 		"ja": "千葉県"
 	},
-	"date": "2020\/03\/26 18:00",
-	"subgroups": [
-		"funabashi",
-		"kashiwa"
-	],
-	"data": [
+	"prefix": {
+		"ja": "千葉"
+	},
+	"date": "2020\/03\/27 18:00",
+	"children": [
 		{
+			"ref": "chiba-city"
+		},
+		{
+			"ref": "funabashi"
+		},
+		{
+			"ref": "kashiwa"
+		},
+		{
+			"name": "chiba-1",
 			"pid": 1,
 			"jid": 13,
 			"address": "千葉県千葉市",
@@ -19,10 +28,11 @@
 			"remarks": null,
 			"supplement": "バスガイドとしてツアー（中国人対象）に参加、No.6の濃厚接触者",
 			"discharged": null,
-			"sources": ["china-tourist"],
+			"sources": ["china-tourist", "nara-1"],
 			"date": "2020-01-31"
 		},
 		{
+			"name": "chiba-2",
 			"pid": 2,
 			"jid": 16,
 			"address": "湖北省武漢市",
@@ -36,6 +46,7 @@
 			"date": "2020-02-01"
 		},
 		{
+			"name": "chiba-3",
 			"pid": 3,
 			"jid": 17,
 			"address": "湖北省武漢市",
@@ -49,6 +60,7 @@
 			"date": "2020-02-04"
 		},
 		{
+			"name": "chiba-4",
 			"pid": 4,
 			"jid": 20,
 			"address": "湖北省武漢市",
@@ -58,10 +70,11 @@
 			"remarks": null,
 			"supplement": "1/21武漢市から来日、No.17の濃厚接触者",
 			"discharged": null,
-			"sources": ["china"],
+			"sources": ["china", "chiba-3"],
 			"date": "2020-02-05"
 		},
 		{
+			"name": "chiba-5",
 			"pid": 5,
 			"jid": 25,
 			"address": "湖北省武漢市",
@@ -75,6 +88,7 @@
 			"date": "2020-02-10"
 		},
 		{
+			"name": "chiba-6",
 			"pid": 6,
 			"jid": 30,
 			"address": "千葉県市川市",
@@ -87,6 +101,7 @@
 			"date": "2020-02-10"
 		},
 		{
+			"name": "chiba-7",
 			"pid": 7,
 			"jid": 73,
 			"address": "千葉県市川市",
@@ -100,6 +115,7 @@
 			"date": "2020-02-20"
 		},
 		{
+			"name": "chiba-8",
 			"pid": 8,
 			"jid": 88,
 			"address": "千葉県柏市",
@@ -112,6 +128,7 @@
 			"date": "2020-02-21"
 		},
 		{
+			"name": "chiba-9",
 			"pid": 9,
 			"jid": 96,
 			"address": "千葉県市川市",
@@ -125,6 +142,7 @@
 			"date": "2020-02-22"
 		},
 		{
+			"name": "chiba-10",
 			"pid": 10,
 			"jid": 97,
 			"address": "東京都",
@@ -138,6 +156,7 @@
 			"date": "2020-02-22"
 		},
 		{
+			"name": "chiba-11",
 			"pid": 11,
 			"jid": 117,
 			"address": "千葉県松戸市",
@@ -150,6 +169,7 @@
 			"date": "2020-02-23"
 		},
 		{
+			"name": "chiba-12",
 			"pid": 12,
 			"jid": 149,
 			"address": "千葉県いすみ市",
@@ -158,11 +178,12 @@
 			"attribute": "医師",
 			"remarks": null,
 			"supplement": "2/18までダイヤモンド・プリンセスにDPATとして乗船",
-			"discharged": null,
+			"discharged": "〇",
 			"sources": ["cruise-ship"],
 			"date": "2020-02-26"
 		},
 		{
+			"name": "chiba-13",
 			"pid": 13,
 			"jid": 148,
 			"address": "千葉県市川市",
@@ -176,6 +197,7 @@
 			"date": "2020-02-26"
 		},
 		{
+			"name": "chiba-14",
 			"pid": 14,
 			"jid": 150,
 			"address": "千葉県四街道市",
@@ -184,11 +206,12 @@
 			"attribute": "無職",
 			"remarks": null,
 			"supplement": "2/21ダイヤモンド・プリンセス号を下船",
-			"discharged": null,
+			"discharged": "〇",
 			"sources": ["cruise-ship"],
 			"date": "2020-02-26"
 		},
 		{
+			"name": "chiba-16",
 			"pid": 16,
 			"jid": 272,
 			"address": "千葉県市川市",
@@ -199,9 +222,11 @@
 			"supplement": "No.224と同じ市川市のスポーツジム",
 			"discharged": null,
 			"cluster": "ichikawa-gym",
+			"sources": ["tokyo-38"],
 			"date": "2020-03-04"
 		},
 		{
+			"name": "chiba-17",
 			"pid": 17,
 			"jid": 326,
 			"address": "千葉県市川市",
@@ -214,6 +239,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "chiba-18",
 			"pid": 18,
 			"jid": 327,
 			"address": "千葉県市川市",
@@ -226,6 +252,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "chiba-19",
 			"pid": 19,
 			"jid": 381,
 			"address": "千葉県市川市",
@@ -235,9 +262,11 @@
 			"remarks": null,
 			"supplement": "No.327が勤務する福祉事業所を利用",
 			"discharged": null,
+			"sources": ["chiba-18"],
 			"date": "2020-03-07"
 		},
 		{
+			"name": "chiba-20",
 			"pid": 20,
 			"jid": 382,
 			"address": "千葉県市川市",
@@ -247,9 +276,11 @@
 			"remarks": null,
 			"supplement": "No.381、No.383の同居家族",
 			"discharged": null,
+			"sources": ["chiba-19", "chiba-21"],
 			"date": "2020-03-07"
 		},
 		{
+			"name": "chiba-21",
 			"pid": 21,
 			"jid": 383,
 			"address": "千葉県市川市",
@@ -259,9 +290,11 @@
 			"remarks": null,
 			"supplement": "No.381、No.382の同居家族",
 			"discharged": null,
+			"sources": ["chiba-19", "chiba-20"],
 			"date": "2020-03-07"
 		},
 		{
+			"name": "chiba-22",
 			"pid": 22,
 			"jid": 384,
 			"address": "千葉県松戸市",
@@ -274,6 +307,7 @@
 			"date": "2020-03-07"
 		},
 		{
+			"name": "chiba-23",
 			"pid": 23,
 			"address": "千葉県松戸市",
 			"age": "40s",
@@ -282,9 +316,11 @@
 			"remarks": "無症状",
 			"supplement": "No.327の濃厚接触者",
 			"discharged": null,
+			"sources": ["chiba-18"],
 			"date": "2020-03-09"
 		},
 		{
+			"name": "chiba-24",
 			"pid": 24,
 			"jid": 496,
 			"address": "千葉県市川市",
@@ -294,9 +330,11 @@
 			"remarks": null,
 			"supplement": "No.327が勤務する福祉事業所の利用者",
 			"discharged": null,
+			"sources": ["chiba-18"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "chiba-25",
 			"pid": 25,
 			"jid": 512,
 			"address": "千葉県松戸市",
@@ -310,6 +348,7 @@
 			"date": "2020-03-11"
 		},
 		{
+			"name": "chiba-26",
 			"pid": 26,
 			"jid": 513,
 			"address": "千葉県松戸市",
@@ -323,6 +362,7 @@
 			"date": "2020-03-11"
 		},
 		{
+			"name": "chiba-27",
 			"pid": 27,
 			"jid": 555,
 			"address": "千葉県松戸市",
@@ -335,6 +375,7 @@
 			"date": "2020-03-12"
 		},
 		{
+			"name": "chiba-28",
 			"pid": 28,
 			"jid": 556,
 			"address": "千葉県市川市",
@@ -347,6 +388,7 @@
 			"date": "2020-03-12"
 		},
 		{
+			"name": "chiba-29",
 			"pid": 29,
 			"jid": 620,
 			"address": "千葉県松戸市",
@@ -356,9 +398,11 @@
 			"remarks": null,
 			"supplement": "No.555の同居家族",
 			"discharged": null,
+			"sources": ["chiba-27"],
 			"date": "2020-03-13"
 		},
 		{
+			"name": "chiba-30",
 			"pid": 30,
 			"jid": 621,
 			"address": "千葉県匝瑳市",
@@ -372,6 +416,7 @@
 			"date": "2020-03-13"
 		},
 		{
+			"name": "chiba-31",
 			"pid": 31,
 			"jid": 657,
 			"address": "千葉県匝瑳市",
@@ -381,9 +426,11 @@
 			"remarks": null,
 			"supplement": "No.621の親族",
 			"discharged": null,
+			"sources": ["chiba-30"],
 			"date": "2020-03-14"
 		},
 		{
+			"name": "chiba-32",
 			"pid": 32,
 			"jid": 658,
 			"address": "千葉県匝瑳市",
@@ -393,9 +440,11 @@
 			"remarks": null,
 			"supplement": "No.621の同居家族",
 			"discharged": null,
+			"sources": ["chiba-30"],
 			"date": "2020-03-14"
 		},
 		{
+			"name": "chiba-33",
 			"pid": 33,
 			"jid": 777,
 			"address": "千葉県印西市",
@@ -410,6 +459,7 @@
 			"date": "2020-03-18"
 		},
 		{
+			"name": "chiba-34",
 			"pid": 34,
 			"jid": 778,
 			"address": "千葉県市川市",
@@ -422,6 +472,7 @@
 			"date": "2020-03-18"
 		},
 		{
+			"name": "chiba-35",
 			"pid": 35,
 			"jid": 811,
 			"address": "千葉県市川市",
@@ -435,6 +486,7 @@
 			"date": "2020-03-19"
 		},
 		{
+			"name": "chiba-36",
 			"pid": 36,
 			"jid": 812,
 			"address": "千葉県浦安市",
@@ -447,6 +499,7 @@
 			"date": "2020-03-19"
 		},
 		{
+			"name": "chiba-38",
 			"pid": 38,
 			"jid": 853,
 			"address": "千葉県木更津市",
@@ -459,6 +512,7 @@
 			"date": "2020-03-20"
 		},
 		{
+			"name": "chiba-39",
 			"pid": 39,
 			"jid": 854,
 			"address": "千葉県市川市",
@@ -468,9 +522,11 @@
 			"remarks": null,
 			"supplement": "No.811と接触",
 			"discharged": null,
+			"sources": ["chiba-35"],
 			"date": "2020-03-20"
 		},
 		{
+			"name": "chiba-40",
 			"pid": 40,
 			"jid": 855,
 			"address": "スペイン",
@@ -480,11 +536,12 @@
 			"remarks": null,
 			"supplement": "3/15までスペイン、オランダに滞在、No.777とともに日本へ入国",
 			"discharged": null,
-			"sources": ["spain", "netherlands"],
+			"sources": ["spain", "netherlands", "chiba-33"],
 			"cluster": "nippon-cargo-airlines",
 			"date": "2020-03-20"
 		},
 		{
+			"name": "chiba-41",
 			"pid": 41,
 			"jid": 856,
 			"address": "アイルランド",
@@ -494,11 +551,12 @@
 			"remarks": null,
 			"supplement": "3/15までアイルランド、オランダに滞在、No.777とともに日本へ入国",
 			"discharged": null,
-			"sources": ["ireland", "netherlands"],
+			"sources": ["ireland", "netherlands", "chiba-33"],
 			"cluster": "nippon-cargo-airlines",
 			"date": "2020-03-20"
 		},
 		{
+			"name": "chiba-42",
 			"pid": 42,
 			"jid": 857,
 			"address": "東京都",
@@ -511,6 +569,7 @@
 			"date": "2020-03-20"
 		},
 		{
+			"name": "chiba-43",
 			"pid": 43,
 			"jid": 896,
 			"address": "千葉県市川市",
@@ -523,6 +582,7 @@
 			"date": "2020-03-21"
 		},
 		{
+			"name": "chiba-44",
 			"pid": 44,
 			"jid": 929,
 			"address": "千葉県我孫子市",
@@ -536,6 +596,7 @@
 			"date": "2020-03-22"
 		},
 		{
+			"name": "chiba-45",
 			"pid": 45,
 			"jid": 930,
 			"address": "千葉県市川市",
@@ -548,6 +609,7 @@
 			"date": "2020-03-22"
 		},
 		{
+			"name": "chiba-46",
 			"pid": 46,
 			"jid": 968,
 			"address": "アイルランド",
@@ -557,11 +619,12 @@
 			"remarks": null,
 			"supplement": "3/15までスイス、オランダに滞在、No.777、No.855、No.856とともに日本へ入国",
 			"discharged": null,
-			"sources": ["switzerland", "netherlands"],
+			"sources": ["switzerland", "netherlands", "chiba-33", "chiba-40", "chiba-41"],
 			"cluster": "nippon-cargo-airlines",
 			"date": "2020-03-23"
 		},
 		{
+			"name": "chiba-47",
 			"pid": 47,
 			"jid": 969,
 			"address": "南アフリカ",
@@ -571,11 +634,12 @@
 			"remarks": null,
 			"supplement": "3/15まで南アフリカ、オランダに滞在、No.777、No.855、No.856とともに日本へ入国",
 			"discharged": null,
-			"sources": ["southafrica", "netherlands"],
+			"sources": ["southafrica", "netherlands", "chiba-33", "chiba-40", "chiba-41"],
 			"cluster": "nippon-cargo-airlines",
 			"date": "2020-03-23"
 		},
 		{
+			"name": "chiba-48",
 			"pid": 48,
 			"jid": 970,
 			"address": "ジンバブエ",
@@ -585,11 +649,12 @@
 			"remarks": null,
 			"supplement": "3/15までオランダに滞在、No.777、No.855、No.856とともに日本へ入国",
 			"discharged": null,
-			"sources": ["netherlands"],
+			"sources": ["netherlands", "chiba-33", "chiba-40", "chiba-41"],
 			"cluster": "nippon-cargo-airlines",
 			"date": "2020-03-23"
 		},
 		{
+			"name": "chiba-49",
 			"pid": 49,
 			"jid": 998,
 			"address": "東京都",
@@ -602,6 +667,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "chiba-51",
 			"pid": 51,
 			"jid": 1068,
 			"address": "千葉県木更津市",
@@ -615,6 +681,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "chiba-52",
 			"pid": 52,
 			"jid": 1069,
 			"address": "千葉県松戸市",
@@ -628,6 +695,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "chiba-53",
 			"pid": 53,
 			"jid": 1070,
 			"address": "千葉県成田市",
@@ -641,6 +709,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "chiba-54",
 			"pid": 54,
 			"jid": 1071,
 			"address": "千葉県流山市",
@@ -654,6 +723,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "chiba-57",
 			"pid": 57,
 			"jid": 1185,
 			"address": "千葉県松戸市",
@@ -665,6 +735,75 @@
 			"discharged": null,
 			"sources": ["germany", "austria"],
 			"date": "2020-03-26"
+		},
+		{
+			"name": "chiba-60",
+			"pid": 60,
+			"jid": 1218,
+			"address": "千葉県松戸市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社役員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "chiba-61",
+			"pid": 61,
+			"jid": 1219,
+			"address": "千葉県習志野市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "chiba-62",
+			"pid": 62,
+			"jid": 1220,
+			"address": "滋賀県",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "3/16までスペインに滞在",
+			"discharged": null,
+			"sources": ["spain"],
+			"date": "2020-03-27"
+		},
+		{
+			"name": "chiba-63",
+			"pid": 63,
+			"jid": 1221,
+			"address": "滋賀県",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": "No.1220とともに3/16までスペインに滞在",
+			"discharged": null,
+			"sources": ["spain", "chiba-62"],
+			"date": "2020-03-27"
+		},
+		{
+			"name": "chiba-64",
+			"pid": 64,
+			"jid": 1222,
+			"address": "イギリス",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/14まで、シンガポール、タイに滞在。No.855、No.856、No.968と接触あり",
+			"discharged": null,
+			"sources": ["singapore", "thailand", "chiba-40", "chiba-41", "chiba-46"],
+			"cluster": "nippon-cargo-airlines",
+			"date": "2020-03-27"
 		}
 	]
 }

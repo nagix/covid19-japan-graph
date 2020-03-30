@@ -1,11 +1,12 @@
 {
-	"id": "kitakyushu",
+	"name": "kitakyushu",
 	"label": {
 		"ja": "北九州市"
 	},
 	"date": "2020\/03\/23 18:00",
-	"data": [
+	"children": [
 		{
+			"name": "fukuoka-3",
 			"id": 1,
 			"pid": 3,
 			"jid": 218,
@@ -19,6 +20,7 @@
 			"date": "2020-03-01"
 		},
 		{
+			"name": "fukuoka-6",
 			"id": 2,
 			"pid": 6,
 			"jid": 975,

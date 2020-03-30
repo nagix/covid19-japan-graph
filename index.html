@@ -24,6 +24,7 @@
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:site" content="@nagix" />
 	<script type="text/javascript" src="https://d3js.org/d3.v5.min.js"></script>
+	<script type="text/javascript" src="https://d3js.org/d3-array.v2.min.js"></script>
 	<script type="text/javascript" src="https://dagrejs.github.io/project/dagre-d3/latest/dagre-d3.min.js"></script>
 </head>
 <body>
@@ -31,13 +32,10 @@
 		<div class="title">全国 新型コロナウイルス クラスターグラフ</div>
 	</div>
 	<p class="description">
-		<select id="prefecture-selector">
-			<option disabled selected>都道府県</option>
-		</select>
 		<span id="last-update"></span> 更新
 		[<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00086.html">データソース</a> | <a href="https://github.com/nagix/covid19-japan-graph">GitHub</a>]
 	</p>
-	<svg id="network"><g></g></svg>
+	<svg id="network"></svg>
 	<div id="loader" class="loader-inner ball-pulse">
 		<div></div><div></div><div></div>
 	</div>

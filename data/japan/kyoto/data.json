@@ -1,14 +1,18 @@
 {
-	"id": "kyoto",
+	"name": "kyoto",
 	"label": {
 		"ja": "京都府"
 	},
-	"date": "2020\/03\/18 18:00",
-	"subgroups": [
-		"kyoto-city"
-	],
-	"data": [
+	"prefix": {
+		"ja": "京都"
+	},
+	"date": "2020\/03\/27 18:00",
+	"children": [
 		{
+			"ref": "kyoto-city"
+		},
+		{
+			"name": "kyoto-6",
 			"pid": 6,
 			"jid": 289,
 			"address": "大阪府",
@@ -22,21 +26,24 @@
 			"date": "2020-03-05"
 		},
 		{
+			"name": "kyoto-7",
 			"pid": 7,
 			"jid": 345,
-			"address": "京都府乙訓保健所管内",
+			"address": "京都府長岡京市",
 			"age": "60s",
 			"sex": "female",
 			"attribute": "派遣職員",
 			"remarks": null,
 			"supplement": "No.289と同居",
-			"discharged": null,
+			"discharged": "〇",
+			"sources": ["kyoto-6"],
 			"date": "2020-03-06"
 		},
 		{
+			"name": "kyoto-8",
 			"pid": 8,
 			"jid": 380,
-			"address": "京都府中丹保健所管内",
+			"address": "京都府綾部市",
 			"age": "40s",
 			"sex": "female",
 			"attribute": "派遣職員",
@@ -47,6 +54,7 @@
 			"date": "2020-03-07"
 		},
 		{
+			"name": "kyoto-9",
 			"pid": 9,
 			"address": "京都府中丹保健所管内",
 			"age": "60s",
@@ -55,43 +63,51 @@
 			"remarks": "無症状",
 			"supplement": "No.380の父親",
 			"discharged": null,
+			"sources": ["kyoto-8"],
 			"date": "2020-03-09"
 		},
 		{
+			"name": "kyoto-10",
 			"pid": 10,
-			"address": "京都府中丹保健所管内",
+			"address": "京都府綾部市",
 			"age": "60s",
 			"sex": "female",
 			"attribute": null,
 			"remarks": "無症状",
 			"supplement": "No.380の母親",
-			"discharged": null,
+			"discharged": "〇",
+			"sources": ["kyoto-8"],
 			"date": "2020-03-09"
 		},
 		{
+			"name": "kyoto-11",
 			"pid": 11,
-			"address": "京都府中丹保健所管内",
+			"address": "京都府福知山市",
 			"age": "20s",
 			"sex": "female",
 			"attribute": "看護師",
 			"remarks": "無症状",
 			"supplement": "No.380の同僚の看護師",
 			"discharged": "〇",
+			"sources": ["kyoto-8"],
 			"date": "2020-03-09"
 		},
 		{
+			"name": "kyoto-13",
 			"pid": 13,
 			"jid": 500,
-			"address": "京都府中丹保健所管内",
+			"address": "京都府福知山市",
 			"age": "70s",
 			"sex": "female",
 			"attribute": null,
 			"remarks": null,
 			"supplement": "No.380の勤務病棟に入院",
-			"discharged": null,
+			"discharged": "〇",
+			"sources": ["kyoto-8"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "kyoto-16",
 			"pid": 16,
 			"jid": 586,
 			"address": "京都府京都市",
@@ -101,10 +117,13 @@
 			"remarks": null,
 			"supplement": "No.380の勤務病棟に入院",
 			"discharged": null,
+			"sources": ["kyoto-8"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "kyoto-20",
 			"pid": 20,
+			"jid": 1208,
 			"address": "京都府乙訓保健所管内",
 			"age": "70s",
 			"sex": "male",
@@ -113,6 +132,32 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-18"
+		},
+		{
+			"name": "kyoto-32",
+			"pid": 32,
+			"jid": 1209,
+			"address": "京都府乙訓保健所管内",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/20米国から帰国",
+			"discharged": null,
+			"sources": ["usa"],
+			"date": "2020-03-26"
+		},
+		{
+			"name": "kyoto-35",
+			"pid": 35,
+			"address": "大阪府大阪市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "職場（大阪市内）の同僚に陽性者",
+			"discharged": null,
+			"date": "2020-03-27"
 		}
 	]
 }

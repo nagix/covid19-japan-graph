@@ -1,14 +1,18 @@
 {
-	"id": "gifu",
+	"name": "gifu",
 	"label": {
 		"ja": "岐阜県"
 	},
-	"date": "2020\/03\/26 18:00",
-	"subgroups": [
-		"gifu-city"
-	],
-	"data": [
+	"prefix": {
+		"ja": "岐阜"
+	},
+	"date": "2020\/03\/27 20:00",
+	"children": [
 		{
+			"ref": "gifu-city"
+		},
+		{
+			"name": "gifu-1",
 			"pid": 1,
 			"jid": 168,
 			"address": "岐阜県",
@@ -21,6 +25,7 @@
 			"date": "2020-02-27"
 		},
 		{
+			"name": "gifu-2",
 			"pid": 2,
 			"jid": 169,
 			"address": "大阪府",
@@ -30,9 +35,11 @@
 			"remarks": null,
 			"supplement": "No.168の濃厚接触者",
 			"discharged": null,
+			"sources": ["gifu-1"],
 			"date": "2020-02-27"
 		},
 		{
+			"name": "gifu-4",
 			"pid": 4,
 			"jid": 954,
 			"address": "岐阜県各務原市",
@@ -46,6 +53,7 @@
 			"date": "2020-03-22"
 		},
 		{
+			"name": "gifu-5",
 			"pid": 5,
 			"jid": 955,
 			"address": "岐阜県可児市",
@@ -59,6 +67,7 @@
 			"date": "2020-03-22"
 		},
 		{
+			"name": "gifu-6",
 			"pid": 6,
 			"jid": 959,
 			"address": "岐阜県各務原市",
@@ -68,10 +77,11 @@
 			"remarks": null,
 			"supplement": "No.954と共に3/17までスペイン、フランスに滞在",
 			"discharged": null,
-			"sources": ["spain", "france"],
+			"sources": ["spain", "france", "gifu-4"],
 			"date": "2020-03-23"
 		},
 		{
+			"name": "gifu-7",
 			"pid": 7,
 			"jid": 960,
 			"address": "岐阜県可児市",
@@ -82,9 +92,11 @@
 			"supplement": "No.955の濃厚接触者",
 			"discharged": null,
 			"cluster": "gifu-chorus",
+			"sources": ["gifu-5"],
 			"date": "2020-03-23"
 		},
 		{
+			"name": "gifu-10",
 			"pid": 10,
 			"jid": 1002,
 			"address": "岐阜県川辺町",
@@ -95,9 +107,11 @@
 			"supplement": "No.955、No.960と同じ合唱団に参加",
 			"discharged": null,
 			"cluster": "gifu-chorus",
+			"sources": ["gifu-5", "gifu-7"],
 			"date": "2020-03-24"
 		},
 		{
+			"name": "gifu-11",
 			"pid": 11,
 			"jid": 1003,
 			"address": "岐阜県可児市",
@@ -108,9 +122,11 @@
 			"supplement": "No.955、No.960と同じ合唱団に参加",
 			"discharged": null,
 			"cluster": "gifu-chorus",
+			"sources": ["gifu-5", "gifu-7"],
 			"date": "2020-03-24"
 		},
 		{
+			"name": "gifu-12",
 			"pid": 12,
 			"jid": 1129,
 			"address": "岐阜県可児市",
@@ -120,9 +136,11 @@
 			"remarks": null,
 			"supplement": "No.955、No.960と同じスポーツジム",
 			"discharged": null,
+			"sources": ["gifu-5", "gifu-7"],
 			"date": "2020-03-24"
 		},
 		{
+			"name": "gifu-13",
 			"pid": 13,
 			"jid": 1132,
 			"address": "岐阜県可児市",
@@ -133,9 +151,11 @@
 			"supplement": "No.960と同じ合唱団に参加",
 			"discharged": null,
 			"cluster": "gifu-chorus",
+			"sources": ["gifu-7"],
 			"date": "2020-03-26"
 		},
 		{
+			"name": "gifu-14",
 			"pid": 14,
 			"jid": 1133,
 			"address": "岐阜県可児市",
@@ -146,9 +166,11 @@
 			"supplement": "No.955、No.960と同じ合唱団に参加",
 			"discharged": null,
 			"cluster": "gifu-chorus",
+			"sources": ["gifu-5", "gifu-7"],
 			"date": "2020-03-26"
 		},
 		{
+			"name": "gifu-15",
 			"pid": 15,
 			"address": "岐阜県可児市",
 			"age": "70s",
@@ -157,7 +179,34 @@
 			"remarks": "無症状",
 			"supplement": "No.1129の濃厚接触者",
 			"discharged": null,
+			"sources": ["gifu-12"],
 			"date": "2020-03-26"
+		},
+		{
+			"name": "gifu-16",
+			"pid": 16,
+			"address": "岐阜県可児市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "No.955、No.960、No.1129、No.1132と同じスポーツジム",
+			"discharged": null,
+			"sources": ["gifu-5", "gifu-7", "gifu-12", "gifu-13"],
+			"date": "2020-03-27"
+		},
+		{
+			"name": "gifu-17",
+			"pid": 17,
+			"address": "岐阜県可児市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.955、No.960、No.1129、No.1132、No.gifu16と同じスポーツジム",
+			"discharged": null,
+			"sources": ["gifu-5", "gifu-7", "gifu-12", "gifu-13", "gifu-16"],
+			"date": "2020-03-27"
 		}
 	]
 }

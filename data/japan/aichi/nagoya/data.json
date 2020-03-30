@@ -1,11 +1,12 @@
 {
-	"id": "nagoya",
+	"name": "nagoya",
 	"label": {
 		"ja": "名古屋市"
 	},
-	"date": "2020\/03\/26 18:00",
-	"data": [
+	"date": "2020\/03\/27 18:00",
+	"children": [
 		{
+			"name": "aichi-3",
 			"id": 1,
 			"pid": 3,
 			"jid": 35,
@@ -20,6 +21,7 @@
 			"date": "2020-02-14"
 		},
 		{
+			"name": "aichi-4",
 			"id": 2,
 			"pid": 4,
 			"jid": 43,
@@ -31,10 +33,11 @@
 			"supplement": "米国ハワイ州渡航者、No.35の濃厚接触者",
 			"discharged": null,
 			"cluster": "nagoya-gym-a",
-			"sources": ["usa"],
+			"sources": ["usa", "aichi-3"],
 			"date": "2020-02-15"
 		},
 		{
+			"name": "aichi-8",
 			"id": 3,
 			"pid": 8,
 			"jid": 69,
@@ -46,9 +49,11 @@
 			"supplement": "No.43の健康観察対象者",
 			"discharged": null,
 			"cluster": "nagoya-gym-a",
+			"sources": ["aichi-4"],
 			"date": "2020-02-19"
 		},
 		{
+			"name": "aichi-9",
 			"id": 4,
 			"pid": 9,
 			"jid": 77,
@@ -60,9 +65,11 @@
 			"supplement": "No.43の健康観察対象者",
 			"discharged": null,
 			"cluster": "nagoya-gym-a",
+			"sources": ["aichi-4"],
 			"date": "2020-02-20"
 		},
 		{
+			"name": "aichi-10",
 			"id": 5,
 			"pid": 10,
 			"jid": 90,
@@ -74,9 +81,11 @@
 			"supplement": "No.43の健康観察対象者",
 			"discharged": null,
 			"cluster": "nagoya-gym-a",
+			"sources": ["aichi-4"],
 			"date": "2020-02-21"
 		},
 		{
+			"name": "aichi-11",
 			"id": 6,
 			"pid": 11,
 			"jid": 91,
@@ -88,9 +97,11 @@
 			"supplement": "No.69の健康観察対象者",
 			"discharged": null,
 			"cluster": "nagoya-gym-a",
+			"sources": ["aichi-8"],
 			"date": "2020-02-21"
 		},
 		{
+			"name": "aichi-12",
 			"id": 7,
 			"pid": 12,
 			"jid": 107,
@@ -102,9 +113,11 @@
 			"supplement": "No.43の健康観察対象者",
 			"discharged": null,
 			"cluster": "nagoya-gym-a",
+			"sources": ["aichi-4"],
 			"date": "2020-02-22"
 		},
 		{
+			"name": "aichi-13",
 			"id": 8,
 			"pid": 13,
 			"jid": 108,
@@ -116,9 +129,11 @@
 			"supplement": "No.43の健康観察対象者",
 			"discharged": null,
 			"cluster": "nagoya-gym-a",
+			"sources": ["aichi-4"],
 			"date": "2020-02-22"
 		},
 		{
+			"name": "aichi-14",
 			"id": 9,
 			"pid": 14,
 			"jid": 109,
@@ -130,9 +145,11 @@
 			"supplement": "No.69の健康観察対象者",
 			"discharged": null,
 			"cluster": "nagoya-gym-a",
+			"sources": ["aichi-8"],
 			"date": "2020-02-22"
 		},
 		{
+			"name": "aichi-15",
 			"id": 10,
 			"pid": 15,
 			"jid": 110,
@@ -144,9 +161,11 @@
 			"supplement": "No.69の健康観察対象者",
 			"discharged": null,
 			"cluster": "nagoya-gym-b",
+			"sources": ["aichi-8"],
 			"date": "2020-02-22"
 		},
 		{
+			"name": "aichi-16",
 			"id": 11,
 			"pid": 16,
 			"jid": 115,
@@ -158,9 +177,11 @@
 			"supplement": "No.43の健康観察対象者",
 			"discharged": null,
 			"cluster": "nagoya-gym-a",
+			"sources": ["aichi-4"],
 			"date": "2020-02-23"
 		},
 		{
+			"name": "aichi-17",
 			"id": 12,
 			"pid": 17,
 			"jid": 116,
@@ -172,9 +193,11 @@
 			"supplement": "No.43の健康観察対象者",
 			"discharged": null,
 			"cluster": "nagoya-gym-a",
+			"sources": ["aichi-4"],
 			"date": "2020-02-23"
 		},
 		{
+			"name": "aichi-18",
 			"id": 13,
 			"pid": 18,
 			"jid": 145,
@@ -186,9 +209,11 @@
 			"supplement": "No.43の健康観察対象者",
 			"discharged": null,
 			"cluster": "nagoya-gym-a",
+			"sources": ["aichi-4"],
 			"date": "2020-02-25"
 		},
 		{
+			"name": "aichi-19",
 			"id": 14,
 			"pid": 19,
 			"jid": 146,
@@ -200,9 +225,11 @@
 			"supplement": "No.43の健康観察対象者",
 			"discharged": null,
 			"cluster": "nagoya-gym-a",
+			"sources": ["aichi-4"],
 			"date": "2020-02-25"
 		},
 		{
+			"name": "aichi-20",
 			"id": 15,
 			"pid": 20,
 			"jid": 147,
@@ -214,9 +241,11 @@
 			"supplement": "No.69の健康観察対象者",
 			"discharged": null,
 			"cluster": "nagoya-gym-a",
+			"sources": ["aichi-8"],
 			"date": "2020-02-25"
 		},
 		{
+			"name": "aichi-21",
 			"id": 16,
 			"pid": 21,
 			"jid": 163,
@@ -228,9 +257,11 @@
 			"supplement": "No.69の健康観察対象者",
 			"discharged": null,
 			"cluster": "nagoya-gym-a",
+			"sources": ["aichi-8"],
 			"date": "2020-02-26"
 		},
 		{
+			"name": "aichi-22",
 			"id": 17,
 			"pid": 22,
 			"jid": 164,
@@ -242,9 +273,11 @@
 			"supplement": "No.69の健康観察対象者",
 			"discharged": null,
 			"cluster": "nagoya-gym-a",
+			"sources": ["aichi-8"],
 			"date": "2020-02-26"
 		},
 		{
+			"name": "aichi-23",
 			"id": 18,
 			"pid": 23,
 			"jid": 165,
@@ -256,9 +289,11 @@
 			"supplement": "No.69の健康観察対象者",
 			"discharged": null,
 			"cluster": "nagoya-gym-b",
+			"sources": ["aichi-8"],
 			"date": "2020-02-26"
 		},
 		{
+			"name": "aichi-24",
 			"id": 19,
 			"pid": 24,
 			"jid": 166,
@@ -270,9 +305,11 @@
 			"supplement": "No.110の健康観察対象者",
 			"discharged": null,
 			"cluster": "nagoya-gym-b",
+			"sources": ["aichi-15"],
 			"date": "2020-02-26"
 		},
 		{
+			"name": "aichi-25",
 			"id": 20,
 			"pid": 25,
 			"jid": 167,
@@ -283,9 +320,11 @@
 			"remarks": null,
 			"supplement": "No.77の健康観察対象者",
 			"discharged": null,
+			"sources": ["aichi-9"],
 			"date": "2020-02-26"
 		},
 		{
+			"name": "aichi-26",
 			"id": 21,
 			"pid": 26,
 			"jid": 189,
@@ -297,9 +336,11 @@
 			"supplement": "No.110の健康観察対象者",
 			"discharged": null,
 			"cluster": "nagoya-gym-b",
+			"sources": ["aichi-15"],
 			"date": "2020-02-27"
 		},
 		{
+			"name": "aichi-27",
 			"id": 22,
 			"pid": 27,
 			"jid": 190,
@@ -310,9 +351,11 @@
 			"remarks": null,
 			"supplement": "No.109の健康観察対象者",
 			"discharged": null,
+			"sources": ["aichi-14"],
 			"date": "2020-02-27"
 		},
 		{
+			"name": "aichi-28",
 			"id": 23,
 			"pid": 28,
 			"jid": 207,
@@ -323,9 +366,11 @@
 			"remarks": null,
 			"supplement": "No.189の濃厚接触者",
 			"discharged": null,
+			"sources": ["aichi-26"],
 			"date": "2020-02-28"
 		},
 		{
+			"name": "aichi-29",
 			"id": 24,
 			"pid": 29,
 			"jid": 217,
@@ -339,6 +384,7 @@
 			"date": "2020-02-29"
 		},
 		{
+			"name": "aichi-30",
 			"id": 25,
 			"pid": 30,
 			"jid": 229,
@@ -350,9 +396,11 @@
 			"supplement": "No.217と入院前に接触あり",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-a",
+			"sources": ["aichi-29"],
 			"date": "2020-03-01"
 		},
 		{
+			"name": "aichi-31",
 			"id": 26,
 			"pid": 31,
 			"jid": 230,
@@ -363,9 +411,11 @@
 			"remarks": null,
 			"supplement": "No.217と入院前に接触あり",
 			"discharged": null,
+			"sources": ["aichi-29"],
 			"date": "2020-03-01"
 		},
 		{
+			"name": "aichi-32",
 			"id": 27,
 			"pid": 32,
 			"jid": 231,
@@ -379,6 +429,7 @@
 			"date": "2020-03-01"
 		},
 		{
+			"name": "aichi-37",
 			"id": 28,
 			"pid": 37,
 			"jid": 346,
@@ -390,9 +441,11 @@
 			"supplement": "No.229と入院前に接触あり",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-a",
+			"sources": ["aichi-30"],
 			"date": "2020-03-03"
 		},
 		{
+			"name": "aichi-38",
 			"id": 29,
 			"pid": 38,
 			"jid": 347,
@@ -404,9 +457,11 @@
 			"supplement": "No.229と入院前に接触あり",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-a",
+			"sources": ["aichi-30"],
 			"date": "2020-03-03"
 		},
 		{
+			"name": "aichi-39",
 			"id": 30,
 			"pid": 39,
 			"jid": 348,
@@ -418,9 +473,11 @@
 			"supplement": "No.229と入院前に接触あり",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-a",
+			"sources": ["aichi-30"],
 			"date": "2020-03-03"
 		},
 		{
+			"name": "aichi-40",
 			"id": 31,
 			"pid": 40,
 			"jid": 349,
@@ -434,6 +491,7 @@
 			"date": "2020-03-03"
 		},
 		{
+			"name": "aichi-41",
 			"id": 32,
 			"pid": 41,
 			"jid": 350,
@@ -447,6 +505,7 @@
 			"date": "2020-03-03"
 		},
 		{
+			"name": "aichi-44",
 			"id": 33,
 			"pid": 44,
 			"jid": 273,
@@ -457,9 +516,11 @@
 			"remarks": null,
 			"supplement": "No.164の濃厚接触者",
 			"discharged": null,
+			"sources": ["aichi-22"],
 			"date": "2020-03-04"
 		},
 		{
+			"name": "aichi-45",
 			"id": 34,
 			"pid": 45,
 			"jid": 274,
@@ -470,9 +531,11 @@
 			"remarks": null,
 			"supplement": "No.217、No.230と入院前に接触あり",
 			"discharged": null,
+			"sources": ["aichi-29", "aichi-31"],
 			"date": "2020-03-04"
 		},
 		{
+			"name": "aichi-46",
 			"id": 35,
 			"pid": 46,
 			"jid": 275,
@@ -484,9 +547,11 @@
 			"supplement": "No.229と入院前に接触あり",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-a",
+			"sources": ["aichi-30"],
 			"date": "2020-03-04"
 		},
 		{
+			"name": "aichi-47",
 			"id": 36,
 			"pid": 47,
 			"jid": 276,
@@ -498,9 +563,11 @@
 			"supplement": "No.229と入院前に接触あり",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-a",
+			"sources": ["aichi-30"],
 			"date": "2020-03-04"
 		},
 		{
+			"name": "aichi-48",
 			"id": 37,
 			"pid": 48,
 			"jid": 277,
@@ -512,9 +579,11 @@
 			"supplement": "No.347と入院前に接触あり",
 			"discharged": "〇",
 			"cluster": "nagoya-dayservice-b",
+			"sources": ["aichi-38"],
 			"date": "2020-03-04"
 		},
 		{
+			"name": "aichi-49",
 			"id": 38,
 			"pid": 49,
 			"jid": 278,
@@ -526,9 +595,11 @@
 			"supplement": "No.347と入院前に接触あり",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-b",
+			"sources": ["aichi-38"],
 			"date": "2020-03-04"
 		},
 		{
+			"name": "aichi-51",
 			"id": 39,
 			"pid": 51,
 			"jid": 306,
@@ -540,9 +611,11 @@
 			"supplement": "No.43の健康観察対象者",
 			"discharged": null,
 			"cluster": "nagoya-gym-a",
+			"sources": ["aichi-4"],
 			"date": "2020-03-05"
 		},
 		{
+			"name": "aichi-52",
 			"id": 40,
 			"pid": 52,
 			"jid": 307,
@@ -553,9 +626,11 @@
 			"remarks": null,
 			"supplement": "No.69と接触の可能性あり",
 			"discharged": null,
+			"sources": ["aichi-8"],
 			"date": "2020-03-05"
 		},
 		{
+			"name": "aichi-53",
 			"id": 41,
 			"pid": 53,
 			"jid": 308,
@@ -566,9 +641,11 @@
 			"remarks": null,
 			"supplement": "No.217と入院前に接触あり",
 			"discharged": null,
+			"sources": ["aichi-29"],
 			"date": "2020-03-05"
 		},
 		{
+			"name": "aichi-54",
 			"id": 42,
 			"pid": 54,
 			"jid": 309,
@@ -580,9 +657,11 @@
 			"supplement": "No.347と入院前に接触あり",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-b",
+			"sources": ["aichi-38"],
 			"date": "2020-03-05"
 		},
 		{
+			"name": "aichi-55",
 			"id": 43,
 			"pid": 55,
 			"jid": 310,
@@ -594,9 +673,11 @@
 			"supplement": "No.347と入院前に接触あり",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-b",
+			"sources": ["aichi-38"],
 			"date": "2020-03-05"
 		},
 		{
+			"name": "aichi-56",
 			"id": 44,
 			"pid": 56,
 			"jid": 311,
@@ -608,9 +689,11 @@
 			"supplement": "No.347と入院前に接触あり",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-b",
+			"sources": ["aichi-38"],
 			"date": "2020-03-05"
 		},
 		{
+			"name": "aichi-57",
 			"id": 45,
 			"pid": 57,
 			"jid": 312,
@@ -624,6 +707,7 @@
 			"date": "2020-03-05"
 		},
 		{
+			"name": "aichi-58",
 			"id": 46,
 			"pid": 58,
 			"jid": 351,
@@ -634,9 +718,11 @@
 			"remarks": null,
 			"supplement": "No.145の濃厚接触者",
 			"discharged": null,
+			"sources": ["aichi-18"],
 			"date": "2020-03-06"
 		},
 		{
+			"name": "aichi-59",
 			"id": 47,
 			"pid": 59,
 			"jid": 352,
@@ -647,9 +733,11 @@
 			"remarks": null,
 			"supplement": "No.275の濃厚接触者",
 			"discharged": null,
+			"sources": ["aichi-46"],
 			"date": "2020-03-06"
 		},
 		{
+			"name": "aichi-60",
 			"id": 48,
 			"pid": 60,
 			"jid": 353,
@@ -661,9 +749,11 @@
 			"supplement": "No.347の濃厚接触者",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-b",
+			"sources": ["aichi-38"],
 			"date": "2020-03-06"
 		},
 		{
+			"name": "aichi-61",
 			"id": 49,
 			"pid": 61,
 			"jid": 354,
@@ -675,9 +765,11 @@
 			"supplement": "No.347の濃厚接触者",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-b",
+			"sources": ["aichi-38"],
 			"date": "2020-03-06"
 		},
 		{
+			"name": "aichi-62",
 			"id": 50,
 			"pid": 62,
 			"jid": 355,
@@ -689,9 +781,11 @@
 			"supplement": "No.347の濃厚接触者",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-b",
+			"sources": ["aichi-38"],
 			"date": "2020-03-06"
 		},
 		{
+			"name": "aichi-65",
 			"id": 51,
 			"pid": 65,
 			"jid": 404,
@@ -703,9 +797,11 @@
 			"supplement": "No.347と入院前に接触あり",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-b",
+			"sources": ["aichi-38"],
 			"date": "2020-03-07"
 		},
 		{
+			"name": "aichi-66",
 			"id": 52,
 			"pid": 66,
 			"jid": 405,
@@ -717,9 +813,11 @@
 			"supplement": "No.347と入院前に接触あり",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-b",
+			"sources": ["aichi-38"],
 			"date": "2020-03-07"
 		},
 		{
+			"name": "aichi-67",
 			"id": 53,
 			"pid": 67,
 			"jid": 406,
@@ -731,9 +829,11 @@
 			"supplement": "No.277と入院前に接触あり",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-b",
+			"sources": ["aichi-48"],
 			"date": "2020-03-07"
 		},
 		{
+			"name": "aichi-68",
 			"id": 54,
 			"pid": 68,
 			"jid": 407,
@@ -744,9 +844,11 @@
 			"remarks": null,
 			"supplement": "No.406の濃厚接触者",
 			"discharged": null,
+			"sources": ["aichi-67"],
 			"date": "2020-03-07"
 		},
 		{
+			"name": "aichi-69",
 			"id": 55,
 			"pid": 69,
 			"jid": 408,
@@ -761,6 +863,7 @@
 			"date": "2020-03-07"
 		},
 		{
+			"name": "aichi-70",
 			"id": 56,
 			"pid": 70,
 			"jid": 417,
@@ -775,6 +878,7 @@
 			"date": "2020-03-08"
 		},
 		{
+			"name": "aichi-71",
 			"id": 57,
 			"pid": 71,
 			"jid": 429,
@@ -785,9 +889,11 @@
 			"remarks": null,
 			"supplement": "No.354の濃厚接触者",
 			"discharged": null,
+			"sources": ["aichi-61"],
 			"date": "2020-03-08"
 		},
 		{
+			"name": "aichi-72",
 			"id": 58,
 			"pid": 72,
 			"jid": 430,
@@ -798,9 +904,11 @@
 			"remarks": null,
 			"supplement": "No.406、No.407の濃厚接触者",
 			"discharged": null,
+			"sources": ["aichi-67", "aichi-68"],
 			"date": "2020-03-08"
 		},
 		{
+			"name": "aichi-73",
 			"id": 59,
 			"pid": 73,
 			"jid": 431,
@@ -812,9 +920,11 @@
 			"supplement": "No.347と入院前に接触あり",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-b",
+			"sources": ["aichi-38"],
 			"date": "2020-03-08"
 		},
 		{
+			"name": "aichi-74",
 			"id": 60,
 			"pid": 74,
 			"jid": 432,
@@ -826,9 +936,11 @@
 			"supplement": "No.347と入院前に接触あり",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-b",
+			"sources": ["aichi-38"],
 			"date": "2020-03-08"
 		},
 		{
+			"name": "aichi-75",
 			"id": 61,
 			"pid": 75,
 			"jid": 433,
@@ -840,9 +952,11 @@
 			"supplement": "No.347と入院前に接触あり",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-b",
+			"sources": ["aichi-38"],
 			"date": "2020-03-08"
 		},
 		{
+			"name": "aichi-76",
 			"id": 62,
 			"pid": 76,
 			"jid": 434,
@@ -853,9 +967,11 @@
 			"remarks": null,
 			"supplement": "No.433の濃厚接触者",
 			"discharged": null,
+			"sources": ["aichi-75"],
 			"date": "2020-03-08"
 		},
 		{
+			"name": "aichi-77",
 			"id": 63,
 			"pid": 77,
 			"jid": 435,
@@ -867,9 +983,11 @@
 			"supplement": "No.277と入院前に接触あり",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-b",
+			"sources": ["aichi-48"],
 			"date": "2020-03-08"
 		},
 		{
+			"name": "aichi-78",
 			"id": 64,
 			"pid": 78,
 			"jid": 436,
@@ -880,9 +998,11 @@
 			"remarks": null,
 			"supplement": "No.435の濃厚接触者",
 			"discharged": null,
+			"sources": ["aichi-77"],
 			"date": "2020-03-08"
 		},
 		{
+			"name": "aichi-79",
 			"id": 65,
 			"pid": 79,
 			"jid": 437,
@@ -894,9 +1014,11 @@
 			"supplement": "No.408と入院前に接触あり",
 			"discharged": "〇",
 			"cluster": "nagoya-dayservice-c",
+			"sources": ["aichi-69"],
 			"date": "2020-03-08"
 		},
 		{
+			"name": "aichi-80",
 			"id": 66,
 			"pid": 80,
 			"jid": 438,
@@ -911,6 +1033,7 @@
 			"date": "2020-03-08"
 		},
 		{
+			"name": "aichi-82",
 			"id": 67,
 			"pid": 82,
 			"jid": 453,
@@ -922,9 +1045,11 @@
 			"supplement": "No.347と入院前に接触あり",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-b",
+			"sources": ["aichi-38"],
 			"date": "2020-03-09"
 		},
 		{
+			"name": "aichi-83",
 			"id": 68,
 			"pid": 83,
 			"jid": 454,
@@ -936,9 +1061,11 @@
 			"supplement": "No.277と入院前に接触あり",
 			"discharged": "〇",
 			"cluster": "nagoya-dayservice-b",
+			"sources": ["aichi-48"],
 			"date": "2020-03-09"
 		},
 		{
+			"name": "aichi-84",
 			"id": 69,
 			"pid": 84,
 			"jid": 455,
@@ -950,9 +1077,11 @@
 			"supplement": "No.437と入院前に接触あり",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-c",
+			"sources": ["aichi-79"],
 			"date": "2020-03-09"
 		},
 		{
+			"name": "aichi-85",
 			"id": 70,
 			"pid": 85,
 			"jid": 456,
@@ -963,9 +1092,11 @@
 			"remarks": null,
 			"supplement": "No.311と入院前に接触あり",
 			"discharged": null,
+			"sources": ["aichi-56"],
 			"date": "2020-03-09"
 		},
 		{
+			"name": "aichi-86",
 			"id": 71,
 			"pid": 86,
 			"jid": 457,
@@ -976,9 +1107,11 @@
 			"remarks": null,
 			"supplement": "No.348と入院前に接触あり",
 			"discharged": null,
+			"sources": ["aichi-39"],
 			"date": "2020-03-09"
 		},
 		{
+			"name": "aichi-90",
 			"id": 72,
 			"pid": 90,
 			"jid": 478,
@@ -990,9 +1123,11 @@
 			"supplement": "No.408と入院前に接触あり",
 			"discharged": "〇",
 			"cluster": "nagoya-dayservice-c",
+			"sources": ["aichi-69"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "aichi-91",
 			"id": 73,
 			"pid": 91,
 			"jid": 479,
@@ -1003,9 +1138,11 @@
 			"remarks": null,
 			"supplement": "No.310の濃厚接触者",
 			"discharged": null,
+			"sources": ["aichi-55"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "aichi-92",
 			"id": 74,
 			"pid": 92,
 			"jid": 480,
@@ -1016,9 +1153,11 @@
 			"remarks": null,
 			"supplement": "No.310の濃厚接触者",
 			"discharged": null,
+			"sources": ["aichi-55"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "aichi-93",
 			"id": 75,
 			"pid": 93,
 			"jid": 481,
@@ -1030,9 +1169,11 @@
 			"supplement": "No.347と入院前に接触あり",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-b",
+			"sources": ["aichi-38"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "aichi-94",
 			"id": 76,
 			"pid": 94,
 			"jid": 482,
@@ -1044,9 +1185,11 @@
 			"supplement": "No.408と入院前に接触あり",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-c",
+			"sources": ["aichi-69"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "aichi-95",
 			"id": 77,
 			"pid": 95,
 			"jid": 483,
@@ -1058,9 +1201,11 @@
 			"supplement": "No.277と入院前に接触あり",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-b",
+			"sources": ["aichi-48"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "aichi-96",
 			"id": 78,
 			"pid": 96,
 			"jid": 484,
@@ -1071,9 +1216,11 @@
 			"remarks": null,
 			"supplement": "No.406、No.407、No.430の濃厚接触者",
 			"discharged": null,
+			"sources": ["aichi-67", "aichi-68", "aichi-72"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "aichi-97",
 			"id": 79,
 			"pid": 97,
 			"jid": 485,
@@ -1084,9 +1231,11 @@
 			"remarks": null,
 			"supplement": "No.165の濃厚接触者",
 			"discharged": null,
+			"sources": ["aichi-23"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "aichi-98",
 			"id": 80,
 			"pid": 98,
 			"jid": 486,
@@ -1098,9 +1247,11 @@
 			"supplement": "No.408と入院前に接触あり",
 			"discharged": "〇",
 			"cluster": "nagoya-dayservice-c",
+			"sources": ["aichi-69"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "aichi-99",
 			"id": 81,
 			"pid": 99,
 			"jid": 487,
@@ -1114,6 +1265,7 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "aichi-100",
 			"id": 82,
 			"pid": 100,
 			"jid": 549,
@@ -1125,9 +1277,11 @@
 			"supplement": "No.277と入院前に接触あり",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-b",
+			"sources": ["aichi-48"],
 			"date": "2020-03-11"
 		},
 		{
+			"name": "aichi-101",
 			"id": 83,
 			"pid": 101,
 			"jid": 550,
@@ -1139,9 +1293,11 @@
 			"supplement": "No.277と入院前に接触あり",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-b",
+			"sources": ["aichi-48"],
 			"date": "2020-03-11"
 		},
 		{
+			"name": "aichi-102",
 			"id": 84,
 			"pid": 102,
 			"jid": 551,
@@ -1152,9 +1308,11 @@
 			"remarks": null,
 			"supplement": "No.311と入院前に接触あり",
 			"discharged": null,
+			"sources": ["aichi-56"],
 			"date": "2020-03-11"
 		},
 		{
+			"name": "aichi-107",
 			"id": 85,
 			"pid": 107,
 			"jid": 590,
@@ -1166,9 +1324,11 @@
 			"supplement": "No.405と入院前に接触あり",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-b",
+			"sources": ["aichi-66"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "aichi-108",
 			"id": 86,
 			"pid": 108,
 			"jid": 591,
@@ -1179,9 +1339,11 @@
 			"remarks": null,
 			"supplement": "No.434の濃厚接触者",
 			"discharged": null,
+			"sources": ["aichi-76"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "aichi-109",
 			"id": 87,
 			"pid": 109,
 			"jid": 592,
@@ -1192,9 +1354,11 @@
 			"remarks": null,
 			"supplement": "No.478の濃厚接触者",
 			"discharged": null,
+			"sources": ["aichi-90"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "aichi-110",
 			"id": 88,
 			"pid": 110,
 			"jid": 593,
@@ -1205,9 +1369,11 @@
 			"remarks": null,
 			"supplement": "No.311と入院前に接触あり",
 			"discharged": null,
+			"sources": ["aichi-56"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "aichi-111",
 			"id": 89,
 			"pid": 111,
 			"jid": 594,
@@ -1221,6 +1387,7 @@
 			"date": "2020-03-12"
 		},
 		{
+			"name": "aichi-113",
 			"id": 90,
 			"pid": 113,
 			"jid": 638,
@@ -1231,9 +1398,11 @@
 			"remarks": null,
 			"supplement": "No.483の濃厚接触者",
 			"discharged": null,
+			"sources": ["aichi-95"],
 			"date": "2020-03-13"
 		},
 		{
+			"name": "aichi-114",
 			"id": 91,
 			"pid": 114,
 			"jid": 639,
@@ -1245,9 +1414,11 @@
 			"supplement": "No.408の濃厚接触者",
 			"discharged": null,
 			"cluster": "nagoya-dayservice-c",
+			"sources": ["aichi-69"],
 			"date": "2020-03-13"
 		},
 		{
+			"name": "aichi-115",
 			"id": 92,
 			"pid": 115,
 			"jid": 685,
@@ -1259,9 +1430,11 @@
 			"supplement": "No.278と入院前に接触あり",
 			"discharged": "〇",
 			"cluster": "nagoya-dayservice-b",
+			"sources": ["aichi-49"],
 			"date": "2020-03-14"
 		},
 		{
+			"name": "aichi-116",
 			"id": 93,
 			"pid": 116,
 			"jid": 686,
@@ -1272,9 +1445,11 @@
 			"remarks": null,
 			"supplement": "No.685の濃厚接触者",
 			"discharged": null,
+			"sources": ["aichi-115"],
 			"date": "2020-03-14"
 		},
 		{
+			"name": "aichi-117",
 			"id": 94,
 			"pid": 117,
 			"jid": 687,
@@ -1285,9 +1460,11 @@
 			"remarks": null,
 			"supplement": "No.278の濃厚接触者",
 			"discharged": null,
+			"sources": ["aichi-49"],
 			"date": "2020-03-14"
 		},
 		{
+			"name": "aichi-118",
 			"id": 95,
 			"pid": 118,
 			"jid": 688,
@@ -1298,9 +1475,11 @@
 			"remarks": null,
 			"supplement": "No.310の濃厚接触者",
 			"discharged": null,
+			"sources": ["aichi-55"],
 			"date": "2020-03-14"
 		},
 		{
+			"name": "aichi-119",
 			"id": 96,
 			"pid": 119,
 			"jid": 689,
@@ -1311,9 +1490,11 @@
 			"remarks": null,
 			"supplement": "No.437と入院前に接触あり",
 			"discharged": null,
+			"sources": ["aichi-79"],
 			"date": "2020-03-14"
 		},
 		{
+			"name": "aichi-120",
 			"id": 97,
 			"pid": 120,
 			"jid": 690,
@@ -1324,9 +1505,11 @@
 			"remarks": null,
 			"supplement": "No.483と入院前に接触あり",
 			"discharged": null,
+			"sources": ["aichi-95"],
 			"date": "2020-03-14"
 		},
 		{
+			"name": "aichi-121",
 			"id": 98,
 			"pid": 121,
 			"address": "愛知県名古屋市",
@@ -1336,9 +1519,11 @@
 			"remarks": "無症状",
 			"supplement": "No.594と入院前に接触あり",
 			"discharged": null,
+			"sources": ["aichi-111"],
 			"date": "2020-03-14"
 		},
 		{
+			"name": "aichi-123",
 			"id": 99,
 			"pid": 123,
 			"jid": 721,
@@ -1349,9 +1534,11 @@
 			"remarks": null,
 			"supplement": "No.277と入院前に接触あり",
 			"discharged": null,
+			"sources": ["aichi-48"],
 			"date": "2020-03-16"
 		},
 		{
+			"name": "aichi-125",
 			"id": 100,
 			"pid": 125,
 			"jid": 744,
@@ -1362,9 +1549,11 @@
 			"remarks": null,
 			"supplement": "No.689の濃厚接触者",
 			"discharged": null,
+			"sources": ["aichi-119"],
 			"date": "2020-03-17"
 		},
 		{
+			"name": "aichi-129",
 			"id": 101,
 			"pid": 129,
 			"jid": 804,
@@ -1375,9 +1564,11 @@
 			"remarks": null,
 			"supplement": "No.278と接触",
 			"discharged": null,
+			"sources": ["aichi-49"],
 			"date": "2020-03-18"
 		},
 		{
+			"name": "aichi-130",
 			"id": 102,
 			"pid": 130,
 			"address": "愛知県名古屋市",
@@ -1387,9 +1578,11 @@
 			"remarks": "無症状",
 			"supplement": "No.745との関連",
 			"discharged": null,
+			"sources": ["aichi-124"],
 			"date": "2020-03-18"
 		},
 		{
+			"name": "aichi-133",
 			"id": 103,
 			"pid": 133,
 			"jid": 830,
@@ -1400,9 +1593,11 @@
 			"remarks": null,
 			"supplement": "No.348の濃厚接触者",
 			"discharged": null,
+			"sources": ["aichi-39"],
 			"date": "2020-03-19"
 		},
 		{
+			"name": "aichi-134",
 			"id": 104,
 			"pid": 134,
 			"jid": 831,
@@ -1416,6 +1611,7 @@
 			"date": "2020-03-19"
 		},
 		{
+			"name": "aichi-135",
 			"id": 105,
 			"pid": 135,
 			"jid": 876,
@@ -1426,9 +1622,11 @@
 			"remarks": null,
 			"supplement": "No.437と接触あり",
 			"discharged": null,
+			"sources": ["aichi-79"],
 			"date": "2020-03-20"
 		},
 		{
+			"name": "aichi-136",
 			"id": 106,
 			"pid": 136,
 			"address": "愛知県名古屋市",
@@ -1438,9 +1636,11 @@
 			"remarks": "無症状",
 			"supplement": "No.433と接触あり",
 			"discharged": null,
+			"sources": ["aichi-75"],
 			"date": "2020-03-20"
 		},
 		{
+			"name": "aichi-137",
 			"id": 107,
 			"pid": 137,
 			"jid": 877,
@@ -1451,9 +1651,11 @@
 			"remarks": "無症状",
 			"supplement": "No.590と接触あり",
 			"discharged": null,
+			"sources": ["aichi-107"],
 			"date": "2020-03-20"
 		},
 		{
+			"name": "aichi-138",
 			"id": 108,
 			"pid": 138,
 			"jid": 878,
@@ -1464,9 +1666,11 @@
 			"remarks": null,
 			"supplement": "No.478と接触の可能性あり",
 			"discharged": null,
+			"sources": ["aichi-90"],
 			"date": "2020-03-20"
 		},
 		{
+			"name": "aichi-139",
 			"id": 109,
 			"pid": 139,
 			"address": "愛知県名古屋市",
@@ -1479,6 +1683,7 @@
 			"date": "2020-03-20"
 		},
 		{
+			"name": "aichi-143",
 			"id": 110,
 			"pid": 143,
 			"jid": 939,
@@ -1489,9 +1694,11 @@
 			"remarks": null,
 			"supplement": "No.831と接触あり",
 			"discharged": null,
+			"sources": ["aichi-134"],
 			"date": "2020-03-22"
 		},
 		{
+			"name": "aichi-148",
 			"id": 111,
 			"pid": 148,
 			"jid": 1034,
@@ -1502,9 +1709,11 @@
 			"remarks": null,
 			"supplement": "No.831の濃厚接触者",
 			"discharged": null,
+			"sources": ["aichi-134"],
 			"date": "2020-03-24"
 		},
 		{
+			"name": "aichi-154",
 			"id": 112,
 			"pid": 154,
 			"jid": 1086,
@@ -1515,9 +1724,11 @@
 			"remarks": null,
 			"supplement": "No.831と接触あり",
 			"discharged": null,
+			"sources": ["aichi-134"],
 			"date": "2020-03-25"
 		},
 		{
+			"name": "aichi-156",
 			"id": 113,
 			"pid": 156,
 			"jid": 1173,
@@ -1528,9 +1739,11 @@
 			"remarks": null,
 			"supplement": "No.406、No.407、No.430、No.484の濃厚接触者",
 			"discharged": null,
+			"sources": ["aichi-67", "aichi-68", "aichi-72", "aichi-96"],
 			"date": "2020-03-26"
 		},
 		{
+			"name": "aichi-157",
 			"id": 114,
 			"pid": 157,
 			"jid": 1174,
@@ -1541,7 +1754,23 @@
 			"remarks": null,
 			"supplement": "No.433、No.434、No.591の濃厚接触者",
 			"discharged": null,
+			"sources": ["aichi-75", "aichi-76", "aichi-108"],
 			"date": "2020-03-26"
+		},
+		{
+			"name": "aichi-160",
+			"id": 115,
+			"pid": 160,
+			"jid": 1228,
+			"address": "愛知県名古屋市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.831、No.1086と接触あり",
+			"discharged": null,
+			"sources": ["aichi-134", "aichi-154"],
+			"date": "2020-03-27"
 		}
 	]
 }

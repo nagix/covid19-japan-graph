@@ -1,15 +1,21 @@
 {
-	"id": "fukuoka",
+	"name": "fukuoka",
 	"label": {
 		"ja": "福岡県"
 	},
-	"date": "2020\/03\/26 18:00",
-	"subgroups": [
-		"fukuoka-city",
-		"kitakyushu"
-	],
-	"data": [
+	"prefix": {
+		"ja": "福岡"
+	},
+	"date": "2020\/03\/27 18:00",
+	"children": [
 		{
+			"ref": "fukuoka-city"
+		},
+		{
+			"ref": "kitakyushu"
+		},
+		{
+			"name": "fukuoka-1",
 			"pid": 1,
 			"jid": 71,
 			"address": "福岡県福岡市中央区",
@@ -22,6 +28,7 @@
 			"date": "2020-02-20"
 		},
 		{
+			"name": "fukuoka-2",
 			"pid": 2,
 			"jid": 79,
 			"address": "福岡県福岡市中央区",
@@ -31,9 +38,11 @@
 			"remarks": null,
 			"supplement": "No.71の妻",
 			"discharged": "〇",
+			"sources": ["fukuoka-1"],
 			"date": "2020-02-20"
 		},
 		{
+			"name": "fukuoka-4",
 			"pid": 4,
 			"jid": 755,
 			"address": "福岡県福岡市",
@@ -47,6 +56,7 @@
 			"date": "2020-03-17"
 		},
 		{
+			"name": "fukuoka-5",
 			"pid": 5,
 			"jid": 810,
 			"address": "福岡県宗像市",
@@ -56,10 +66,11 @@
 			"remarks": null,
 			"supplement": "3/16イタリアから帰国、No.770の濃厚接触者",
 			"discharged": null,
-			"sources": ["italy"],
+			"sources": ["italy", "ehime-3"],
 			"date": "2020-03-19"
 		},
 		{
+			"name": "fukuoka-8",
 			"pid": 8,
 			"jid": 1018,
 			"address": "福岡県飯塚市",
@@ -72,6 +83,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "fukuoka-9",
 			"pid": 9,
 			"jid": 1019,
 			"address": "福岡県飯塚市",
@@ -79,11 +91,13 @@
 			"sex": "female",
 			"attribute": "無職",
 			"remarks": null,
-			"supplement": "No.1021の妻",
+			"supplement": "福岡県8例目の妻",
 			"discharged": null,
+			"sources": ["fukuoka-8"],
 			"date": "2020-03-24"
 		},
 		{
+			"name": "fukuoka-12",
 			"pid": 12,
 			"jid": 1197,
 			"address": "福岡県糟屋郡",
@@ -94,6 +108,19 @@
 			"supplement": "3/17までスペイン、イギリス滞在",
 			"discharged": null,
 			"sources": ["spain", "uk"],
+			"date": "2020-03-26"
+		},
+		{
+			"name": "fukuoka-13",
+			"pid": 13,
+			"jid": 1239,
+			"address": "福岡県宗像市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
 			"date": "2020-03-26"
 		}
 	]

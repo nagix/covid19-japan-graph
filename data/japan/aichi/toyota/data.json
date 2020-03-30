@@ -1,11 +1,12 @@
 {
-	"id": "toyota",
+	"name": "toyota",
 	"label": {
 		"ja": "豊田市"
 	},
 	"date": "2020\/03\/12 18:00",
-	"data": [
+	"children": [
 		{
+			"name": "aichi-105",
 			"id": 1,
 			"pid": 105,
 			"jid": 588,
@@ -16,6 +17,7 @@
 			"remarks": null,
 			"supplement": "No.aichi42の濃厚接触者",
 			"discharged": null,
+			"sources": ["aichi-42"],
 			"date": "2020-03-12"
 		}
 	]

@@ -1,11 +1,12 @@
 {
-	"id": "utsunomiya",
+	"name": "utsunomiya",
 	"label": {
 		"ja": "宇都宮市"
 	},
 	"date": "2020\/03\/18 18:00",
-	"data": [
+	"children": [
 		{
+			"name": "tochigi-3",
 			"id": 1,
 			"pid": 3,
 			"jid": 780,

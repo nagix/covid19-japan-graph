@@ -1,14 +1,18 @@
 {
-	"id": "miyagi",
+	"name": "miyagi",
 	"label": {
 		"ja": "宮城県"
+	},
+	"prefix": {
+		"ja": "宮城"
 	},
 	"date": "2020\/03\/26 18:00",
 	"subgroups": [
 		"sendai"
 	],
-	"data": [
+	"children": [
 		{
+			"name": "miyagi-2",
 			"pid": 2,
 			"jid": 1131,
 			"address": "宮城県七ヶ浜町",

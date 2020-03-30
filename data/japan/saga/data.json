@@ -1,11 +1,15 @@
 {
-	"id": "saga",
+	"name": "saga",
 	"label": {
 		"ja": "佐賀県"
 	},
+	"prefix": {
+		"ja": "佐賀"
+	},
 	"date": "2020\/03\/13 18:00",
-	"data": [
+	"children": [
 		{
+			"name": "saga-1",
 			"pid": 1,
 			"jid": 634,
 			"address": "佐賀県佐賀市",

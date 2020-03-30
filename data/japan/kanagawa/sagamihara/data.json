@@ -1,11 +1,12 @@
 {
-	"id": "sagamihara",
+	"name": "sagamihara",
 	"label": {
 		"ja": "相模原市"
 	},
 	"date": "2020\/03\/26 18:00",
-	"data": [
+	"children": [
 		{
+			"name": "kanagawa-5",
 			"id": 1,
 			"pid": 5,
 			"jid": 48,
@@ -17,9 +18,11 @@
 			"supplement": "No.27が入院していた相模原市内の病院に勤務",
 			"discharged": null,
 			"cluster": "sagamihara-hospital",
+			"sources": ["kanagawa-3"],
 			"date": "2020-02-17"
 		},
 		{
+			"name": "kanagawa-7",
 			"id": 2,
 			"pid": 7,
 			"jid": 60,
@@ -31,9 +34,11 @@
 			"supplement": "No.27が入院していた相模原市内の病院に入院",
 			"discharged": "〇",
 			"cluster": "sagamihara-hospital",
+			"sources": ["kanagawa-3"],
 			"date": "2020-02-19"
 		},
 		{
+			"name": "kanagawa-8",
 			"id": 3,
 			"pid": 8,
 			"jid": 61,
@@ -45,9 +50,11 @@
 			"supplement": "No.60と同室",
 			"discharged": null,
 			"cluster": "sagamihara-hospital",
+			"sources": ["kanagawa-7"],
 			"date": "2020-02-19"
 		},
 		{
+			"name": "kanagawa-9",
 			"id": 4,
 			"pid": 9,
 			"jid": 78,
@@ -59,9 +66,11 @@
 			"supplement": "No.60、No.61と同フロア",
 			"discharged": null,
 			"cluster": "sagamihara-hospital",
+			"sources": ["kanagawa-7", "kanagawa-8"],
 			"date": "2020-02-20"
 		},
 		{
+			"name": "kanagawa-12",
 			"id": 5,
 			"pid": 12,
 			"jid": 89,
@@ -76,6 +85,7 @@
 			"date": "2020-02-21"
 		},
 		{
+			"name": "kanagawa-13",
 			"id": 6,
 			"pid": 13,
 			"jid": 112,
@@ -89,6 +99,7 @@
 			"date": "2020-02-22"
 		},
 		{
+			"name": "kanagawa-15",
 			"id": 7,
 			"pid": 15,
 			"jid": 137,
@@ -99,9 +110,11 @@
 			"remarks": null,
 			"supplement": "No.112の妻",
 			"discharged": null,
+			"sources": ["kanagawa-13"],
 			"date": "2020-02-24"
 		},
 		{
+			"name": "kanagawa-16",
 			"id": 8,
 			"pid": 16,
 			"jid": 138,
@@ -112,9 +125,11 @@
 			"remarks": null,
 			"supplement": "No.112の子",
 			"discharged": null,
+			"sources": ["kanagawa-13"],
 			"date": "2020-02-24"
 		},
 		{
+			"name": "kanagawa-17",
 			"id": 9,
 			"pid": 17,
 			"jid": 139,
@@ -125,9 +140,11 @@
 			"remarks": null,
 			"supplement": "No.112の子",
 			"discharged": null,
+			"sources": ["kanagawa-13"],
 			"date": "2020-02-24"
 		},
 		{
+			"name": "kanagawa-19",
 			"id": 10,
 			"pid": 19,
 			"jid": 158,
@@ -138,9 +155,11 @@
 			"remarks": null,
 			"supplement": "No.112の濃厚接触者",
 			"discharged": null,
+			"sources": ["kanagawa-13"],
 			"date": "2020-02-26"
 		},
 		{
+			"name": "kanagawa-21",
 			"id": 11,
 			"pid": 21,
 			"jid": 192,
@@ -154,6 +173,7 @@
 			"date": "2020-02-28"
 		},
 		{
+			"name": "kanagawa-22",
 			"id": 12,
 			"pid": 22,
 			"jid": 193,
@@ -168,6 +188,7 @@
 			"date": "2020-02-28"
 		},
 		{
+			"name": "kanagawa-25",
 			"id": 13,
 			"pid": 25,
 			"jid": 226,
@@ -181,6 +202,7 @@
 			"date": "2020-03-01"
 		},
 		{
+			"name": "kanagawa-26",
 			"id": 14,
 			"pid": 26,
 			"jid": 227,
@@ -191,9 +213,11 @@
 			"remarks": null,
 			"supplement": "No.226の濃厚接触者",
 			"discharged": null,
+			"sources": ["kanagawa-25"],
 			"date": "2020-03-01"
 		},
 		{
+			"name": "kanagawa-28",
 			"id": 15,
 			"pid": 28,
 			"address": "神奈川県相模原市",
@@ -204,9 +228,11 @@
 			"supplement": "No.193の濃厚接触者",
 			"discharged": null,
 			"cluster": "sagamihara-welfare",
+			"sources": ["kanagawa-22"],
 			"date": "2020-03-02"
 		},
 		{
+			"name": "kanagawa-29",
 			"id": 16,
 			"pid": 29,
 			"address": "神奈川県相模原市",
@@ -217,9 +243,11 @@
 			"supplement": "No.193の濃厚接触者",
 			"discharged": null,
 			"cluster": "sagamihara-welfare",
+			"sources": ["kanagawa-22"],
 			"date": "2020-03-02"
 		},
 		{
+			"name": "kanagawa-30",
 			"id": 17,
 			"pid": 30,
 			"address": "神奈川県相模原市",
@@ -230,9 +258,11 @@
 			"supplement": "No.193の濃厚接触者",
 			"discharged": null,
 			"cluster": "sagamihara-welfare",
+			"sources": ["kanagawa-22"],
 			"date": "2020-03-02"
 		},
 		{
+			"name": "kanagawa-31",
 			"id": 18,
 			"pid": 31,
 			"address": "神奈川県相模原市",
@@ -243,9 +273,11 @@
 			"supplement": "No.193の濃厚接触者",
 			"discharged": null,
 			"cluster": "sagamihara-welfare",
+			"sources": ["kanagawa-22"],
 			"date": "2020-03-02"
 		},
 		{
+			"name": "kanagawa-34",
 			"id": 19,
 			"pid": 34,
 			"jid": 291,
@@ -257,9 +289,11 @@
 			"supplement": "No.193の福祉事業所の関係者",
 			"discharged": null,
 			"cluster": "sagamihara-welfare",
+			"sources": ["kanagawa-22"],
 			"date": "2020-03-05"
 		},
 		{
+			"name": "kanagawa-35",
 			"id": 20,
 			"pid": 35,
 			"jid": 292,
@@ -271,9 +305,11 @@
 			"supplement": "No.193の福祉事業所の関係者",
 			"discharged": null,
 			"cluster": "sagamihara-welfare",
+			"sources": ["kanagawa-22"],
 			"date": "2020-03-05"
 		},
 		{
+			"name": "kanagawa-36",
 			"id": 21,
 			"pid": 36,
 			"jid": 344,
@@ -287,6 +323,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "kanagawa-52",
 			"id": 22,
 			"pid": 52,
 			"address": "神奈川県相模原市",
@@ -296,9 +333,11 @@
 			"remarks": null,
 			"supplement": "No.664と同一人物",
 			"discharged": null,
+			"sources": ["tokyo-82"],
 			"date": "2020-03-06"
 		},
 		{
+			"name": "kanagawa-53",
 			"id": 23,
 			"pid": 53,
 			"jid": 698,
@@ -309,9 +348,11 @@
 			"remarks": null,
 			"supplement": "No.664の妻",
 			"discharged": null,
+			"sources": ["kanagawa-52"],
 			"date": "2020-03-15"
 		},
 		{
+			"name": "kanagawa-54",
 			"id": 24,
 			"pid": 54,
 			"jid": 699,
@@ -322,9 +363,11 @@
 			"remarks": null,
 			"supplement": "No.664の子",
 			"discharged": null,
+			"sources": ["kanagawa-52"],
 			"date": "2020-03-15"
 		},
 		{
+			"name": "kanagawa-55",
 			"id": 25,
 			"pid": 55,
 			"jid": 700,
@@ -335,9 +378,11 @@
 			"remarks": null,
 			"supplement": "No.227の関係者",
 			"discharged": null,
+			"sources": ["kanagawa-26"],
 			"date": "2020-03-15"
 		},
 		{
+			"name": "kanagawa-58",
 			"id": 26,
 			"pid": 58,
 			"jid": 730,
@@ -348,9 +393,11 @@
 			"remarks": null,
 			"supplement": "No.700の関係者",
 			"discharged": null,
+			"sources": ["kanagawa-55"],
 			"date": "2020-03-17"
 		},
 		{
+			"name": "kanagawa-67",
 			"id": 27,
 			"pid": 67,
 			"jid": 818,
@@ -365,8 +412,9 @@
 			"date": "2020-03-19"
 		},
 		{
+			"name": "kanagawa-94",
 			"id": 28,
-			"pid": 93,
+			"pid": 94,
 			"jid": 1183,
 			"address": "神奈川県相模原市",
 			"age": "30s",

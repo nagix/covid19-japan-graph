@@ -1,11 +1,15 @@
 {
-	"id": "aomori",
+	"name": "aomori",
 	"label": {
 		"ja": "青森県"
 	},
+	"prefix": {
+		"ja": "青森"
+	},
 	"date": "2020\/03\/25 18:00",
-	"data": [
+	"children": [
 		{
+			"name": "aomori-1",
 			"pid": 1,
 			"jid": 976,
 			"address": "青森県八戸市",
@@ -19,6 +23,7 @@
 			"date": "2020-03-23"
 		},
 		{
+			"name": "aomori-2",
 			"pid": 2,
 			"jid": 977,
 			"address": "青森県八戸市",
@@ -28,9 +33,11 @@
 			"remarks": null,
 			"supplement": "No.976の妻",
 			"discharged": null,
+			"sources": ["aomori-1"],
 			"date": "2020-03-23"
 		},
 		{
+			"name": "aomori-3",
 			"pid": 3,
 			"address": "青森県八戸市",
 			"age": "60s",
@@ -43,6 +50,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "aomori-4",
 			"pid": 4,
 			"address": "青森県八戸市",
 			"age": "60s",
@@ -55,6 +63,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "aomori-5",
 			"pid": 5,
 			"jid": 1056,
 			"address": "青森県八戸市",
@@ -68,6 +77,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "aomori-6",
 			"pid": 6,
 			"jid": 1057,
 			"address": "青森県八戸市",

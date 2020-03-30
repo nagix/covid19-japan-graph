@@ -1,11 +1,12 @@
 {
-	"id": "funabashi",
+	"name": "funabashi",
 	"label": {
 		"ja": "船橋市"
 	},
-	"date": "2020\/03\/26 18:00",
-	"data": [
+	"date": "2020\/03\/27 18:00",
+	"children": [
 		{
+			"name": "chiba-15",
 			"id": 1,
 			"pid": 15,
 			"jid": 221,
@@ -16,9 +17,11 @@
 			"remarks": null,
 			"supplement": "No.220の子、2/19〜20に行動を共にした",
 			"discharged": null,
+			"sources": ["kanagawa-27"],
 			"date": "2020-03-01"
 		},
 		{
+			"name": "chiba-37",
 			"id": 2,
 			"pid": 37,
 			"jid": 813,
@@ -32,6 +35,7 @@
 			"date": "2020-03-19"
 		},
 		{
+			"name": "chiba-55",
 			"id": 3,
 			"pid": 55,
 			"jid": 1186,
@@ -46,6 +50,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "chiba-56",
 			"id": 4,
 			"pid": 56,
 			"jid": 1187,
@@ -58,6 +63,34 @@
 			"discharged": null,
 			"sources": ["philippines"],
 			"date": "2020-03-26"
+		},
+		{
+			"name": "chiba-58",
+			"id": 5,
+			"pid": 58,
+			"address": "千葉県船橋市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": "3/25イギリスから帰国",
+			"discharged": null,
+			"sources": ["uk"],
+			"date": "2020-03-27"
+		},
+		{
+			"name": "chiba-59",
+			"id": 6,
+			"pid": 59,
+			"address": "千葉県船橋市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "会社員（事務職）",
+			"remarks": null,
+			"supplement": "3/24インドネシアから帰国",
+			"discharged": null,
+			"sources": ["indonesia"],
+			"date": "2020-03-27"
 		}
 	]
 }

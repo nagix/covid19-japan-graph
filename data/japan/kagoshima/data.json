@@ -1,11 +1,15 @@
 {
-	"id": "kagoshima",
+	"name": "kagoshima",
 	"label": {
 		"ja": "鹿児島県"
 	},
+	"prefix": {
+		"ja": "鹿児島"
+	},
 	"date": "2020\/03\/26 18:00",
-	"data": [
+	"children": [
 		{
+			"name": "kagoshima-1",
 			"pid": 1,
 			"jid": 1200,
 			"address": "イギリス",

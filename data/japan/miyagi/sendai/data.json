@@ -1,11 +1,12 @@
 {
-	"id": "sendai",
+	"name": "sendai",
 	"label": {
 		"ja": "仙台市"
 	},
 	"date": "2020\/02\/29 18:00",
-	"data": [
+	"children": [
 		{
+			"name": "miyagi-1",
 			"id": 1,
 			"pid": 1,
 			"jid": 211,

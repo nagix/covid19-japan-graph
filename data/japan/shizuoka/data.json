@@ -1,11 +1,15 @@
 {
-	"id": "shizuoka",
+	"name": "shizuoka",
 	"label": {
 		"ja": "静岡県"
 	},
+	"prefix": {
+		"ja": "静岡"
+	},
 	"date": "2020\/03\/12 18:00",
-	"data": [
+	"children": [
 		{
+			"name": "shizuoka-1",
 			"pid": 1,
 			"jid": 194,
 			"address": "静岡県静岡市",
@@ -14,11 +18,12 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "2/20ダイヤモンド・プリンセス号を下船",
-			"discharged": null,
+			"discharged": "〇",
 			"sources": ["cruise-ship"],
 			"date": "2020-02-28"
 		},
 		{
+			"name": "shizuoka-2",
 			"pid": 2,
 			"jid": 475,
 			"address": "神奈川県",
@@ -31,9 +36,10 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "shizuoka-3",
 			"pid": 3,
 			"jid": 602,
-			"address": "静岡県静岡市",
+			"address": "静岡県静岡市清水区",
 			"age": "60s",
 			"sex": "female",
 			"attribute": null,

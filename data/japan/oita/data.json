@@ -1,11 +1,15 @@
 {
-	"id": "oita",
+	"name": "oita",
 	"label": {
 		"ja": "大分県"
 	},
-	"date": "2020\/03\/25 15:30",
-	"data": [
+	"prefix": {
+		"ja": "大分"
+	},
+	"date": "2020\/03\/27 22:30",
+	"children": [
 		{
+			"name": "oita-1",
 			"pid": 1,
 			"jid": 242,
 			"address": "大分県大分市",
@@ -18,6 +22,7 @@
 			"date": "2020-03-03"
 		},
 		{
+			"name": "oita-2",
 			"pid": 2,
 			"jid": 807,
 			"address": "大分県臼杵市",
@@ -31,6 +36,7 @@
 			"date": "2020-03-19"
 		},
 		{
+			"name": "oita-3",
 			"pid": 3,
 			"jid": 808,
 			"address": "大分県臼杵市",
@@ -41,9 +47,11 @@
 			"supplement": "No.807の妻",
 			"discharged": null,
 			"cluster": "oita-hospital",
+			"sources": ["oita-2"],
 			"date": "2020-03-19"
 		},
 		{
+			"name": "oita-4",
 			"pid": 4,
 			"jid": 858,
 			"address": "大分県大分市",
@@ -54,9 +62,11 @@
 			"supplement": "No.807、No.808の濃厚接触者",
 			"discharged": null,
 			"cluster": "oita-hospital",
+			"sources": ["oita-2", "oita-3"],
 			"date": "2020-03-20"
 		},
 		{
+			"name": "oita-5",
 			"pid": 5,
 			"jid": 859,
 			"address": "大分県大分市",
@@ -67,9 +77,11 @@
 			"supplement": "No.807、No.808の濃厚接触者",
 			"discharged": null,
 			"cluster": "oita-hospital",
+			"sources": ["oita-2", "oita-3"],
 			"date": "2020-03-20"
 		},
 		{
+			"name": "oita-6",
 			"pid": 6,
 			"address": "大分県大分市",
 			"age": "20s",
@@ -79,9 +91,11 @@
 			"supplement": "No.807、No.808の濃厚接触者",
 			"discharged": null,
 			"cluster": "oita-hospital",
+			"sources": ["oita-2", "oita-3"],
 			"date": "2020-03-20"
 		},
 		{
+			"name": "oita-7",
 			"pid": 7,
 			"address": "大分県大分市",
 			"age": "30s",
@@ -91,9 +105,11 @@
 			"supplement": "No.807、No.808の濃厚接触者",
 			"discharged": null,
 			"cluster": "oita-hospital",
+			"sources": ["oita-2", "oita-3"],
 			"date": "2020-03-20"
 		},
 		{
+			"name": "oita-8",
 			"pid": 8,
 			"jid": 860,
 			"address": "大分県大分市",
@@ -104,9 +120,11 @@
 			"supplement": "No.807、No.808の濃厚接触者",
 			"discharged": null,
 			"cluster": "oita-hospital",
+			"sources": ["oita-2", "oita-3"],
 			"date": "2020-03-20"
 		},
 		{
+			"name": "oita-9",
 			"pid": 9,
 			"jid": 885,
 			"address": "大分県大分市",
@@ -114,12 +132,14 @@
 			"sex": "male",
 			"attribute": "無職",
 			"remarks": null,
-			"supplement": "No.859、No.oita7の濃厚接触者",
+			"supplement": "大分県5例目、7例目の濃厚接触者",
 			"discharged": null,
 			"cluster": "oita-hospital",
+			"sources": ["oita-5", "oita-7"],
 			"date": "2020-03-21"
 		},
 		{
+			"name": "oita-10",
 			"pid": 10,
 			"jid": 886,
 			"address": "大分県大分市",
@@ -133,6 +153,7 @@
 			"date": "2020-03-21"
 		},
 		{
+			"name": "oita-11",
 			"pid": 11,
 			"jid": 887,
 			"address": "大分県大分市",
@@ -146,6 +167,7 @@
 			"date": "2020-03-21"
 		},
 		{
+			"name": "oita-12",
 			"pid": 12,
 			"jid": 888,
 			"address": "大分県大分市",
@@ -159,6 +181,7 @@
 			"date": "2020-03-21"
 		},
 		{
+			"name": "oita-13",
 			"pid": 13,
 			"jid": 889,
 			"address": "大分県大分市",
@@ -172,6 +195,7 @@
 			"date": "2020-03-21"
 		},
 		{
+			"name": "oita-14",
 			"pid": 14,
 			"jid": 924,
 			"address": "大分県大分市",
@@ -185,6 +209,7 @@
 			"date": "2020-03-22"
 		},
 		{
+			"name": "oita-15",
 			"pid": 15,
 			"jid": 925,
 			"address": "大分県大分市",
@@ -198,6 +223,7 @@
 			"date": "2020-03-22"
 		},
 		{
+			"name": "oita-16",
 			"pid": 16,
 			"jid": 926,
 			"address": "大分県大分市",
@@ -205,12 +231,14 @@
 			"sex": "female",
 			"attribute": "無職",
 			"remarks": null,
-			"supplement": "No.oita7の濃厚接触者",
+			"supplement": "大分県7例目の濃厚接触者",
 			"discharged": null,
 			"cluster": "oita-hospital",
+			"sources": ["oita-7"],
 			"date": "2020-03-22"
 		},
 		{
+			"name": "oita-17",
 			"pid": 17,
 			"jid": 927,
 			"address": "大分県大分市",
@@ -220,31 +248,37 @@
 			"remarks": null,
 			"supplement": "No.885の濃厚接触者",
 			"discharged": null,
+			"sources": ["oita-9"],
 			"date": "2020-03-22"
 		},
 		{
+			"name": "oita-18",
 			"pid": 18,
 			"address": "大分県大分市",
 			"age": "80s",
 			"sex": "female",
 			"attribute": "無職",
 			"remarks": "無症状",
-			"supplement": "No.oita7の濃厚接触者",
+			"supplement": "大分県7例目の濃厚接触者",
 			"discharged": null,
+			"sources": ["oita-7"],
 			"date": "2020-03-22"
 		},
 		{
+			"name": "oita-19",
 			"pid": 19,
 			"address": "大分県臼杵市",
 			"age": "90s",
 			"sex": "female",
 			"attribute": "無職",
 			"remarks": "無症状",
-			"supplement": "No.oita7の濃厚接触者",
+			"supplement": "大分県7例目の濃厚接触者",
 			"discharged": null,
+			"sources": ["oita-7"],
 			"date": "2020-03-22"
 		},
 		{
+			"name": "oita-20",
 			"pid": 20,
 			"address": "大分県大分市",
 			"age": "20s",
@@ -253,9 +287,11 @@
 			"remarks": "無症状",
 			"supplement": "No.860、No.886の濃厚接触者",
 			"discharged": null,
+			"sources": ["oita-8", "oita-10"],
 			"date": "2020-03-22"
 		},
 		{
+			"name": "oita-21",
 			"pid": 21,
 			"address": "大分県大分市",
 			"age": "30s",
@@ -267,6 +303,7 @@
 			"date": "2020-03-22"
 		},
 		{
+			"name": "oita-22",
 			"pid": 22,
 			"jid": 993,
 			"address": "大分県大分市",
@@ -276,9 +313,11 @@
 			"remarks": null,
 			"supplement": "No.924の接触者",
 			"discharged": null,
+			"sources": ["oita-14"],
 			"date": "2020-03-23"
 		},
 		{
+			"name": "oita-23",
 			"pid": 23,
 			"address": "大分県大分市",
 			"age": "70s",
@@ -290,6 +329,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "oita-24",
 			"pid": 24,
 			"address": "大分県大分市",
 			"age": "20s",
@@ -301,6 +341,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "oita-25",
 			"pid": 25,
 			"address": "大分県大分市",
 			"age": "40s",
@@ -310,6 +351,32 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-25"
+		},
+		{
+			"name": "oita-26",
+			"pid": 26,
+			"address": "大分県別府市",
+			"age": "10s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "3/25米国から帰国",
+			"discharged": null,
+			"sources": ["usa"],
+			"date": "2020-03-27"
+		},
+		{
+			"name": "oita-27",
+			"pid": 27,
+			"address": "大分県大分市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": "3/14フィリピンから帰国",
+			"discharged": null,
+			"sources": ["philippines"],
+			"date": "2020-03-27"
 		}
 	]
 }

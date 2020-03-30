@@ -83,6 +83,55 @@ svg#network:active {
 	stroke-width: 2.5px;
 }
 
+path.link {
+	stroke: #999;
+	stroke-opacity: 0.6;
+	stroke-width: 2;
+}
+
+g.node circle {
+	stroke: #fff;
+	stroke-width: 1.5px;
+}
+g.node.origin circle {
+	stroke: #aaa;
+	fill: #fff;
+}
+
+g.node text {
+	font-family: sans-serif;
+}
+g.node text.node-prefix {
+	font-size: 12px;
+}
+g.node text.node-index {
+	font-size: 18px;
+	font-weight: bold;
+}
+g.node text.node-source {
+	font-size: 12px;
+}
+
+path.group {
+	stroke-linejoin: round;
+}
+path.cluster-group {
+	fill: #ff5;
+	stroke: #ff5;
+	opacity: .5;
+}
+path.geo-group {
+	fill: #aaf;
+	stroke: #aaf;
+	opacity: .2;
+}
+
+g.group-label text {
+	font-family: sans-serif;
+	stroke: #aaa;
+	opacity: .5;
+}
+
 div.container {
 	width: 400px;
 	height: 50px;

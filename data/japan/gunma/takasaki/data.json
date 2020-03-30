@@ -1,11 +1,12 @@
 {
-	"id": "takasaki",
+	"name": "takasaki",
 	"label": {
 		"ja": "高崎市"
 	},
 	"date": "2020\/03\/24 18:00",
-	"data": [
+	"children": [
 		{
+			"name": "gunma-13",
 			"id": 1,
 			"pid": 13,
 			"jid": 1000,

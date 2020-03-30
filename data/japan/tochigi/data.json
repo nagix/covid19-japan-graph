@@ -1,14 +1,18 @@
 {
-	"id": "tochigi",
+	"name": "tochigi",
 	"label": {
 		"ja": "栃木県"
 	},
-	"date": "2020\/03\/26 18:00",
-	"subgroups": [
-		"utsunomiya"
-	],
-	"data": [
+	"prefix": {
+		"ja": "栃木"
+	},
+	"date": "2020\/03\/26 21:00",
+	"children": [
 		{
+			"ref": "utsunomiya"
+		},
+		{
+			"name": "tochigi-1",
 			"pid": 1,
 			"jid": 111,
 			"address": "栃木県（県南健康福祉センター管内）",
@@ -22,6 +26,7 @@
 			"date": "2020-02-22"
 		},
 		{
+			"name": "tochigi-2",
 			"pid": 2,
 			"jid": 313,
 			"address": "栃木県（県南健康福祉センター管内）",
@@ -35,6 +40,7 @@
 			"date": "2020-03-05"
 		},
 		{
+			"name": "tochigi-4",
 			"pid": 4,
 			"jid": 883,
 			"address": "栃木県（県南健康福祉センター管内）",
@@ -48,6 +54,7 @@
 			"date": "2020-03-21"
 		},
 		{
+			"name": "tochigi-5",
 			"pid": 5,
 			"jid": 995,
 			"address": "栃木県（県南健康福祉センター管内）",
@@ -61,6 +68,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "tochigi-6",
 			"pid": 6,
 			"jid": 996,
 			"address": "栃木県（安足健康福祉センター管内）",
@@ -73,6 +81,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "tochigi-7",
 			"pid": 7,
 			"jid": 1137,
 			"address": "栃木県（安足健康福祉センター管内）",
@@ -82,9 +91,11 @@
 			"remarks": null,
 			"supplement": "No.996の妻",
 			"discharged": null,
+			"sources": ["tochigi-6"],
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tochigi-8",
 			"pid": 8,
 			"jid": 1138,
 			"address": "栃木県（県西健康福祉センター管内）",
@@ -94,9 +105,11 @@
 			"remarks": null,
 			"supplement": "No.996の会社同僚",
 			"discharged": null,
+			"sources": ["tochigi-6"],
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tochigi-9",
 			"pid": 9,
 			"jid": 1139,
 			"address": "栃木県（県西健康福祉センター管内）",
@@ -106,9 +119,11 @@
 			"remarks": null,
 			"supplement": "No.1138の妻",
 			"discharged": null,
+			"sources": ["tochigi-8"],
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tochigi-10",
 			"pid": 10,
 			"jid": 1140,
 			"address": "栃木県（県南健康福祉センター管内）",
@@ -118,6 +133,20 @@
 			"remarks": null,
 			"supplement": "県外の陽性患者と接触",
 			"discharged": null,
+			"date": "2020-03-26"
+		},
+		{
+			"name": "tochigi-11",
+			"pid": 11,
+			"jid": 1215,
+			"address": "栃木県（県南健康福祉センター管内）",
+			"age": "10s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.1140の子",
+			"discharged": null,
+			"sources": ["tochigi-10"],
 			"date": "2020-03-26"
 		}
 	]

@@ -1,11 +1,12 @@
 {
-	"id": "fujisawa",
+	"name": "fujisawa",
 	"label": {
 		"ja": "藤沢市"
 	},
 	"date": "2020\/03\/25 18:00",
-	"data": [
+	"children": [
 		{
+			"name": "kanagawa-75",
 			"id": 1,
 			"pid": 75,
 			"jid": 920,
@@ -20,6 +21,7 @@
 			"date": "2020-03-22"
 		},
 		{
+			"name": "kanagawa-76",
 			"id": 2,
 			"pid": 76,
 			"jid": 921,
@@ -33,6 +35,7 @@
 			"date": "2020-03-22"
 		},
 		{
+			"name": "kanagawa-77",
 			"id": 3,
 			"pid": 77,
 			"jid": 922,
@@ -46,6 +49,7 @@
 			"date": "2020-03-22"
 		},
 		{
+			"name": "kanagawa-86",
 			"id": 4,
 			"pid": 86,
 			"jid": 1058,

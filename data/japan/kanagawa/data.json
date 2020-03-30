@@ -1,18 +1,30 @@
 {
-	"id": "kanagawa",
+	"name": "kanagawa",
 	"label": {
 		"ja": "神奈川県"
 	},
-	"date": "2020\/03\/26 18:00",
-	"subgroups": [
-		"yokohama",
-		"kawasaki",
-		"sagamihara",
-		"yokosuka",
-		"fujisawa"
-	],
-	"data": [
+	"prefix": {
+		"ja": "神奈川"
+	},
+	"date": "2020\/03\/27 18:00",
+	"children": [
 		{
+			"ref": "yokohama"
+		},
+		{
+			"ref": "kawasaki"
+		},
+		{
+			"ref": "sagamihara"
+		},
+		{
+			"ref": "yokosuka"
+		},
+		{
+			"ref": "fujisawa"
+		},
+		{
+			"name": "kanagawa-1",
 			"pid": 1,
 			"jid": 1,
 			"address": "神奈川県",
@@ -26,6 +38,7 @@
 			"date": "2020-01-15"
 		},
 		{
+			"name": "kanagawa-2",
 			"pid": 2,
 			"jid": 26,
 			"address": "神奈川県",
@@ -39,6 +52,7 @@
 			"date": "2020-02-11"
 		},
 		{
+			"name": "kanagawa-3",
 			"pid": 3,
 			"jid": 27,
 			"address": "神奈川県",
@@ -49,9 +63,11 @@
 			"supplement": "No.28",
 			"discharged": null,
 			"cluster": "sagamihara-hospital",
+			"sources": ["tokyo-4"],
 			"date": "2020-02-13"
 		},
 		{
+			"name": "kanagawa-4",
 			"pid": 4,
 			"jid": 37,
 			"address": "神奈川県",
@@ -65,6 +81,7 @@
 			"date": "2020-02-14"
 		},
 		{
+			"name": "kanagawa-18",
 			"pid": 18,
 			"jid": 133,
 			"address": "神奈川県鎌倉保健福祉事務所管内",
@@ -77,6 +94,7 @@
 			"date": "2020-02-24"
 		},
 		{
+			"name": "kanagawa-20",
 			"pid": 20,
 			"jid": 171,
 			"address": "神奈川県厚木保健福祉事務所管内",
@@ -89,6 +107,7 @@
 			"date": "2020-02-27"
 		},
 		{
+			"name": "kanagawa-23",
 			"pid": 23,
 			"jid": 219,
 			"address": "神奈川県鎌倉保健福祉事務所管内",
@@ -101,6 +120,7 @@
 			"date": "2020-02-28"
 		},
 		{
+			"name": "kanagawa-27",
 			"pid": 27,
 			"jid": 220,
 			"address": "神奈川県鎌倉保健福祉事務所管内",
@@ -110,9 +130,11 @@
 			"remarks": null,
 			"supplement": "No.219の濃厚接触者(同居親族)",
 			"discharged": null,
+			"sources": ["kanagawa-23"],
 			"date": "2020-03-01"
 		},
 		{
+			"name": "kanagawa-37",
 			"pid": 37,
 			"jid": 340,
 			"address": "神奈川県平塚保健福祉事務所管内",
@@ -125,6 +147,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "kanagawa-38",
 			"pid": 38,
 			"jid": 341,
 			"address": "神奈川県平塚保健福祉事務所管内",
@@ -137,6 +160,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "kanagawa-39",
 			"pid": 39,
 			"jid": 342,
 			"address": "神奈川県小田原保健福祉事務所管内",
@@ -149,6 +173,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "kanagawa-40",
 			"pid": 40,
 			"jid": 343,
 			"address": "神奈川県厚木保健福祉事務所管内",
@@ -161,6 +186,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "kanagawa-42",
 			"pid": 42,
 			"jid": 370,
 			"address": "神奈川県平塚保健福祉事務所管内",
@@ -173,6 +199,7 @@
 			"date": "2020-03-07"
 		},
 		{
+			"name": "kanagawa-43",
 			"pid": 43,
 			"address": "神奈川県平塚保健福祉事務所管内",
 			"age": "20s",
@@ -181,9 +208,11 @@
 			"remarks": null,
 			"supplement": "No.370の濃厚接触者（同居親族）",
 			"discharged": null,
+			"sources": ["kanagawa-42"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "kanagawa-44",
 			"pid": 44,
 			"jid": 499,
 			"address": "神奈川県鎌倉保健福祉事務所管内",
@@ -193,9 +222,11 @@
 			"remarks": null,
 			"supplement": "No.219の濃厚接触者（同居親族）",
 			"discharged": null,
+			"sources": ["kanagawa-23"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "kanagawa-45",
 			"pid": 45,
 			"jid": 523,
 			"address": "神奈川県藤沢市",
@@ -208,6 +239,7 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "kanagawa-46",
 			"pid": 46,
 			"jid": 524,
 			"address": "神奈川県藤沢市",
@@ -217,9 +249,11 @@
 			"remarks": null,
 			"supplement": "No.523と同居家族",
 			"discharged": null,
+			"sources": ["kanagawa-45"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "kanagawa-51",
 			"pid": 51,
 			"jid": 619,
 			"address": "神奈川県鎌倉保健福祉事務所管内",
@@ -233,6 +267,7 @@
 			"date": "2020-03-13"
 		},
 		{
+			"name": "kanagawa-57",
 			"pid": 57,
 			"jid": 701,
 			"address": "神奈川県茅ヶ崎市保健所管内",
@@ -246,6 +281,7 @@
 			"date": "2020-03-13"
 		},
 		{
+			"name": "kanagawa-63",
 			"pid": 63,
 			"jid": 814,
 			"address": "神奈川県平塚保健福祉事務所管内",
@@ -259,6 +295,7 @@
 			"date": "2020-03-19"
 		},
 		{
+			"name": "kanagawa-64",
 			"pid": 64,
 			"jid": 815,
 			"address": "神奈川県鎌倉保健福祉事務所管内",
@@ -272,6 +309,7 @@
 			"date": "2020-03-19"
 		},
 		{
+			"name": "kanagawa-65",
 			"pid": 65,
 			"jid": 816,
 			"address": "神奈川県厚木保健福祉事務所管内",
@@ -284,6 +322,7 @@
 			"date": "2020-03-19"
 		},
 		{
+			"name": "kanagawa-66",
 			"pid": 66,
 			"jid": 817,
 			"address": "神奈川県厚木保健福祉事務所管内",
@@ -297,6 +336,7 @@
 			"date": "2020-03-19"
 		},
 		{
+			"name": "kanagawa-71",
 			"pid": 71,
 			"jid": 891,
 			"address": "神奈川県平塚保健福祉事務所管内",
@@ -309,6 +349,7 @@
 			"date": "2020-03-21"
 		},
 		{
+			"name": "kanagawa-72",
 			"pid": 72,
 			"jid": 892,
 			"address": "神奈川県平塚保健福祉事務所管内",
@@ -321,6 +362,7 @@
 			"date": "2020-03-21"
 		},
 		{
+			"name": "kanagawa-73",
 			"pid": 73,
 			"jid": 893,
 			"address": "神奈川県平塚保健福祉事務所管内",
@@ -334,6 +376,7 @@
 			"date": "2020-03-21"
 		},
 		{
+			"name": "kanagawa-80",
 			"pid": 80,
 			"jid": 1022,
 			"address": "神奈川県小田原保健福祉事務所管内",
@@ -346,6 +389,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "kanagawa-81",
 			"pid": 81,
 			"jid": 1023,
 			"address": "神奈川県厚木保健福祉事務所管内",
@@ -358,6 +402,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "kanagawa-82",
 			"pid": 82,
 			"jid": 1024,
 			"address": "神奈川県平塚保健福祉事務所管内",
@@ -371,6 +416,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "kanagawa-83",
 			"pid": 83,
 			"jid": 1025,
 			"address": "神奈川県平塚保健福祉事務所管内",
@@ -380,9 +426,11 @@
 			"remarks": null,
 			"supplement": "No.892の濃厚接触者",
 			"discharged": null,
+			"sources": ["kanagawa-72"],
 			"date": "2020-03-24"
 		},
 		{
+			"name": "kanagawa-84",
 			"pid": 84,
 			"jid": 1026,
 			"address": "神奈川県平塚保健福祉事務所管内",
@@ -396,6 +444,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "kanagawa-90",
 			"pid": 90,
 			"jid": 1142,
 			"address": "神奈川県小田原保健福祉事務所管内",
@@ -405,9 +454,11 @@
 			"remarks": null,
 			"supplement": "No.1022の同居家族",
 			"discharged": null,
+			"sources": ["kanagawa-80"],
 			"date": "2020-03-26"
 		},
 		{
+			"name": "kanagawa-91",
 			"pid": 91,
 			"jid": 1143,
 			"address": "神奈川県平塚保健福祉事務所管内",
@@ -417,9 +468,11 @@
 			"remarks": null,
 			"supplement": "No.1024の濃厚接触者（同居家族）",
 			"discharged": null,
+			"sources": ["kanagawa-82"],
 			"date": "2020-03-26"
 		},
 		{
+			"name": "kanagawa-92",
 			"pid": 92,
 			"jid": 1144,
 			"address": "神奈川県鎌倉保健福祉事務所管内",
@@ -430,6 +483,47 @@
 			"supplement": "東京都の陽性患者の濃厚接触者",
 			"discharged": null,
 			"date": "2020-03-26"
+		},
+		{
+			"name": "kanagawa-96",
+			"pid": 96,
+			"jid": 1224,
+			"address": "神奈川県厚木保健福祉事務所管内",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/14までインドネシアに滞在",
+			"discharged": null,
+			"sources": ["indonesia"],
+			"date": "2020-03-27"
+		},
+		{
+			"name": "kanagawa-97",
+			"pid": 97,
+			"jid": 1225,
+			"address": "神奈川県鎌倉保健福祉事務所管内",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/15までインドに滞在",
+			"discharged": null,
+			"sources": ["india"],
+			"date": "2020-03-27"
+		},
+		{
+			"name": "kanagawa-98",
+			"pid": 98,
+			"address": "神奈川県鎌倉保健福祉事務所管内",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": "無症状",
+			"supplement": "3/1までエジプトに滞在、No.619の濃厚接触者（同居家族）",
+			"discharged": null,
+			"sources": ["egypt", "kanagawa-51"],
+			"date": "2020-03-27"
 		}
 	]
 }

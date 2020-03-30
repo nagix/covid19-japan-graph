@@ -1,11 +1,12 @@
 {
-	"id": "himeji",
+	"name": "himeji",
 	"label": {
 		"ja": "姫路市"
 	},
 	"date": "2020\/03\/22 18:00",
-	"data": [
+	"children": [
 		{
+			"name": "hyogo-5",
 			"id": 1,
 			"pid": 5,
 			"jid": 334,
@@ -20,6 +21,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "hyogo-11",
 			"id": 2,
 			"pid": 11,
 			"jid": 414,
@@ -34,6 +36,7 @@
 			"date": "2020-03-08"
 		},
 		{
+			"name": "hyogo-15",
 			"id": 3,
 			"pid": 15,
 			"jid": 603,
@@ -44,9 +47,11 @@
 			"remarks": "無症状",
 			"supplement": "No.414の父",
 			"discharged": null,
+			"sources": ["hyogo-11"],
 			"date": "2020-03-09"
 		},
 		{
+			"name": "hyogo-17",
 			"id": 4,
 			"pid": 17,
 			"address": "兵庫県姫路市",
@@ -57,9 +62,11 @@
 			"supplement": "No.414が勤務していた医療機関の同僚",
 			"discharged": null,
 			"cluster": "himeji-hospital",
+			"sources": ["hyogo-11"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "hyogo-18",
 			"id": 5,
 			"pid": 18,
 			"jid": 492,
@@ -71,9 +78,11 @@
 			"supplement": "No.414が勤務していた医療機関の入院患者",
 			"discharged": null,
 			"cluster": "himeji-hospital",
+			"sources": ["hyogo-11"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "hyogo-26",
 			"id": 6,
 			"pid": 26,
 			"jid": 541,
@@ -85,9 +94,11 @@
 			"supplement": "No.414が勤務していた医療機関の入院患者",
 			"discharged": null,
 			"cluster": "himeji-hospital",
+			"sources": ["hyogo-11"],
 			"date": "2020-03-11"
 		},
 		{
+			"name": "hyogo-37",
 			"id": 7,
 			"pid": 37,
 			"jid": 604,
@@ -99,9 +110,11 @@
 			"supplement": "No.414が勤務していた医療機関の入院患者",
 			"discharged": null,
 			"cluster": "himeji-hospital",
+			"sources": ["hyogo-11"],
 			"date": "2020-03-11"
 		},
 		{
+			"name": "hyogo-38",
 			"id": 8,
 			"pid": 38,
 			"address": "入院中",
@@ -112,9 +125,11 @@
 			"supplement": "No.414が勤務していた医療機関の入院患者",
 			"discharged": null,
 			"cluster": "himeji-hospital",
+			"sources": ["hyogo-11"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "hyogo-39",
 			"id": 9,
 			"pid": 39,
 			"address": "入院中",
@@ -125,9 +140,11 @@
 			"supplement": "No.414が勤務していた医療機関の入院患者",
 			"discharged": null,
 			"cluster": "himeji-hospital",
+			"sources": ["hyogo-11"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "hyogo-40",
 			"id": 10,
 			"pid": 40,
 			"address": "入院中",
@@ -138,9 +155,11 @@
 			"supplement": "No.414が勤務していた医療機関の入院患者",
 			"discharged": null,
 			"cluster": "himeji-hospital",
+			"sources": ["hyogo-11"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "hyogo-41",
 			"id": 11,
 			"pid": 41,
 			"jid": 554,
@@ -152,9 +171,11 @@
 			"supplement": "No.414が勤務していた医療機関の入院患者",
 			"discharged": null,
 			"cluster": "himeji-hospital",
+			"sources": ["hyogo-11"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "hyogo-92",
 			"id": 12,
 			"pid": 92,
 			"jid": 847,
@@ -166,9 +187,11 @@
 			"supplement": "No.414が勤務していた医療機関の入院患者",
 			"discharged": null,
 			"cluster": "himeji-hospital",
+			"sources": ["hyogo-11"],
 			"date": "2020-03-19"
 		},
 		{
+			"name": "hyogo-94",
 			"id": 13,
 			"pid": 94,
 			"jid": 848,
@@ -180,9 +203,11 @@
 			"supplement": "No.414が勤務していた医療機関の入院患者",
 			"discharged": null,
 			"cluster": "himeji-hospital",
+			"sources": ["hyogo-11"],
 			"date": "2020-03-20"
 		},
 		{
+			"name": "hyogo-95",
 			"id": 14,
 			"pid": 95,
 			"jid": 849,
@@ -194,9 +219,11 @@
 			"supplement": "No.414が勤務していた医療機関の入院患者",
 			"discharged": null,
 			"cluster": "himeji-hospital",
+			"sources": ["hyogo-11"],
 			"date": "2020-03-20"
 		},
 		{
+			"name": "hyogo-102",
 			"id": 15,
 			"pid": 102,
 			"jid": 899,
@@ -211,6 +238,7 @@
 			"date": "2020-03-21"
 		},
 		{
+			"name": "hyogo-108",
 			"id": 16,
 			"pid": 108,
 			"jid": 948,
@@ -222,6 +250,7 @@
 			"supplement": "No.414が勤務していた医療機関の同僚",
 			"discharged": null,
 			"cluster": "himeji-hospital",
+			"sources": ["hyogo-11"],
 			"date": "2020-03-22"
 		}
 	]

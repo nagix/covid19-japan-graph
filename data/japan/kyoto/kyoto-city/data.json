@@ -1,11 +1,12 @@
 {
-	"id": "kyoto-city",
+	"name": "kyoto-city",
 	"label": {
 		"ja": "京都市"
 	},
 	"date": "2020\/03\/26 18:00",
-	"data": [
+	"children": [
 		{
+			"name": "kyoto-1",
 			"id": 1,
 			"pid": 1,
 			"jid": 12,
@@ -20,6 +21,7 @@
 			"date": "2020-01-30"
 		},
 		{
+			"name": "kyoto-2",
 			"id": 2,
 			"pid": 2,
 			"jid": 21,
@@ -34,6 +36,7 @@
 			"date": "2020-02-05"
 		},
 		{
+			"name": "kyoto-3",
 			"id": 3,
 			"pid": 3,
 			"jid": 249,
@@ -48,6 +51,7 @@
 			"date": "2020-03-03"
 		},
 		{
+			"name": "kyoto-4",
 			"id": 4,
 			"pid": 4,
 			"jid": 279,
@@ -59,9 +63,11 @@
 			"supplement": "2/15・16ライブハウスArc、No.249と同行",
 			"discharged": "〇",
 			"cluster": "osaka-livehouse-a",
+			"sources": ["kyoto-3"],
 			"date": "2020-03-04"
 		},
 		{
+			"name": "kyoto-5",
 			"id": 5,
 			"pid": 5,
 			"jid": 280,
@@ -71,10 +77,11 @@
 			"attribute": "会社員",
 			"remarks": null,
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-04"
 		},
 		{
+			"name": "kyoto-12",
 			"id": 6,
 			"pid": 12,
 			"jid": 448,
@@ -89,6 +96,7 @@
 			"date": "2020-03-09"
 		},
 		{
+			"name": "kyoto-14",
 			"id": 7,
 			"pid": 14,
 			"jid": 521,
@@ -99,9 +107,11 @@
 			"remarks": null,
 			"supplement": null,
 			"discharged": null,
+			"sources": ["kyoto-19"],
 			"date": "2020-03-11"
 		},
 		{
+			"name": "kyoto-15",
 			"id": 8,
 			"pid": 15,
 			"jid": 522,
@@ -112,9 +122,11 @@
 			"remarks": null,
 			"supplement": "No.448が勤務する市内保育所の園児",
 			"discharged": null,
+			"sources": ["kyoto-12"],
 			"date": "2020-03-11"
 		},
 		{
+			"name": "kyoto-17",
 			"id": 9,
 			"pid": 17,
 			"jid": 587,
@@ -124,10 +136,12 @@
 			"attribute": "園児の保護者",
 			"remarks": null,
 			"supplement": "No.522の保護者",
+			"sources": ["kyoto-15"],
 			"discharged": null,
 			"date": "2020-03-12"
 		},
 		{
+			"name": "kyoto-18",
 			"id": 10,
 			"pid": 18,
 			"jid": 750,
@@ -141,6 +155,7 @@
 			"date": "2020-03-17"
 		},
 		{
+			"name": "kyoto-19",
 			"id": 11,
 			"pid": 19,
 			"jid": 751,
@@ -155,19 +170,22 @@
 			"date": "2020-03-17"
 		},
 		{
+			"name": "kyoto-21",
 			"id": 12,
 			"pid": 21,
 			"jid": 779,
 			"address": "京都府京都市",
-			"age": "60s",
-			"sex": "female",
+			"age": null,
+			"sex": null,
 			"attribute": "園児の保護者",
 			"remarks": null,
 			"supplement": "No.522の保護者",
 			"discharged": null,
+			"sources": ["kyoto-15"],
 			"date": "2020-03-18"
 		},
 		{
+			"name": "kyoto-22",
 			"id": 13,
 			"pid": 22,
 			"jid": 851,
@@ -181,6 +199,7 @@
 			"date": "2020-03-20"
 		},
 		{
+			"name": "kyoto-23",
 			"id": 14,
 			"pid": 23,
 			"jid": 907,
@@ -195,6 +214,7 @@
 			"date": "2020-03-21"
 		},
 		{
+			"name": "kyoto-24",
 			"id": 15,
 			"pid": 24,
 			"jid": 950,
@@ -208,6 +228,7 @@
 			"date": "2020-03-22"
 		},
 		{
+			"name": "kyoto-25",
 			"id": 16,
 			"pid": 25,
 			"jid": 974,
@@ -217,10 +238,11 @@
 			"attribute": "無職",
 			"remarks": null,
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-23"
 		},
 		{
+			"name": "kyoto-26",
 			"id": 17,
 			"pid": 26,
 			"jid": 1020,
@@ -235,6 +257,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "kyoto-27",
 			"id": 18,
 			"pid": 27,
 			"jid": 1021,
@@ -248,6 +271,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "kyoto-28",
 			"id": 19,
 			"pid": 28,
 			"jid": 1078,
@@ -261,6 +285,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "kyoto-29",
 			"id": 20,
 			"pid": 29,
 			"jid": 1079,
@@ -274,6 +299,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "kyoto-30",
 			"id": 21,
 			"pid": 30,
 			"jid": 1080,
@@ -284,10 +310,11 @@
 			"remarks": null,
 			"supplement": "No.1020とともに3/15までフランス、ルクセンブルグに滞在",
 			"discharged": null,
-			"sources": ["france", "luxembourg"],
+			"sources": ["france", "luxembourg", "kyoto-26"],
 			"date": "2020-03-25"
 		},
 		{
+			"name": "kyoto-31",
 			"id": 22,
 			"pid": 31,
 			"jid": 1081,
@@ -298,11 +325,13 @@
 			"remarks": null,
 			"supplement": "No.1021の濃厚接触者",
 			"discharged": null,
+			"sources": ["kyoto-27"],
 			"date": "2020-03-25"
 		},
 		{
+			"name": "kyoto-33",
 			"id": 23,
-			"pid": 32,
+			"pid": 33,
 			"jid": 1188,
 			"address": "京都府京都市",
 			"age": "20s",
@@ -311,12 +340,13 @@
 			"remarks": null,
 			"supplement": "No.907とともに3/16オランダから帰国",
 			"discharged": null,
-			"sources": ["netherlands"],
+			"sources": ["netherlands", "kyoto-23"],
 			"date": "2020-03-26"
 		},
 		{
+			"name": "kyoto-34",
 			"id": 24,
-			"pid": 33,
+			"pid": 34,
 			"jid": 1189,
 			"address": "京都府京都市",
 			"age": "70s",

@@ -1,17 +1,27 @@
 {
-	"id": "hyogo",
+	"name": "hyogo",
 	"label": {
 		"ja": "兵庫県"
 	},
-	"date": "2020\/03\/26 18:00",
-	"subgroups": [
-		"amagasaki",
-		"kobe",
-		"nishinomiya",
-		"himeji"
-	],
-	"data": [
+	"prefix": {
+		"ja": "兵庫"
+	},
+	"date": "2020\/03\/27 18:00",
+	"children": [
 		{
+			"ref": "amagasaki"
+		},
+		{
+			"ref": "kobe"
+		},
+		{
+			"ref": "nishinomiya"
+		},
+		{
+			"ref": "himeji"
+		},
+		{
+			"name": "hyogo-4",
 			"pid": 4,
 			"address": "兵庫県福崎町",
 			"age": "50s",
@@ -24,6 +34,7 @@
 			"date": "2020-03-05"
 		},
 		{
+			"name": "hyogo-7",
 			"pid": 7,
 			"jid": 335,
 			"address": "兵庫県三田市",
@@ -37,6 +48,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "hyogo-8",
 			"pid": 8,
 			"jid": 336,
 			"address": "兵庫県川西市",
@@ -50,6 +62,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "hyogo-12",
 			"pid": 12,
 			"jid": 415,
 			"address": "兵庫県伊丹市",
@@ -59,9 +72,11 @@
 			"remarks": "3/16死亡",
 			"supplement": "No.393の夫",
 			"discharged": "〇",
+			"sources": ["hyogo-10"],
 			"date": "2020-03-08"
 		},
 		{
+			"name": "hyogo-14",
 			"pid": 14,
 			"address": "兵庫県丹波市",
 			"age": "30s",
@@ -74,6 +89,7 @@
 			"date": "2020-03-09"
 		},
 		{
+			"name": "hyogo-22",
 			"pid": 22,
 			"jid": 493,
 			"address": "兵庫県伊丹市",
@@ -87,6 +103,7 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "hyogo-23",
 			"pid": 23,
 			"jid": 494,
 			"address": "兵庫県神戸市",
@@ -99,6 +116,7 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "hyogo-27",
 			"pid": 27,
 			"jid": 543,
 			"address": "兵庫県宝塚市",
@@ -112,6 +130,7 @@
 			"date": "2020-03-11"
 		},
 		{
+			"name": "hyogo-28",
 			"pid": 28,
 			"jid": 544,
 			"address": "兵庫県伊丹健康福祉事務所管内",
@@ -125,6 +144,7 @@
 			"date": "2020-03-11"
 		},
 		{
+			"name": "hyogo-29",
 			"pid": 29,
 			"jid": 545,
 			"address": "兵庫県宝塚市",
@@ -135,9 +155,11 @@
 			"supplement": "No.493伊丹市内デイケア利用者の主たる介護者",
 			"discharged": null,
 			"cluster": "itami-daycare",
+			"sources": ["hyogo-22"],
 			"date": "2020-03-11"
 		},
 		{
+			"name": "hyogo-30",
 			"pid": 30,
 			"jid": 546,
 			"address": "兵庫県芦屋市",
@@ -148,9 +170,11 @@
 			"supplement": "No.450の認定こども園に勤務",
 			"discharged": null,
 			"cluster": "kobe-kindergarten",
+			"sources": ["hyogo-16"],
 			"date": "2020-03-11"
 		},
 		{
+			"name": "hyogo-31",
 			"pid": 31,
 			"jid": 547,
 			"address": "兵庫県芦屋市",
@@ -160,9 +184,11 @@
 			"remarks": null,
 			"supplement": "No.546の濃厚接触者",
 			"discharged": null,
+			"sources": ["hyogo-30"],
 			"date": "2020-03-11"
 		},
 		{
+			"name": "hyogo-32",
 			"pid": 32,
 			"jid": 548,
 			"address": "兵庫県神戸市",
@@ -172,9 +198,11 @@
 			"remarks": null,
 			"supplement": "No.494の濃厚接触者",
 			"discharged": null,
+			"sources": ["hyogo-23"],
 			"date": "2020-03-11"
 		},
 		{
+			"name": "hyogo-43",
 			"pid": 43,
 			"jid": 571,
 			"address": "兵庫県伊丹市",
@@ -188,6 +216,7 @@
 			"date": "2020-03-12"
 		},
 		{
+			"name": "hyogo-44",
 			"pid": 44,
 			"jid": 572,
 			"address": "兵庫県宝塚健康福祉事務所管内",
@@ -201,6 +230,7 @@
 			"date": "2020-03-12"
 		},
 		{
+			"name": "hyogo-45",
 			"pid": 45,
 			"jid": 573,
 			"address": "兵庫県宝塚市",
@@ -211,9 +241,11 @@
 			"supplement": "No.450の認定こども園に勤務",
 			"discharged": null,
 			"cluster": "kobe-kindergarten",
+			"sources": ["hyogo-16"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "hyogo-46",
 			"pid": 46,
 			"jid": 574,
 			"address": "兵庫県宝塚健康福祉事務所管内",
@@ -226,6 +258,7 @@
 			"date": "2020-03-12"
 		},
 		{
+			"name": "hyogo-53",
 			"pid": 53,
 			"jid": 611,
 			"address": "兵庫県伊丹市",
@@ -235,9 +268,11 @@
 			"remarks": null,
 			"supplement": "No.544の濃厚接触者",
 			"discharged": null,
+			"sources": ["hyogo-28"],
 			"date": "2020-03-13"
 		},
 		{
+			"name": "hyogo-54",
 			"pid": 54,
 			"jid": 612,
 			"address": "兵庫県宝塚市",
@@ -251,6 +286,7 @@
 			"date": "2020-03-13"
 		},
 		{
+			"name": "hyogo-55",
 			"pid": 55,
 			"address": "兵庫県加古川市",
 			"age": "50s",
@@ -259,9 +295,11 @@
 			"remarks": "無症状",
 			"supplement": "北播磨総合医療センター勤務、No.494の濃厚接触者",
 			"discharged": null,
+			"sources": ["hyogo-23"],
 			"date": "2020-03-13"
 		},
 		{
+			"name": "hyogo-56",
 			"pid": 56,
 			"jid": 613,
 			"address": "兵庫県伊丹市",
@@ -274,6 +312,7 @@
 			"date": "2020-03-13"
 		},
 		{
+			"name": "hyogo-58",
 			"pid": 58,
 			"address": "兵庫県宝塚健康福祉事務所管内",
 			"age": "20s",
@@ -286,6 +325,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "hyogo-59",
 			"pid": 59,
 			"address": "兵庫県宝塚健康福祉事務所管内",
 			"age": "50s",
@@ -298,6 +338,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "hyogo-61",
 			"pid": 61,
 			"address": "兵庫県伊丹市",
 			"age": "50s",
@@ -310,6 +351,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "hyogo-62",
 			"pid": 62,
 			"address": "兵庫県伊丹市",
 			"age": "50s",
@@ -322,6 +364,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "hyogo-63",
 			"pid": 63,
 			"jid": 728,
 			"address": "兵庫県伊丹市",
@@ -335,19 +378,22 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "hyogo-64",
 			"pid": 64,
 			"jid": 681,
 			"address": "兵庫県宝塚健康福祉事務所管内",
 			"age": "80s",
 			"sex": "male",
 			"attribute": null,
-			"remarks": null,
+			"remarks": "3/25死亡",
 			"supplement": "No.543の濃厚接触者（宝塚第一病院の入院同室者）",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "takarazuka-hospital",
+			"sources": ["hyogo-27"],
 			"date": "2020-03-14"
 		},
 		{
+			"name": "hyogo-65",
 			"pid": 65,
 			"jid": 682,
 			"address": "兵庫県芦屋市",
@@ -357,9 +403,11 @@
 			"remarks": null,
 			"supplement": "No.547の濃厚接触者",
 			"discharged": null,
+			"sources": ["hyogo-31"],
 			"date": "2020-03-14"
 		},
 		{
+			"name": "hyogo-66",
 			"pid": 66,
 			"jid": 683,
 			"address": "兵庫県芦屋市",
@@ -373,6 +421,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "hyogo-67",
 			"pid": 67,
 			"jid": 684,
 			"address": "兵庫県三田市",
@@ -386,6 +435,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "hyogo-72",
 			"pid": 72,
 			"address": "兵庫県宝塚健康福祉事務所管内",
 			"age": "80s",
@@ -398,6 +448,7 @@
 			"date": "2020-03-15"
 		},
 		{
+			"name": "hyogo-73",
 			"pid": 73,
 			"address": "兵庫県伊丹健康福祉事務所管内",
 			"age": "80s",
@@ -410,6 +461,7 @@
 			"date": "2020-03-15"
 		},
 		{
+			"name": "hyogo-74",
 			"pid": 74,
 			"address": "兵庫県伊丹健康福祉事務所管内",
 			"age": "80s",
@@ -422,40 +474,48 @@
 			"date": "2020-03-15"
 		},
 		{
+			"name": "hyogo-75",
 			"pid": 75,
 			"address": "兵庫県伊丹市",
 			"age": "80s",
-			"sex": "female",
+			"sex": "male",
 			"attribute": null,
 			"remarks": "無症状",
 			"supplement": "No.415の濃厚接触者",
 			"discharged": null,
+			"sources": ["hyogo-12"],
 			"date": "2020-03-15"
 		},
 		{
+			"name": "hyogo-76",
 			"pid": 76,
 			"address": "兵庫県伊丹市",
 			"age": "80s",
 			"sex": "female",
 			"attribute": null,
 			"remarks": "3/22死亡",
-			"supplement": "No.hyogo75の同居人",
+			"supplement": "兵庫県75例目の同居人",
 			"discharged": "〇",
+			"sources": ["hyogo-75"],
 			"date": "2020-03-15"
 		},
 		{
+			"name": "hyogo-77",
 			"pid": 77,
+			"jid": 1202,
 			"address": "兵庫県宝塚健康福祉事務所管内",
-			"age": "90s",
+			"age": "80s",
 			"sex": "male",
 			"attribute": null,
-			"remarks": "無症状",
+			"remarks": "3/27死亡",
 			"supplement": "No.543、No.681が入院、No.kobe19、No.kobe20が勤務の宝塚第一病院に入院",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "takarazuka-hospital",
+			"sources": ["hyogo-27", "hyogo-64", "hyogo-70", "hyogo-71"],
 			"date": "2020-03-15"
 		},
 		{
+			"name": "hyogo-78",
 			"pid": 78,
 			"address": "兵庫県宝塚健康福祉事務所管内",
 			"age": "90s",
@@ -465,20 +525,24 @@
 			"supplement": "No.543、No.681が入院、No.kobe19、No.kobe20が勤務の宝塚第一病院に入院",
 			"discharged": null,
 			"cluster": "takarazuka-hospital",
-			"date": "2020-03-16"
+			"sources": ["hyogo-27", "hyogo-64", "hyogo-70", "hyogo-71"],
+			"date": "2020-03-15"
 		},
 		{
+			"name": "hyogo-80",
 			"pid": 80,
 			"address": "兵庫県加西市",
 			"age": "50s",
 			"sex": "female",
 			"attribute": "看護師（北播磨総合医療センター）",
 			"remarks": "陽性確定",
-			"supplement": "No.hyogo55の濃厚接触者",
+			"supplement": "兵庫県55例目の濃厚接触者",
 			"discharged": null,
+			"sources": ["hyogo-55"],
 			"date": "2020-03-16"
 		},
 		{
+			"name": "hyogo-81",
 			"pid": 81,
 			"jid": 724,
 			"address": "兵庫県加東健康福祉事務所管内",
@@ -491,6 +555,7 @@
 			"date": "2020-03-16"
 		},
 		{
+			"name": "hyogo-86",
 			"pid": 86,
 			"jid": 738,
 			"address": "兵庫県伊丹健康福祉事務所管内",
@@ -504,6 +569,7 @@
 			"date": "2020-03-17"
 		},
 		{
+			"name": "hyogo-87",
 			"pid": 87,
 			"jid": 799,
 			"address": "兵庫県伊丹健康福祉事務所管内",
@@ -517,6 +583,7 @@
 			"date": "2020-03-18"
 		},
 		{
+			"name": "hyogo-88",
 			"pid": 88,
 			"jid": 800,
 			"address": "兵庫県宝塚市",
@@ -530,6 +597,7 @@
 			"date": "2020-03-18"
 		},
 		{
+			"name": "hyogo-89",
 			"pid": 89,
 			"jid": 801,
 			"address": "兵庫県宝塚市",
@@ -539,9 +607,11 @@
 			"remarks": null,
 			"supplement": "No.493の濃厚接触者",
 			"discharged": null,
+			"sources": ["hyogo-22"],
 			"date": "2020-03-18"
 		},
 		{
+			"name": "hyogo-90",
 			"pid": 90,
 			"jid": 802,
 			"address": "兵庫県伊丹健康福祉事務所管内",
@@ -551,9 +621,11 @@
 			"remarks": null,
 			"supplement": "No.544の濃厚接触者",
 			"discharged": null,
+			"sources": ["hyogo-28"],
 			"date": "2020-03-18"
 		},
 		{
+			"name": "hyogo-91",
 			"pid": 91,
 			"jid": 803,
 			"address": "兵庫県三田市",
@@ -566,6 +638,7 @@
 			"date": "2020-03-18"
 		},
 		{
+			"name": "hyogo-93",
 			"pid": 93,
 			"address": "兵庫県伊丹健康福祉事務所管内",
 			"age": "80s",
@@ -578,6 +651,7 @@
 			"date": "2020-03-19"
 		},
 		{
+			"name": "hyogo-96",
 			"pid": 96,
 			"jid": 844,
 			"address": "兵庫県伊丹健康福祉事務所管内",
@@ -591,6 +665,7 @@
 			"date": "2020-03-20"
 		},
 		{
+			"name": "hyogo-97",
 			"pid": 97,
 			"jid": 845,
 			"address": "兵庫県伊丹健康福祉事務所管内",
@@ -600,9 +675,11 @@
 			"remarks": null,
 			"supplement": "No.844の同居者",
 			"discharged": null,
+			"sources": ["hyogo-96"],
 			"date": "2020-03-20"
 		},
 		{
+			"name": "hyogo-98",
 			"pid": 98,
 			"address": "兵庫県伊丹健康福祉事務所管内",
 			"age": "70s",
@@ -615,6 +692,7 @@
 			"date": "2020-03-20"
 		},
 		{
+			"name": "hyogo-99",
 			"pid": 99,
 			"jid": 846,
 			"address": "兵庫県宝塚市",
@@ -628,6 +706,7 @@
 			"date": "2020-03-20"
 		},
 		{
+			"name": "hyogo-100",
 			"pid": 100,
 			"address": "兵庫県宝塚市",
 			"age": "70s",
@@ -640,6 +719,7 @@
 			"date": "2020-03-20"
 		},
 		{
+			"name": "hyogo-104",
 			"pid": 104,
 			"pid": 901,
 			"address": "兵庫県宝塚市",
@@ -652,6 +732,7 @@
 			"date": "2020-03-21"
 		},
 		{
+			"name": "hyogo-105",
 			"pid": 105,
 			"pid": 902,
 			"address": "兵庫県伊丹市",
@@ -664,6 +745,7 @@
 			"date": "2020-03-21"
 		},
 		{
+			"name": "hyogo-106",
 			"pid": 106,
 			"pid": 903,
 			"address": "兵庫県宝塚市",
@@ -677,6 +759,7 @@
 			"date": "2020-03-21"
 		},
 		{
+			"name": "hyogo-107",
 			"pid": 107,
 			"address": "兵庫県伊丹市",
 			"age": "90s",
@@ -689,6 +772,7 @@
 			"date": "2020-03-21"
 		},
 		{
+			"name": "hyogo-109",
 			"pid": 109,
 			"jid": 949,
 			"address": "兵庫県伊丹健康福祉事務所管内",
@@ -698,9 +782,11 @@
 			"remarks": null,
 			"supplement": "No.799の同居者",
 			"discharged": null,
+			"sources": ["hyogo-87"],
 			"date": "2020-03-22"
 		},
 		{
+			"name": "hyogo-110",
 			"pid": 110,
 			"address": "兵庫県宝塚市",
 			"age": "70s",
@@ -713,6 +799,7 @@
 			"date": "2020-03-22"
 		},
 		{
+			"name": "hyogo-111",
 			"pid": 111,
 			"address": "兵庫県尼崎市",
 			"age": "60s",
@@ -725,6 +812,7 @@
 			"date": "2020-03-22"
 		},
 		{
+			"name": "hyogo-112",
 			"pid": 112,
 			"jid": 957,
 			"address": "兵庫県伊丹健康福祉事務所管内",
@@ -732,11 +820,13 @@
 			"sex": "female",
 			"attribute": "無職",
 			"remarks": null,
-			"supplement": "No.hyogo93の同居者",
+			"supplement": "兵庫県93例目の同居者",
 			"discharged": null,
+			"sources": ["hyogo-93"],
 			"date": "2020-03-23"
 		},
 		{
+			"name": "hyogo-113",
 			"pid": 113,
 			"jid": 958,
 			"address": "兵庫県伊丹市",
@@ -744,11 +834,13 @@
 			"sex": "female",
 			"attribute": "無職",
 			"remarks": null,
-			"supplement": "No.hyogo62の濃厚接触者",
+			"supplement": "兵庫県62例目の濃厚接触者",
 			"discharged": null,
+			"sources": ["hyogo-62"],
 			"date": "2020-03-23"
 		},
 		{
+			"name": "hyogo-114",
 			"pid": 114,
 			"jid": 1047,
 			"address": "兵庫県伊丹市",
@@ -761,6 +853,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "hyogo-115",
 			"pid": 115,
 			"address": "兵庫県伊丹市",
 			"age": "40s",
@@ -772,6 +865,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "hyogo-116",
 			"pid": 116,
 			"jid": 1048,
 			"address": "兵庫県伊丹健康福祉事務所管内",
@@ -785,18 +879,21 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "hyogo-119",
 			"pid": 119,
 			"address": "兵庫県宝塚市",
 			"age": "20s",
 			"sex": "female",
 			"attribute": "宝塚第一病院の職員",
 			"remarks": "無症状",
-			"supplement": "No.543、No.681、No.hyogo77、No.hyogo78の濃厚接触者",
+			"supplement": "兵庫県27例目、64例目、77例目、78例目の濃厚接触者",
 			"discharged": null,
 			"cluster": "takarazuka-hospital",
+			"sources": ["hyogo-27", "hyogo-64", "hyogo-77", "hyogo-78"],
 			"date": "2020-03-25"
 		},
 		{
+			"name": "hyogo-120",
 			"pid": 120,
 			"address": "兵庫県伊丹市",
 			"age": "70s",
@@ -805,6 +902,7 @@
 			"remarks": "無症状",
 			"supplement": "No.493の濃厚接触者",
 			"discharged": null,
+			"sources": ["hyogo-22"],
 			"date": "2020-03-26"
 		}
 	]

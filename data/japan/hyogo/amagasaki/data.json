@@ -1,11 +1,12 @@
 {
-	"id": "amagasaki",
+	"name": "amagasaki",
 	"label": {
 		"ja": "尼崎市"
 	},
 	"date": "2020\/03\/21 18:00",
-	"data": [
+	"children": [
 		{
+			"name": "hyogo-19",
 			"id": 1,
 			"pid": 19,
 			"jid": 490,
@@ -17,9 +18,11 @@
 			"supplement": "No.393が利用する伊丹市内デイケアで勤務",
 			"discharged": null,
 			"cluster": "itami-daycare",
+			"sources": ["hyogo-10"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "hyogo-20",
 			"id": 2,
 			"pid": 20,
 			"jid": 491,
@@ -31,9 +34,11 @@
 			"supplement": "No.393が利用する伊丹市内デイケア利用者",
 			"discharged": null,
 			"cluster": "itami-daycare",
+			"sources": ["hyogo-10"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "hyogo-33",
 			"id": 3,
 			"pid": 33,
 			"jid": 542,
@@ -44,9 +49,11 @@
 			"remarks": null,
 			"supplement": "No.490の同居人",
 			"discharged": null,
+			"sources": ["hyogo-19"],
 			"date": "2020-03-11"
 		},
 		{
+			"name": "hyogo-57",
 			"id": 4,
 			"pid": 57,
 			"jid": 680,
@@ -58,9 +65,11 @@
 			"supplement": "No.490が勤務する伊丹市内デイケア利用者",
 			"discharged": null,
 			"cluster": "itami-daycare",
+			"sources": ["hyogo-19"],
 			"date": "2020-03-14"
 		},
 		{
+			"name": "hyogo-60",
 			"id": 5,
 			"pid": 60,
 			"address": "兵庫県尼崎市",
@@ -74,6 +83,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "hyogo-82",
 			"id": 6,
 			"pid": 82,
 			"jid": 725,
@@ -88,6 +98,7 @@
 			"date": "2020-03-16"
 		},
 		{
+			"name": "hyogo-101",
 			"id": 7,
 			"pid": 101,
 			"jid": 875,
@@ -98,10 +109,11 @@
 			"remarks": null,
 			"supplement": "3/15までイギリスに留学、No.826と同じ大学",
 			"discharged": null,
-			"sources": ["uk"],
+			"sources": ["uk", "saitama-41"],
 			"date": "2020-03-20"
 		},
 		{
+			"name": "hyogo-103",
 			"id": 8,
 			"pid": 103,
 			"jid": 900,

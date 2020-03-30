@@ -1,11 +1,12 @@
 {
-	"id": "saitama-city",
+	"name": "saitama-city",
 	"label": {
 		"ja": "さいたま市"
 	},
-	"date": "2020\/03\/17 18:00",
-	"data": [
+	"date": "2020\/03\/27 18:00",
+	"children": [
 		{
+			"name": "saitama-10",
 			"id": 1,
 			"pid": 10,
 			"jid": 614,
@@ -20,6 +21,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "saitama-17",
 			"id": 2,
 			"pid": 17,
 			"jid": 511,
@@ -30,9 +32,11 @@
 			"remarks": null,
 			"supplement": "No.326と同じ職場で勤務",
 			"discharged": "〇",
+			"sources": ["chiba-17"],
 			"date": "2020-03-11"
 		},
 		{
+			"name": "saitama-22",
 			"id": 3,
 			"pid": 22,
 			"jid": 575,
@@ -47,6 +51,7 @@
 			"date": "2020-03-12"
 		},
 		{
+			"name": "saitama-23",
 			"id": 4,
 			"pid": 23,
 			"jid": 576,
@@ -57,9 +62,11 @@
 			"remarks": null,
 			"supplement": "No.575の母",
 			"discharged": null,
+			"sources": ["saitama-22"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "saitama-33",
 			"id": 5,
 			"pid": 33,
 			"jid": 743,
@@ -70,7 +77,37 @@
 			"remarks": null,
 			"supplement": "No.575の父、No.576の夫（同居家族）",
 			"discharged": null,
+			"sources": ["saitama-22", "saitama-23"],
 			"date": "2020-03-17"
+		},
+		{
+			"name": "saitama-60",
+			"id": 6,
+			"pid": 60,
+			"jid": 1044,
+			"address": "埼玉県さいたま市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員（県外勤務）",
+			"remarks": null,
+			"supplement": "No.866と同じ会合に出席",
+			"discharged": null,
+			"sources": ["tokyo-123"],
+			"date": "2020-03-24"
+		},
+		{
+			"name": "saitama-73",
+			"id": 7,
+			"pid": 73,
+			"jid": 1227,
+			"address": "埼玉県さいたま市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/23まで大阪に滞在",
+			"discharged": null,
+			"date": "2020-03-27"
 		}
 	]
 }

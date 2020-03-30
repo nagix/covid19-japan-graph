@@ -1,11 +1,12 @@
 {
-	"id": "kawasaki",
+	"name": "kawasaki",
 	"label": {
 		"ja": "川崎市"
 	},
-	"date": "2020\/03\/26 18:00",
-	"data": [
+	"date": "2020\/03\/27 18:00",
+	"children": [
 		{
+			"name": "kanagawa-50",
 			"id": 1,
 			"pid": 50,
 			"jid": 643,
@@ -19,6 +20,7 @@
 			"date": "2020-03-12"
 		},
 		{
+			"name": "kanagawa-68",
 			"id": 2,
 			"pid": 68,
 			"address": "神奈川県川崎市",
@@ -31,6 +33,7 @@
 			"date": "2020-03-19"
 		},
 		{
+			"name": "kanagawa-78",
 			"id": 3,
 			"pid": 78,
 			"jid": 952,
@@ -44,6 +47,7 @@
 			"date": "2020-03-22"
 		},
 		{
+			"name": "kanagawa-79",
 			"id": 4,
 			"pid": 79,
 			"jid": 953,
@@ -57,6 +61,7 @@
 			"date": "2020-03-22"
 		},
 		{
+			"name": "kanagawa-85",
 			"id": 5,
 			"pid": 85,
 			"address": "神奈川県川崎市宮前区",
@@ -69,6 +74,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "kanagawa-87",
 			"id": 6,
 			"pid": 87,
 			"jid": 1059,
@@ -83,6 +89,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "kanagawa-88",
 			"id": 7,
 			"pid": 88,
 			"jid": 1060,
@@ -93,9 +100,11 @@
 			"remarks": null,
 			"supplement": "No.1059と接触歴あり",
 			"discharged": null,
+			"sources": ["kanagawa-87"],
 			"date": "2020-03-25"
 		},
 		{
+			"name": "kanagawa-89",
 			"id": 8,
 			"pid": 89,
 			"jid": 1061,
@@ -109,8 +118,9 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "kanagawa-95",
 			"id": 9,
-			"pid": 94,
+			"pid": 95,
 			"jid": 1184,
 			"address": "神奈川県川崎市川崎区",
 			"age": "40s",
@@ -120,6 +130,64 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-26"
+		},
+		{
+			"name": "kanagawa-99",
+			"id": 10,
+			"pid": 99,
+			"jid": 1230,
+			"address": "神奈川県川崎市高津区",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/22まで出張",
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "kanagawa-100",
+			"id": 11,
+			"pid": 100,
+			"jid": 1231,
+			"address": "神奈川県川崎市麻生区",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "パート",
+			"remarks": null,
+			"supplement": "No.1061の家族",
+			"discharged": null,
+			"sources": ["kanagawa-89"],
+			"date": "2020-03-27"
+		},
+		{
+			"name": "kanagawa-101",
+			"id": 12,
+			"pid": 101,
+			"jid": 1232,
+			"address": "神奈川県川崎市幸区",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "陽性患者と接触あり",
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "kanagawa-102",
+			"id": 13,
+			"pid": 102,
+			"jid": 1233,
+			"address": "神奈川県川崎市川崎区",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "No.1184の家族",
+			"discharged": null,
+			"sources": ["kanagawa-95"],
+			"date": "2020-03-27"
 		}
 	]
 }

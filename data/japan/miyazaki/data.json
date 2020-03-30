@@ -1,11 +1,15 @@
 {
-	"id": "miyazaki",
+	"name": "miyazaki",
 	"label": {
 		"ja": "宮崎県"
 	},
+	"prefix": {
+		"ja": "宮崎"
+	},
 	"date": "2020\/03\/17 18:00",
-	"data": [
+	"children": [
 		{
+			"name": "miyazaki-1",
 			"pid": 1,
 			"jid": 264,
 			"address": "宮崎県宮崎市",
@@ -19,6 +23,7 @@
 			"date": "2020-03-04"
 		},
 		{
+			"name": "miyazaki-2",
 			"pid": 2,
 			"jid": 732,
 			"address": "国外",
@@ -31,6 +36,7 @@
 			"date": "2020-03-17"
 		},
 		{
+			"name": "miyazaki-3",
 			"pid": 3,
 			"jid": 733,
 			"address": "高千穂町",

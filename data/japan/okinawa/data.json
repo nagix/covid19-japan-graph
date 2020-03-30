@@ -1,11 +1,15 @@
 {
-	"id": "okinawa",
+	"name": "okinawa",
 	"label": {
 		"ja": "沖縄県"
 	},
+	"prefix": {
+		"ja": "沖縄"
+	},
 	"date": "2020\/02\/26 14:00",
-	"data": [
+	"children": [
 		{
+			"name": "okinawa-1",
 			"pid": 1,
 			"jid": 32,
 			"address": "沖縄県南部保健所管内",
@@ -19,6 +23,7 @@
 			"date": "2020-02-14"
 		},
 		{
+			"name": "okinawa-2",
 			"pid": 2,
 			"jid": 65,
 			"address": "沖縄県那覇市",
@@ -32,6 +37,7 @@
 			"date": "2020-02-19"
 		},
 		{
+			"name": "okinawa-3",
 			"pid": 3,
 			"jid": 74,
 			"address": "沖縄県豊見城市",
@@ -44,6 +50,7 @@
 			"date": "2020-02-20"
 		},
 		{
+			"name": "okinawa-4",
 			"pid": 4,
 			"jid": 992,
 			"address": "沖縄県南部保健所管内",
@@ -57,7 +64,9 @@
 			"date": "2020-03-23"
 		},
 		{
+			"name": "okinawa-5",
 			"pid": 5,
+			"jid": 1206,
 			"address": "東京都",
 			"age": "40s",
 			"sex": "male",
@@ -68,7 +77,9 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "okinawa-6",
 			"pid": 6,
+			"jid": 1207,
 			"address": "沖縄県那覇市",
 			"age": "30s",
 			"sex": "male",

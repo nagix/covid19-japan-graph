@@ -1,11 +1,15 @@
 {
-	"id": "tokyo",
+	"name": "tokyo",
 	"label": {
 		"ja": "東京都"
 	},
-	"date": "2020\/03\/26 21:45",
-	"data": [
+	"prefix": {
+		"ja": "東京"
+	},
+	"date": "2020\/03\/27 21:00",
+	"children": [
 		{
+			"name": "tokyo-1",
 			"pid": 1,
 			"jid": 2,
 			"address": "湖北省武漢市",
@@ -19,6 +23,7 @@
 			"date": "2020-01-24"
 		},
 		{
+			"name": "tokyo-2",
 			"pid": 2,
 			"jid": 3,
 			"address": "湖北省武漢市",
@@ -32,6 +37,7 @@
 			"date": "2020-01-25"
 		},
 		{
+			"name": "tokyo-3",
 			"pid": 3,
 			"jid": 11,
 			"address": "湖南省長沙市",
@@ -45,6 +51,7 @@
 			"date": "2020-01-30"
 		},
 		{
+			"name": "tokyo-4",
 			"pid": 4,
 			"jid": 28,
 			"address": "東京都",
@@ -55,9 +62,11 @@
 			"supplement": "No.34の濃厚接触者",
 			"discharged": null,
 			"cluster": "tokyo-yakatabune",
+			"sources": ["tokyo-6"],
 			"date": "2020-02-13"
 		},
 		{
+			"name": "tokyo-5",
 			"pid": 5,
 			"jid": 33,
 			"address": "東京都",
@@ -68,9 +77,11 @@
 			"supplement": "No.28の濃厚接触者",
 			"discharged": "〇",
 			"cluster": "tokyo-yakatabune",
+			"sources": ["tokyo-4"],
 			"date": "2020-02-14"
 		},
 		{
+			"name": "tokyo-6",
 			"pid": 6,
 			"jid": 34,
 			"address": "東京都",
@@ -85,6 +96,7 @@
 			"date": "2020-02-14"
 		},
 		{
+			"name": "tokyo-7",
 			"pid": 7,
 			"address": "都内",
 			"age": "80s",
@@ -94,9 +106,11 @@
 			"supplement": "No.28の濃厚接触者",
 			"discharged": "〇",
 			"cluster": "tokyo-yakatabune",
+			"sources": ["tokyo-4"],
 			"date": "2020-02-15"
 		},
 		{
+			"name": "tokyo-8",
 			"pid": 8,
 			"address": "都内",
 			"age": "50s",
@@ -106,9 +120,11 @@
 			"supplement": "No.28の濃厚接触者",
 			"discharged": "〇",
 			"cluster": "tokyo-yakatabune",
+			"sources": ["tokyo-4"],
 			"date": "2020-02-15"
 		},
 		{
+			"name": "tokyo-9",
 			"pid": 9,
 			"address": "都内",
 			"age": "50s",
@@ -118,9 +134,11 @@
 			"supplement": "No.28の濃厚接触者",
 			"discharged": "〇",
 			"cluster": "tokyo-yakatabune",
+			"sources": ["tokyo-4"],
 			"date": "2020-02-15"
 		},
 		{
+			"name": "tokyo-10",
 			"pid": 10,
 			"address": "都内",
 			"age": "70s",
@@ -130,9 +148,11 @@
 			"supplement": "No.28の濃厚接触者",
 			"discharged": "〇",
 			"cluster": "tokyo-yakatabune",
+			"sources": ["tokyo-4"],
 			"date": "2020-02-15"
 		},
 		{
+			"name": "tokyo-11",
 			"pid": 11,
 			"address": "都内",
 			"age": "70s",
@@ -142,9 +162,11 @@
 			"supplement": "No.28の濃厚接触者",
 			"discharged": "〇",
 			"cluster": "tokyo-yakatabune",
+			"sources": ["tokyo-4"],
 			"date": "2020-02-15"
 		},
 		{
+			"name": "tokyo-12",
 			"pid": 12,
 			"address": "都内",
 			"age": "40s",
@@ -154,9 +176,11 @@
 			"supplement": "No.28の濃厚接触者",
 			"discharged": "〇",
 			"cluster": "tokyo-yakatabune",
+			"sources": ["tokyo-4"],
 			"date": "2020-02-15"
 		},
 		{
+			"name": "tokyo-13",
 			"pid": 13,
 			"jid": 42,
 			"address": "都内",
@@ -167,9 +191,11 @@
 			"supplement": "No.28の濃厚接触者",
 			"discharged": "〇",
 			"cluster": "tokyo-yakatabune",
+			"sources": ["tokyo-4"],
 			"date": "2020-02-15"
 		},
 		{
+			"name": "tokyo-14",
 			"pid": 14,
 			"jid": 41,
 			"address": "東京都",
@@ -182,6 +208,7 @@
 			"date": "2020-02-15"
 		},
 		{
+			"name": "tokyo-15",
 			"pid": 15,
 			"jid": 47,
 			"address": "東京都",
@@ -192,9 +219,11 @@
 			"supplement": "No.28の濃厚接触者",
 			"discharged": null,
 			"cluster": "tokyo-yakatabune",
+			"sources": ["tokyo-4"],
 			"date": "2020-02-16"
 		},
 		{
+			"name": "tokyo-16",
 			"pid": 16,
 			"address": "東京都",
 			"age": "30s",
@@ -204,20 +233,24 @@
 			"supplement": "No.28の濃厚接触者",
 			"discharged": "〇",
 			"cluster": "tokyo-yakatabune",
+			"sources": ["tokyo-4"],
 			"date": "2020-02-16"
 		},
 		{
+			"name": "tokyo-17",
 			"pid": 17,
 			"address": "東京都",
 			"age": "60s",
 			"sex": "male",
 			"attribute": "医療従事者（医師）",
 			"remarks": null,
-			"supplement": "No.tokyo8の濃厚接触者",
+			"supplement": "東京都8例目の濃厚接触者",
 			"discharged": "〇",
+			"sources": ["tokyo-8"],
 			"date": "2020-02-16"
 		},
 		{
+			"name": "tokyo-18",
 			"pid": 18,
 			"jid": 46,
 			"address": "埼玉県",
@@ -230,6 +263,7 @@
 			"date": "2020-02-16"
 		},
 		{
+			"name": "tokyo-19",
 			"pid": 19,
 			"jid": 45,
 			"address": "東京都",
@@ -239,9 +273,11 @@
 			"remarks": null,
 			"supplement": "No.41と一緒の研修と食事",
 			"discharged": "〇",
+			"sources": ["tokyo-14"],
 			"date": "2020-02-16"
 		},
 		{
+			"name": "tokyo-20",
 			"pid": 20,
 			"jid": 56,
 			"address": "東京都",
@@ -254,6 +290,7 @@
 			"date": "2020-02-18"
 		},
 		{
+			"name": "tokyo-21",
 			"pid": 21,
 			"jid": 57,
 			"address": "東京都",
@@ -261,11 +298,13 @@
 			"sex": "male",
 			"attribute": "会社員",
 			"remarks": null,
-			"supplement": "No.tokyo17の濃厚接触者",
+			"supplement": "東京都17例目の濃厚接触者",
 			"discharged": "〇",
+			"sources": ["tokyo-17"],
 			"date": "2020-02-18"
 		},
 		{
+			"name": "tokyo-22",
 			"pid": 22,
 			"jid": 58,
 			"address": "東京都",
@@ -278,6 +317,7 @@
 			"date": "2020-02-18"
 		},
 		{
+			"name": "tokyo-23",
 			"pid": 23,
 			"jid": 66,
 			"address": "東京都",
@@ -290,6 +330,7 @@
 			"date": "2020-02-19"
 		},
 		{
+			"name": "tokyo-24",
 			"pid": 24,
 			"jid": 67,
 			"address": "東京都",
@@ -299,9 +340,11 @@
 			"remarks": null,
 			"supplement": "No.66の同居者",
 			"discharged": "〇",
+			"sources": ["tokyo-23"],
 			"date": "2020-02-19"
 		},
 		{
+			"name": "tokyo-25",
 			"pid": 25,
 			"jid": 68,
 			"address": "東京都",
@@ -311,9 +354,11 @@
 			"remarks": null,
 			"supplement": "No.56の同居者",
 			"discharged": "〇",
+			"sources": ["tokyo-20"],
 			"date": "2020-02-19"
 		},
 		{
+			"name": "tokyo-26",
 			"pid": 26,
 			"jid": 85,
 			"address": "東京都",
@@ -326,6 +371,7 @@
 			"date": "2020-02-21"
 		},
 		{
+			"name": "tokyo-27",
 			"pid": 27,
 			"jid": 86,
 			"address": "東京都",
@@ -333,12 +379,14 @@
 			"sex": "female",
 			"attribute": "自営業",
 			"remarks": null,
-			"supplement": "No.tokyo8、No.tokyo17の濃厚接触者",
+			"supplement": "東京都8例目、17例目の濃厚接触者",
 			"discharged": "〇",
 			"cluster": "tokyo-yakatabune",
+			"sources": ["tokyo-8", "tokyo-17"],
 			"date": "2020-02-21"
 		},
 		{
+			"name": "tokyo-28",
 			"pid": 28,
 			"jid": 87,
 			"address": "東京都",
@@ -346,11 +394,13 @@
 			"sex": "female",
 			"attribute": "無職",
 			"remarks": null,
-			"supplement": "No.tokyo17の同居者",
+			"supplement": "東京都17例目の同居者",
 			"discharged": "〇",
+			"sources": ["tokyo-17"],
 			"date": "2020-02-21"
 		},
 		{
+			"name": "tokyo-29",
 			"pid": 29,
 			"jid": 106,
 			"address": "東京都",
@@ -363,6 +413,7 @@
 			"date": "2020-02-22"
 		},
 		{
+			"name": "tokyo-30",
 			"pid": 30,
 			"jid": 134,
 			"address": "東京都",
@@ -375,6 +426,7 @@
 			"date": "2020-02-24"
 		},
 		{
+			"name": "tokyo-31",
 			"pid": 31,
 			"jid": 135,
 			"address": "東京都",
@@ -387,6 +439,7 @@
 			"date": "2020-02-24"
 		},
 		{
+			"name": "tokyo-32",
 			"pid": 32,
 			"jid": 136,
 			"address": "東京都",
@@ -399,6 +452,7 @@
 			"date": "2020-02-24"
 		},
 		{
+			"name": "tokyo-33",
 			"pid": 33,
 			"jid": 160,
 			"address": "東京都",
@@ -411,6 +465,7 @@
 			"date": "2020-02-26"
 		},
 		{
+			"name": "tokyo-34",
 			"pid": 34,
 			"jid": 161,
 			"address": "東京都",
@@ -420,9 +475,11 @@
 			"remarks": null,
 			"supplement": "No.160の濃厚接触者",
 			"discharged": null,
+			"sources": ["tokyo-33"],
 			"date": "2020-02-26"
 		},
 		{
+			"name": "tokyo-35",
 			"pid": 35,
 			"jid": 162,
 			"address": "東京都",
@@ -435,6 +492,7 @@
 			"date": "2020-02-26"
 		},
 		{
+			"name": "tokyo-36",
 			"pid": 36,
 			"jid": 172,
 			"address": "東京都外",
@@ -447,6 +505,7 @@
 			"date": "2020-02-27"
 		},
 		{
+			"name": "tokyo-37",
 			"pid": 37,
 			"jid": 212,
 			"address": "東京都",
@@ -456,9 +515,11 @@
 			"remarks": null,
 			"supplement": "No.56、No.68の濃厚接触者",
 			"discharged": null,
+			"sources": ["tokyo-20", "tokyo-25"],
 			"date": "2020-02-29"
 		},
 		{
+			"name": "tokyo-38",
 			"pid": 38,
 			"jid": 224,
 			"address": "東京都",
@@ -472,6 +533,7 @@
 			"date": "2020-03-01"
 		},
 		{
+			"name": "tokyo-39",
 			"pid": 39,
 			"jid": 225,
 			"address": "東京都",
@@ -481,9 +543,11 @@
 			"remarks": null,
 			"supplement": "No.56の濃厚接触者(同じ病室に入院)",
 			"discharged": null,
+			"sources": ["tokyo-20"],
 			"date": "2020-03-01"
 		},
 		{
+			"name": "tokyo-40",
 			"pid": 40,
 			"jid": 250,
 			"address": "東京都",
@@ -496,6 +560,7 @@
 			"date": "2020-03-03"
 		},
 		{
+			"name": "tokyo-41",
 			"pid": 41,
 			"jid": 268,
 			"address": "東京都",
@@ -508,6 +573,7 @@
 			"date": "2020-03-04"
 		},
 		{
+			"name": "tokyo-42",
 			"pid": 42,
 			"jid": 269,
 			"address": "東京都",
@@ -521,6 +587,7 @@
 			"date": "2020-03-04"
 		},
 		{
+			"name": "tokyo-43",
 			"pid": 43,
 			"jid": 270,
 			"address": "東京都",
@@ -533,6 +600,7 @@
 			"date": "2020-03-04"
 		},
 		{
+			"name": "tokyo-44",
 			"pid": 44,
 			"jid": 271,
 			"address": "東京都",
@@ -546,6 +614,7 @@
 			"date": "2020-03-04"
 		},
 		{
+			"name": "tokyo-45",
 			"pid": 45,
 			"jid": 295,
 			"address": "東京都",
@@ -555,9 +624,11 @@
 			"remarks": null,
 			"supplement": "No.250の濃厚接触者",
 			"discharged": "〇",
+			"sources": ["tokyo-40"],
 			"date": "2020-03-05"
 		},
 		{
+			"name": "tokyo-46",
 			"pid": 46,
 			"jid": 296,
 			"address": "東京都",
@@ -567,9 +638,11 @@
 			"remarks": null,
 			"supplement": "No.250の濃厚接触者",
 			"discharged": "〇",
+			"sources": ["tokyo-40"],
 			"date": "2020-03-05"
 		},
 		{
+			"name": "tokyo-47",
 			"pid": 47,
 			"jid": 297,
 			"address": "東京都",
@@ -579,9 +652,11 @@
 			"remarks": null,
 			"supplement": "No.250の濃厚接触者",
 			"discharged": "〇",
+			"sources": ["tokyo-40"],
 			"date": "2020-03-05"
 		},
 		{
+			"name": "tokyo-48",
 			"pid": 48,
 			"jid": 298,
 			"address": "東京都",
@@ -594,6 +669,7 @@
 			"date": "2020-03-05"
 		},
 		{
+			"name": "tokyo-49",
 			"pid": 49,
 			"jid": 299,
 			"address": "東京都",
@@ -603,9 +679,11 @@
 			"remarks": null,
 			"supplement": "No.162の同居者",
 			"discharged": null,
+			"sources": ["tokyo-35"],
 			"date": "2020-03-05"
 		},
 		{
+			"name": "tokyo-50",
 			"pid": 50,
 			"jid": 300,
 			"address": "東京都",
@@ -618,6 +696,7 @@
 			"date": "2020-03-05"
 		},
 		{
+			"name": "tokyo-51",
 			"pid": 51,
 			"jid": 301,
 			"address": "東京都",
@@ -630,6 +709,7 @@
 			"date": "2020-03-05"
 		},
 		{
+			"name": "tokyo-52",
 			"pid": 52,
 			"jid": 302,
 			"address": "東京都",
@@ -642,6 +722,7 @@
 			"date": "2020-03-05"
 		},
 		{
+			"name": "tokyo-53",
 			"pid": 53,
 			"jid": 321,
 			"address": "東京都",
@@ -651,9 +732,11 @@
 			"remarks": null,
 			"supplement": "No.250の同居者",
 			"discharged": null,
+			"sources": ["tokyo-40"],
 			"date": "2020-03-06"
 		},
 		{
+			"name": "tokyo-54",
 			"pid": 54,
 			"jid": 322,
 			"address": "東京都",
@@ -667,6 +750,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "tokyo-55",
 			"pid": 55,
 			"jid": 323,
 			"address": "東京都",
@@ -679,6 +763,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "tokyo-56",
 			"pid": 56,
 			"jid": 324,
 			"address": "東京都",
@@ -691,6 +776,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "tokyo-57",
 			"pid": 57,
 			"address": "東京都",
 			"age": "30s",
@@ -703,6 +789,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "tokyo-58",
 			"pid": 58,
 			"jid": 325,
 			"address": "東京都",
@@ -715,6 +802,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "tokyo-59",
 			"pid": 59,
 			"jid": 386,
 			"address": "東京都",
@@ -727,6 +815,7 @@
 			"date": "2020-03-07"
 		},
 		{
+			"name": "tokyo-60",
 			"pid": 60,
 			"jid": 387,
 			"address": "東京都",
@@ -739,6 +828,7 @@
 			"date": "2020-03-07"
 		},
 		{
+			"name": "tokyo-61",
 			"pid": 61,
 			"address": "東京都",
 			"age": "40s",
@@ -750,6 +840,7 @@
 			"date": "2020-03-07"
 		},
 		{
+			"name": "tokyo-62",
 			"pid": 62,
 			"jid": 388,
 			"address": "東京都",
@@ -762,6 +853,7 @@
 			"date": "2020-03-07"
 		},
 		{
+			"name": "tokyo-63",
 			"pid": 63,
 			"jid": 389,
 			"address": "東京都",
@@ -774,6 +866,7 @@
 			"date": "2020-03-07"
 		},
 		{
+			"name": "tokyo-64",
 			"pid": 64,
 			"jid": 390,
 			"address": "東京都",
@@ -786,6 +879,7 @@
 			"date": "2020-03-07"
 		},
 		{
+			"name": "tokyo-65",
 			"pid": 65,
 			"jid": 497,
 			"address": "東京都",
@@ -798,6 +892,7 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "tokyo-66",
 			"pid": 66,
 			"jid": 498,
 			"address": "東京都",
@@ -810,6 +905,7 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "tokyo-67",
 			"pid": 67,
 			"address": "東京都",
 			"age": "40s",
@@ -822,6 +918,7 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "tokyo-68",
 			"pid": 68,
 			"jid": 531,
 			"address": "東京都",
@@ -834,6 +931,7 @@
 			"date": "2020-03-11"
 		},
 		{
+			"name": "tokyo-69",
 			"pid": 69,
 			"jid": 532,
 			"address": "東京都",
@@ -846,6 +944,7 @@
 			"date": "2020-03-11"
 		},
 		{
+			"name": "tokyo-70",
 			"pid": 70,
 			"jid": 533,
 			"address": "東京都",
@@ -858,6 +957,7 @@
 			"date": "2020-03-11"
 		},
 		{
+			"name": "tokyo-71",
 			"pid": 71,
 			"jid": 534,
 			"address": "東京都",
@@ -870,6 +970,7 @@
 			"date": "2020-03-11"
 		},
 		{
+			"name": "tokyo-72",
 			"pid": 72,
 			"jid": 535,
 			"address": "東京都",
@@ -882,6 +983,7 @@
 			"date": "2020-03-11"
 		},
 		{
+			"name": "tokyo-73",
 			"pid": 73,
 			"jid": 536,
 			"address": "東京都",
@@ -894,6 +996,7 @@
 			"date": "2020-03-11"
 		},
 		{
+			"name": "tokyo-74",
 			"pid": 74,
 			"jid": 567,
 			"address": "東京都",
@@ -906,6 +1009,7 @@
 			"date": "2020-03-12"
 		},
 		{
+			"name": "tokyo-75",
 			"pid": 75,
 			"jid": 568,
 			"address": "東京都",
@@ -918,6 +1022,7 @@
 			"date": "2020-03-12"
 		},
 		{
+			"name": "tokyo-76",
 			"pid": 76,
 			"jid": 632,
 			"address": "東京都",
@@ -930,6 +1035,7 @@
 			"date": "2020-03-13"
 		},
 		{
+			"name": "tokyo-77",
 			"pid": 77,
 			"jid": 633,
 			"address": "東京都",
@@ -942,6 +1048,7 @@
 			"date": "2020-03-13"
 		},
 		{
+			"name": "tokyo-78",
 			"pid": 78,
 			"address": "東京都外",
 			"age": "40s",
@@ -953,6 +1060,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "tokyo-79",
 			"pid": 79,
 			"jid": 661,
 			"address": "東京都",
@@ -966,6 +1074,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "tokyo-80",
 			"pid": 80,
 			"jid": 662,
 			"address": "東京都",
@@ -978,6 +1087,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "tokyo-81",
 			"pid": 81,
 			"jid": 663,
 			"address": "東京都",
@@ -991,6 +1101,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "tokyo-82",
 			"pid": 82,
 			"jid": 664,
 			"address": "神奈川県相模原市",
@@ -1003,6 +1114,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "tokyo-83",
 			"pid": 83,
 			"jid": 665,
 			"address": "東京都",
@@ -1015,6 +1127,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "tokyo-84",
 			"pid": 84,
 			"jid": 666,
 			"address": "東京都",
@@ -1027,6 +1140,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "tokyo-85",
 			"pid": 85,
 			"jid": 667,
 			"address": "東京都",
@@ -1039,6 +1153,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "tokyo-86",
 			"pid": 86,
 			"jid": 668,
 			"address": "東京都",
@@ -1051,6 +1166,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "tokyo-87",
 			"pid": 87,
 			"jid": 669,
 			"address": "東京都",
@@ -1063,6 +1179,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "tokyo-88",
 			"pid": 88,
 			"jid": 707,
 			"address": "東京都",
@@ -1076,6 +1193,7 @@
 			"date": "2020-03-15"
 		},
 		{
+			"name": "tokyo-89",
 			"pid": 89,
 			"jid": 708,
 			"address": "東京都",
@@ -1088,6 +1206,7 @@
 			"date": "2020-03-15"
 		},
 		{
+			"name": "tokyo-90",
 			"pid": 90,
 			"jid": 709,
 			"address": "東京都",
@@ -1100,6 +1219,7 @@
 			"date": "2020-03-15"
 		},
 		{
+			"name": "tokyo-91",
 			"pid": 91,
 			"jid": 756,
 			"address": "東京都",
@@ -1112,6 +1232,7 @@
 			"date": "2020-03-17"
 		},
 		{
+			"name": "tokyo-92",
 			"pid": 92,
 			"jid": 757,
 			"address": "東京都",
@@ -1124,6 +1245,7 @@
 			"date": "2020-03-17"
 		},
 		{
+			"name": "tokyo-93",
 			"pid": 93,
 			"jid": 758,
 			"address": "東京都",
@@ -1136,6 +1258,7 @@
 			"date": "2020-03-17"
 		},
 		{
+			"name": "tokyo-94",
 			"pid": 94,
 			"jid": 759,
 			"address": "東京都",
@@ -1148,6 +1271,7 @@
 			"date": "2020-03-17"
 		},
 		{
+			"name": "tokyo-95",
 			"pid": 95,
 			"jid": 760,
 			"address": "東京都",
@@ -1160,6 +1284,7 @@
 			"date": "2020-03-17"
 		},
 		{
+			"name": "tokyo-96",
 			"pid": 96,
 			"jid": 761,
 			"address": "東京都",
@@ -1172,6 +1297,7 @@
 			"date": "2020-03-17"
 		},
 		{
+			"name": "tokyo-97",
 			"pid": 97,
 			"jid": 762,
 			"address": "東京都",
@@ -1184,6 +1310,7 @@
 			"date": "2020-03-17"
 		},
 		{
+			"name": "tokyo-98",
 			"pid": 98,
 			"jid": 763,
 			"address": "東京都",
@@ -1196,6 +1323,7 @@
 			"date": "2020-03-17"
 		},
 		{
+			"name": "tokyo-99",
 			"pid": 99,
 			"jid": 764,
 			"address": "東京都",
@@ -1208,6 +1336,7 @@
 			"date": "2020-03-17"
 		},
 		{
+			"name": "tokyo-100",
 			"pid": 100,
 			"jid": 765,
 			"address": "東京都",
@@ -1220,6 +1349,7 @@
 			"date": "2020-03-17"
 		},
 		{
+			"name": "tokyo-101",
 			"pid": 101,
 			"jid": 766,
 			"address": "東京都",
@@ -1232,6 +1362,7 @@
 			"date": "2020-03-17"
 		},
 		{
+			"name": "tokyo-102",
 			"pid": 102,
 			"jid": 767,
 			"address": "東京都",
@@ -1244,6 +1375,7 @@
 			"date": "2020-03-17"
 		},
 		{
+			"name": "tokyo-103",
 			"pid": 103,
 			"jid": 790,
 			"address": "東京都外",
@@ -1256,6 +1388,7 @@
 			"date": "2020-03-18"
 		},
 		{
+			"name": "tokyo-104",
 			"pid": 104,
 			"jid": 791,
 			"address": "東京都",
@@ -1268,6 +1401,7 @@
 			"date": "2020-03-18"
 		},
 		{
+			"name": "tokyo-105",
 			"pid": 105,
 			"jid": 792,
 			"address": "東京都",
@@ -1280,6 +1414,7 @@
 			"date": "2020-03-18"
 		},
 		{
+			"name": "tokyo-106",
 			"pid": 106,
 			"jid": 793,
 			"address": "東京都外",
@@ -1292,6 +1427,7 @@
 			"date": "2020-03-18"
 		},
 		{
+			"name": "tokyo-107",
 			"pid": 107,
 			"jid": 794,
 			"address": "東京都",
@@ -1304,6 +1440,7 @@
 			"date": "2020-03-18"
 		},
 		{
+			"name": "tokyo-108",
 			"pid": 108,
 			"jid": 795,
 			"address": "東京都",
@@ -1316,6 +1453,7 @@
 			"date": "2020-03-18"
 		},
 		{
+			"name": "tokyo-109",
 			"pid": 109,
 			"jid": 796,
 			"address": "東京都",
@@ -1328,6 +1466,7 @@
 			"date": "2020-03-18"
 		},
 		{
+			"name": "tokyo-110",
 			"pid": 110,
 			"jid": 797,
 			"address": "東京都",
@@ -1340,6 +1479,7 @@
 			"date": "2020-03-18"
 		},
 		{
+			"name": "tokyo-111",
 			"pid": 111,
 			"jid": 798,
 			"address": "東京都",
@@ -1352,6 +1492,7 @@
 			"date": "2020-03-18"
 		},
 		{
+			"name": "tokyo-112",
 			"pid": 112,
 			"jid": 832,
 			"address": "東京都",
@@ -1364,6 +1505,7 @@
 			"date": "2020-03-19"
 		},
 		{
+			"name": "tokyo-113",
 			"pid": 113,
 			"jid": 833,
 			"address": "東京都",
@@ -1376,6 +1518,7 @@
 			"date": "2020-03-19"
 		},
 		{
+			"name": "tokyo-114",
 			"pid": 114,
 			"jid": 834,
 			"address": "東京都",
@@ -1388,6 +1531,7 @@
 			"date": "2020-03-19"
 		},
 		{
+			"name": "tokyo-115",
 			"pid": 115,
 			"jid": 835,
 			"address": "東京都",
@@ -1400,6 +1544,7 @@
 			"date": "2020-03-19"
 		},
 		{
+			"name": "tokyo-116",
 			"pid": 116,
 			"jid": 836,
 			"address": "東京都",
@@ -1412,6 +1557,7 @@
 			"date": "2020-03-19"
 		},
 		{
+			"name": "tokyo-117",
 			"pid": 117,
 			"jid": 837,
 			"address": "東京都",
@@ -1424,6 +1570,7 @@
 			"date": "2020-03-19"
 		},
 		{
+			"name": "tokyo-118",
 			"pid": 118,
 			"jid": 838,
 			"address": "東京都",
@@ -1436,6 +1583,7 @@
 			"date": "2020-03-19"
 		},
 		{
+			"name": "tokyo-119",
 			"pid": 119,
 			"jid": 862,
 			"address": "東京都",
@@ -1448,6 +1596,7 @@
 			"date": "2020-03-20"
 		},
 		{
+			"name": "tokyo-120",
 			"pid": 120,
 			"jid": 863,
 			"address": "東京都",
@@ -1461,6 +1610,7 @@
 			"date": "2020-03-20"
 		},
 		{
+			"name": "tokyo-121",
 			"pid": 121,
 			"jid": 864,
 			"address": "東京都",
@@ -1474,6 +1624,7 @@
 			"date": "2020-03-20"
 		},
 		{
+			"name": "tokyo-122",
 			"pid": 122,
 			"jid": 865,
 			"address": "東京都",
@@ -1486,6 +1637,7 @@
 			"date": "2020-03-20"
 		},
 		{
+			"name": "tokyo-123",
 			"pid": 123,
 			"jid": 866,
 			"address": "東京都外",
@@ -1498,6 +1650,7 @@
 			"date": "2020-03-20"
 		},
 		{
+			"name": "tokyo-124",
 			"pid": 124,
 			"jid": 867,
 			"address": "東京都",
@@ -1510,6 +1663,7 @@
 			"date": "2020-03-20"
 		},
 		{
+			"name": "tokyo-125",
 			"pid": 125,
 			"jid": 868,
 			"address": "東京都",
@@ -1522,6 +1676,7 @@
 			"date": "2020-03-20"
 		},
 		{
+			"name": "tokyo-126",
 			"pid": 126,
 			"jid": 869,
 			"address": "東京都",
@@ -1535,6 +1690,7 @@
 			"date": "2020-03-20"
 		},
 		{
+			"name": "tokyo-127",
 			"pid": 127,
 			"jid": 870,
 			"address": "東京都",
@@ -1548,6 +1704,7 @@
 			"date": "2020-03-20"
 		},
 		{
+			"name": "tokyo-128",
 			"pid": 128,
 			"jid": 871,
 			"address": "東京都",
@@ -1560,6 +1717,7 @@
 			"date": "2020-03-20"
 		},
 		{
+			"name": "tokyo-129",
 			"pid": 129,
 			"jid": 872,
 			"address": "東京都",
@@ -1572,6 +1730,7 @@
 			"date": "2020-03-20"
 		},
 		{
+			"name": "tokyo-130",
 			"pid": 130,
 			"jid": 908,
 			"address": "東京都",
@@ -1584,6 +1743,7 @@
 			"date": "2020-03-21"
 		},
 		{
+			"name": "tokyo-131",
 			"pid": 131,
 			"jid": 909,
 			"address": "東京都",
@@ -1596,6 +1756,7 @@
 			"date": "2020-03-21"
 		},
 		{
+			"name": "tokyo-132",
 			"pid": 132,
 			"jid": 910,
 			"address": "東京都",
@@ -1609,6 +1770,7 @@
 			"date": "2020-03-21"
 		},
 		{
+			"name": "tokyo-133",
 			"pid": 133,
 			"jid": 911,
 			"address": "東京都",
@@ -1621,6 +1783,7 @@
 			"date": "2020-03-21"
 		},
 		{
+			"name": "tokyo-134",
 			"pid": 134,
 			"jid": 912,
 			"address": "東京都",
@@ -1633,6 +1796,7 @@
 			"date": "2020-03-21"
 		},
 		{
+			"name": "tokyo-135",
 			"pid": 135,
 			"jid": 913,
 			"address": "東京都",
@@ -1645,6 +1809,7 @@
 			"date": "2020-03-21"
 		},
 		{
+			"name": "tokyo-136",
 			"pid": 136,
 			"jid": 914,
 			"address": "東京都",
@@ -1657,6 +1822,7 @@
 			"date": "2020-03-21"
 		},
 		{
+			"name": "tokyo-137",
 			"pid": 137,
 			"jid": 941,
 			"address": "東京都",
@@ -1670,6 +1836,7 @@
 			"date": "2020-03-22"
 		},
 		{
+			"name": "tokyo-138",
 			"pid": 138,
 			"jid": 942,
 			"address": "東京都外",
@@ -1683,6 +1850,7 @@
 			"date": "2020-03-22"
 		},
 		{
+			"name": "tokyo-139",
 			"pid": 139,
 			"jid": 978,
 			"address": "東京都",
@@ -1695,6 +1863,7 @@
 			"date": "2020-03-23"
 		},
 		{
+			"name": "tokyo-140",
 			"pid": 140,
 			"jid": 979,
 			"address": "東京都",
@@ -1708,6 +1877,7 @@
 			"date": "2020-03-23"
 		},
 		{
+			"name": "tokyo-141",
 			"pid": 141,
 			"jid": 980,
 			"address": "東京都",
@@ -1721,6 +1891,7 @@
 			"date": "2020-03-23"
 		},
 		{
+			"name": "tokyo-142",
 			"pid": 142,
 			"jid": 981,
 			"address": "東京都",
@@ -1733,6 +1904,7 @@
 			"date": "2020-03-23"
 		},
 		{
+			"name": "tokyo-143",
 			"pid": 143,
 			"jid": 982,
 			"address": "東京都",
@@ -1745,6 +1917,7 @@
 			"date": "2020-03-23"
 		},
 		{
+			"name": "tokyo-144",
 			"pid": 144,
 			"jid": 983,
 			"address": "東京都",
@@ -1757,6 +1930,7 @@
 			"date": "2020-03-23"
 		},
 		{
+			"name": "tokyo-145",
 			"pid": 145,
 			"jid": 984,
 			"address": "東京都",
@@ -1770,6 +1944,7 @@
 			"date": "2020-03-23"
 		},
 		{
+			"name": "tokyo-146",
 			"pid": 146,
 			"address": "東京都",
 			"age": "70s",
@@ -1781,6 +1956,7 @@
 			"date": "2020-03-23"
 		},
 		{
+			"name": "tokyo-147",
 			"pid": 147,
 			"jid": 985,
 			"address": "東京都",
@@ -1794,6 +1970,7 @@
 			"date": "2020-03-23"
 		},
 		{
+			"name": "tokyo-148",
 			"pid": 148,
 			"jid": 1201,
 			"address": "東京都",
@@ -1807,6 +1984,7 @@
 			"date": "2020-03-23"
 		},
 		{
+			"name": "tokyo-149",
 			"pid": 149,
 			"jid": 986,
 			"address": "東京都",
@@ -1820,6 +1998,7 @@
 			"date": "2020-03-23"
 		},
 		{
+			"name": "tokyo-150",
 			"pid": 150,
 			"jid": 987,
 			"address": "東京都",
@@ -1832,6 +2011,7 @@
 			"date": "2020-03-23"
 		},
 		{
+			"name": "tokyo-151",
 			"pid": 151,
 			"jid": 988,
 			"address": "東京都",
@@ -1845,6 +2025,7 @@
 			"date": "2020-03-23"
 		},
 		{
+			"name": "tokyo-152",
 			"pid": 152,
 			"jid": 989,
 			"address": "東京都",
@@ -1857,6 +2038,7 @@
 			"date": "2020-03-23"
 		},
 		{
+			"name": "tokyo-153",
 			"pid": 153,
 			"jid": 990,
 			"address": "東京都",
@@ -1869,6 +2051,7 @@
 			"date": "2020-03-23"
 		},
 		{
+			"name": "tokyo-154",
 			"pid": 154,
 			"jid": 991,
 			"address": "東京都",
@@ -1881,6 +2064,7 @@
 			"date": "2020-03-23"
 		},
 		{
+			"name": "tokyo-155",
 			"pid": 155,
 			"jid": 1004,
 			"address": "東京都",
@@ -1893,6 +2077,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "tokyo-156",
 			"pid": 156,
 			"jid": 1005,
 			"address": "東京都",
@@ -1906,6 +2091,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "tokyo-157",
 			"pid": 157,
 			"jid": 1006,
 			"address": "東京都",
@@ -1918,6 +2104,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "tokyo-158",
 			"pid": 158,
 			"jid": 1007,
 			"address": "東京都",
@@ -1930,6 +2117,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "tokyo-159",
 			"pid": 159,
 			"address": "東京都",
 			"age": "30s",
@@ -1941,6 +2129,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "tokyo-160",
 			"pid": 160,
 			"address": "東京都",
 			"age": "70s",
@@ -1952,6 +2141,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "tokyo-161",
 			"pid": 161,
 			"address": "東京都",
 			"age": "30s",
@@ -1963,6 +2153,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "tokyo-162",
 			"pid": 162,
 			"jid": 1008,
 			"address": "東京都",
@@ -1976,6 +2167,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "tokyo-163",
 			"pid": 163,
 			"jid": 1009,
 			"address": "東京都",
@@ -1989,6 +2181,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "tokyo-164",
 			"pid": 164,
 			"jid": 1010,
 			"address": "東京都",
@@ -2001,6 +2194,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "tokyo-165",
 			"pid": 165,
 			"jid": 1011,
 			"address": "東京都",
@@ -2013,6 +2207,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "tokyo-166",
 			"pid": 166,
 			"jid": 1012,
 			"address": "東京都",
@@ -2025,6 +2220,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "tokyo-167",
 			"pid": 167,
 			"jid": 1013,
 			"address": "東京都",
@@ -2037,6 +2233,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "tokyo-168",
 			"pid": 168,
 			"jid": 1014,
 			"address": "東京都",
@@ -2050,6 +2247,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "tokyo-169",
 			"pid": 169,
 			"jid": 1015,
 			"address": "東京都",
@@ -2063,6 +2261,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "tokyo-170",
 			"pid": 170,
 			"jid": 1016,
 			"address": "東京都",
@@ -2075,6 +2274,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "tokyo-171",
 			"pid": 171,
 			"jid": 1017,
 			"address": "東京都",
@@ -2087,6 +2287,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "tokyo-172",
 			"pid": 172,
 			"jid": 1087,
 			"address": "東京都",
@@ -2099,6 +2300,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-173",
 			"pid": 173,
 			"jid": 1088,
 			"address": "東京都",
@@ -2111,6 +2313,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-174",
 			"pid": 174,
 			"jid": 1089,
 			"address": "東京都",
@@ -2124,6 +2327,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-175",
 			"pid": 175,
 			"jid": 1090,
 			"address": "東京都",
@@ -2137,6 +2341,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-176",
 			"pid": 176,
 			"jid": 1091,
 			"address": "東京都外",
@@ -2150,6 +2355,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-177",
 			"pid": 177,
 			"jid": 1092,
 			"address": "東京都",
@@ -2163,6 +2369,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-178",
 			"pid": 178,
 			"jid": 1093,
 			"address": "東京都",
@@ -2176,6 +2383,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-179",
 			"pid": 179,
 			"jid": 1094,
 			"address": "東京都",
@@ -2189,6 +2397,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-180",
 			"pid": 180,
 			"jid": 1095,
 			"address": "東京都",
@@ -2202,6 +2411,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-181",
 			"pid": 181,
 			"jid": 1096,
 			"address": "東京都",
@@ -2215,6 +2425,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-182",
 			"pid": 182,
 			"jid": 1097,
 			"address": "東京都",
@@ -2228,6 +2439,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-183",
 			"pid": 183,
 			"jid": 1098,
 			"address": "東京都",
@@ -2241,6 +2453,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-184",
 			"pid": 184,
 			"jid": 1099,
 			"address": "東京都",
@@ -2254,6 +2467,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-185",
 			"pid": 185,
 			"jid": 1100,
 			"address": "東京都",
@@ -2266,6 +2480,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-186",
 			"pid": 186,
 			"jid": 1101,
 			"address": "東京都",
@@ -2278,6 +2493,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-187",
 			"pid": 187,
 			"jid": 1102,
 			"address": "東京都",
@@ -2290,6 +2506,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-188",
 			"pid": 188,
 			"jid": 1103,
 			"address": "東京都",
@@ -2302,6 +2519,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-189",
 			"pid": 189,
 			"jid": 1104,
 			"address": "東京都",
@@ -2314,6 +2532,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-190",
 			"pid": 190,
 			"jid": 1105,
 			"address": "東京都",
@@ -2326,6 +2545,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-191",
 			"pid": 191,
 			"jid": 1106,
 			"address": "東京都",
@@ -2338,6 +2558,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-192",
 			"pid": 192,
 			"jid": 1107,
 			"address": "東京都",
@@ -2350,6 +2571,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-193",
 			"pid": 193,
 			"jid": 1108,
 			"address": "東京都",
@@ -2362,6 +2584,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-194",
 			"pid": 194,
 			"jid": 1109,
 			"address": "東京都",
@@ -2374,6 +2597,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-195",
 			"pid": 195,
 			"jid": 1110,
 			"address": "東京都",
@@ -2386,6 +2610,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-196",
 			"pid": 196,
 			"jid": 1111,
 			"address": "東京都",
@@ -2398,6 +2623,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-197",
 			"pid": 197,
 			"jid": 1112,
 			"address": "東京都",
@@ -2410,6 +2636,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-198",
 			"pid": 198,
 			"jid": 1113,
 			"address": "東京都",
@@ -2423,6 +2650,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-199",
 			"pid": 199,
 			"jid": 1114,
 			"address": "東京都",
@@ -2436,6 +2664,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-200",
 			"pid": 200,
 			"jid": 1115,
 			"address": "東京都",
@@ -2449,6 +2678,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-201",
 			"pid": 201,
 			"jid": 1116,
 			"address": "東京都",
@@ -2461,6 +2691,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-202",
 			"pid": 202,
 			"jid": 1117,
 			"address": "東京都",
@@ -2473,6 +2704,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-203",
 			"pid": 203,
 			"jid": 1118,
 			"address": "東京都",
@@ -2485,6 +2717,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-204",
 			"pid": 204,
 			"jid": 1119,
 			"address": "東京都",
@@ -2497,6 +2730,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-205",
 			"pid": 205,
 			"address": "東京都",
 			"age": "10s",
@@ -2508,6 +2742,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-206",
 			"pid": 206,
 			"jid": 1120,
 			"address": "東京都",
@@ -2520,6 +2755,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-207",
 			"pid": 207,
 			"jid": 1121,
 			"address": "東京都",
@@ -2533,6 +2769,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-208",
 			"pid": 208,
 			"jid": 1122,
 			"address": "東京都",
@@ -2546,6 +2783,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-209",
 			"pid": 209,
 			"jid": 1123,
 			"address": "東京都",
@@ -2558,6 +2796,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-210",
 			"pid": 210,
 			"jid": 1124,
 			"address": "東京都",
@@ -2570,6 +2809,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-211",
 			"pid": 211,
 			"jid": 1125,
 			"address": "東京都",
@@ -2582,6 +2822,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-212",
 			"pid": 212,
 			"jid": 1126,
 			"address": "東京都",
@@ -2594,6 +2835,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "tokyo-213",
 			"pid": 213,
 			"address": null,
 			"age": "70s",
@@ -2606,6 +2848,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-214",
 			"pid": 214,
 			"address": null,
 			"age": "80s",
@@ -2618,6 +2861,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-215",
 			"pid": 215,
 			"address": null,
 			"age": "40s",
@@ -2630,6 +2874,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-216",
 			"pid": 216,
 			"address": null,
 			"age": "40s",
@@ -2642,6 +2887,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-217",
 			"pid": 217,
 			"address": null,
 			"age": "70s",
@@ -2654,6 +2900,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-218",
 			"pid": 218,
 			"address": null,
 			"age": "70s",
@@ -2666,6 +2913,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-219",
 			"pid": 219,
 			"address": null,
 			"age": "70s",
@@ -2678,6 +2926,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-220",
 			"pid": 220,
 			"address": null,
 			"age": "90s",
@@ -2690,6 +2939,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-221",
 			"pid": 221,
 			"address": null,
 			"age": "70s",
@@ -2702,6 +2952,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-222",
 			"pid": 222,
 			"address": null,
 			"age": "20s",
@@ -2714,6 +2965,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-223",
 			"pid": 223,
 			"jid": 1146,
 			"address": "東京都",
@@ -2726,6 +2978,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-224",
 			"pid": 224,
 			"jid": 1147,
 			"address": "東京都",
@@ -2738,6 +2991,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-225",
 			"pid": 225,
 			"jid": 1148,
 			"address": "東京都",
@@ -2750,6 +3004,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-226",
 			"pid": 226,
 			"jid": 1149,
 			"address": "東京都",
@@ -2763,6 +3018,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-227",
 			"pid": 227,
 			"jid": 1150,
 			"address": "東京都",
@@ -2776,6 +3032,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-228",
 			"pid": 228,
 			"jid": 1151,
 			"address": "東京都",
@@ -2788,6 +3045,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-229",
 			"pid": 229,
 			"address": null,
 			"age": null,
@@ -2799,6 +3057,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-230",
 			"pid": 230,
 			"address": null,
 			"age": "50s",
@@ -2810,6 +3069,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-231",
 			"pid": 231,
 			"jid": 1152,
 			"address": "東京都",
@@ -2822,6 +3082,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-232",
 			"pid": 232,
 			"address": null,
 			"age": "80s",
@@ -2833,6 +3094,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-233",
 			"pid": 233,
 			"address": null,
 			"age": "70s",
@@ -2844,6 +3106,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-234",
 			"pid": 234,
 			"address": null,
 			"age": "70s",
@@ -2855,6 +3118,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-235",
 			"pid": 235,
 			"jid": 1153,
 			"address": "東京都",
@@ -2867,6 +3131,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-236",
 			"pid": 236,
 			"address": null,
 			"age": "20s",
@@ -2878,6 +3143,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-237",
 			"pid": 237,
 			"jid": 1154,
 			"address": "東京都外",
@@ -2891,6 +3157,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-238",
 			"pid": 238,
 			"jid": 1155,
 			"address": "東京都",
@@ -2903,6 +3170,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-239",
 			"pid": 239,
 			"address": null,
 			"age": "30s",
@@ -2914,6 +3182,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-240",
 			"pid": 240,
 			"jid": 1156,
 			"address": "東京都",
@@ -2926,6 +3195,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-241",
 			"pid": 241,
 			"jid": 1157,
 			"address": "東京都",
@@ -2938,6 +3208,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-242",
 			"pid": 242,
 			"jid": 1158,
 			"address": "東京都",
@@ -2950,6 +3221,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-243",
 			"pid": 243,
 			"jid": 1159,
 			"address": "東京都",
@@ -2962,6 +3234,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-244",
 			"pid": 244,
 			"jid": 1160,
 			"address": "東京都",
@@ -2974,6 +3247,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-245",
 			"pid": 245,
 			"address": null,
 			"age": "40s",
@@ -2985,6 +3259,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-246",
 			"pid": 246,
 			"address": "東京都",
 			"age": "70s",
@@ -2996,6 +3271,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-247",
 			"pid": 247,
 			"jid": 1161,
 			"address": "東京都外",
@@ -3008,6 +3284,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-248",
 			"pid": 248,
 			"jid": 1162,
 			"address": "東京都",
@@ -3017,9 +3294,11 @@
 			"remarks": null,
 			"supplement": "No.1112、No.1119との関連あり",
 			"discharged": null,
+			"sources": ["tokyo-197", "tokyo-204"],
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-249",
 			"pid": 249,
 			"jid": 1163,
 			"address": "東京都",
@@ -3032,6 +3311,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-250",
 			"pid": 250,
 			"jid": 1164,
 			"address": "東京都",
@@ -3044,6 +3324,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-251",
 			"pid": 251,
 			"jid": 1165,
 			"address": "東京都",
@@ -3053,9 +3334,11 @@
 			"remarks": null,
 			"supplement": "No.1164との関連あり",
 			"discharged": null,
+			"sources": ["tokyo-250"],
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-252",
 			"pid": 252,
 			"jid": 1166,
 			"address": "東京都",
@@ -3065,9 +3348,11 @@
 			"remarks": null,
 			"supplement": "No.981との関連あり",
 			"discharged": null,
+			"sources": ["tokyo-142"],
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-253",
 			"pid": 253,
 			"jid": 1167,
 			"address": "東京都",
@@ -3081,6 +3366,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-254",
 			"pid": 254,
 			"jid": 1168,
 			"address": "東京都",
@@ -3094,6 +3380,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-255",
 			"pid": 255,
 			"jid": 1169,
 			"address": "東京都",
@@ -3107,6 +3394,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-256",
 			"pid": 256,
 			"jid": 1170,
 			"address": "東京都",
@@ -3119,6 +3407,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-257",
 			"pid": 257,
 			"address": null,
 			"age": "30s",
@@ -3130,6 +3419,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-258",
 			"pid": 258,
 			"address": null,
 			"age": "u10",
@@ -3141,6 +3431,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "tokyo-259",
 			"pid": 259,
 			"jid": 1171,
 			"address": "東京都",
@@ -3151,6 +3442,486 @@
 			"supplement": "接触歴あり",
 			"discharged": null,
 			"date": "2020-03-26"
+		},
+		{
+			"name": "tokyo-260",
+			"pid": 260,
+			"address": null,
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-261",
+			"pid": 261,
+			"address": null,
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-262",
+			"pid": 262,
+			"address": null,
+			"age": "80s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-263",
+			"pid": 263,
+			"address": null,
+			"age": "90s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-264",
+			"pid": 264,
+			"address": null,
+			"age": "80s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-265",
+			"pid": 265,
+			"address": null,
+			"age": "70s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-266",
+			"pid": 266,
+			"address": null,
+			"age": "90s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-267",
+			"pid": 267,
+			"address": null,
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-268",
+			"pid": 268,
+			"address": null,
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-269",
+			"pid": 269,
+			"address": null,
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-270",
+			"pid": 270,
+			"address": null,
+			"age": "90s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-271",
+			"pid": 271,
+			"address": null,
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-272",
+			"pid": 272,
+			"address": null,
+			"age": "20s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-273",
+			"pid": 273,
+			"address": null,
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-274",
+			"pid": 274,
+			"address": null,
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-275",
+			"pid": 275,
+			"address": null,
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-276",
+			"pid": 276,
+			"address": null,
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-277",
+			"pid": 277,
+			"address": null,
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-278",
+			"pid": 278,
+			"address": null,
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-279",
+			"pid": 279,
+			"address": null,
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-280",
+			"pid": 280,
+			"address": null,
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-281",
+			"pid": 281,
+			"address": null,
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-282",
+			"pid": 282,
+			"address": null,
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-283",
+			"pid": 283,
+			"address": null,
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-284",
+			"pid": 284,
+			"address": null,
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-285",
+			"pid": 285,
+			"address": null,
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-286",
+			"pid": 286,
+			"address": null,
+			"age": "20s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-287",
+			"pid": 287,
+			"address": null,
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-288",
+			"pid": 288,
+			"address": null,
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-289",
+			"pid": 289,
+			"address": null,
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-290",
+			"pid": 290,
+			"address": null,
+			"age": "20s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-291",
+			"pid": 291,
+			"address": null,
+			"age": "30s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-292",
+			"pid": 292,
+			"address": null,
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-293",
+			"pid": 293,
+			"address": null,
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-294",
+			"pid": 294,
+			"address": null,
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-295",
+			"pid": 295,
+			"address": null,
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-296",
+			"pid": 296,
+			"address": null,
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-297",
+			"pid": 297,
+			"address": null,
+			"age": "60s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-298",
+			"pid": 298,
+			"address": null,
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "tokyo-299",
+			"pid": 299,
+			"address": null,
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
 		}
 	]
 }

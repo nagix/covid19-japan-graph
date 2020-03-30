@@ -1,14 +1,18 @@
 {
-	"id": "kumamoto",
+	"name": "kumamoto",
 	"label": {
 		"ja": "熊本県"
 	},
+	"prefix": {
+		"ja": "熊本"
+	},
 	"date": "2020\/03\/04 18:00",
-	"subgroups": [
-		"kumamoto-city"
-	],
-	"data": [
+	"children": [
 		{
+			"ref": "kumamoto-city"
+		},
+		{
+			"name": "kumamoto-3",
 			"pid": 3,
 			"jid": 94,
 			"address": "熊本県御船保健所管内",
@@ -21,6 +25,7 @@
 			"date": "2020-02-22"
 		},
 		{
+			"name": "kumamoto-6",
 			"pid": 6,
 			"address": "熊本県有明保健所管内",
 			"age": "40s",

@@ -1,11 +1,15 @@
 {
-	"id": "yamaguchi",
+	"name": "yamaguchi",
 	"label": {
 		"ja": "山口県"
 	},
+	"prefix": {
+		"ja": "山口"
+	},
 	"date": "2020\/03\/26 18:00",
-	"data": [
+	"children": [
 		{
+			"name": "yamaguchi-1",
 			"pid": 1,
 			"jid": 258,
 			"address": "山口県下関市",
@@ -15,9 +19,11 @@
 			"remarks": null,
 			"supplement": "No.242の勤務先店舗を利用",
 			"discharged": null,
+			"sources": ["oita-1"],
 			"date": "2020-03-04"
 		},
 		{
+			"name": "yamaguchi-2",
 			"pid": 2,
 			"address": "山口県下関市",
 			"age": "40s",
@@ -25,21 +31,25 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "No.258の配偶者",
-			"discharged": null,
+			"discharged": "〇",
+			"sources": ["yamaguchi-1"],
 			"date": "2020-03-05"
 		},
 		{
+			"name": "yamaguchi-3",
 			"pid": 3,
 			"address": "山口県下関市",
-			"age": null,
+			"age": "u10",
 			"sex": null,
 			"attribute": "小学生",
 			"remarks": null,
 			"supplement": "No.258の子",
-			"discharged": null,
+			"discharged": "〇",
+			"sources": ["yamaguchi-1"],
 			"date": "2020-03-05"
 		},
 		{
+			"name": "yamaguchi-4",
 			"pid": 4,
 			"jid": 937,
 			"address": "山口県下関市",
@@ -53,6 +63,7 @@
 			"date": "2020-03-22"
 		},
 		{
+			"name": "yamaguchi-5",
 			"pid": 5,
 			"jid": 1062,
 			"address": "山口県山口市",
@@ -66,6 +77,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "yamaguchi-6",
 			"pid": 6,
 			"jid": 1130,
 			"address": "山口県山口市",
@@ -75,6 +87,7 @@
 			"remarks": null,
 			"supplement": "No.1062の濃厚接触者",
 			"discharged": null,
+			"sources": ["yamaguchi-5"],
 			"date": "2020-03-26"
 		}
 	]

@@ -1,11 +1,12 @@
 {
-	"id": "kobe",
+	"name": "kobe",
 	"label": {
 		"ja": "神戸市"
 	},
-	"date": "2020\/03\/17 18:00",
-	"data": [
+	"date": "2020\/03\/27 18:00",
+	"children": [
 		{
+			"name": "hyogo-2",
 			"id": 1,
 			"pid": 2,
 			"jid": 243,
@@ -19,6 +20,7 @@
 			"date": "2020-03-03"
 		},
 		{
+			"name": "hyogo-3",
 			"id": 2,
 			"pid": 3,
 			"jid": 257,
@@ -33,6 +35,7 @@
 			"date": "2020-03-03"
 		},
 		{
+			"name": "hyogo-13",
 			"id": 3,
 			"pid": 13,
 			"jid": 449,
@@ -47,6 +50,7 @@
 			"date": "2020-03-09"
 		},
 		{
+			"name": "hyogo-16",
 			"id": 4,
 			"pid": 16,
 			"jid": 450,
@@ -61,6 +65,7 @@
 			"date": "2020-03-09"
 		},
 		{
+			"name": "hyogo-24",
 			"id": 5,
 			"pid": 24,
 			"jid": 495,
@@ -75,6 +80,7 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "hyogo-25",
 			"id": 6,
 			"pid": 25,
 			"jid": 537,
@@ -88,6 +94,7 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "hyogo-34",
 			"id": 7,
 			"pid": 34,
 			"jid": 538,
@@ -99,9 +106,11 @@
 			"supplement": "No.450の認定こども園に勤務",
 			"discharged": null,
 			"cluster": "kobe-kindergarten",
+			"sources": ["hyogo-16"],
 			"date": "2020-03-11"
 		},
 		{
+			"name": "hyogo-35",
 			"id": 8,
 			"pid": 35,
 			"jid": 539,
@@ -113,9 +122,11 @@
 			"supplement": "No.450の認定こども園に勤務",
 			"discharged": null,
 			"cluster": "kobe-kindergarten",
+			"sources": ["hyogo-16"],
 			"date": "2020-03-11"
 		},
 		{
+			"name": "hyogo-36",
 			"id": 9,
 			"pid": 36,
 			"jid": 540,
@@ -127,9 +138,11 @@
 			"supplement": "No.450の認定こども園に勤務",
 			"discharged": null,
 			"cluster": "kobe-kindergarten",
+			"sources": ["hyogo-16"],
 			"date": "2020-03-11"
 		},
 		{
+			"name": "hyogo-42",
 			"id": 10,
 			"pid": 42,
 			"jid": 605,
@@ -143,6 +156,7 @@
 			"date": "2020-03-12"
 		},
 		{
+			"name": "hyogo-47",
 			"id": 11,
 			"pid": 47,
 			"jid": 606,
@@ -156,6 +170,7 @@
 			"date": "2020-03-13"
 		},
 		{
+			"name": "hyogo-48",
 			"id": 12,
 			"pid": 48,
 			"jid": 607,
@@ -170,6 +185,7 @@
 			"date": "2020-03-13"
 		},
 		{
+			"name": "hyogo-49",
 			"id": 13,
 			"pid": 49,
 			"jid": 608,
@@ -180,9 +196,11 @@
 			"remarks": "重症",
 			"supplement": "No.607と同居",
 			"discharged": null,
+			"sources": ["hyogo-48"],
 			"date": "2020-03-13"
 		},
 		{
+			"name": "hyogo-50",
 			"id": 14,
 			"pid": 50,
 			"jid": 609,
@@ -197,6 +215,7 @@
 			"date": "2020-03-13"
 		},
 		{
+			"name": "hyogo-51",
 			"id": 15,
 			"pid": 51,
 			"jid": 610,
@@ -210,6 +229,7 @@
 			"date": "2020-03-13"
 		},
 		{
+			"name": "hyogo-52",
 			"id": 16,
 			"pid": 52,
 			"jid": 727,
@@ -224,6 +244,7 @@
 			"date": "2020-03-13"
 		},
 		{
+			"name": "hyogo-68",
 			"id": 17,
 			"pid": 68,
 			"jid": 705,
@@ -238,6 +259,7 @@
 			"date": "2020-03-15"
 		},
 		{
+			"name": "hyogo-69",
 			"id": 18,
 			"pid": 69,
 			"jid": 706,
@@ -249,9 +271,11 @@
 			"supplement": "No.607、No.608と同居",
 			"discharged": null,
 			"cluster": "kobe-longterm-care",
+			"sources": ["hyogo-48", "hyogo-49"],
 			"date": "2020-03-15"
 		},
 		{
+			"name": "hyogo-70",
 			"id": 19,
 			"pid": 70,
 			"address": "兵庫県神戸市",
@@ -262,9 +286,11 @@
 			"supplement": "No.543、No.681入院の宝塚第一病院に勤務",
 			"discharged": null,
 			"cluster": "takarazuka-hospital",
+			"sources": ["hyogo-27", "hyogo-64"],
 			"date": "2020-03-15"
 		},
 		{
+			"name": "hyogo-71",
 			"id": 20,
 			"pid": 71,
 			"address": "兵庫県神戸市",
@@ -275,9 +301,11 @@
 			"supplement": "No.543、No.681入院の宝塚第一病院に勤務",
 			"discharged": null,
 			"cluster": "takarazuka-hospital",
+			"sources": ["hyogo-27", "hyogo-64"],
 			"date": "2020-03-15"
 		},
 		{
+			"name": "hyogo-79",
 			"id": 21,
 			"pid": 79,
 			"jid": 726,
@@ -292,6 +320,7 @@
 			"date": "2020-03-16"
 		},
 		{
+			"name": "hyogo-83",
 			"id": 22,
 			"pid": 83,
 			"jid": 735,
@@ -306,6 +335,7 @@
 			"date": "2020-03-17"
 		},
 		{
+			"name": "hyogo-84",
 			"id": 23,
 			"pid": 84,
 			"jid": 736,
@@ -320,6 +350,7 @@
 			"date": "2020-03-17"
 		},
 		{
+			"name": "hyogo-85",
 			"id": 24,
 			"pid": 85,
 			"jid": 737,
@@ -331,6 +362,34 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-17"
+		},
+		{
+			"name": "hyogo-121",
+			"id": 25,
+			"pid": 121,
+			"address": "兵庫県神戸市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "看護師",
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "hyogo-122",
+			"id": 26,
+			"pid": 122,
+			"jid": 1213,
+			"address": "兵庫県神戸市",
+			"age": "10s",
+			"sex": "female",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": "3/19まで海外渡航",
+			"discharged": null,
+			"sources": ["oversea"],
+			"date": "2020-03-27"
 		}
 	]
 }

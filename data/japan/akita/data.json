@@ -1,11 +1,15 @@
 {
-	"id": "akita",
+	"name": "akita",
 	"label": {
 		"ja": "秋田県"
 	},
-	"date": "2020\/03\/06 18:00",
-	"data": [
+	"prefix": {
+		"ja": "秋田"
+	},
+	"date": "2020\/03\/27 18:00",
+	"children": [
 		{
+			"name": "akita-1",
 			"pid": 1,
 			"address": "秋田県秋田市",
 			"age": "60s",
@@ -18,16 +22,44 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "akita-2",
 			"pid": 2,
 			"jid": 337,
 			"address": "北海道",
 			"age": "u10",
 			"sex": "female",
 			"attribute": null,
-			"remarks": "無症状",
+			"remarks": null,
+			"supplement": null,
+			"discharged": "〇",
+			"date": "2020-03-06"
+		},
+		{
+			"name": "akita-3",
+			"pid": 3,
+			"jid": 1240,
+			"address": "秋田県由利本荘保健所管内",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "外国語指導助手(ALT)",
+			"remarks": null,
 			"supplement": null,
 			"discharged": null,
-			"date": "2020-03-06"
+			"date": "2020-03-27"
+		},
+		{
+			"name": "akita-4",
+			"pid": 4,
+			"jid": 1241,
+			"address": "秋田県由利本荘保健所管内",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "外国語指導助手(ALT)",
+			"remarks": null,
+			"supplement": "No.1240と3/22まで仙台市に滞在",
+			"discharged": null,
+			"sources": ["akita-3"],
+			"date": "2020-03-27"
 		}
 	]
 }

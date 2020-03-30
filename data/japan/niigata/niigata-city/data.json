@@ -1,11 +1,12 @@
 {
-	"id": "niigata-city",
+	"name": "niigata-city",
 	"label": {
 		"ja": "新潟市"
 	},
-	"date": "2020\/03\/24 18:00",
-	"data": [
+	"date": "2020\/03\/27 18:00",
+	"children": [
 		{
+			"name": "niigata-1",
 			"id": 1,
 			"pid": 1,
 			"jid": 210,
@@ -20,6 +21,7 @@
 			"date": "2020-02-29"
 		},
 		{
+			"name": "niigata-3",
 			"id": 2,
 			"pid": 3,
 			"jid": 246,
@@ -31,9 +33,11 @@
 			"supplement": "No.210と同一施設、卓球スクール",
 			"discharged": null,
 			"cluster": "niigata-pingpong",
+			"sources": ["niigata-1"],
 			"date": "2020-03-03"
 		},
 		{
+			"name": "niigata-4",
 			"id": 3,
 			"pid": 4,
 			"jid": 247,
@@ -45,9 +49,11 @@
 			"supplement": "No.210と同一施設、卓球スクール",
 			"discharged": null,
 			"cluster": "niigata-pingpong",
+			"sources": ["niigata-1"],
 			"date": "2020-03-03"
 		},
 		{
+			"name": "niigata-5",
 			"id": 4,
 			"pid": 5,
 			"jid": 248,
@@ -59,9 +65,11 @@
 			"supplement": "No.210と同一施設、卓球スクール",
 			"discharged": null,
 			"cluster": "niigata-pingpong",
+			"sources": ["niigata-1"],
 			"date": "2020-03-03"
 		},
 		{
+			"name": "niigata-6",
 			"id": 5,
 			"pid": 6,
 			"jid": 367,
@@ -72,9 +80,11 @@
 			"remarks": null,
 			"supplement": "No.248の母親",
 			"discharged": null,
+			"sources": ["niigata-5"],
 			"date": "2020-03-05"
 		},
 		{
+			"name": "niigata-7",
 			"id": 6,
 			"pid": 7,
 			"jid": 451,
@@ -86,9 +96,11 @@
 			"supplement": "No.246の濃厚接触者",
 			"discharged": null,
 			"cluster": "niigata-pingpong",
+			"sources": ["niigata-3"],
 			"date": "2020-03-09"
 		},
 		{
+			"name": "niigata-8",
 			"id": 7,
 			"pid": 8,
 			"jid": 452,
@@ -100,9 +112,11 @@
 			"supplement": "No.246の濃厚接触者",
 			"discharged": null,
 			"cluster": "niigata-pingpong",
+			"sources": ["niigata-3"],
 			"date": "2020-03-09"
 		},
 		{
+			"name": "niigata-9",
 			"id": 8,
 			"pid": 9,
 			"jid": 504,
@@ -113,9 +127,11 @@
 			"remarks": null,
 			"supplement": "No.452の濃厚接触者",
 			"discharged": null,
+			"sources": ["niigata-8"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "niigata-10",
 			"id": 9,
 			"pid": 10,
 			"jid": 505,
@@ -126,9 +142,11 @@
 			"remarks": null,
 			"supplement": "No.452の濃厚接触者",
 			"discharged": null,
+			"sources": ["niigata-8"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "niigata-11",
 			"id": 10,
 			"pid": 11,
 			"jid": 506,
@@ -142,6 +160,7 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "niigata-12",
 			"id": 11,
 			"pid": 12,
 			"jid": 599,
@@ -152,9 +171,11 @@
 			"remarks": null,
 			"supplement": "No.505の濃厚接触者",
 			"discharged": null,
+			"sources": ["niigata-10"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "niigata-13",
 			"id": 12,
 			"pid": 13,
 			"jid": 600,
@@ -165,9 +186,11 @@
 			"remarks": null,
 			"supplement": "No.505の濃厚接触者",
 			"discharged": null,
+			"sources": ["niigata-10"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "niigata-14",
 			"id": 13,
 			"pid": 14,
 			"jid": 601,
@@ -178,9 +201,11 @@
 			"remarks": null,
 			"supplement": "No.506の濃厚接触者",
 			"discharged": null,
+			"sources": ["niigata-11"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "niigata-15",
 			"id": 14,
 			"pid": 15,
 			"jid": 768,
@@ -194,6 +219,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "niigata-16",
 			"id": 15,
 			"pid": 16,
 			"jid": 769,
@@ -207,6 +233,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "niigata-17",
 			"id": 16,
 			"pid": 17,
 			"jid": 805,
@@ -217,9 +244,11 @@
 			"remarks": null,
 			"supplement": "No.769の濃厚接触者",
 			"discharged": null,
+			"sources": ["niigata-16"],
 			"date": "2020-03-16"
 		},
 		{
+			"name": "niigata-18",
 			"id": 17,
 			"pid": 18,
 			"address": "新潟県新潟市中央区",
@@ -229,9 +258,11 @@
 			"remarks": "無症状",
 			"supplement": "No.451の濃厚接触者",
 			"discharged": null,
+			"sources": ["niigata-7"],
 			"date": "2020-03-17"
 		},
 		{
+			"name": "niigata-19",
 			"id": 18,
 			"pid": 19,
 			"address": "新潟県新潟市中央区",
@@ -241,9 +272,11 @@
 			"remarks": "無症状",
 			"supplement": "No.451の濃厚接触者",
 			"discharged": null,
+			"sources": ["niigata-7"],
 			"date": "2020-03-17"
 		},
 		{
+			"name": "niigata-20",
 			"id": 19,
 			"pid": 20,
 			"address": "新潟県新潟市江南区",
@@ -253,9 +286,11 @@
 			"remarks": "無症状",
 			"supplement": "No.506の濃厚接触者",
 			"discharged": null,
+			"sources": ["niigata-11"],
 			"date": "2020-03-17"
 		},
 		{
+			"name": "niigata-21",
 			"id": 20,
 			"pid": 21,
 			"address": "新潟県新潟市中央区",
@@ -265,9 +300,11 @@
 			"remarks": "無症状",
 			"supplement": "No.506の濃厚接触者",
 			"discharged": null,
+			"sources": ["niigata-11"],
 			"date": "2020-03-17"
 		},
 		{
+			"name": "niigata-22",
 			"id": 21,
 			"pid": 22,
 			"jid": 915,
@@ -278,9 +315,11 @@
 			"remarks": null,
 			"supplement": "No.805の濃厚接触者",
 			"discharged": null,
+			"sources": ["niigata-17"],
 			"date": "2020-03-18"
 		},
 		{
+			"name": "niigata-23",
 			"id": 22,
 			"pid": 23,
 			"jid": 916,
@@ -291,9 +330,11 @@
 			"remarks": null,
 			"supplement": "No.769の濃厚接触者",
 			"discharged": null,
+			"sources": ["niigata-16"],
 			"date": "2020-03-19"
 		},
 		{
+			"name": "niigata-24",
 			"id": 23,
 			"pid": 24,
 			"jid": 917,
@@ -304,9 +345,11 @@
 			"remarks": null,
 			"supplement": "No.451の濃厚接触者",
 			"discharged": null,
+			"sources": ["niigata-7"],
 			"date": "2020-03-19"
 		},
 		{
+			"name": "niigata-25",
 			"id": 24,
 			"pid": 25,
 			"jid": 918,
@@ -315,11 +358,13 @@
 			"sex": "female",
 			"attribute": "医療機関職員",
 			"remarks": null,
-			"supplement": "No.niigata-city17の濃厚接触者",
+			"supplement": "新潟県18例目の濃厚接触者",
 			"discharged": null,
+			"sources": ["niigata-18"],
 			"date": "2020-03-20"
 		},
 		{
+			"name": "niigata-27",
 			"id": 25,
 			"pid": 27,
 			"jid": 1050,
@@ -330,7 +375,22 @@
 			"remarks": null,
 			"supplement": "No.248の濃厚接触者",
 			"discharged": null,
+			"sources": ["niigata-5"],
 			"date": "2020-03-21"
+		},
+		{
+			"name": "niigata-30",
+			"id": 26,
+			"pid": 30,
+			"address": "新潟県新潟市西区",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": "米国に渡航歴あり",
+			"discharged": null,
+			"sources": ["usa"],
+			"date": "2020-03-27"
 		}
 	]
 }

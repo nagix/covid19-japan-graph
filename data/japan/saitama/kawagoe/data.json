@@ -1,11 +1,12 @@
 {
-	"id": "kawagoe",
+	"name": "kawagoe",
 	"label": {
 		"ja": "川越市"
 	},
-	"date": "2020\/03\/10 18:00",
-	"data": [
+	"date": "2020\/03\/27 18:00",
+	"children": [
 		{
+			"name": "saitama-13",
 			"id": 1,
 			"pid": 13,
 			"jid": 507,
@@ -20,6 +21,7 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "saitama-14",
 			"id": 2,
 			"pid": 14,
 			"jid": 508,
@@ -27,13 +29,14 @@
 			"age": "60s",
 			"sex": "female",
 			"attribute": "無職",
-			"remarks": null,
+			"remarks": "3/27死亡",
 			"supplement": "エジプト・ナイル川クルーズ",
-			"discharged": null,
+			"discharged": "〇",
 			"sources": ["egypt"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "saitama-15",
 			"id": 3,
 			"pid": 15,
 			"jid": 509,
@@ -44,7 +47,22 @@
 			"remarks": null,
 			"supplement": "No.507、No.508の同居家族",
 			"discharged": "〇",
+			"sources": ["saitama-13", "saitama-14"],
 			"date": "2020-03-10"
+		},
+		{
+			"name": "saitama-71",
+			"id": 4,
+			"pid": 71,
+			"jid": 1260,
+			"address": "埼玉県川越市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
 		}
 	]
 }

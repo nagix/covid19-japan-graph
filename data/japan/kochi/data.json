@@ -1,11 +1,15 @@
 {
-	"id": "kochi",
+	"name": "kochi",
 	"label": {
 		"ja": "高知県"
 	},
-	"date": "2020\/03\/25 18:00",
-	"data": [
+	"prefix": {
+		"ja": "高知"
+	},
+	"date": "2020\/03\/27 18:00",
+	"children": [
 		{
+			"name": "kochi-1",
 			"pid": 1,
 			"jid": 209,
 			"address": "高知県高知市",
@@ -19,6 +23,7 @@
 			"date": "2020-02-28"
 		},
 		{
+			"name": "kochi-2",
 			"pid": 2,
 			"jid": 228,
 			"address": "高知県高知市",
@@ -28,9 +33,11 @@
 			"remarks": null,
 			"supplement": "No.209の母",
 			"discharged": "〇",
+			"sources": ["kochi-1"],
 			"date": "2020-03-01"
 		},
 		{
+			"name": "kochi-3",
 			"pid": 3,
 			"jid": 233,
 			"address": "高知県高知市",
@@ -40,9 +47,11 @@
 			"remarks": null,
 			"supplement": "No.209の友人・濃厚接触者",
 			"discharged": "〇",
+			"sources": ["kochi-1"],
 			"date": "2020-03-02"
 		},
 		{
+			"name": "kochi-4",
 			"pid": 4,
 			"jid": 259,
 			"address": "高知県高知市",
@@ -52,9 +61,11 @@
 			"remarks": null,
 			"supplement": "No.209の同僚・濃厚接触者",
 			"discharged": "〇",
+			"sources": ["kochi-1"],
 			"date": "2020-03-04"
 		},
 		{
+			"name": "kochi-5",
 			"pid": 5,
 			"jid": 260,
 			"address": "高知県高知市",
@@ -64,9 +75,11 @@
 			"remarks": null,
 			"supplement": "No.233の父・濃厚接触者",
 			"discharged": "〇",
+			"sources": ["kochi-3"],
 			"date": "2020-03-04"
 		},
 		{
+			"name": "kochi-6",
 			"pid": 6,
 			"jid": 261,
 			"address": "高知県高知市",
@@ -76,9 +89,11 @@
 			"remarks": null,
 			"supplement": "No.233の母・濃厚接触者",
 			"discharged": "〇",
+			"sources": ["kochi-3"],
 			"date": "2020-03-04"
 		},
 		{
+			"name": "kochi-7",
 			"pid": 7,
 			"jid": 262,
 			"address": "高知県安芸福祉保健所管内",
@@ -88,9 +103,11 @@
 			"remarks": null,
 			"supplement": "No.233の親族・濃厚接触者",
 			"discharged": "〇",
+			"sources": ["kochi-3"],
 			"date": "2020-03-04"
 		},
 		{
+			"name": "kochi-8",
 			"pid": 8,
 			"jid": 328,
 			"address": "岡山県",
@@ -103,6 +120,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "kochi-9",
 			"pid": 9,
 			"jid": 329,
 			"address": "高知県中央東福祉保健所管内",
@@ -115,6 +133,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "kochi-10",
 			"pid": 10,
 			"address": "高知県中央西福祉保健所管内",
 			"age": "90s",
@@ -123,9 +142,11 @@
 			"remarks": null,
 			"supplement": "No.328の親族・濃厚接触者",
 			"discharged": "〇",
+			"sources": ["kochi-8"],
 			"date": "2020-03-07"
 		},
 		{
+			"name": "kochi-11",
 			"pid": 11,
 			"jid": 412,
 			"address": "高知県高知市",
@@ -138,6 +159,7 @@
 			"date": "2020-03-08"
 		},
 		{
+			"name": "kochi-12",
 			"pid": 12,
 			"jid": 413,
 			"address": "高知県安芸福祉保健所管内",
@@ -149,6 +171,19 @@
 			"discharged": "〇",
 			"sources": ["egypt"],
 			"date": "2020-03-08"
+		},
+		{
+			"name": "kochi-13",
+			"pid": 13,
+			"jid": 1217,
+			"address": "高知県高知市",
+			"age": "80s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
 		}
 	]
 }

@@ -1,26 +1,31 @@
 {
-	"id": "gunma",
+	"name": "gunma",
 	"label": {
 		"ja": "群馬県"
 	},
+	"prefix": {
+		"ja": "群馬"
+	},
 	"date": "2020\/03\/26 18:00",
-	"subgroups": [
-		"takasaki"
-	],
-	"data": [
+	"children": [
 		{
+			"ref": "takasaki"
+		},
+		{
+			"name": "gunma-1",
 			"pid": 1,
 			"jid": 391,
 			"address": "群馬県太田市",
 			"age": "40s",
 			"sex": "female",
 			"attribute": "保育士",
-			"remarks": null,
+			"remarks": "重症",
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-07"
 		},
 		{
+			"name": "gunma-2",
 			"pid": 2,
 			"jid": 622,
 			"address": "群馬県太田市",
@@ -30,9 +35,11 @@
 			"remarks": null,
 			"supplement": "No.391の濃厚接触者（同居家族・母）",
 			"discharged": null,
+			"sources": ["gunma-1"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "gunma-3",
 			"pid": 3,
 			"jid": 623,
 			"address": "群馬県太田市",
@@ -46,6 +53,7 @@
 			"date": "2020-03-12"
 		},
 		{
+			"name": "gunma-4",
 			"pid": 4,
 			"jid": 659,
 			"address": "群馬県邑楽郡大泉町",
@@ -56,9 +64,11 @@
 			"supplement": "No.623の濃厚接触者",
 			"discharged": null,
 			"cluster": "oizumi-clinic",
+			"sources": ["gunma-3"],
 			"date": "2020-03-14"
 		},
 		{
+			"name": "gunma-5",
 			"pid": 5,
 			"jid": 660,
 			"address": "群馬県邑楽郡大泉町",
@@ -68,9 +78,11 @@
 			"remarks": null,
 			"supplement": "No.659の妻",
 			"discharged": null,
+			"sources": ["gunma-4"],
 			"date": "2020-03-14"
 		},
 		{
+			"name": "gunma-6",
 			"pid": 6,
 			"jid": 723,
 			"address": "群馬県邑楽郡大泉町",
@@ -81,9 +93,11 @@
 			"supplement": "No.623、No.659の濃厚接触者",
 			"discharged": null,
 			"cluster": "oizumi-clinic",
+			"sources": ["gunma-3", "gunma-4"],
 			"date": "2020-03-16"
 		},
 		{
+			"name": "gunma-7",
 			"pid": 7,
 			"jid": 746,
 			"address": "群馬県太田市",
@@ -93,9 +107,11 @@
 			"remarks": null,
 			"supplement": "No.391の父、No.622の夫（同居家族）",
 			"discharged": null,
+			"sources": ["gunma-1", "gunma-2"],
 			"date": "2020-03-17"
 		},
 		{
+			"name": "gunma-8",
 			"pid": 8,
 			"jid": 747,
 			"address": "群馬県邑楽郡大泉町",
@@ -106,9 +122,11 @@
 			"supplement": "No.623、No.659の濃厚接触者",
 			"discharged": null,
 			"cluster": "oizumi-clinic",
+			"sources": ["gunma-3", "gunma-4"],
 			"date": "2020-03-17"
 		},
 		{
+			"name": "gunma-9",
 			"pid": 9,
 			"jid": 748,
 			"address": "群馬県太田市",
@@ -119,9 +137,11 @@
 			"supplement": "No.623、No.659、No.723の濃厚接触者",
 			"discharged": null,
 			"cluster": "oizumi-clinic",
+			"sources": ["gunma-3", "gunma-4", "gunma-6"],
 			"date": "2020-03-17"
 		},
 		{
+			"name": "gunma-10",
 			"pid": 10,
 			"jid": 749,
 			"address": "群馬県邑楽郡大泉町",
@@ -132,9 +152,11 @@
 			"supplement": "No.623、No.659、No.723の濃厚接触者",
 			"discharged": null,
 			"cluster": "oizumi-clinic",
+			"sources": ["gunma-3", "gunma-4", "gunma-6"],
 			"date": "2020-03-17"
 		},
 		{
+			"name": "gunma-11",
 			"pid": 11,
 			"jid": 874,
 			"address": "群馬県太田市",
@@ -144,9 +166,11 @@
 			"remarks": null,
 			"supplement": "No.623の夫（濃厚接触者）",
 			"discharged": null,
+			"sources": ["gunma-3"],
 			"date": "2020-03-20"
 		},
 		{
+			"name": "gunma-12",
 			"pid": 12,
 			"jid": 999,
 			"address": "群馬県前橋市",
@@ -159,6 +183,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "gunma-14",
 			"pid": 14,
 			"jid": 1199,
 			"address": "群馬県館林市",

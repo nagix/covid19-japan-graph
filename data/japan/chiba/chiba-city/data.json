@@ -1,0 +1,23 @@
+{
+	"name": "chiba-city",
+	"label": {
+		"ja": "千葉市"
+	},
+	"date": "2020\/03\/27 18:00",
+	"children": [
+		{
+			"name": "chiba-65",
+			"id": 1,
+			"pid": 65,
+			"jid": 1223,
+			"address": "千葉県千葉市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		}
+	]
+}

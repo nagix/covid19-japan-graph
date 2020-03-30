@@ -1,11 +1,12 @@
 {
-	"id": "kawaguchi",
+	"name": "kawaguchi",
 	"label": {
 		"ja": "川口市"
 	},
-	"date": "2020\/03\/26 18:00",
-	"data": [
+	"date": "2020\/03\/27 18:00",
+	"children": [
 		{
+			"name": "saitama-24",
 			"id": 1,
 			"pid": 24,
 			"jid": 616,
@@ -16,9 +17,11 @@
 			"remarks": null,
 			"supplement": "No.596の子、No.597の姉",
 			"discharged": null,
+			"sources": ["saitama-19", "saitama-20"],
 			"date": "2020-03-24"
 		},
 		{
+			"name": "saitama-43",
 			"id": 2,
 			"pid": 43,
 			"jid": 852,
@@ -32,6 +35,7 @@
 			"date": "2020-03-20"
 		},
 		{
+			"name": "saitama-48",
 			"id": 3,
 			"pid": 48,
 			"jid": 904,
@@ -46,6 +50,7 @@
 			"date": "2020-03-21"
 		},
 		{
+			"name": "saitama-49",
 			"id": 4,
 			"pid": 49,
 			"jid": 934,
@@ -56,9 +61,11 @@
 			"remarks": null,
 			"supplement": "No.852の同居家族",
 			"discharged": null,
+			"sources": ["saitama-43"],
 			"date": "2020-03-22"
 		},
 		{
+			"name": "saitama-50",
 			"id": 5,
 			"pid": 50,
 			"address": "埼玉県川口市",
@@ -68,9 +75,11 @@
 			"remarks": "無症状",
 			"supplement": "No.904の妻（同居家族）",
 			"discharged": null,
+			"sources": ["saitama-48"],
 			"date": "2020-03-22"
 		},
 		{
+			"name": "saitama-51",
 			"id": 6,
 			"pid": 51,
 			"jid": 935,
@@ -79,12 +88,13 @@
 			"sex": "male",
 			"attribute": "無職",
 			"remarks": null,
-			"supplement": "3/13にベトナムから帰国、No.904の子、No.kawaguchi5の子（同居家族）",
+			"supplement": "3/13にベトナムから帰国、埼玉県48例目、50例目の子（同居家族）",
 			"discharged": null,
-			"sources": ["vietnam"],
+			"sources": ["vietnam", "saitama-48", "saitama-50"],
 			"date": "2020-03-22"
 		},
 		{
+			"name": "saitama-52",
 			"id": 7,
 			"pid": 52,
 			"jid": 936,
@@ -99,6 +109,7 @@
 			"date": "2020-03-22"
 		},
 		{
+			"name": "saitama-62",
 			"id": 8,
 			"pid": 62,
 			"jid": 1039,
@@ -109,9 +120,11 @@
 			"remarks": null,
 			"supplement": "No.1196の父（同居家族）",
 			"discharged": null,
+			"sources": ["saitama-65"],
 			"date": "2020-03-24"
 		},
 		{
+			"name": "saitama-64",
 			"id": 9,
 			"pid": 64,
 			"jid": 1195,
@@ -122,9 +135,11 @@
 			"remarks": null,
 			"supplement": "No.1196の母（同居家族）",
 			"discharged": null,
+			"sources": ["saitama-65"],
 			"date": "2020-03-26"
 		},
 		{
+			"name": "saitama-65",
 			"id": 10,
 			"pid": 65,
 			"jid": 1196,
@@ -137,6 +152,21 @@
 			"discharged": null,
 			"sources": ["spain", "france"],
 			"date": "2020-03-26"
+		},
+		{
+			"name": "saitama-72",
+			"id": 11,
+			"pid": 72,
+			"jid": 1226,
+			"address": "埼玉県川口市",
+			"age": "10s",
+			"sex": "male",
+			"attribute": "大学生",
+			"remarks": null,
+			"supplement": "No.1196の弟（同居家族）",
+			"discharged": null,
+			"sources": ["saitama-65"],
+			"date": "2020-03-27"
 		}
 	]
 }

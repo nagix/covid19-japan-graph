@@ -1,11 +1,12 @@
 {
-	"id": "gifu-city",
+	"name": "gifu-city",
 	"label": {
 		"ja": "岐阜市"
 	},
 	"date": "2020\/03\/24 10:30",
-	"data": [
+	"children": [
 		{
+			"name": "gifu-3",
 			"id": 1,
 			"pid": 3,
 			"jid": 771,
@@ -20,6 +21,7 @@
 			"date": "2020-03-18"
 		},
 		{
+			"name": "gifu-8",
 			"id": 2,
 			"pid": 8,
 			"jid": 961,
@@ -34,6 +36,7 @@
 			"date": "2020-03-23"
 		},
 		{
+			"name": "gifu-9",
 			"id": 3,
 			"pid": 9,
 			"address": "岐阜県岐阜市",
@@ -43,7 +46,7 @@
 			"remarks": "無症状",
 			"supplement": "No.961とフィリピンに同行",
 			"discharged": null,
-			"sources": ["philippines"],
+			"sources": ["philippines", "gifu-8"],
 			"date": "2020-03-24"
 		}
 	]

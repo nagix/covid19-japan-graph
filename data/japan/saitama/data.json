@@ -1,17 +1,27 @@
 {
-	"id": "saitama",
+	"name": "saitama",
 	"label": {
 		"ja": "埼玉県"
 	},
-	"date": "2020\/03\/26 18:00",
-	"subgroups": [
-		"saitama-city",
-		"kawaguchi",
-		"koshigaya",
-		"kawagoe"
-	],
-	"data": [
+	"prefix": {
+		"ja": "埼玉"
+	},
+	"date": "2020\/03\/27 18:00",
+	"children": [
 		{
+			"ref": "saitama-city"
+		},
+		{
+			"ref": "kawaguchi"
+		},
+		{
+			"ref": "koshigaya"
+		},
+		{
+			"ref": "kawagoe"
+		},
+		{
+			"name": "saitama-1",
 			"pid": 1,
 			"address": "埼玉県外",
 			"age": "30s",
@@ -24,6 +34,7 @@
 			"date": "2020-02-01"
 		},
 		{
+			"name": "saitama-2",
 			"pid": 2,
 			"jid": 24,
 			"address": "埼玉県",
@@ -37,6 +48,7 @@
 			"date": "2020-02-10"
 		},
 		{
+			"name": "saitama-3",
 			"pid": 3,
 			"address": "埼玉県外",
 			"age": null,
@@ -49,6 +61,7 @@
 			"date": "2020-02-14"
 		},
 		{
+			"name": "saitama-4",
 			"pid": 4,
 			"jid": 84,
 			"address": "埼玉県",
@@ -58,10 +71,11 @@
 			"remarks": null,
 			"supplement": "1/30武漢からチャーター便（第2便）で帰国、No.24の子",
 			"discharged": "〇",
-			"sources": ["china"],
+			"sources": ["china", "saitama-2"],
 			"date": "2020-02-21"
 		},
 		{
+			"name": "saitama-5",
 			"pid": 5,
 			"jid": 293,
 			"address": "埼玉県行田市",
@@ -74,6 +88,7 @@
 			"date": "2020-03-05"
 		},
 		{
+			"name": "saitama-6",
 			"pid": 6,
 			"jid": 294,
 			"address": "埼玉県上尾市",
@@ -86,6 +101,7 @@
 			"date": "2020-03-05"
 		},
 		{
+			"name": "saitama-7",
 			"pid": 7,
 			"jid": 338,
 			"address": "埼玉県行田市",
@@ -95,9 +111,11 @@
 			"remarks": null,
 			"supplement": "No.293の妻",
 			"discharged": "〇",
+			"sources": ["saitama-5"],
 			"date": "2020-03-06"
 		},
 		{
+			"name": "saitama-8",
 			"pid": 8,
 			"jid": 339,
 			"address": "埼玉県行田市",
@@ -107,9 +125,11 @@
 			"remarks": null,
 			"supplement": "No.293の娘",
 			"discharged": "〇",
+			"sources": ["saitama-5"],
 			"date": "2020-03-06"
 		},
 		{
+			"name": "saitama-9",
 			"pid": 9,
 			"jid": 416,
 			"address": "埼玉県富士見市",
@@ -122,6 +142,7 @@
 			"date": "2020-03-08"
 		},
 		{
+			"name": "saitama-11",
 			"pid": 11,
 			"jid": 473,
 			"address": "埼玉県入間市",
@@ -135,6 +156,7 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "saitama-12",
 			"pid": 12,
 			"jid": 474,
 			"address": "埼玉県入間市",
@@ -148,6 +170,7 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "saitama-16",
 			"pid": 16,
 			"jid": 510,
 			"address": "埼玉県戸田市",
@@ -161,6 +184,7 @@
 			"date": "2020-03-11"
 		},
 		{
+			"name": "saitama-18",
 			"pid": 18,
 			"jid": 595,
 			"address": "埼玉県戸田市",
@@ -170,10 +194,11 @@
 			"remarks": null,
 			"supplement": "エジプト・ナイル川クルーズ、No.510の妻",
 			"discharged": null,
-			"sources": ["egypt"],
+			"sources": ["egypt", "saitama-16"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "saitama-19",
 			"pid": 19,
 			"jid": 596,
 			"address": "埼玉県戸田市",
@@ -183,10 +208,11 @@
 			"remarks": null,
 			"supplement": "エジプト・ナイル川クルーズ、No.510、No.595とエジプト同行",
 			"discharged": "〇",
-			"sources": ["egypt"],
+			"sources": ["egypt", "saitama-16", "saitama-18"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "saitama-20",
 			"pid": 20,
 			"jid": 597,
 			"address": "埼玉県戸田市",
@@ -196,9 +222,11 @@
 			"remarks": null,
 			"supplement": "No.596の同居家族（子）",
 			"discharged": null,
+			"sources": ["saitama-19"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "saitama-25",
 			"pid": 25,
 			"jid": 615,
 			"address": "埼玉県草加市",
@@ -212,6 +240,7 @@
 			"date": "2020-03-13"
 		},
 		{
+			"name": "saitama-31",
 			"pid": 31,
 			"jid": 646,
 			"address": "埼玉県入間市",
@@ -221,9 +250,11 @@
 			"remarks": null,
 			"supplement": "勤務先社員No.647に新型コロナウイルスの感染あり",
 			"discharged": "〇",
+			"sources": ["saitama-32"],
 			"date": "2020-03-14"
 		},
 		{
+			"name": "saitama-32",
 			"pid": 32,
 			"jid": 647,
 			"address": "埼玉県新座市",
@@ -236,6 +267,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "saitama-34",
 			"pid": 34,
 			"jid": 739,
 			"address": "埼玉県深谷市",
@@ -249,6 +281,7 @@
 			"date": "2020-03-17"
 		},
 		{
+			"name": "saitama-35",
 			"pid": 35,
 			"jid": 740,
 			"address": "埼玉県深谷市",
@@ -258,10 +291,11 @@
 			"remarks": null,
 			"supplement": "エジプト・ナイル川クルーズ、No.739の妻",
 			"discharged": null,
-			"sources": ["egypt"],
+			"sources": ["egypt", "saitama-34"],
 			"date": "2020-03-17"
 		},
 		{
+			"name": "saitama-36",
 			"pid": 36,
 			"jid": 741,
 			"address": "埼玉県志木市",
@@ -275,6 +309,7 @@
 			"date": "2020-03-17"
 		},
 		{
+			"name": "saitama-37",
 			"pid": 37,
 			"jid": 742,
 			"address": "埼玉県熊谷市",
@@ -288,6 +323,7 @@
 			"date": "2020-03-17"
 		},
 		{
+			"name": "saitama-38",
 			"pid": 38,
 			"jid": 782,
 			"address": "埼玉県志木市",
@@ -301,6 +337,7 @@
 			"date": "2020-03-18"
 		},
 		{
+			"name": "saitama-39",
 			"pid": 39,
 			"jid": 824,
 			"address": "埼玉県志木市",
@@ -310,10 +347,11 @@
 			"remarks": null,
 			"supplement": "3/15までフィンランド、ノルウェーに滞在、No.782の夫",
 			"discharged": null,
-			"sources": ["finland", "norway"],
+			"sources": ["finland", "norway", "saitama-38"],
 			"date": "2020-03-19"
 		},
 		{
+			"name": "saitama-40",
 			"pid": 40,
 			"jid": 825,
 			"address": "埼玉県桶川市",
@@ -327,6 +365,7 @@
 			"date": "2020-03-19"
 		},
 		{
+			"name": "saitama-41",
 			"pid": 41,
 			"jid": 826,
 			"address": "埼玉県狭山市",
@@ -340,6 +379,7 @@
 			"date": "2020-03-19"
 		},
 		{
+			"name": "saitama-42",
 			"pid": 42,
 			"jid": 827,
 			"address": "埼玉県春日部市",
@@ -352,6 +392,7 @@
 			"date": "2020-03-19"
 		},
 		{
+			"name": "saitama-44",
 			"pid": 44,
 			"address": "埼玉県春日部市",
 			"age": "80s",
@@ -360,9 +401,11 @@
 			"remarks": "無症状",
 			"supplement": "No.827の母",
 			"discharged": null,
+			"sources": ["saitama-42"],
 			"date": "2020-03-20"
 		},
 		{
+			"name": "saitama-46",
 			"pid": 46,
 			"jid": 905,
 			"address": "埼玉県春日部市",
@@ -372,9 +415,11 @@
 			"remarks": null,
 			"supplement": "No.827の同僚",
 			"discharged": null,
+			"sources": ["saitama-42"],
 			"date": "2020-03-21"
 		},
 		{
+			"name": "saitama-47",
 			"pid": 47,
 			"jid": 906,
 			"address": "埼玉県春日部市",
@@ -384,9 +429,11 @@
 			"remarks": null,
 			"supplement": "No.827、No.905の同僚",
 			"discharged": null,
+			"sources": ["saitama-42", "saitama-46"],
 			"date": "2020-03-21"
 		},
 		{
+			"name": "saitama-53",
 			"pid": 53,
 			"address": "埼玉県蓮田市",
 			"age": "20s",
@@ -395,9 +442,11 @@
 			"remarks": "無症状",
 			"supplement": "No.827、No.905、No.906の同僚",
 			"discharged": null,
+			"sources": ["saitama-42", "saitama-46", "saitama-47"],
 			"date": "2020-03-22"
 		},
 		{
+			"name": "saitama-54",
 			"pid": 54,
 			"jid": 951,
 			"address": "埼玉県春日部市",
@@ -407,9 +456,11 @@
 			"remarks": null,
 			"supplement": "No.827、No.905、No.906の同僚",
 			"discharged": null,
+			"sources": ["saitama-42", "saitama-46", "saitama-47"],
 			"date": "2020-03-22"
 		},
 		{
+			"name": "saitama-55",
 			"pid": 55,
 			"jid": 967,
 			"address": "埼玉県所沢市",
@@ -422,6 +473,7 @@
 			"date": "2020-03-23"
 		},
 		{
+			"name": "saitama-56",
 			"pid": 56,
 			"jid": 1040,
 			"address": "埼玉県春日部市",
@@ -431,9 +483,11 @@
 			"remarks": null,
 			"supplement": "No.951の同居家族",
 			"discharged": null,
+			"sources": ["saitama-54"],
 			"date": "2020-03-24"
 		},
 		{
+			"name": "saitama-57",
 			"pid": 57,
 			"jid": 1041,
 			"address": "埼玉県深谷市",
@@ -447,6 +501,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "saitama-58",
 			"pid": 58,
 			"jid": 1042,
 			"address": "埼玉県深谷市",
@@ -454,12 +509,13 @@
 			"sex": "female",
 			"attribute": "無職",
 			"remarks": null,
-			"supplement": "3/17ポルトガルから帰国、No.1043の同居家族",
+			"supplement": "3/17ポルトガルから帰国、埼玉57例目の同居家族",
 			"discharged": null,
-			"sources": ["portugal"],
+			"sources": ["portugal", "saitama-57"],
 			"date": "2020-03-24"
 		},
 		{
+			"name": "saitama-59",
 			"pid": 59,
 			"jid": 1043,
 			"address": "埼玉県戸田市",
@@ -472,18 +528,7 @@
 			"date": "2020-03-24"
 		},
 		{
-			"pid": 60,
-			"jid": 1044,
-			"address": "埼玉県さいたま市",
-			"age": "60s",
-			"sex": "male",
-			"attribute": "会社員（県外勤務）",
-			"remarks": null,
-			"supplement": null,
-			"discharged": null,
-			"date": "2020-03-24"
-		},
-		{
+			"name": "saitama-61",
 			"pid": 61,
 			"jid": 1045,
 			"address": "埼玉県坂戸市",
@@ -496,6 +541,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "saitama-63",
 			"pid": 63,
 			"address": "埼玉県所沢市",
 			"age": "70s",
@@ -503,10 +549,12 @@
 			"attribute": "無職",
 			"remarks": "無症状",
 			"supplement": "No.967の妻（同居家族）",
+			"sources": ["saitama-55"],
 			"discharged": null,
 			"date": "2020-03-25"
 		},
 		{
+			"name": "saitama-66",
 			"pid": 66,
 			"jid": 1190,
 			"address": "埼玉県戸田市",
@@ -516,9 +564,11 @@
 			"remarks": null,
 			"supplement": "No.1043の子（同居家族）",
 			"discharged": null,
+			"sources": ["saitama-59"],
 			"date": "2020-03-26"
 		},
 		{
+			"name": "saitama-67",
 			"pid": 67,
 			"jid": 1191,
 			"address": "埼玉県白岡市",
@@ -532,6 +582,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "saitama-68",
 			"pid": 68,
 			"jid": 1192,
 			"address": "埼玉県和光市",
@@ -544,6 +595,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "saitama-69",
 			"pid": 69,
 			"jid": 1193,
 			"address": "埼玉県春日部市",
@@ -556,6 +608,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "saitama-70",
 			"pid": 70,
 			"jid": 1194,
 			"address": "埼玉県ときがわ町",
@@ -566,6 +619,48 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-26"
+		},
+		{
+			"name": "saitama-74",
+			"pid": 74,
+			"jid": 1234,
+			"address": "埼玉県ふじみ野市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": "3/20米国から帰国",
+			"discharged": null,
+			"sources": ["usa"],
+			"date": "2020-03-27"
+		},
+		{
+			"name": "saitama-75",
+			"pid": 75,
+			"jid": 1235,
+			"address": "埼玉県春日部市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "会社員（県内勤務）",
+			"remarks": null,
+			"supplement": "No.951、No.1040の同居家族",
+			"discharged": null,
+			"sources": ["saitama-54", "saitama-56"],
+			"date": "2020-03-27"
+		},
+		{
+			"name": "saitama-76",
+			"pid": 76,
+			"jid": 1236,
+			"address": "埼玉県深谷市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "フリーランス",
+			"remarks": null,
+			"supplement": "3/22米国から帰国",
+			"discharged": null,
+			"sources": ["usa"],
+			"date": "2020-03-27"
 		}
 	]
 }

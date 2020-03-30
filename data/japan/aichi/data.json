@@ -1,16 +1,24 @@
 {
-	"id": "aichi",
+	"name": "aichi",
 	"label": {
 		"ja": "愛知県"
 	},
-	"date": "2020\/03\/26 18:00",
-	"subgroups": [
-		"nagoya",
-		"okazaki",
-		"toyota"
-	],
-	"data": [
+	"prefix": {
+		"ja": "愛知"
+	},
+	"date": "2020\/03\/27 18:00",
+	"children": [
 		{
+			"ref": "nagoya"
+		},
+		{
+			"ref": "okazaki"
+		},
+		{
+			"ref": "toyota"
+		},
+		{
+			"name": "aichi-1",
 			"pid": 1,
 			"jid": 4,
 			"address": "湖北省武漢市",
@@ -24,6 +32,7 @@
 			"date": "2020-01-26"
 		},
 		{
+			"name": "aichi-2",
 			"pid": 2,
 			"jid": 5,
 			"address": "湖北省武漢市",
@@ -37,6 +46,7 @@
 			"date": "2020-01-28"
 		},
 		{
+			"name": "aichi-5",
 			"pid": 5,
 			"jid": 44,
 			"address": "愛知県尾張地方",
@@ -46,9 +56,11 @@
 			"remarks": null,
 			"supplement": "No.43の知人",
 			"discharged": null,
+			"sources": ["aichi-4"],
 			"date": "2020-02-16"
 		},
 		{
+			"name": "aichi-6",
 			"pid": 6,
 			"jid": 53,
 			"address": "愛知県尾張地方",
@@ -58,9 +70,11 @@
 			"remarks": null,
 			"supplement": "No.44と接触あり",
 			"discharged": null,
+			"sources": ["aichi-5"],
 			"date": "2020-02-17"
 		},
 		{
+			"name": "aichi-7",
 			"pid": 7,
 			"jid": 59,
 			"address": "愛知県尾張地方",
@@ -70,9 +84,11 @@
 			"remarks": null,
 			"supplement": "No.44、No.53と接触あり",
 			"discharged": null,
+			"sources": ["aichi-4", "aichi-6"],
 			"date": "2020-02-18"
 		},
 		{
+			"name": "aichi-33",
 			"pid": 33,
 			"jid": 253,
 			"address": "愛知県蒲郡市",
@@ -82,9 +98,11 @@
 			"remarks": null,
 			"supplement": "No.146と同施設利用",
 			"discharged": null,
+			"sources": ["aichi-19"],
 			"date": "2020-03-03"
 		},
 		{
+			"name": "aichi-34",
 			"pid": 34,
 			"jid": 254,
 			"address": "愛知県蒲郡市",
@@ -94,9 +112,11 @@
 			"remarks": null,
 			"supplement": "No.253の家族",
 			"discharged": null,
+			"sources": ["aichi-33"],
 			"date": "2020-03-03"
 		},
 		{
+			"name": "aichi-35",
 			"pid": 35,
 			"jid": 255,
 			"address": "愛知県尾張地方",
@@ -109,6 +129,7 @@
 			"date": "2020-03-03"
 		},
 		{
+			"name": "aichi-36",
 			"pid": 36,
 			"jid": 256,
 			"address": "愛知県尾張地方",
@@ -121,6 +142,7 @@
 			"date": "2020-03-03"
 		},
 		{
+			"name": "aichi-42",
 			"pid": 42,
 			"address": "愛知県三河地方",
 			"age": "50s",
@@ -129,9 +151,11 @@
 			"remarks": "無症状",
 			"supplement": "No.253、No.254の家族（濃厚接触者）",
 			"discharged": null,
+			"sources": ["aichi-33", "aichi-34"],
 			"date": "2020-03-04"
 		},
 		{
+			"name": "aichi-43",
 			"pid": 43,
 			"jid": 304,
 			"address": "愛知県三河地方",
@@ -141,9 +165,11 @@
 			"remarks": null,
 			"supplement": "No.253、No.254の家族（濃厚接触者）",
 			"discharged": null,
+			"sources": ["aichi-33", "aichi-34"],
 			"date": "2020-03-04"
 		},
 		{
+			"name": "aichi-50",
 			"pid": 50,
 			"jid": 305,
 			"address": "愛知県尾張地方",
@@ -157,6 +183,7 @@
 			"date": "2020-03-05"
 		},
 		{
+			"name": "aichi-63",
 			"pid": 63,
 			"jid": 402,
 			"address": "愛知県三河地方",
@@ -166,9 +193,11 @@
 			"remarks": null,
 			"supplement": "No.254（マッサージ師）による施術",
 			"discharged": null,
+			"sources": ["aichi-34"],
 			"date": "2020-03-07"
 		},
 		{
+			"name": "aichi-64",
 			"pid": 64,
 			"jid": 403,
 			"address": "愛知県尾張地方",
@@ -178,9 +207,11 @@
 			"remarks": null,
 			"supplement": "No.aichi81、No.aichi87と職場で接触",
 			"discharged": null,
+			"sources": ["aichi-81", "aichi-87"],
 			"date": "2020-03-07"
 		},
 		{
+			"name": "aichi-81",
 			"pid": 81,
 			"address": "愛知県尾張地方",
 			"age": "40s",
@@ -189,9 +220,11 @@
 			"remarks": "無症状",
 			"supplement": "No.242の勤務先店舗を利用",
 			"discharged": null,
+			"sources": ["oita-1"],
 			"date": "2020-03-09"
 		},
 		{
+			"name": "aichi-87",
 			"pid": 87,
 			"address": "愛知県尾張地方",
 			"age": "40s",
@@ -200,9 +233,11 @@
 			"remarks": "無症状",
 			"supplement": "No.242の勤務先店舗を利用",
 			"discharged": null,
+			"sources": ["oita-1"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "aichi-88",
 			"pid": 88,
 			"jid": 476,
 			"address": "愛知県尾張地方",
@@ -212,9 +247,11 @@
 			"remarks": null,
 			"supplement": "No.aichi81の同居家族（濃厚接触者）",
 			"discharged": null,
+			"sources": ["aichi-81"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "aichi-89",
 			"pid": 89,
 			"jid": 477,
 			"address": "愛知県尾張地方",
@@ -224,9 +261,11 @@
 			"remarks": null,
 			"supplement": "No.403の同僚（濃厚接触者）",
 			"discharged": null,
+			"sources": ["aichi-64"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "aichi-106",
 			"pid": 106,
 			"jid": 589,
 			"address": "愛知県一宮保健所管内",
@@ -239,6 +278,7 @@
 			"date": "2020-03-12"
 		},
 		{
+			"name": "aichi-112",
 			"pid": 112,
 			"jid": 640,
 			"address": "愛知県半田市",
@@ -248,9 +288,11 @@
 			"remarks": null,
 			"supplement": "No.256の家族（濃厚接触者）",
 			"discharged": null,
+			"sources": ["aichi-36"],
 			"date": "2020-03-13"
 		},
 		{
+			"name": "aichi-122",
 			"pid": 122,
 			"jid": 720,
 			"address": "愛知県一宮市",
@@ -264,6 +306,7 @@
 			"date": "2020-03-16"
 		},
 		{
+			"name": "aichi-124",
 			"pid": 124,
 			"jid": 745,
 			"address": "愛知県清須市",
@@ -276,30 +319,33 @@
 			"date": "2020-03-17"
 		},
 		{
+			"name": "aichi-126",
 			"pid": 126,
 			"address": "愛知県一宮市",
 			"age": "40s",
 			"sex": "female",
 			"attribute": null,
 			"remarks": "無症状",
-			"supplement": "3/2フィリピンから帰国、No.720の家族（濃厚接触者）",
+			"supplement": "3/2フィリピンから帰国、愛知県122例目の家族（濃厚接触者）",
 			"discharged": null,
-			"sources": ["philippines"],
+			"sources": ["philippines", "aichi-122"],
 			"date": "2020-03-18"
 		},
 		{
+			"name": "aichi-127",
 			"pid": 127,
 			"address": "愛知県一宮市",
 			"age": "u10",
 			"sex": "female",
 			"attribute": "小学生",
 			"remarks": "無症状",
-			"supplement": "3/2フィリピンから帰国、No.720、No.783の家族（濃厚接触者）",
+			"supplement": "3/2フィリピンから帰国、愛知県122例目、126例目の家族（濃厚接触者）",
 			"discharged": null,
-			"sources": ["philippines"],
+			"sources": ["philippines", "aichi-122", "aichi-126"],
 			"date": "2020-03-18"
 		},
 		{
+			"name": "aichi-128",
 			"pid": 128,
 			"jid": 783,
 			"address": "愛知県知多郡武豊町",
@@ -312,6 +358,7 @@
 			"date": "2020-03-18"
 		},
 		{
+			"name": "aichi-131",
 			"pid": 131,
 			"jid": 828,
 			"address": "愛知県春日井市",
@@ -324,6 +371,7 @@
 			"date": "2020-03-19"
 		},
 		{
+			"name": "aichi-132",
 			"pid": 132,
 			"jid": 829,
 			"address": "愛知県江南市",
@@ -336,6 +384,7 @@
 			"date": "2020-03-19"
 		},
 		{
+			"name": "aichi-140",
 			"pid": 140,
 			"jid": 894,
 			"address": "愛知県知多市",
@@ -349,6 +398,7 @@
 			"date": "2020-03-21"
 		},
 		{
+			"name": "aichi-141",
 			"pid": 141,
 			"jid": 895,
 			"address": "愛知県知多市",
@@ -358,9 +408,11 @@
 			"remarks": null,
 			"supplement": "No.894の家族（濃厚接触者）",
 			"discharged": null,
+			"sources": ["aichi-140"],
 			"date": "2020-03-21"
 		},
 		{
+			"name": "aichi-142",
 			"pid": 142,
 			"jid": 938,
 			"address": "愛知県豊川市",
@@ -370,9 +422,11 @@
 			"remarks": null,
 			"supplement": "No.828の職場での濃厚接触者",
 			"discharged": null,
+			"sources": ["aichi-131"],
 			"date": "2020-03-22"
 		},
 		{
+			"name": "aichi-145",
 			"pid": 145,
 			"jid": 972,
 			"address": "愛知県春日井市",
@@ -385,6 +439,7 @@
 			"date": "2020-03-23"
 		},
 		{
+			"name": "aichi-146",
 			"pid": 146,
 			"jid": 1035,
 			"address": "愛知県稲沢市",
@@ -397,6 +452,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "aichi-147",
 			"pid": 147,
 			"jid": 1036,
 			"address": "愛知県稲沢市",
@@ -404,22 +460,26 @@
 			"sex": "male",
 			"attribute": null,
 			"remarks": null,
-			"supplement": "No.146の家族",
+			"supplement": "愛知県146例目の家族",
 			"discharged": null,
+			"sources": ["aichi-146"],
 			"date": "2020-03-24"
 		},
 		{
+			"name": "aichi-149",
 			"pid": 149,
 			"address": "愛知県稲沢市",
 			"age": "60s",
 			"sex": "female",
 			"attribute": null,
 			"remarks": "無症状",
-			"supplement": "No.1035の家族（濃厚接触者）",
+			"supplement": "愛知県146例目の家族（濃厚接触者）",
 			"discharged": null,
+			"sources": ["aichi-146"],
 			"date": "2020-03-25"
 		},
 		{
+			"name": "aichi-150",
 			"pid": 150,
 			"jid": 1082,
 			"address": "愛知県春日井市",
@@ -429,9 +489,11 @@
 			"remarks": null,
 			"supplement": "No.972の同僚（濃厚接触者）",
 			"discharged": null,
+			"sources": ["aichi-145"],
 			"date": "2020-03-25"
 		},
 		{
+			"name": "aichi-151",
 			"pid": 151,
 			"jid": 1083,
 			"address": "愛知県春日井市",
@@ -441,9 +503,11 @@
 			"remarks": null,
 			"supplement": "No.972の同僚（濃厚接触者）",
 			"discharged": null,
+			"sources": ["aichi-146"],
 			"date": "2020-03-25"
 		},
 		{
+			"name": "aichi-152",
 			"pid": 152,
 			"jid": 1084,
 			"address": "愛知県犬山市",
@@ -454,9 +518,11 @@
 			"supplement": "No.955、No.960、No.1002、No.1003と同じ合唱団に参加",
 			"discharged": null,
 			"cluster": "gifu-chorus",
+			"sources": ["gifu-5", "gifu-7", "gifu-10", "gifu-11"],
 			"date": "2020-03-25"
 		},
 		{
+			"name": "aichi-153",
 			"pid": 153,
 			"jid": 1085,
 			"address": "愛知県みよし市",
@@ -470,6 +536,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "aichi-155",
 			"pid": 155,
 			"jid": 1182,
 			"address": "愛知県犬山市",
@@ -481,6 +548,34 @@
 			"discharged": null,
 			"sources": ["spain", "france", "italy"],
 			"date": "2020-03-26"
+		},
+		{
+			"name": "aichi-158",
+			"pid": 158,
+			"jid": 1237,
+			"address": "愛知県長久手市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.972、No.1082、No.1083と同じ職場に勤務",
+			"discharged": null,
+			"sources": ["aichi-145", "aichi-150", "aichi-151"],
+			"date": "2020-03-27"
+		},
+		{
+			"name": "aichi-159",
+			"pid": 159,
+			"jid": 1238,
+			"address": "愛知県犬山市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.955、No.960、No.1129、No.1132、No.gifu16と同じスポーツジム",
+			"discharged": null,
+			"sources": ["gifu-5", "gifu-7", "gifu-12", "gifu-13", "gifu-16"],
+			"date": "2020-03-27"
 		}
 	]
 }

@@ -1,11 +1,12 @@
 {
-	"id": "okazaki",
+	"name": "okazaki",
 	"label": {
 		"ja": "岡崎市"
 	},
 	"date": "2020\/03\/23 18:00",
-	"data": [
+	"children": [
 		{
+			"name": "aichi-103",
 			"id": 1,
 			"pid": 103,
 			"jid": 552,
@@ -16,9 +17,11 @@
 			"remarks": null,
 			"supplement": "No.254（マッサージ師）による施術",
 			"discharged": null,
+			"sources": ["aichi-34"],
 			"date": "2020-03-11"
 		},
 		{
+			"name": "aichi-104",
 			"id": 2,
 			"pid": 104,
 			"jid": 553,
@@ -29,9 +32,11 @@
 			"remarks": null,
 			"supplement": "No.552の家族",
 			"discharged": null,
+			"sources": ["aichi-103"],
 			"date": "2020-03-11"
 		},
 		{
+			"name": "aichi-144",
 			"id": 3,
 			"pid": 144,
 			"jid": 973,

@@ -1,11 +1,15 @@
 {
-	"id": "osaka",
+	"name": "osaka",
 	"label": {
 		"ja": "大阪府"
 	},
-	"date": "2020\/03\/26 20:30",
-	"data": [
+	"prefix": {
+		"ja": "大阪"
+	},
+	"date": "2020\/03\/27 20:30",
+	"children": [
 		{
+			"name": "osaka-1",
 			"pid": 1,
 			"jid": 8,
 			"address": "大阪府大阪市",
@@ -15,21 +19,11 @@
 			"remarks": null,
 			"supplement": "武漢市からのツアー客の乗るバスにガイドとして乗った、No.6の濃厚接触者",
 			"discharged": "〇",
-			"sources": ["china-tourist"],
+			"sources": ["china-tourist", "nara-1"],
 			"date": "2020-01-29"
 		},
 		{
-			"jid": 159,
-			"address": "大阪府大阪市",
-			"age": "40s",
-			"sex": "female",
-			"attribute": "バスガイド",
-			"remarks": null,
-			"supplement": "No.8と同一人物",
-			"discharged": "〇",
-			"date": "2020-02-26"
-		},
-		{
+			"name": "osaka-2",
 			"pid": 2,
 			"jid": 173,
 			"address": "大阪府大阪市",
@@ -40,9 +34,11 @@
 			"supplement": "ライブハウスArc、No.157と行動を共にしていた",
 			"discharged": "〇",
 			"cluster": "osaka-livehouse-a",
+			"sources": ["hokkaido-39"],
 			"date": "2020-02-27"
 		},
 		{
+			"name": "osaka-3",
 			"pid": 3,
 			"jid": 208,
 			"address": "大阪府大阪市",
@@ -52,9 +48,11 @@
 			"remarks": null,
 			"supplement": "No.173の同居家族",
 			"discharged": null,
+			"sources": ["osaka-2"],
 			"date": "2020-02-28"
 		},
 		{
+			"name": "osaka-4",
 			"pid": 4,
 			"address": "大阪府大阪市",
 			"age": "u10",
@@ -63,9 +61,11 @@
 			"remarks": "無症状",
 			"supplement": "No.173の同居家族",
 			"discharged": "〇",
+			"sources": ["osaka-2"],
 			"date": "2020-02-28"
 		},
 		{
+			"name": "osaka-5",
 			"pid": 5,
 			"jid": 240,
 			"address": "大阪府大阪市",
@@ -75,9 +75,11 @@
 			"remarks": null,
 			"supplement": "No.157と接触あり",
 			"discharged": "〇",
+			"sources": ["hokkaido-39"],
 			"date": "2020-03-02"
 		},
 		{
+			"name": "osaka-6",
 			"pid": 6,
 			"jid": 241,
 			"address": "大阪府大阪市",
@@ -88,9 +90,11 @@
 			"supplement": "ライブハウスArc、No.240と接触あり",
 			"discharged": "〇",
 			"cluster": "osaka-livehouse-a",
+			"sources": ["osaka-5"],
 			"date": "2020-03-02"
 		},
 		{
+			"name": "osaka-7",
 			"pid": 7,
 			"jid": 251,
 			"address": "大阪府枚方市",
@@ -103,6 +107,7 @@
 			"date": "2020-03-03"
 		},
 		{
+			"name": "osaka-8",
 			"pid": 8,
 			"jid": 252,
 			"address": "大阪府大阪市",
@@ -116,6 +121,7 @@
 			"date": "2020-03-03"
 		},
 		{
+			"name": "osaka-9",
 			"pid": 9,
 			"address": "大阪府守口市",
 			"age": "40s",
@@ -128,6 +134,7 @@
 			"date": "2020-03-04"
 		},
 		{
+			"name": "osaka-10",
 			"pid": 10,
 			"jid": 281,
 			"address": "大阪府箕面市",
@@ -141,6 +148,7 @@
 			"date": "2020-03-04"
 		},
 		{
+			"name": "osaka-11",
 			"pid": 11,
 			"address": "大阪府東大阪市",
 			"age": "40s",
@@ -149,9 +157,11 @@
 			"remarks": "無症状",
 			"supplement": "No.208が勤務していた医療機関の職員・濃厚接触者",
 			"discharged": "〇",
+			"sources": ["osaka-3"],
 			"date": "2020-03-04"
 		},
 		{
+			"name": "osaka-12",
 			"pid": 12,
 			"jid": 282,
 			"address": "大阪府大阪市",
@@ -162,9 +172,11 @@
 			"supplement": "2/16ライブハウスArc、No.240と接触",
 			"discharged": "〇",
 			"cluster": "osaka-livehouse-a",
+			"sources": ["osaka-5"],
 			"date": "2020-03-04"
 		},
 		{
+			"name": "osaka-13",
 			"pid": 13,
 			"jid": 283,
 			"address": "大阪府吹田市",
@@ -178,6 +190,7 @@
 			"date": "2020-03-04"
 		},
 		{
+			"name": "osaka-14",
 			"pid": 14,
 			"jid": 284,
 			"address": "大阪府枚方市",
@@ -187,9 +200,11 @@
 			"remarks": null,
 			"supplement": "No.251の妻・濃厚接触者",
 			"discharged": "〇",
+			"sources": ["osaka-7"],
 			"date": "2020-03-04"
 		},
 		{
+			"name": "osaka-15",
 			"pid": 15,
 			"jid": 285,
 			"address": "大阪府大阪市",
@@ -203,6 +218,7 @@
 			"date": "2020-03-04"
 		},
 		{
+			"name": "osaka-16",
 			"pid": 16,
 			"jid": 286,
 			"address": "大阪府松原市",
@@ -216,6 +232,7 @@
 			"date": "2020-03-04"
 		},
 		{
+			"name": "osaka-17",
 			"pid": 17,
 			"jid": 287,
 			"address": "大阪府東大阪市",
@@ -228,6 +245,7 @@
 			"date": "2020-03-04"
 		},
 		{
+			"name": "osaka-18",
 			"pid": 18,
 			"address": "大阪府大東市",
 			"age": "40s",
@@ -240,6 +258,7 @@
 			"date": "2020-03-05"
 		},
 		{
+			"name": "osaka-19",
 			"pid": 19,
 			"jid": 356,
 			"address": "大阪府大阪市",
@@ -247,11 +266,13 @@
 			"sex": "female",
 			"attribute": null,
 			"remarks": null,
-			"supplement": "No.osaka52の同居家族（濃厚接触者）",
+			"supplement": "大阪府52例目の同居家族（濃厚接触者）",
 			"discharged": null,
+			"sources": ["osaka-52"],
 			"date": "2020-03-06"
 		},
 		{
+			"name": "osaka-20",
 			"pid": 20,
 			"jid": 357,
 			"address": "大阪府大阪市",
@@ -265,6 +286,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "osaka-21",
 			"pid": 21,
 			"jid": 358,
 			"address": "大阪府大阪市",
@@ -278,6 +300,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "osaka-22",
 			"pid": 22,
 			"jid": 359,
 			"address": "大阪府大阪市",
@@ -291,6 +314,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "osaka-23",
 			"pid": 23,
 			"jid": 360,
 			"address": "大阪府大阪市",
@@ -304,6 +328,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "osaka-24",
 			"pid": 24,
 			"jid": 361,
 			"address": "大阪府大阪市",
@@ -313,9 +338,11 @@
 			"remarks": null,
 			"supplement": "No.285の濃厚接触者（同僚）",
 			"discharged": null,
+			"sources": ["osaka-15"],
 			"date": "2020-03-06"
 		},
 		{
+			"name": "osaka-25",
 			"pid": 25,
 			"jid": 362,
 			"address": "大阪府大阪市",
@@ -325,9 +352,11 @@
 			"remarks": null,
 			"supplement": "No.361の家族",
 			"discharged": null,
+			"sources": ["osaka-24"],
 			"date": "2020-03-06"
 		},
 		{
+			"name": "osaka-26",
 			"pid": 26,
 			"jid": 363,
 			"address": "大阪府堺市",
@@ -341,6 +370,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "osaka-27",
 			"pid": 27,
 			"jid": 364,
 			"address": "大阪府高槻市",
@@ -354,6 +384,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "osaka-28",
 			"pid": 28,
 			"jid": 365,
 			"address": "大阪府高槻市",
@@ -367,6 +398,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "osaka-29",
 			"pid": 29,
 			"jid": 366,
 			"address": "大阪府吹田市",
@@ -380,6 +412,7 @@
 			"date": "2020-03-06"
 		},
 		{
+			"name": "osaka-30",
 			"pid": 30,
 			"address": "大阪府吹田市",
 			"age": "60s",
@@ -388,9 +421,11 @@
 			"remarks": "無症状",
 			"supplement": "No.283の濃厚接触者（同居家族）",
 			"discharged": null,
+			"sources": ["osaka-13"],
 			"date": "2020-03-06"
 		},
 		{
+			"name": "osaka-31",
 			"pid": 31,
 			"address": "大阪府吹田市",
 			"age": "50s",
@@ -399,9 +434,11 @@
 			"remarks": "無症状",
 			"supplement": "No.283が受診した医療機関に勤務",
 			"discharged": "〇",
+			"sources": ["osaka-13"],
 			"date": "2020-03-06"
 		},
 		{
+			"name": "osaka-32",
 			"pid": 32,
 			"jid": 394,
 			"address": "大阪府東大阪市",
@@ -415,6 +452,7 @@
 			"date": "2020-03-07"
 		},
 		{
+			"name": "osaka-33",
 			"pid": 33,
 			"address": "大阪府摂津市",
 			"age": "40s",
@@ -427,6 +465,7 @@
 			"date": "2020-03-07"
 		},
 		{
+			"name": "osaka-34",
 			"pid": 34,
 			"address": "大阪府茨木市",
 			"age": "30s",
@@ -439,6 +478,7 @@
 			"date": "2020-03-07"
 		},
 		{
+			"name": "osaka-35",
 			"pid": 35,
 			"address": "大阪府東大阪市",
 			"age": "40s",
@@ -451,6 +491,7 @@
 			"date": "2020-03-07"
 		},
 		{
+			"name": "osaka-36",
 			"pid": 36,
 			"jid": 395,
 			"address": "大阪府堺市",
@@ -464,6 +505,7 @@
 			"date": "2020-03-07"
 		},
 		{
+			"name": "osaka-37",
 			"pid": 37,
 			"jid": 396,
 			"address": "大阪府堺市",
@@ -477,6 +519,7 @@
 			"date": "2020-03-07"
 		},
 		{
+			"name": "osaka-38",
 			"pid": 38,
 			"jid": 397,
 			"address": "大阪府箕面市",
@@ -490,6 +533,7 @@
 			"date": "2020-03-07"
 		},
 		{
+			"name": "osaka-39",
 			"pid": 39,
 			"jid": 398,
 			"address": "大阪府門真市",
@@ -503,6 +547,7 @@
 			"date": "2020-03-07"
 		},
 		{
+			"name": "osaka-40",
 			"pid": 40,
 			"jid": 399,
 			"address": "大阪府東大阪市",
@@ -516,6 +561,7 @@
 			"date": "2020-03-07"
 		},
 		{
+			"name": "osaka-41",
 			"pid": 41,
 			"jid": 400,
 			"address": "大阪府豊中市",
@@ -528,6 +574,7 @@
 			"date": "2020-03-07"
 		},
 		{
+			"name": "osaka-42",
 			"pid": 42,
 			"jid": 418,
 			"address": "大阪府大阪市",
@@ -541,6 +588,7 @@
 			"date": "2020-03-08"
 		},
 		{
+			"name": "osaka-43",
 			"pid": 43,
 			"jid": 419,
 			"address": "大阪府大阪市",
@@ -553,6 +601,7 @@
 			"date": "2020-03-08"
 		},
 		{
+			"name": "osaka-44",
 			"pid": 44,
 			"jid": 420,
 			"address": "大阪府大阪市",
@@ -562,9 +611,11 @@
 			"remarks": null,
 			"supplement": "No.osaka52の同居家族（濃厚接触者）",
 			"discharged": "〇",
+			"sources": ["osaka-52"],
 			"date": "2020-03-08"
 		},
 		{
+			"name": "osaka-45",
 			"pid": 45,
 			"address": "大阪府大阪市",
 			"age": "40s",
@@ -577,6 +628,7 @@
 			"date": "2020-03-08"
 		},
 		{
+			"name": "osaka-46",
 			"pid": 46,
 			"jid": 421,
 			"address": "大阪府豊中市",
@@ -590,6 +642,7 @@
 			"date": "2020-03-08"
 		},
 		{
+			"name": "osaka-47",
 			"pid": 47,
 			"jid": 422,
 			"address": "大阪府大阪市",
@@ -603,6 +656,7 @@
 			"date": "2020-03-08"
 		},
 		{
+			"name": "osaka-48",
 			"pid": 48,
 			"jid": 423,
 			"address": "大阪府大阪市",
@@ -616,6 +670,7 @@
 			"date": "2020-03-08"
 		},
 		{
+			"name": "osaka-49",
 			"pid": 49,
 			"address": "大阪府大阪市",
 			"age": "40s",
@@ -628,6 +683,7 @@
 			"date": "2020-03-08"
 		},
 		{
+			"name": "osaka-50",
 			"pid": 50,
 			"jid": 424,
 			"address": "大阪府大阪市",
@@ -641,6 +697,7 @@
 			"date": "2020-03-08"
 		},
 		{
+			"name": "osaka-51",
 			"pid": 51,
 			"jid": 425,
 			"address": "大阪府大阪市",
@@ -654,6 +711,7 @@
 			"date": "2020-03-08"
 		},
 		{
+			"name": "osaka-52",
 			"pid": 52,
 			"address": "大阪府大阪市",
 			"age": "30s",
@@ -663,9 +721,11 @@
 			"supplement": "2/15ライブハウスArc、No.282の濃厚接触者",
 			"discharged": null,
 			"cluster": "osaka-livehouse-a",
+			"sources": ["osaka-12"],
 			"date": "2020-03-08"
 		},
 		{
+			"name": "osaka-53",
 			"pid": 53,
 			"jid": 426,
 			"address": "大阪府守口市",
@@ -679,6 +739,7 @@
 			"date": "2020-03-08"
 		},
 		{
+			"name": "osaka-54",
 			"pid": 54,
 			"jid": 427,
 			"address": "大阪府豊中市",
@@ -688,9 +749,11 @@
 			"remarks": null,
 			"supplement": "No.400の同居家族（濃厚接触者）",
 			"discharged": null,
+			"sources": ["osaka-41"],
 			"date": "2020-03-08"
 		},
 		{
+			"name": "osaka-55",
 			"pid": 55,
 			"jid": 428,
 			"address": "大阪府八尾市",
@@ -703,6 +766,7 @@
 			"date": "2020-03-08"
 		},
 		{
+			"name": "osaka-56",
 			"pid": 56,
 			"jid": 458,
 			"address": "大阪府大阪市",
@@ -715,6 +779,7 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "osaka-57",
 			"pid": 57,
 			"jid": 459,
 			"address": "大阪府大阪市",
@@ -727,6 +792,7 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "osaka-58",
 			"pid": 58,
 			"address": "大阪府大阪市",
 			"age": "30s",
@@ -739,6 +805,7 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "osaka-59",
 			"pid": 59,
 			"jid": 460,
 			"address": "大阪府大阪市",
@@ -751,6 +818,7 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "osaka-60",
 			"pid": 60,
 			"jid": 461,
 			"address": "大阪府大阪市",
@@ -760,9 +828,11 @@
 			"remarks": null,
 			"supplement": "No.422の濃厚接触者",
 			"discharged": null,
+			"sources": ["osaka-47"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "osaka-61",
 			"pid": 61,
 			"jid": 462,
 			"address": "大阪府大阪市",
@@ -770,11 +840,13 @@
 			"sex": "female",
 			"attribute": "団体職員",
 			"remarks": null,
-			"supplement": "No.osaka35の濃厚接触者（同僚）",
+			"supplement": "大阪府35例目の濃厚接触者（同僚）",
 			"discharged": null,
+			"sources": ["osaka-35"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "osaka-62",
 			"pid": 62,
 			"jid": 463,
 			"address": "大阪府大阪市",
@@ -788,6 +860,7 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "osaka-63",
 			"pid": 63,
 			"jid": 464,
 			"address": "大阪府大阪市",
@@ -801,6 +874,7 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "osaka-64",
 			"pid": 64,
 			"address": "大阪府大阪市",
 			"age": "30s",
@@ -813,6 +887,7 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "osaka-65",
 			"pid": 65,
 			"jid": 465,
 			"address": "大阪府東大阪市",
@@ -822,9 +897,11 @@
 			"remarks": null,
 			"supplement": "No.428の濃厚接触者",
 			"discharged": null,
+			"sources": ["osaka-55"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "osaka-66",
 			"pid": 66,
 			"jid": 466,
 			"address": "大阪府豊中市",
@@ -837,6 +914,7 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "osaka-67",
 			"pid": 67,
 			"jid": 467,
 			"address": "大阪府八尾市",
@@ -850,6 +928,7 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "osaka-68",
 			"pid": 68,
 			"jid": 468,
 			"address": "大阪府貝塚市",
@@ -862,6 +941,7 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "osaka-69",
 			"pid": 69,
 			"jid": 469,
 			"address": "大阪府枚方市",
@@ -874,6 +954,7 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "osaka-70",
 			"pid": 70,
 			"jid": 470,
 			"address": "大阪府高槻市",
@@ -886,6 +967,7 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "osaka-71",
 			"pid": 71,
 			"jid": 471,
 			"address": "大阪府八尾市",
@@ -898,6 +980,7 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "osaka-72",
 			"pid": 72,
 			"address": "兵庫県",
 			"age": "50s",
@@ -906,9 +989,11 @@
 			"remarks": "無症状",
 			"supplement": "No.283の濃厚接触者",
 			"discharged": null,
+			"sources": ["osaka-13"],
 			"date": "2020-03-10"
 		},
 		{
+			"name": "osaka-73",
 			"pid": 73,
 			"jid": 472,
 			"address": "大阪府茨木市",
@@ -922,6 +1007,7 @@
 			"date": "2020-03-10"
 		},
 		{
+			"name": "osaka-74",
 			"pid": 74,
 			"jid": 525,
 			"address": "大阪府大阪市",
@@ -931,9 +1017,11 @@
 			"remarks": null,
 			"supplement": "No.358の濃厚接触者",
 			"discharged": null,
+			"sources": ["osaka-21"],
 			"date": "2020-03-11"
 		},
 		{
+			"name": "osaka-75",
 			"pid": 75,
 			"jid": 526,
 			"address": "大阪府豊中市",
@@ -946,6 +1034,7 @@
 			"date": "2020-03-11"
 		},
 		{
+			"name": "osaka-76",
 			"pid": 76,
 			"address": "大阪府豊中市",
 			"age": "20s",
@@ -955,9 +1044,11 @@
 			"supplement": "2/19ライブハウスSoap Opera Classics Umeda、No.421の濃厚接触者、No.400との接触あり",
 			"discharged": "〇",
 			"cluster": "osaka-livehouse-b",
+			"sources": ["osaka-41", "osaka-46"],
 			"date": "2020-03-11"
 		},
 		{
+			"name": "osaka-77",
 			"pid": 77,
 			"jid": 527,
 			"address": "大阪府豊中市",
@@ -968,9 +1059,11 @@
 			"supplement": "2/19ライブハウスSoap Opera Classics Umeda、No.421の濃厚接触者",
 			"discharged": null,
 			"cluster": "osaka-livehouse-b",
+			"sources": ["osaka-46"],
 			"date": "2020-03-11"
 		},
 		{
+			"name": "osaka-78",
 			"pid": 78,
 			"jid": 528,
 			"address": "大阪府池田市",
@@ -983,6 +1076,7 @@
 			"date": "2020-03-11"
 		},
 		{
+			"name": "osaka-79",
 			"pid": 79,
 			"jid": 529,
 			"address": "大阪府吹田市",
@@ -992,9 +1086,11 @@
 			"remarks": null,
 			"supplement": "No.422の濃厚接触者",
 			"discharged": "〇",
+			"sources": ["osaka-60"],
 			"date": "2020-03-11"
 		},
 		{
+			"name": "osaka-80",
 			"pid": 80,
 			"address": "大阪府松原市",
 			"age": "30s",
@@ -1007,6 +1103,7 @@
 			"date": "2020-03-11"
 		},
 		{
+			"name": "osaka-81",
 			"pid": 81,
 			"jid": 577,
 			"address": "大阪府大阪市",
@@ -1016,9 +1113,11 @@
 			"remarks": null,
 			"supplement": "No.460の濃厚接触者",
 			"discharged": "〇",
+			"sources": ["osaka-59"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "osaka-82",
 			"pid": 82,
 			"jid": 578,
 			"address": "大阪府大阪市",
@@ -1031,6 +1130,7 @@
 			"date": "2020-03-12"
 		},
 		{
+			"name": "osaka-83",
 			"pid": 83,
 			"jid": 579,
 			"address": "大阪府大阪市",
@@ -1038,11 +1138,13 @@
 			"sex": "male",
 			"attribute": "団体職員",
 			"remarks": null,
-			"supplement": "No.osaka35の濃厚接触者（同僚）、No.462の濃厚接触者（同居家族）",
+			"supplement": "大阪府35例目の濃厚接触者（同僚）、No.462の濃厚接触者（同居家族）",
 			"discharged": null,
+			"sources": ["osaka-35", "osaka-61"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "osaka-84",
 			"pid": 84,
 			"jid": 580,
 			"address": "兵庫県",
@@ -1055,6 +1157,7 @@
 			"date": "2020-03-12"
 		},
 		{
+			"name": "osaka-85",
 			"pid": 85,
 			"jid": 581,
 			"address": "大阪府八尾市",
@@ -1064,9 +1167,11 @@
 			"remarks": null,
 			"supplement": "No.467の濃厚接触者（同居家族）",
 			"discharged": null,
+			"sources": ["osaka-67"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "osaka-86",
 			"pid": 86,
 			"jid": 582,
 			"address": "大阪府八尾市",
@@ -1076,9 +1181,11 @@
 			"remarks": null,
 			"supplement": "No.467の濃厚接触者（同居家族）、No.581の同居家族",
 			"discharged": null,
+			"sources": ["osaka-67", "osaka-85"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "osaka-87",
 			"pid": 87,
 			"jid": 583,
 			"address": "大阪府和泉市",
@@ -1091,6 +1198,7 @@
 			"date": "2020-03-12"
 		},
 		{
+			"name": "osaka-88",
 			"pid": 88,
 			"jid": 584,
 			"address": "大阪府和泉市",
@@ -1100,9 +1208,11 @@
 			"remarks": null,
 			"supplement": "No.583の同居家族",
 			"discharged": null,
+			"sources": ["osaka-87"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "osaka-89",
 			"pid": 89,
 			"jid": 585,
 			"address": "大阪府吹田市",
@@ -1112,9 +1222,11 @@
 			"remarks": null,
 			"supplement": "No.421の濃厚接触者",
 			"discharged": "〇",
+			"sources": ["osaka-46"],
 			"date": "2020-03-12"
 		},
 		{
+			"name": "osaka-90",
 			"pid": 90,
 			"jid": 635,
 			"address": "大阪府豊中市",
@@ -1124,9 +1236,11 @@
 			"remarks": null,
 			"supplement": "No.400の濃厚接触者",
 			"discharged": "〇",
+			"sources": ["osaka-41"],
 			"date": "2020-03-13"
 		},
 		{
+			"name": "osaka-91",
 			"pid": 91,
 			"jid": 636,
 			"address": "大阪府池田市",
@@ -1139,6 +1253,7 @@
 			"date": "2020-03-13"
 		},
 		{
+			"name": "osaka-92",
 			"pid": 92,
 			"jid": 637,
 			"address": "大阪府吹田市",
@@ -1151,6 +1266,7 @@
 			"date": "2020-03-13"
 		},
 		{
+			"name": "osaka-93",
 			"pid": 93,
 			"jid": 670,
 			"address": "大阪府大阪市",
@@ -1163,6 +1279,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "osaka-94",
 			"pid": 94,
 			"jid": 671,
 			"address": "大阪府大阪市",
@@ -1175,6 +1292,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "osaka-95",
 			"pid": 95,
 			"jid": 672,
 			"address": "大阪府大阪市",
@@ -1187,6 +1305,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "osaka-96",
 			"pid": 96,
 			"jid": 673,
 			"address": "大阪府大東市",
@@ -1196,9 +1315,11 @@
 			"remarks": null,
 			"supplement": "No.583の濃厚接触者",
 			"discharged": null,
+			"sources": ["osaka-87"],
 			"date": "2020-03-14"
 		},
 		{
+			"name": "osaka-97",
 			"pid": 97,
 			"jid": 674,
 			"address": "大阪府茨木市",
@@ -1211,6 +1332,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "osaka-98",
 			"pid": 98,
 			"jid": 675,
 			"address": "大阪府泉佐野市",
@@ -1223,6 +1345,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "osaka-99",
 			"pid": 99,
 			"jid": 676,
 			"address": "大阪府門真市",
@@ -1236,6 +1359,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "osaka-100",
 			"pid": 100,
 			"jid": 677,
 			"address": "大阪府八尾市",
@@ -1245,9 +1369,11 @@
 			"remarks": null,
 			"supplement": "No.581の濃厚接触者",
 			"discharged": null,
+			"sources": ["osaka-85"],
 			"date": "2020-03-14"
 		},
 		{
+			"name": "osaka-101",
 			"pid": 101,
 			"jid": 678,
 			"address": "大阪府吹田市",
@@ -1260,6 +1386,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "osaka-102",
 			"pid": 102,
 			"jid": 679,
 			"address": "大阪府吹田市",
@@ -1272,6 +1399,7 @@
 			"date": "2020-03-14"
 		},
 		{
+			"name": "osaka-103",
 			"pid": 103,
 			"jid": 710,
 			"address": "大阪府堺市",
@@ -1281,9 +1409,11 @@
 			"remarks": null,
 			"supplement": "No.583、No.584、No.673と接触歴あり",
 			"discharged": null,
+			"sources": ["osaka-87", "osaka-88", "osaka-96"],
 			"date": "2020-03-15"
 		},
 		{
+			"name": "osaka-104",
 			"pid": 104,
 			"jid": 711,
 			"address": "大阪府大阪市",
@@ -1293,9 +1423,11 @@
 			"remarks": null,
 			"supplement": "No.459の濃厚接触者",
 			"discharged": null,
+			"sources": ["osaka-57"],
 			"date": "2020-03-15"
 		},
 		{
+			"name": "osaka-105",
 			"pid": 105,
 			"jid": 712,
 			"address": "大阪府大阪市",
@@ -1308,6 +1440,7 @@
 			"date": "2020-03-15"
 		},
 		{
+			"name": "osaka-106",
 			"pid": 106,
 			"jid": 713,
 			"address": "大阪府大阪市",
@@ -1317,9 +1450,11 @@
 			"remarks": null,
 			"supplement": "No.672の濃厚接触者",
 			"discharged": null,
+			"sources": ["osaka-95"],
 			"date": "2020-03-15"
 		},
 		{
+			"name": "osaka-107",
 			"pid": 107,
 			"jid": 718,
 			"address": "大阪府大東市",
@@ -1327,11 +1462,13 @@
 			"sex": "female",
 			"attribute": "無職",
 			"remarks": null,
-			"supplement": "No.718の同居家族",
+			"supplement": null,
 			"discharged": null,
+			"sources": ["osaka-95"],
 			"date": "2020-03-16"
 		},
 		{
+			"name": "osaka-108",
 			"pid": 108,
 			"jid": 719,
 			"address": "大阪府大東市",
@@ -1339,11 +1476,13 @@
 			"sex": "male",
 			"attribute": "未就学児",
 			"remarks": null,
-			"supplement": "No.673の濃厚接触者",
+			"supplement": "大阪府96例目の濃厚接触者、大阪府107例目の同居家族",
 			"discharged": null,
+			"sources": ["osaka-96", "osaka-107"],
 			"date": "2020-03-16"
 		},
 		{
+			"name": "osaka-109",
 			"pid": 109,
 			"jid": 752,
 			"address": "大阪府大阪市",
@@ -1353,9 +1492,11 @@
 			"remarks": null,
 			"supplement": "No.583、No.584、No.673、No.710と接触あり",
 			"discharged": null,
+			"sources": ["osaka-87", "osaka-88", "osaka-96", "osaka-103"],
 			"date": "2020-03-17"
 		},
 		{
+			"name": "osaka-110",
 			"pid": 110,
 			"jid": 753,
 			"address": "大阪府大阪市",
@@ -1365,9 +1506,11 @@
 			"remarks": null,
 			"supplement": "No.461の濃厚接触者",
 			"discharged": null,
+			"sources": ["osaka-60"],
 			"date": "2020-03-17"
 		},
 		{
+			"name": "osaka-111",
 			"pid": 111,
 			"address": "大阪府大阪市",
 			"age": "60s",
@@ -1376,9 +1519,11 @@
 			"remarks": "陽性確定",
 			"supplement": "No.282の濃厚接触者（同居家族）",
 			"discharged": null,
+			"sources": ["osaka-12"],
 			"date": "2020-03-17"
 		},
 		{
+			"name": "osaka-112",
 			"pid": 112,
 			"jid": 754,
 			"address": "大阪府泉佐野市",
@@ -1388,9 +1533,11 @@
 			"remarks": null,
 			"supplement": "No.675の濃厚接触者（同居家族）",
 			"discharged": null,
+			"sources": ["osaka-98"],
 			"date": "2020-03-17"
 		},
 		{
+			"name": "osaka-113",
 			"pid": 113,
 			"jid": 785,
 			"address": "大阪府池田市",
@@ -1400,9 +1547,11 @@
 			"remarks": null,
 			"supplement": "No.636の濃厚接触者（同居家族）",
 			"discharged": null,
+			"sources": ["osaka-91"],
 			"date": "2020-03-18"
 		},
 		{
+			"name": "osaka-114",
 			"pid": 114,
 			"jid": 786,
 			"address": "大阪府池田市",
@@ -1415,6 +1564,7 @@
 			"date": "2020-03-18"
 		},
 		{
+			"name": "osaka-115",
 			"pid": 115,
 			"jid": 787,
 			"address": "大阪府泉佐野市",
@@ -1427,6 +1577,7 @@
 			"date": "2020-03-18"
 		},
 		{
+			"name": "osaka-116",
 			"pid": 116,
 			"jid": 788,
 			"address": "大阪府泉佐野市",
@@ -1439,6 +1590,7 @@
 			"date": "2020-03-18"
 		},
 		{
+			"name": "osaka-117",
 			"pid": 117,
 			"jid": 789,
 			"address": "大阪府高槻市",
@@ -1451,6 +1603,7 @@
 			"date": "2020-03-18"
 		},
 		{
+			"name": "osaka-118",
 			"pid": 118,
 			"jid": 822,
 			"address": "大阪府大阪市",
@@ -1458,11 +1611,13 @@
 			"sex": "male",
 			"attribute": null,
 			"remarks": null,
-			"supplement": "No.osaka52、No.356、No.420の濃厚接触者（同居家族）",
+			"supplement": "大阪府52例目、19例目、44例目の濃厚接触者（同居家族）",
 			"discharged": null,
+			"sources": ["osaka-19", "osaka-44", "osaka-52"],
 			"date": "2020-03-19"
 		},
 		{
+			"name": "osaka-119",
 			"pid": 119,
 			"jid": 823,
 			"address": "大阪府吹田市",
@@ -1476,6 +1631,7 @@
 			"date": "2020-03-19"
 		},
 		{
+			"name": "osaka-120",
 			"pid": 120,
 			"jid": 879,
 			"address": "大阪府大阪市",
@@ -1488,6 +1644,7 @@
 			"date": "2020-03-20"
 		},
 		{
+			"name": "osaka-121",
 			"pid": 121,
 			"jid": 880,
 			"address": "大阪府大阪市",
@@ -1500,6 +1657,7 @@
 			"date": "2020-03-20"
 		},
 		{
+			"name": "osaka-122",
 			"pid": 122,
 			"jid": 881,
 			"address": "大阪府吹田市",
@@ -1509,9 +1667,11 @@
 			"remarks": null,
 			"supplement": "No.823の濃厚接触者（同居家族）",
 			"discharged": null,
+			"sources": ["osaka-119"],
 			"date": "2020-03-20"
 		},
 		{
+			"name": "osaka-123",
 			"pid": 123,
 			"jid": 882,
 			"address": "大阪府吹田市",
@@ -1521,9 +1681,11 @@
 			"remarks": null,
 			"supplement": "No.823の濃厚接触者（同居家族）",
 			"discharged": null,
+			"sources": ["osaka-119"],
 			"date": "2020-03-20"
 		},
 		{
+			"name": "osaka-124",
 			"pid": 124,
 			"jid": 897,
 			"address": "大阪府堺市",
@@ -1536,6 +1698,7 @@
 			"date": "2020-03-21"
 		},
 		{
+			"name": "osaka-125",
 			"pid": 125,
 			"jid": 898,
 			"address": "大阪府岸和田市",
@@ -1548,6 +1711,7 @@
 			"date": "2020-03-21"
 		},
 		{
+			"name": "osaka-126",
 			"pid": 126,
 			"jid": 943,
 			"address": "大阪府大阪市",
@@ -1560,6 +1724,7 @@
 			"date": "2020-03-22"
 		},
 		{
+			"name": "osaka-127",
 			"pid": 127,
 			"jid": 944,
 			"address": "大阪府大阪市",
@@ -1572,6 +1737,7 @@
 			"date": "2020-03-22"
 		},
 		{
+			"name": "osaka-128",
 			"pid": 128,
 			"jid": 945,
 			"address": "大阪府枚方市",
@@ -1579,12 +1745,13 @@
 			"sex": "male",
 			"attribute": null,
 			"remarks": null,
-			"supplement": "3/18までスペインに滞在",
+			"supplement": "3/18までスペインに滞在、大阪府129例目、130例目の同居家族",
 			"discharged": null,
-			"sources": ["spain"],
+			"sources": ["spain", "osaka-129", "osaka-130"],
 			"date": "2020-03-22"
 		},
 		{
+			"name": "osaka-129",
 			"pid": 129,
 			"jid": 946,
 			"address": "大阪府枚方市",
@@ -1592,24 +1759,26 @@
 			"sex": "female",
 			"attribute": null,
 			"remarks": null,
-			"supplement": "3/18までスペインに滞在、No.945の同居家族",
+			"supplement": "3/18までスペインに滞在、大阪府128例目、130例目の同居家族",
 			"discharged": null,
-			"sources": ["spain"],
+			"sources": ["spain", "osaka-128", "osaka-130"],
 			"date": "2020-03-22"
 		},
 		{
+			"name": "osaka-130",
 			"pid": 130,
 			"address": "大阪府枚方市",
 			"age": "u10",
 			"sex": "female",
 			"attribute": "保育園児",
 			"remarks": "無症状",
-			"supplement": "3/18までスペインに滞在、No.128、No.129の同居家族",
+			"supplement": "3/18までスペインに滞在、大阪府128例目、129例目の同居家族",
 			"discharged": null,
-			"sources": ["spain"],
+			"sources": ["spain", "osaka-128", "osaka-129"],
 			"date": "2020-03-22"
 		},
 		{
+			"name": "osaka-131",
 			"pid": 131,
 			"jid": 947,
 			"address": "大阪府八尾市",
@@ -1622,6 +1791,7 @@
 			"date": "2020-03-22"
 		},
 		{
+			"name": "osaka-132",
 			"pid": 132,
 			"jid": 964,
 			"address": "大阪府大阪市",
@@ -1629,11 +1799,13 @@
 			"sex": "male",
 			"attribute": "会社員",
 			"remarks": null,
-			"supplement": "No.900の濃厚接触者（同僚）",
+			"supplement": "兵庫県103例目の濃厚接触者（同僚）",
 			"discharged": null,
+			"sources": ["hyogo-103"],
 			"date": "2020-03-23"
 		},
 		{
+			"name": "osaka-133",
 			"pid": 133,
 			"jid": 965,
 			"address": "大阪府泉大津市",
@@ -1646,6 +1818,7 @@
 			"date": "2020-03-23"
 		},
 		{
+			"name": "osaka-134",
 			"pid": 134,
 			"jid": 966,
 			"address": "大阪府岸和田市",
@@ -1655,9 +1828,11 @@
 			"remarks": null,
 			"supplement": "No.898の濃厚接触者（同居家族）",
 			"discharged": null,
+			"sources": ["osaka-125"],
 			"date": "2020-03-23"
 		},
 		{
+			"name": "osaka-135",
 			"pid": 135,
 			"jid": 1027,
 			"address": "大阪府大阪市",
@@ -1670,6 +1845,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "osaka-136",
 			"pid": 136,
 			"jid": 1028,
 			"address": "大阪府大阪市",
@@ -1679,9 +1855,11 @@
 			"remarks": null,
 			"supplement": "No.943の濃厚接触者",
 			"discharged": null,
+			"sources": ["osaka-126"],
 			"date": "2020-03-24"
 		},
 		{
+			"name": "osaka-137",
 			"pid": 137,
 			"jid": 1029,
 			"address": "大阪府大阪市",
@@ -1694,6 +1872,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "osaka-138",
 			"pid": 138,
 			"jid": 1030,
 			"address": "大阪府豊中市",
@@ -1706,6 +1885,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "osaka-139",
 			"pid": 139,
 			"jid": 1031,
 			"address": "大阪府堺市",
@@ -1718,6 +1898,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "osaka-140",
 			"pid": 140,
 			"jid": 1032,
 			"address": "大阪府箕面市",
@@ -1731,6 +1912,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "osaka-141",
 			"pid": 141,
 			"jid": 1033,
 			"address": "大阪府吹田市",
@@ -1743,6 +1925,7 @@
 			"date": "2020-03-24"
 		},
 		{
+			"name": "osaka-142",
 			"pid": 142,
 			"address": "大阪府八尾市",
 			"age": "70s",
@@ -1751,9 +1934,11 @@
 			"remarks": "無症状",
 			"supplement": "No.947の濃厚接触者",
 			"discharged": null,
+			"sources": ["osaka-131"],
 			"date": "2020-03-24"
 		},
 		{
+			"name": "osaka-143",
 			"pid": 143,
 			"jid": 1072,
 			"address": "大阪府大阪市",
@@ -1763,9 +1948,11 @@
 			"remarks": null,
 			"supplement": "No.947の濃厚接触者",
 			"discharged": null,
+			"sources": ["osaka-131"],
 			"date": "2020-03-25"
 		},
 		{
+			"name": "osaka-144",
 			"pid": 144,
 			"jid": 1073,
 			"address": "大阪府堺市",
@@ -1778,6 +1965,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "osaka-145",
 			"pid": 145,
 			"jid": 1074,
 			"address": "大阪府東大阪市",
@@ -1787,9 +1975,11 @@
 			"remarks": null,
 			"supplement": "No.943の濃厚接触者（仕事関係）",
 			"discharged": null,
+			"sources": ["osaka-126"],
 			"date": "2020-03-25"
 		},
 		{
+			"name": "osaka-146",
 			"pid": 146,
 			"jid": 1075,
 			"address": "大阪府箕面市",
@@ -1802,6 +1992,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "osaka-147",
 			"pid": 147,
 			"jid": 1076,
 			"address": "大阪府羽曳野市",
@@ -1811,9 +2002,11 @@
 			"remarks": null,
 			"supplement": "No.713の濃厚接触者（同僚）",
 			"discharged": null,
+			"sources": ["osaka-106"],
 			"date": "2020-03-25"
 		},
 		{
+			"name": "osaka-148",
 			"pid": 148,
 			"jid": 1077,
 			"address": "大阪府羽曳野市",
@@ -1823,9 +2016,11 @@
 			"remarks": null,
 			"supplement": "No.1076の濃厚接触者（同居家族）",
 			"discharged": null,
+			"sources": ["osaka-147"],
 			"date": "2020-03-25"
 		},
 		{
+			"name": "osaka-149",
 			"pid": 149,
 			"address": "大阪府羽曳野市",
 			"age": "30s",
@@ -1838,6 +2033,7 @@
 			"date": "2020-03-25"
 		},
 		{
+			"name": "osaka-150",
 			"pid": 150,
 			"jid": 1175,
 			"address": "大阪府大阪市",
@@ -1847,9 +2043,11 @@
 			"remarks": null,
 			"supplement": "No.1027の濃厚接触者（同居家族）",
 			"discharged": null,
+			"sources": ["osaka-135"],
 			"date": "2020-03-26"
 		},
 		{
+			"name": "osaka-151",
 			"pid": 151,
 			"jid": 1176,
 			"address": "大阪府大阪市",
@@ -1862,6 +2060,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "osaka-152",
 			"pid": 152,
 			"jid": 1177,
 			"address": "大阪府大阪市",
@@ -1874,6 +2073,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "osaka-153",
 			"pid": 153,
 			"jid": 1178,
 			"address": "大阪府高槻市",
@@ -1886,6 +2086,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "osaka-154",
 			"pid": 154,
 			"jid": 1179,
 			"address": "大阪府豊中市",
@@ -1898,6 +2099,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "osaka-155",
 			"pid": 155,
 			"jid": 1180,
 			"address": "大阪府吹田市",
@@ -1911,6 +2113,7 @@
 			"date": "2020-03-26"
 		},
 		{
+			"name": "osaka-156",
 			"pid": 156,
 			"jid": 1181,
 			"address": "大阪府門真市",
@@ -1921,6 +2124,270 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-26"
+		},
+		{
+			"name": "osaka-157",
+			"pid": 157,
+			"jid": 1242,
+			"address": "兵庫県西宮市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "スポーツ選手",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "osaka-158",
+			"pid": 158,
+			"address": "大阪府大阪市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "スポーツ選手",
+			"remarks": "無症状",
+			"supplement": "大阪府157例目の濃厚接触者（仕事関係）",
+			"discharged": null,
+			"sources": ["osaka-157"],
+			"date": "2020-03-27"
+		},
+		{
+			"name": "osaka-159",
+			"pid": 159,
+			"address": "大阪府大阪市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "スポーツ選手",
+			"remarks": "無症状",
+			"supplement": "大阪府157例目、158例目の濃厚接触者（仕事関係）",
+			"discharged": null,
+			"sources": ["osaka-157", "osaka-158"],
+			"date": "2020-03-27"
+		},
+		{
+			"name": "osaka-160",
+			"pid": 160,
+			"jid": 1243,
+			"address": "大阪府大阪市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "osaka-161",
+			"pid": 161,
+			"jid": 1244,
+			"address": "大阪府大阪市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "No.1072と接触あり",
+			"discharged": null,
+			"sources": ["osaka-143"],
+			"date": "2020-03-27"
+		},
+		{
+			"name": "osaka-162",
+			"pid": 162,
+			"jid": 1245,
+			"address": "大阪府大阪市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "小売業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "osaka-163",
+			"pid": 163,
+			"jid": 1246,
+			"address": "大阪府大阪市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "医療従事者",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "osaka-164",
+			"pid": 164,
+			"jid": 1247,
+			"address": "大阪府大阪市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "osaka-165",
+			"pid": 165,
+			"jid": 1248,
+			"address": "大阪府大阪市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "No.1247と接触あり（同僚）",
+			"discharged": null,
+			"sources": ["osaka-164"],
+			"date": "2020-03-27"
+		},
+		{
+			"name": "osaka-166",
+			"pid": 166,
+			"jid": 1249,
+			"address": "大阪府大阪市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "osaka-167",
+			"pid": 167,
+			"jid": 1250,
+			"address": "大阪府大阪市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "osaka-168",
+			"pid": 168,
+			"jid": 1251,
+			"address": "大阪府大阪市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "osaka-169",
+			"pid": 169,
+			"jid": 1252,
+			"address": "大阪府高槻市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "osaka-170",
+			"pid": 170,
+			"jid": 1253,
+			"address": "大阪府茨木市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "osaka-171",
+			"pid": 171,
+			"jid": 1254,
+			"address": "大阪府大阪市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "osaka-172",
+			"pid": 172,
+			"jid": 1255,
+			"address": "大阪府河内長野市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/19フィリピンから帰国",
+			"discharged": null,
+			"sources": ["philippines"],
+			"date": "2020-03-27"
+		},
+		{
+			"name": "osaka-173",
+			"pid": 173,
+			"jid": 1256,
+			"address": "大阪府田尻町",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "3/15まで米国、フランスに滞在",
+			"discharged": null,
+			"sources": ["usa", "france"],
+			"date": "2020-03-27"
+		},
+		{
+			"name": "osaka-174",
+			"pid": 174,
+			"jid": 1257,
+			"address": "大阪府大東市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "osaka-175",
+			"pid": 175,
+			"jid": 1258,
+			"address": "大阪府堺市",
+			"age": "80s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": "重症",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "osaka-176",
+			"pid": 176,
+			"jid": 1259,
+			"address": "大阪府吹田市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
 		}
 	]
 }
