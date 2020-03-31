@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "兵庫"
 	},
-	"date": "2020\/03\/27 18:00",
+	"date": "2020\/03\/28 18:00",
 	"children": [
 		{
 			"ref": "amagasaki"
@@ -508,7 +508,7 @@
 			"sex": "male",
 			"attribute": null,
 			"remarks": "3/27死亡",
-			"supplement": "No.543、No.681が入院、No.kobe19、No.kobe20が勤務の宝塚第一病院に入院",
+			"supplement": "兵庫県27例目、64例目が入院、兵庫県70例目、71例目が勤務の宝塚第一病院に入院",
 			"discharged": "〇",
 			"cluster": "takarazuka-hospital",
 			"sources": ["hyogo-27", "hyogo-64", "hyogo-70", "hyogo-71"],
@@ -522,7 +522,7 @@
 			"sex": "male",
 			"attribute": null,
 			"remarks": "無症状",
-			"supplement": "No.543、No.681が入院、No.kobe19、No.kobe20が勤務の宝塚第一病院に入院",
+			"supplement": "兵庫県27例目、64例目が入院、兵庫県70例目、71例目が勤務の宝塚第一病院に入院",
 			"discharged": null,
 			"cluster": "takarazuka-hospital",
 			"sources": ["hyogo-27", "hyogo-64", "hyogo-70", "hyogo-71"],
@@ -904,6 +904,34 @@
 			"discharged": null,
 			"sources": ["hyogo-22"],
 			"date": "2020-03-26"
+		},
+		{
+			"name": "hyogo-125",
+			"pid": 125,
+			"jid": 1333,
+			"address": "兵庫県伊丹健康福祉事務所管内",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "大阪府151例目の濃厚接触者",
+			"discharged": null,
+			"sources": ["osaka-151"],
+			"date": "2020-03-28"
+		},
+		{
+			"name": "hyogo-126",
+			"pid": 126,
+			"jid": 1334,
+			"address": "兵庫県宝塚健康福祉事務所管内",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "オランダに滞在",
+			"discharged": null,
+			"sources": ["netherlands"],
+			"date": "2020-03-28"
 		}
 	]
 }

@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "埼玉"
 	},
-	"date": "2020\/03\/27 18:00",
+	"date": "2020\/03\/28 18:00",
 	"children": [
 		{
 			"ref": "saitama-city"
@@ -661,6 +661,74 @@
 			"discharged": null,
 			"sources": ["usa"],
 			"date": "2020-03-27"
+		},
+		{
+			"name": "saitama-78",
+			"pid": 78,
+			"jid": 1340,
+			"address": "埼玉県春日部市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": "埼玉県69例目の同居家族",
+			"discharged": null,
+			"sources": ["saitama-69"],
+			"date": "2020-03-28"
+		},
+		{
+			"name": "saitama-79",
+			"pid": 79,
+			"jid": 1341,
+			"address": "埼玉県ときがわ町",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "埼玉県70例目の同居家族",
+			"discharged": null,
+			"sources": ["saitama-70"],
+			"date": "2020-03-28"
+		},
+		{
+			"name": "saitama-80",
+			"pid": 80,
+			"address": "埼玉県ときがわ町",
+			"age": "10s",
+			"sex": "male",
+			"attribute": "学生",
+			"remarks": "無症状",
+			"supplement": "埼玉県70例目、79例目の親族",
+			"discharged": null,
+			"sources": ["saitama-70", "saitama-79"],
+			"date": "2020-03-28"
+		},
+		{
+			"name": "saitama-81",
+			"pid": 81,
+			"jid": 1342,
+			"address": "埼玉県八潮市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": "3/15フランスから帰国",
+			"discharged": null,
+			"sources": ["france"],
+			"date": "2020-03-28"
+		},
+		{
+			"name": "saitama-82",
+			"pid": 82,
+			"jid": 1343,
+			"address": "埼玉県狭山市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社役員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-28"
 		}
 	]
 }

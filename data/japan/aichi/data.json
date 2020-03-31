@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "愛知"
 	},
-	"date": "2020\/03\/27 18:00",
+	"date": "2020\/03\/28 18:00",
 	"children": [
 		{
 			"ref": "nagoya"
@@ -205,7 +205,7 @@
 			"sex": "male",
 			"attribute": null,
 			"remarks": null,
-			"supplement": "No.aichi81、No.aichi87と職場で接触",
+			"supplement": "愛知県81例目、87例目と職場で接触",
 			"discharged": null,
 			"sources": ["aichi-81", "aichi-87"],
 			"date": "2020-03-07"
@@ -245,7 +245,7 @@
 			"sex": "female",
 			"attribute": null,
 			"remarks": null,
-			"supplement": "No.aichi81の同居家族（濃厚接触者）",
+			"supplement": "愛知県81例目の同居家族（濃厚接触者）",
 			"discharged": null,
 			"sources": ["aichi-81"],
 			"date": "2020-03-10"
@@ -572,10 +572,37 @@
 			"sex": "female",
 			"attribute": null,
 			"remarks": null,
-			"supplement": "No.955、No.960、No.1129、No.1132、No.gifu16と同じスポーツジム",
+			"supplement": "岐阜県5例目、7例目、12例目、13 例目、16例目と同じスポーツジム",
 			"discharged": null,
 			"sources": ["gifu-5", "gifu-7", "gifu-12", "gifu-13", "gifu-16"],
 			"date": "2020-03-27"
+		},
+		{
+			"name": "aichi-162",
+			"pid": 162,
+			"jid": 1324,
+			"address": "愛知県瀬戸市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-28"
+		},
+		{
+			"name": "aichi-163",
+			"pid": 163,
+			"jid": 1325,
+			"address": "愛知県犬山市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "愛知県155例目の家族（濃厚接触者）、3/13までクルーズ船（スペイン、フランス、イタリア）旅行",
+			"discharged": null,
+			"sources": ["spain", "france", "italy", "aichi-155"],
+			"date": "2020-03-28"
 		}
 	]
 }

@@ -75,7 +75,8 @@ var clusterMaster = {
 	'oita-hospital': { label: { 'ja': '大分医療センタークラスター' }, parentId: 'oita' },
 	'nippon-cargo-airlines': { label: { 'ja': '日本貨物航空クラスター' }, parentId: 'chiba' },
 	'gifu-chorus': { label: { 'ja': '岐阜合唱団クラスター' }, parentId: 'gifu' },
-	'taito-hospital': { label: { 'ja': '台東区永寿総合病院クラスター' }, parentId: 'tokyo' }
+	'taito-hospital': { label: { 'ja': '台東区永寿総合病院クラスター' }, parentId: 'tokyo' },
+	'tonosho-disabled': { label: { 'ja': '東庄町障害者福祉施設クラスター' }, parentId: 'chiba' }
 };
 
 var dict = {
@@ -176,6 +177,8 @@ var tooltip = d3.select('body').append('div')
 	.style('opacity', 0);
 
 loadData('japan').then(function(patients) {
+
+	console.log(d3.hierarchy(patients).leaves())
 
 	var hierarchy = d3.hierarchy(patients);
 	var nodeLookup = {};

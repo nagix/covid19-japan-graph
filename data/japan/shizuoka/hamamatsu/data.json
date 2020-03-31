@@ -1,0 +1,22 @@
+{
+	"name": "hamamatsu",
+	"label": {
+		"ja": "浜松市"
+	},
+	"date": "2020\/03\/28 18:00",
+	"children": [
+		{
+			"name": "shizuoka-4",
+			"pid": 4,
+			"jid": 1326,
+			"address": "静岡県浜松市",
+			"age": null,
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-28"
+		}
+	]
+}

@@ -6,21 +6,10 @@
 	"prefix": {
 		"ja": "岡山"
 	},
-	"date": "2020\/03\/27 18:00",
+	"date": "2020\/03\/28 18:00",
 	"children": [
 		{
-			"name": "okayama-1",
-			"pid": 1,
-			"jid": 940,
-			"address": "岡山県岡山市",
-			"age": "60s",
-			"sex": "female",
-			"attribute": null,
-			"remarks": null,
-			"supplement": "3/15までスペイン滞在",
-			"discharged": null,
-			"sources": ["spain"],
-			"date": "2020-03-22"
+			"ref": "okayama-city"
 		},
 		{
 			"name": "okayama-2",

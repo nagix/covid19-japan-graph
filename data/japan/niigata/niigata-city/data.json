@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "新潟市"
 	},
-	"date": "2020\/03\/27 18:00",
+	"date": "2020\/03\/28 18:00",
 	"children": [
 		{
 			"name": "niigata-1",
@@ -386,11 +386,24 @@
 			"age": "20s",
 			"sex": "male",
 			"attribute": "学生",
-			"remarks": null,
+			"remarks": "陽性確定",
 			"supplement": "米国に渡航歴あり",
 			"discharged": null,
 			"sources": ["usa"],
 			"date": "2020-03-27"
+		},
+		{
+			"name": "niigata-31",
+			"id": 27,
+			"pid": 31,
+			"address": "新潟県新潟市江南区",
+			"age": "80s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-28"
 		}
 	]
 }

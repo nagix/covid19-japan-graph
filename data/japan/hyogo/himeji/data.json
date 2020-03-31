@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "姫路市"
 	},
-	"date": "2020\/03\/22 18:00",
+	"date": "2020\/03\/27 23:00",
 	"children": [
 		{
 			"name": "hyogo-5",
@@ -252,6 +252,21 @@
 			"cluster": "himeji-hospital",
 			"sources": ["hyogo-11"],
 			"date": "2020-03-22"
+		},
+		{
+			"name": "hyogo-123",
+			"id": 17,
+			"pid": 123,
+			"jid": 1266,
+			"address": "東京都",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "飲食業",
+			"remarks": null,
+			"supplement": "3/23東京都から帰省",
+			"discharged": null,
+			"sources": null,
+			"date": "2020-03-27"
 		}
 	]
 }

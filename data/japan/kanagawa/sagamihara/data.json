@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "相模原市"
 	},
-	"date": "2020\/03\/26 18:00",
+	"date": "2020\/03\/28 13:00",
 	"children": [
 		{
 			"name": "kanagawa-5",
@@ -424,6 +424,21 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-26"
+		},
+		{
+			"name": "kanagawa-117",
+			"id": 29,
+			"pid": 117,
+			"jid": 1283,
+			"address": "神奈川県相模原市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/21までイギリスに滞在",
+			"discharged": null,
+			"sources": ["uk"],
+			"date": "2020-03-28"
 		}
 	]
 }

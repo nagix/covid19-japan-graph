@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "北九州市"
 	},
-	"date": "2020\/03\/23 18:00",
+	"date": "2020\/03\/28 18:00",
 	"children": [
 		{
 			"name": "fukuoka-3",
@@ -32,6 +32,21 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-23"
+		},
+		{
+			"name": "fukuoka-22",
+			"id": 3,
+			"pid": 22,
+			"jid": 1344,
+			"address": "福岡県北九州市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": "3/18までスペイン・ポルトガルに滞在",
+			"discharged": null,
+			"sources": ["spain", "portugal"],
+			"date": "2020-03-28"
 		}
 	]
 }

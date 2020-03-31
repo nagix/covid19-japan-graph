@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "福岡市"
 	},
-	"date": "2020\/03\/26 18:00",
+	"date": "2020\/03\/28 18:00",
 	"children": [
 		{
 			"name": "fukuoka-7",
@@ -44,6 +44,106 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-26"
+		},
+		{
+			"name": "fukuoka-14",
+			"id": 7,
+			"pid": 14,
+			"jid": 1269,
+			"address": "福岡県福岡市博多区",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/20米国より帰国",
+			"discharged": null,
+			"sources": ["usa"],
+			"date": "2020-03-27"
+		},
+		{
+			"name": "fukuoka-15",
+			"id": 8,
+			"pid": 15,
+			"jid": 1270,
+			"address": "福岡県福岡市南区",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "fukuoka-16",
+			"id": 9,
+			"pid": 16,
+			"jid": 1271,
+			"address": "福岡県福岡市城南区",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "福岡県11例目の兄（濃厚接触者）",
+			"discharged": null,
+			"sources": ["fukuoka-11"],
+			"date": "2020-03-27"
+		},
+		{
+			"name": "fukuoka-17",
+			"id": 10,
+			"pid": 17,
+			"jid": 1272,
+			"address": "福岡県福岡市博多区",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-28"
+		},
+		{
+			"name": "fukuoka-18",
+			"id": 11,
+			"pid": 18,
+			"jid": 1273,
+			"address": "福岡県福岡市中央区",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-28"
+		},
+		{
+			"name": "fukuoka-19",
+			"id": 12,
+			"pid": 19,
+			"jid": 1274,
+			"address": "福岡県福岡市南区",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-28"
+		},
+		{
+			"name": "fukuoka-20",
+			"id": 13,
+			"pid": 20,
+			"jid": 1275,
+			"address": "福岡県福岡市西区",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-28"
 		}
 	]
 }

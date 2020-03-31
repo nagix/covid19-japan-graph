@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "群馬"
 	},
-	"date": "2020\/03\/26 18:00",
+	"date": "2020\/03\/28 18:00",
 	"children": [
 		{
 			"ref": "takasaki"
@@ -194,6 +194,20 @@
 			"supplement": "3/14まで新型コロナウイルス感染症患者のケア",
 			"discharged": null,
 			"date": "2020-03-26"
+		},
+		{
+			"name": "gunma-15",
+			"pid": 15,
+			"jid": 1282,
+			"address": "栃木県",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "看護師",
+			"remarks": null,
+			"supplement": "群馬県14例目の同僚、3/14まで新型コロナウイルス感染症患者のケア",
+			"discharged": null,
+			"sources": ["gunma-14"],
+			"date": "2020-03-28"
 		}
 	]
 }

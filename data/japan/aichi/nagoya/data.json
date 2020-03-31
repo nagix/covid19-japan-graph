@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "名古屋市"
 	},
-	"date": "2020\/03\/27 18:00",
+	"date": "2020\/03\/28 18:00",
 	"children": [
 		{
 			"name": "aichi-3",
@@ -1771,6 +1771,20 @@
 			"discharged": null,
 			"sources": ["aichi-134", "aichi-154"],
 			"date": "2020-03-27"
+		},
+		{
+			"name": "aichi-164",
+			"id": 116,
+			"pid": 164,
+			"jid": 1339,
+			"address": "神奈川県",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-28"
 		}
 	]
 }

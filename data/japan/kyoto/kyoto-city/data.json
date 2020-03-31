@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "京都市"
 	},
-	"date": "2020\/03\/26 18:00",
+	"date": "2020\/03\/28 18:00",
 	"children": [
 		{
 			"name": "kyoto-1",
@@ -195,7 +195,7 @@
 			"attribute": "飲食店勤務",
 			"remarks": null,
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-20"
 		},
 		{
@@ -356,6 +356,35 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-26"
+		},
+		{
+			"name": "kyoto-36",
+			"id": 25,
+			"pid": 36,
+			"jid": 1337,
+			"address": "京都府京都市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-28"
+		},
+		{
+			"name": "kyoto-37",
+			"id": 26,
+			"pid": 37,
+			"jid": 1338,
+			"address": "京都府京都市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "3/21イギリスから帰国",
+			"discharged": null,
+			"sources": ["uk"],
+			"date": "2020-03-28"
 		}
 	]
 }

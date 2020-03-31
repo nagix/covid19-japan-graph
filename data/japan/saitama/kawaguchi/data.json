@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "川口市"
 	},
-	"date": "2020\/03\/27 18:00",
+	"date": "2020\/03\/28 18:00",
 	"children": [
 		{
 			"name": "saitama-24",
@@ -167,6 +167,20 @@
 			"discharged": null,
 			"sources": ["saitama-65"],
 			"date": "2020-03-27"
+		},
+		{
+			"name": "saitama-77",
+			"id": 12,
+			"pid": 77,
+			"jid": 1320,
+			"address": "埼玉県川口市",
+			"age": "80s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-28"
 		}
 	]
 }

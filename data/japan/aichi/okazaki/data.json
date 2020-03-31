@@ -49,6 +49,21 @@
 			"discharged": "〇",
 			"sources": ["usa"],
 			"date": "2020-03-23"
+		},
+		{
+			"name": "aichi-161",
+			"id": 4,
+			"pid": 161,
+			"jid": 1323,
+			"address": "愛知県岡崎市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "愛知県155例目と同じクルーズ船旅行",
+			"discharged": null,
+			"sources": ["spain", "france", "italy", "aichi-155"],
+			"date": "2020-03-28"
 		}
 	]
 }

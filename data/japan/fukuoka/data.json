@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "福岡"
 	},
-	"date": "2020\/03\/27 18:00",
+	"date": "2020\/03\/28 18:00",
 	"children": [
 		{
 			"ref": "fukuoka-city"
@@ -122,6 +122,20 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-26"
+		},
+		{
+			"name": "fukuoka-21",
+			"pid": 21,
+			"jid": 1360,
+			"address": "福岡県筑後市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "大学生",
+			"remarks": null,
+			"supplement": "3/13までイギリス、フランス、スペイン、ドイツに滞在",
+			"discharged": null,
+			"sources": ["uk", "france", "spain", "germany"],
+			"date": "2020-03-28"
 		}
 	]
 }

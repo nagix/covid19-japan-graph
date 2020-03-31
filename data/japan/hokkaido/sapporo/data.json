@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "札幌市"
 	},
-	"date": "2020\/03\/27 17:00",
+	"date": "2020\/03\/28 17:00",
 	"children": [
 		{
 			"name": "hokkaido-2",
@@ -1117,6 +1117,20 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-27"
+		},
+		{
+			"name": "hokkaido-170",
+			"id": 77,
+			"pid": 170,
+			"jid": 1263,
+			"address": "北海道札幌市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-28"
 		}
 	]
 }

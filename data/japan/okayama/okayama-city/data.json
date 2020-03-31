@@ -1,0 +1,38 @@
+{
+	"name": "okayama-city",
+	"label": {
+		"ja": "岡山市"
+	},
+	"date": "2020\/03\/28 18:00",
+	"children": [
+		{
+			"name": "okayama-1",
+			"id": 1,
+			"pid": 1,
+			"jid": 940,
+			"address": "岡山県岡山市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/15までスペイン滞在",
+			"discharged": null,
+			"sources": ["spain"],
+			"date": "2020-03-22"
+		},
+		{
+			"name": "okayama-3",
+			"id": 2,
+			"pid": 3,
+			"jid": 1359,
+			"address": "岡山県岡山市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/21まで東京都、大阪府、京都府に出張",
+			"discharged": null,
+			"date": "2020-03-28"
+		}
+	]
+}

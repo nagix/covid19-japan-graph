@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "石川"
 	},
-	"date": "2020\/03\/20 18:00",
+	"date": "2020\/03\/28 18:00",
 	"children": [
 		{
 			"name": "ishikawa-1",
@@ -116,6 +116,20 @@
 			"discharged": null,
 			"sources": ["egypt"],
 			"date": "2020-03-20"
+		},
+		{
+			"name": "ishikawa-9",
+			"pid": 9,
+			"jid": 1319,
+			"address": "石川県",
+			"age": "20s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/13までヨーロッパ（スペインほか）に滞在",
+			"discharged": null,
+			"sources": ["spain"],
+			"date": "2020-03-28"
 		}
 	]
 }

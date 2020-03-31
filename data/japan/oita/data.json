@@ -355,6 +355,7 @@
 		{
 			"name": "oita-26",
 			"pid": 26,
+			"jid": 1267,
 			"address": "大分県別府市",
 			"age": "10s",
 			"sex": "female",
@@ -368,6 +369,7 @@
 		{
 			"name": "oita-27",
 			"pid": 27,
+			"jid": 1268,
 			"address": "大分県大分市",
 			"age": "40s",
 			"sex": "male",

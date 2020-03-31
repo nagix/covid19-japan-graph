@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "川崎市"
 	},
-	"date": "2020\/03\/27 18:00",
+	"date": "2020\/03\/28 18:00",
 	"children": [
 		{
 			"name": "kanagawa-50",
@@ -188,6 +188,92 @@
 			"discharged": null,
 			"sources": ["kanagawa-95"],
 			"date": "2020-03-27"
+		},
+		{
+			"name": "kanagawa-111",
+			"id": 14,
+			"pid": 111,
+			"jid": 1327,
+			"address": "神奈川県川崎市中原区",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": "3/22米国・ニューヨーク市から帰国",
+			"discharged": null,
+			"sources": ["usa"],
+			"date": "2020-03-28"
+		},
+		{
+			"name": "kanagawa-112",
+			"id": 15,
+			"pid": 112,
+			"jid": 1328,
+			"address": "神奈川県川崎市中原区",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": "3/22米国・ニューヨーク市から帰国",
+			"discharged": null,
+			"sources": ["usa"],
+			"date": "2020-03-28"
+		},
+		{
+			"name": "kanagawa-113",
+			"id": 16,
+			"pid": 113,
+			"jid": 1329,
+			"address": "神奈川県川崎市中原区",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-28"
+		},
+		{
+			"name": "kanagawa-114",
+			"id": 17,
+			"pid": 114,
+			"jid": 1330,
+			"address": "神奈川県川崎市中原区",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-28"
+		},
+		{
+			"name": "kanagawa-115",
+			"id": 18,
+			"pid": 115,
+			"jid": 1331,
+			"address": "神奈川県川崎市高津区",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-28"
+		},
+		{
+			"name": "kanagawa-116",
+			"id": 19,
+			"pid": 116,
+			"jid": 1332,
+			"address": "神奈川県川崎市外",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-28"
 		}
 	]
 }
