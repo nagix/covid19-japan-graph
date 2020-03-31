@@ -606,7 +606,7 @@ function forceCluster() {
 
 	function force(alpha) {
 		var l = alpha * strength;
-		var i, j, node, group, c;
+		var i, j, node, group, level, c;
 
 		Object.keys(groups).forEach(function(key) {
 			group = groups[key];
@@ -616,9 +616,10 @@ function forceCluster() {
 		for (i = 0; i < nodes.length; i++) {
 			node = nodes[i];
 			for (j = 0; j < node.data.groups.length; j++) {
+				level = node.data.groups[j].level;
 				c = node.data.groups[j].centroid;
-				node.vx -= (node.x - c.x) * l;
-				node.vy -= (node.y - c.y) * l;
+				node.vx -= (node.x - c.x) * l * (3 - level);
+				node.vy -= (node.y - c.y) * l * (3 - level);
 			}
 		}
 	}
