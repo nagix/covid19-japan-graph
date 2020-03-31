@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "高知"
 	},
-	"date": "2020\/03\/27 18:00",
+	"date": "2020\/03\/29 18:00",
 	"children": [
 		{
 			"name": "kochi-1",
@@ -183,6 +183,20 @@
 			"remarks": null,
 			"supplement": null,
 			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "kochi-14",
+			"pid": 14,
+			"jid": 1378,
+			"address": "高知県高知市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "高知県13例目の娘・濃厚接触者",
+			"discharged": null,
+			"sources": ["kochi-13"],
 			"date": "2020-03-27"
 		}
 	]

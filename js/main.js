@@ -45,6 +45,8 @@ var sourceMaster = {
 	'indonesia': { label: { 'ja': 'インドネシア' } },
 	'india': { label: { 'ja': 'インド' } },
 	'singapore': { label: { 'ja': 'シンガポール' } },
+	'czech': { label: { 'ja': 'チェコ' } },
+	'iceland': { label: { 'ja': 'アイスランド' } },
 	'oversea': { label: { 'ja': '海外' } }
 };
 
@@ -76,7 +78,8 @@ var clusterMaster = {
 	'nippon-cargo-airlines': { label: { 'ja': '日本貨物航空クラスター' }, parentId: 'chiba' },
 	'gifu-chorus': { label: { 'ja': '岐阜合唱団クラスター' }, parentId: 'gifu' },
 	'taito-hospital': { label: { 'ja': '台東区永寿総合病院クラスター' }, parentId: 'tokyo' },
-	'tonosho-disabled': { label: { 'ja': '東庄町障害者福祉施設クラスター' }, parentId: 'chiba' }
+	'tonosho-disabled': { label: { 'ja': '東庄町障害者福祉施設クラスター' }, parentId: 'chiba' },
+	'kyoto-sangyo-univ': { label: { 'ja': '京都産業大学クラスター' }, parentId: 'kyoto-city' }
 };
 
 var dict = {

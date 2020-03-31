@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "尼崎市"
 	},
-	"date": "2020\/03\/21 18:00",
+	"date": "2020\/03\/29 18:00",
 	"children": [
 		{
 			"name": "hyogo-19",
@@ -126,6 +126,34 @@
 			"discharged": null,
 			"sources": ["uk"],
 			"date": "2020-03-21"
+		},
+		{
+			"name": "hyogo-111",
+			"id": 9,
+			"pid": 111,
+			"address": "兵庫県尼崎市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": "無症状",
+			"supplement": "伊丹市内デイケアを利用",
+			"discharged": null,
+			"cluster": "itami-daycare",
+			"date": "2020-03-22"
+		},
+		{
+			"name": "hyogo-133",
+			"id": 10,
+			"pid": 133,
+			"jid": 1400,
+			"address": "兵庫県尼崎市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-29"
 		}
 	]
 }

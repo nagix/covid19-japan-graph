@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "大分"
 	},
-	"date": "2020\/03\/27 22:30",
+	"date": "2020\/03\/29 20:30",
 	"children": [
 		{
 			"name": "oita-1",
@@ -379,6 +379,19 @@
 			"discharged": null,
 			"sources": ["philippines"],
 			"date": "2020-03-27"
+		},
+		{
+			"name": "oita-28",
+			"pid": 28,
+			"jid": 1431,
+			"address": "大分県別府市",
+			"age": "10s",
+			"sex": "female",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": "3/25まで大阪に滞在",
+			"discharged": null,
+			"date": "2020-03-29"
 		}
 	]
 }

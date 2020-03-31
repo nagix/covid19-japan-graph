@@ -181,6 +181,50 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-28"
+		},
+		{
+			"name": "saitama-85",
+			"id": 13,
+			"pid": 85,
+			"jid": 1397,
+			"address": "埼玉県川口市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": "3/19まで米国滞在",
+			"discharged": null,
+			"sources": ["usa"],
+			"date": "2020-03-29"
+		},
+		{
+			"name": "saitama-86",
+			"id": 14,
+			"pid": 86,
+			"jid": 1398,
+			"address": "埼玉県川口市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "神奈川県103例目と接触あり",
+			"discharged": null,
+			"sources": ["kanagawa-103"],
+			"date": "2020-03-29"
+		},
+		{
+			"name": "saitama-87",
+			"id": 15,
+			"pid": 87,
+			"jid": 1399,
+			"address": "東京都",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "主婦",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-29"
 		}
 	]
 }

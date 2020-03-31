@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "栃木"
 	},
-	"date": "2020\/03\/26 21:00",
+	"date": "2020\/03\/29 21:00",
 	"children": [
 		{
 			"ref": "utsunomiya"
@@ -148,6 +148,19 @@
 			"discharged": null,
 			"sources": ["tochigi-10"],
 			"date": "2020-03-26"
+		},
+		{
+			"name": "tochigi-12",
+			"pid": 12,
+			"jid": 1430,
+			"address": "東京都",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-29"
 		}
 	]
 }

@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "福井"
 	},
-	"date": "2020\/03\/28 18:00",
+	"date": "2020\/03\/29 18:00",
 	"children": [
 		{
 			"name": "fukui-1",
@@ -167,6 +167,20 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-28"
+		},
+		{
+			"name": "fukui-13",
+			"pid": 13,
+			"jid": 1428,
+			"address": "福井県鯖江市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "飲食店従業員",
+			"remarks": null,
+			"supplement": "福井県1例目の濃厚接触者",
+			"discharged": null,
+			"sources": ["fukui-1"],
+			"date": "2020-03-29"
 		}
 	]
 }

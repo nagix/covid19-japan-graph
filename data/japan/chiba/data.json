@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "千葉"
 	},
-	"date": "2020\/03\/28 18:00",
+	"date": "2020\/03\/29 18:00",
 	"children": [
 		{
 			"ref": "chiba-city"
@@ -1292,6 +1292,72 @@
 			"discharged": null,
 			"cluster": "tonosho-disabled",
 			"date": "2020-03-28"
+		},
+		{
+			"name": "chiba-102",
+			"pid": 102,
+			"jid": 1384,
+			"address": "千葉県習志野市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "東京都で確認された患者の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-29"
+		},
+		{
+			"name": "chiba-103",
+			"pid": 103,
+			"jid": 1385,
+			"address": "千葉県市川市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/22までフランスへ渡航",
+			"discharged": null,
+			"date": "2020-03-29"
+		},
+		{
+			"name": "chiba-104",
+			"pid": 104,
+			"jid": 1386,
+			"address": "千葉県佐倉市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "アルバイト",
+			"remarks": null,
+			"supplement": "神奈川県相模原市で確認された患者と接触",
+			"discharged": null,
+			"date": "2020-03-29"
+		},
+		{
+			"name": "chiba-105",
+			"pid": 105,
+			"jid": 1387,
+			"address": "千葉県八街市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "保育士",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-29"
+		},
+		{
+			"name": "chiba-106",
+			"pid": 106,
+			"jid": 1388,
+			"address": "千葉県山武市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "千葉県67例目の同居家族",
+			"discharged": null,
+			"sources": ["chiba-67"],
+			"date": "2020-03-29"
 		}
 	]
 }

@@ -206,7 +206,7 @@ div.tooltip {
 	border: 0px;
 	border-radius: 8px;
 	pointer-events: none;
-	white-space: nowrap;
+	max-width: 350px;
 }
 
 @media only screen and (max-width: 480px) {

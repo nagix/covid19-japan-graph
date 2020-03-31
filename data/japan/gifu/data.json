@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "岐阜"
 	},
-	"date": "2020\/03\/27 20:00",
+	"date": "2020\/03\/29 18:00",
 	"children": [
 		{
 			"ref": "gifu-city"
@@ -198,6 +198,7 @@
 		{
 			"name": "gifu-17",
 			"pid": 17,
+			"jid": 1401,
 			"address": "岐阜県可児市",
 			"age": "70s",
 			"sex": "female",
@@ -207,6 +208,46 @@
 			"discharged": null,
 			"sources": ["gifu-5", "gifu-7", "gifu-12", "gifu-13", "gifu-16"],
 			"date": "2020-03-27"
+		},
+		{
+			"name": "gifu-18",
+			"pid": 18,
+			"jid": 1402,
+			"address": "岐阜県可児市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "岐阜県16例目の濃厚接触者",
+			"discharged": null,
+			"sources": ["gifu-16"],
+			"date": "2020-03-28"
+		},
+		{
+			"name": "gifu-19",
+			"pid": 19,
+			"address": "岐阜県可児市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "岐阜県17例目の濃厚接触者",
+			"discharged": null,
+			"sources": ["gifu-17"],
+			"date": "2020-03-28"
+		},
+		{
+			"name": "gifu-20",
+			"pid": 20,
+			"jid": 1403,
+			"address": "岐阜県大垣市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/26まで沖縄に滞在",
+			"discharged": null,
+			"date": "2020-03-29"
 		}
 	]
 }

@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "長野"
 	},
-	"date": "2020\/03\/27 18:00",
+	"date": "2020\/03\/29 18:00",
 	"children": [
 		{
 			"name": "nagano-1",
@@ -22,8 +22,8 @@
 			"date": "2020-02-25"
 		},
 		{
-			"name": "nagano-2",
-			"pid": 2,
+			"name": "nagano+1",
+			"pid": "(1)",
 			"address": "長野県（松本保健所管内）",
 			"age": "50s",
 			"sex": "female",
@@ -35,8 +35,8 @@
 			"date": "2020-02-26"
 		},
 		{
-			"name": "nagano-3",
-			"pid": 3,
+			"name": "nagano-2",
+			"pid": 2,
 			"jid": 331,
 			"address": "長野県（佐久保健所管内）",
 			"age": "50s",
@@ -49,8 +49,8 @@
 			"date": "2020-03-06"
 		},
 		{
-			"name": "nagano-4",
-			"pid": 4,
+			"name": "nagano-3",
+			"pid": 3,
 			"jid": 644,
 			"address": "長野県（松本保健所管内）",
 			"age": "20s",
@@ -63,8 +63,8 @@
 			"date": "2020-03-14"
 		},
 		{
-			"name": "nagano-5",
-			"pid": 5,
+			"name": "nagano-4",
+			"pid": 4,
 			"jid": 1046,
 			"address": "長野県（松本保健所管内）",
 			"age": "70s",
@@ -76,8 +76,8 @@
 			"date": "2020-03-24"
 		},
 		{
-			"name": "nagano-6",
-			"pid": 6,
+			"name": "nagano-5",
+			"pid": 5,
 			"jid": 1229,
 			"address": "東京都",
 			"age": "20s",
@@ -87,6 +87,33 @@
 			"supplement": "3/20まで東京に滞在",
 			"discharged": null,
 			"date": "2020-03-27"
+		},
+		{
+			"name": "nagano-6",
+			"pid": 6,
+			"jid": 1375,
+			"address": "長野県（飯田保健所管内）",
+			"age": "20s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "長野県5例目の濃厚接触者",
+			"discharged": null,
+			"sources": ["nagano-5"],
+			"date": "2020-03-29"
+		},
+		{
+			"name": "nagano-7",
+			"pid": 7,
+			"jid": 1376,
+			"address": "長野県（松本保健所管内）",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-29"
 		}
 	]
 }

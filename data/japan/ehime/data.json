@@ -55,11 +55,11 @@
 			"address": "愛媛県新居浜市",
 			"age": "20s",
 			"sex": "male",
-			"attribute": "無職",
+			"attribute": "学生",
 			"remarks": null,
-			"supplement": "3/14ヨーロッパ（スペインほか）から帰国",
+			"supplement": "石川県9例目、京都府41例目とともに3/13までイギリス、アイスランド、スイス、フランス、スペインに滞在",
 			"discharged": null,
-			"sources": ["spain"],
+			"sources": ["uk", "iceland", "switzerland", "france", "spain", "ishikawa-9", "kyoto-41"],
 			"date": "2020-03-27"
 		}
 	]

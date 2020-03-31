@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "沖縄"
 	},
-	"date": "2020\/02\/26 14:00",
+	"date": "2020\/02\/28 18:00",
 	"children": [
 		{
 			"name": "okinawa-1",
@@ -46,7 +46,7 @@
 			"attribute": "農業",
 			"remarks": null,
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-02-20"
 		},
 		{
@@ -88,6 +88,34 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-26"
+		},
+		{
+			"name": "okinawa-7",
+			"pid": 7,
+			"jid": 1364,
+			"address": "沖縄県那覇市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "沖縄県6例目と接触あり",
+			"discharged": null,
+			"sources": ["okinawa-6"],
+			"date": "2020-03-28"
+		},
+		{
+			"name": "okinawa-8",
+			"pid": 8,
+			"jid": 1365,
+			"address": "沖縄県那覇市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": "3/23米国・ニューヨークから帰国",
+			"discharged": null,
+			"sources": ["usa"],
+			"date": "2020-03-28"
 		}
 	]
 }

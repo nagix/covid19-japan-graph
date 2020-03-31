@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "京都市"
 	},
-	"date": "2020\/03\/28 18:00",
+	"date": "2020\/03\/29 18:00",
 	"children": [
 		{
 			"name": "kyoto-1",
@@ -106,7 +106,7 @@
 			"attribute": "臨時的任用の右京区役所職員",
 			"remarks": null,
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"sources": ["kyoto-19"],
 			"date": "2020-03-11"
 		},
@@ -385,6 +385,99 @@
 			"discharged": null,
 			"sources": ["uk"],
 			"date": "2020-03-28"
+		},
+		{
+			"name": "kyoto-41",
+			"id": 27,
+			"pid": 41,
+			"jid": 1404,
+			"address": "京都府京都市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": "愛媛県4例目、石川県9例目とともに3/13までイギリス、アイスランド、スイス、フランス、スペインに滞在",
+			"discharged": null,
+			"cluster": "kyoto-sangyo-univ",
+			"sources": ["uk", "iceland", "switzerland", "france", "spain", "ehime-4", "ishikawa-9"],
+			"date": "2020-03-29"
+		},
+		{
+			"name": "kyoto-42",
+			"id": 28,
+			"pid": 42,
+			"jid": 1405,
+			"address": "京都府京都市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "大学生",
+			"remarks": null,
+			"supplement": "ゼミ卒業祝賀会で愛媛県4例目と接触",
+			"discharged": null,
+			"cluster": "kyoto-sangyo-univ",
+			"sources": ["ehime-4"],
+			"date": "2020-03-29"
+		},
+		{
+			"name": "kyoto-43",
+			"id": 29,
+			"pid": 43,
+			"jid": 1406,
+			"address": "京都府京都市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "大学生",
+			"remarks": null,
+			"supplement": "ゼミ卒業祝賀会で愛媛県4例目と接触",
+			"discharged": null,
+			"cluster": "kyoto-sangyo-univ",
+			"sources": ["ehime-4"],
+			"date": "2020-03-29"
+		},
+		{
+			"name": "kyoto-44",
+			"id": 30,
+			"pid": 44,
+			"jid": 1407,
+			"address": "京都府京都市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "大学生",
+			"remarks": null,
+			"supplement": "ゼミ卒業祝賀会で愛媛県4例目と接触",
+			"discharged": null,
+			"cluster": "kyoto-sangyo-univ",
+			"sources": ["ehime-4"],
+			"date": "2020-03-29"
+		},
+		{
+			"name": "kyoto-46",
+			"id": 31,
+			"pid": 46,
+			"jid": 1408,
+			"address": "京都府京都市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "大学生",
+			"remarks": null,
+			"supplement": "京都府27例目の濃厚接触者",
+			"discharged": null,
+			"sources": ["kyoto-27"],
+			"date": "2020-03-29"
+		},
+		{
+			"name": "kyoto-47",
+			"id": 32,
+			"pid": 47,
+			"jid": 1409,
+			"address": "京都府京都市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-29"
 		}
 	]
 }

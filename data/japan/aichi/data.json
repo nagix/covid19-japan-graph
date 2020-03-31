@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "愛知"
 	},
-	"date": "2020\/03\/28 18:00",
+	"date": "2020\/03\/29 18:00",
 	"children": [
 		{
 			"ref": "nagoya"
@@ -603,6 +603,33 @@
 			"discharged": null,
 			"sources": ["spain", "france", "italy", "aichi-155"],
 			"date": "2020-03-28"
+		},
+		{
+			"name": "aichi-165",
+			"pid": 165,
+			"jid": 1426,
+			"address": "愛知県一宮市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "岐阜県16例目、18例目の親族（接触者）",
+			"discharged": null,
+			"sources": ["gifu-16", "gifu-18"],
+			"date": "2020-03-29"
+		},
+		{
+			"name": "aichi-166",
+			"pid": 166,
+			"address": "愛知県瀬戸市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "愛知県162例目の家族（濃厚接触者）",
+			"discharged": null,
+			"sources": ["aichi-162"],
+			"date": "2020-03-29"
 		}
 	]
 }

@@ -6,8 +6,37 @@
 	"date": "2020\/03\/25 18:00",
 	"children": [
 		{
-			"name": "kanagawa-75",
+			"name": "kanagawa-45",
 			"id": 1,
+			"pid": 45,
+			"jid": 523,
+			"address": "神奈川県藤沢市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-10"
+		},
+		{
+			"name": "kanagawa-46",
+			"id": 2,
+			"pid": 46,
+			"jid": 524,
+			"address": "神奈川県藤沢市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": "No.523と同居家族",
+			"discharged": null,
+			"sources": ["kanagawa-45"],
+			"date": "2020-03-10"
+		},
+		{
+			"name": "kanagawa-75",
+			"id": 3,
 			"pid": 75,
 			"jid": 920,
 			"address": "神奈川県藤沢市",
@@ -22,7 +51,7 @@
 		},
 		{
 			"name": "kanagawa-76",
-			"id": 2,
+			"id": 4,
 			"pid": 76,
 			"jid": 921,
 			"address": "神奈川県藤沢市",
@@ -36,7 +65,7 @@
 		},
 		{
 			"name": "kanagawa-77",
-			"id": 3,
+			"id": 5,
 			"pid": 77,
 			"jid": 922,
 			"address": "神奈川県藤沢市",
@@ -50,7 +79,7 @@
 		},
 		{
 			"name": "kanagawa-86",
-			"id": 4,
+			"id": 6,
 			"pid": 86,
 			"jid": 1058,
 			"address": "神奈川県藤沢市",

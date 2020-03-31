@@ -124,11 +124,11 @@
 			"address": "石川県",
 			"age": "20s",
 			"sex": "male",
-			"attribute": null,
+			"attribute": "学生",
 			"remarks": null,
-			"supplement": "3/13までヨーロッパ（スペインほか）に滞在",
+			"supplement": "愛媛県4例目、京都府41例目とともに3/13までイギリス、アイスランド、スイス、フランス、スペインに滞在",
 			"discharged": null,
-			"sources": ["spain"],
+			"sources": ["uk", "iceland", "switzerland", "france", "spain", "ehime-4", "kyoto-41"],
 			"date": "2020-03-28"
 		}
 	]

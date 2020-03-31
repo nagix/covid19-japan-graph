@@ -208,6 +208,45 @@
 			"discharged": null,
 			"sources": ["gunma-14"],
 			"date": "2020-03-28"
+		},
+		{
+			"name": "gunma-16",
+			"pid": 16,
+			"jid": 1370,
+			"address": "群馬県富岡市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-28"
+		},
+		{
+			"name": "gunma-17",
+			"pid": 17,
+			"jid": 1371,
+			"address": "群馬県富岡市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "県外の陽性患者と接触あり",
+			"discharged": null,
+			"date": "2020-03-28"
+		},
+		{
+			"name": "gunma-18",
+			"pid": 18,
+			"jid": 1372,
+			"address": "群馬県佐波郡玉村町",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "福祉事業従事者",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-28"
 		}
 	]
 }

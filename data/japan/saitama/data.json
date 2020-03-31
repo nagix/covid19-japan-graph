@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "埼玉"
 	},
-	"date": "2020\/03\/28 18:00",
+	"date": "2020\/03\/29 18:00",
 	"children": [
 		{
 			"ref": "saitama-city"
@@ -318,7 +318,7 @@
 			"attribute": "無職",
 			"remarks": null,
 			"supplement": "2/11ダイヤモンド・プリンセス号を下船",
-			"discharged": null,
+			"discharged": "〇",
 			"sources": ["cruise-ship"],
 			"date": "2020-03-17"
 		},
@@ -441,7 +441,7 @@
 			"attribute": "会社員（県内勤務）",
 			"remarks": "無症状",
 			"supplement": "No.827、No.905、No.906の同僚",
-			"discharged": null,
+			"discharged": "〇",
 			"sources": ["saitama-42", "saitama-46", "saitama-47"],
 			"date": "2020-03-22"
 		},
@@ -729,6 +729,32 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-28"
+		},
+		{
+			"name": "saitama-83",
+			"pid": 83,
+			"jid": 1395,
+			"address": "埼玉県川口市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "埼玉県77例目の別居親族",
+			"discharged": null,
+			"date": "2020-03-29"
+		},
+		{
+			"name": "saitama-84",
+			"pid": 84,
+			"jid": 1396,
+			"address": "埼玉県ふじみ野市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-29"
 		}
 	]
 }

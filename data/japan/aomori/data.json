@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "青森"
 	},
-	"date": "2020\/03\/25 18:00",
+	"date": "2020\/03\/28 18:00",
 	"children": [
 		{
 			"name": "aomori-1",
@@ -89,6 +89,19 @@
 			"discharged": null,
 			"sources": ["spain"],
 			"date": "2020-03-25"
+		},
+		{
+			"name": "aomori-7",
+			"pid": 7,
+			"jid": 1366,
+			"address": "東京都",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/25東京から帰省",
+			"discharged": null,
+			"date": "2020-03-28"
 		}
 	]
 }

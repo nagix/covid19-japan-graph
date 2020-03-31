@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "神戸市"
 	},
-	"date": "2020\/03\/27 18:00",
+	"date": "2020\/03\/29 18:00",
 	"children": [
 		{
 			"name": "hyogo-2",
@@ -390,6 +390,79 @@
 			"discharged": null,
 			"sources": ["oversea"],
 			"date": "2020-03-27"
+		},
+		{
+			"name": "hyogo-127",
+			"id": 27,
+			"pid": 122,
+			"jid": 1379,
+			"address": "兵庫県神戸市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "陽性患者の会社同僚",
+			"discharged": null,
+			"date": "2020-03-29"
+		},
+		{
+			"name": "hyogo-128",
+			"id": 28,
+			"pid": 128,
+			"jid": 1380,
+			"address": "兵庫県神戸市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "陽性患者の友人",
+			"discharged": null,
+			"date": "2020-03-29"
+		},
+		{
+			"name": "hyogo-129",
+			"id": 29,
+			"pid": 129,
+			"jid": 1381,
+			"address": "兵庫県神戸市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "パート社員",
+			"remarks": null,
+			"supplement": "3/19まで海外渡航",
+			"discharged": null,
+			"sources": ["oversea"],
+			"date": "2020-03-29"
+		},
+		{
+			"name": "hyogo-130",
+			"id": 30,
+			"pid": 130,
+			"jid": 1382,
+			"address": "兵庫県神戸市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "3/16まで海外渡航",
+			"discharged": null,
+			"sources": ["oversea"],
+			"date": "2020-03-29"
+		},
+		{
+			"name": "hyogo-131",
+			"id": 31,
+			"pid": 131,
+			"jid": 1383,
+			"address": "兵庫県神戸市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "3/16まで海外渡航",
+			"discharged": null,
+			"sources": ["oversea"],
+			"date": "2020-03-29"
 		}
 	]
 }

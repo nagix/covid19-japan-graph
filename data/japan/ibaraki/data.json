@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "茨城"
 	},
-	"date": "2020\/03\/28 18:00",
+	"date": "2020\/03\/28 19:30",
 	"children": [
 		{
 			"name": "ibaraki-1",
@@ -195,6 +195,45 @@
 			"supplement": "茨城県12例目の濃厚接触者（入院先の同室者）",
 			"discharged": null,
 			"sources": ["ibaraki-12"],
+			"date": "2020-03-28"
+		},
+		{
+			"name": "ibaraki-14",
+			"pid": 14,
+			"address": "茨城県つくばみらい市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": "無症状",
+			"supplement": "茨城県12例目の濃厚接触者（家族）",
+			"discharged": null,
+			"sources": ["ibaraki-12"],
+			"date": "2020-03-28"
+		},
+		{
+			"name": "ibaraki-15",
+			"pid": 15,
+			"jid": 1367,
+			"address": "茨城県外",
+			"age": "80s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "茨城県12例目の濃厚接触者（入院先の同室者）",
+			"discharged": null,
+			"sources": ["ibaraki-12"],
+			"date": "2020-03-28"
+		},
+		{
+			"name": "ibaraki-16",
+			"pid": 16,
+			"address": "茨城県つくば市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
 			"date": "2020-03-28"
 		}
 	]

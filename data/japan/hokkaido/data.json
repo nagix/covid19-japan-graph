@@ -1072,6 +1072,20 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-26"
+		},
+		{
+			"name": "hokkaido-176",
+			"pid": 176,
+			"jid": 1394,
+			"address": "神奈川県",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "3/20米国から帰国、3/24神奈川県から帰省",
+			"discharged": null,
+			"sources": ["usa"],
+			"date": "2020-03-29"
 		}
 	]
 }

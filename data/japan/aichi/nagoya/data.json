@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "名古屋市"
 	},
-	"date": "2020\/03\/28 18:00",
+	"date": "2020\/03\/29 18:00",
 	"children": [
 		{
 			"name": "aichi-3",
@@ -1785,6 +1785,20 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-28"
+		},
+		{
+			"name": "aichi-167",
+			"id": 117,
+			"pid": 167,
+			"jid": 1427,
+			"address": "愛知県名古屋市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "医療機関内で陽性患者と接触",
+			"discharged": null,
+			"date": "2020-03-29"
 		}
 	]
 }

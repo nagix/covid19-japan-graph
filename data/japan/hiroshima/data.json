@@ -12,19 +12,6 @@
 			"ref": "hiroshima-city"
 		},
 		{
-			"name": "hiroshima-1",
-			"pid": 1,
-			"jid": 371,
-			"address": "広島県広島市",
-			"age": "30s",
-			"sex": "male",
-			"attribute": null,
-			"remarks": null,
-			"supplement": null,
-			"discharged": "〇",
-			"date": "2020-03-07"
-		},
-		{
 			"name": "hiroshima-2",
 			"pid": 2,
 			"jid": 842,

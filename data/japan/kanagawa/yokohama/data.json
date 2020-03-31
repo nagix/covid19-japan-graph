@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "横浜市"
 	},
-	"date": "2020\/03\/26 18:00",
+	"date": "2020\/03\/28 18:00",
 	"children": [
 		{
 			"name": "kanagawa-6",
@@ -163,31 +163,31 @@
 			"date": "2020-03-17"
 		},
 		{
-			"name": "kanagawa-59",
+			"name": "kanagawa-60",
 			"id": 12,
-			"pid": 59,
+			"pid": 60,
 			"jid": 773,
 			"address": "神奈川県横浜市",
 			"age": "70s",
 			"sex": "male",
 			"attribute": "無職",
 			"remarks": null,
-			"supplement": "No.642の濃厚接触者",
+			"supplement": "神奈川県49例目の濃厚接触者",
 			"discharged": null,
 			"sources": ["kanagawa-49"],
 			"date": "2020-03-17"
 		},
 		{
-			"name": "kanagawa-59",
+			"name": "kanagawa-61",
 			"id": 13,
-			"pid": 59,
+			"pid": 61,
 			"jid": 774,
 			"address": "神奈川県横浜市",
 			"age": "70s",
 			"sex": "female",
 			"attribute": "ホームヘルパー",
 			"remarks": null,
-			"supplement": "No.618の濃厚接触者",
+			"supplement": "神奈川県47例目の濃厚接触者",
 			"discharged": null,
 			"sources": ["kanagawa-47"],
 			"date": "2020-03-17"
@@ -203,7 +203,7 @@
 			"attribute": "会社員",
 			"remarks": null,
 			"supplement": "3/15スペインから帰国",
-			"discharged": null,
+			"discharged": "〇",
 			"sources": ["spain"],
 			"date": "2020-03-20"
 		},
@@ -216,9 +216,9 @@
 			"age": "90s",
 			"sex": "female",
 			"attribute": "無職",
-			"remarks": null,
+			"remarks": "3/27死亡",
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-21"
 		},
 		{
@@ -234,6 +234,114 @@
 			"discharged": null,
 			"sources": ["usa"],
 			"date": "2020-03-26"
+		},
+		{
+			"name": "kanagawa-99",
+			"id": 17,
+			"pid": 99,
+			"address": "神奈川県横浜市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/16までタイに滞在",
+			"discharged": null,
+			"sources": ["thailand"],
+			"date": "2020-03-27"
+		},
+		{
+			"name": "kanagawa-100",
+			"id": 18,
+			"pid": 100,
+			"address": "神奈川県横浜市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "県外陽性患者の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "kanagawa-101",
+			"id": 19,
+			"pid": 101,
+			"address": "神奈川県横浜市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "アルバイト",
+			"remarks": null,
+			"supplement": "神奈川県100例目の濃厚接触者",
+			"discharged": null,
+			"sources": ["kanagawa-100"],
+			"date": "2020-03-27"
+		},
+		{
+			"name": "kanagawa-102",
+			"id": 20,
+			"pid": 102,
+			"address": "神奈川県横浜市",
+			"age": "80s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-27"
+		},
+		{
+			"name": "kanagawa-107",
+			"id": 21,
+			"pid": 107,
+			"address": "神奈川県横浜市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": "重症",
+			"supplement": "3/22米国から帰国",
+			"discharged": null,
+			"sources": ["usa"],
+			"date": "2020-03-28"
+		},
+		{
+			"name": "kanagawa-108",
+			"id": 22,
+			"pid": 108,
+			"address": "神奈川県横浜市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": "3/22までイタリア、オーストリア、チェコ、イギリスに滞在",
+			"discharged": null,
+			"sources": ["italy", "austria", "czech", "uk"],
+			"date": "2020-03-28"
+		},
+		{
+			"name": "kanagawa-109",
+			"id": 23,
+			"pid": 109,
+			"address": "神奈川県横浜市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-28"
+		},
+		{
+			"name": "kanagawa-110",
+			"id": 24,
+			"pid": 110,
+			"address": "神奈川県横浜市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "タクシー運転手",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-28"
 		}
 	]
 }

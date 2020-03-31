@@ -132,9 +132,9 @@
 			"date": "2020-03-26"
 		},
 		{
-			"name": "kanagawa-99",
+			"name": "kanagawa-103",
 			"id": 10,
-			"pid": 99,
+			"pid": 103,
 			"jid": 1230,
 			"address": "神奈川県川崎市高津区",
 			"age": "30s",
@@ -146,9 +146,9 @@
 			"date": "2020-03-27"
 		},
 		{
-			"name": "kanagawa-100",
+			"name": "kanagawa-104",
 			"id": 11,
-			"pid": 100,
+			"pid": 104,
 			"jid": 1231,
 			"address": "神奈川県川崎市麻生区",
 			"age": "50s",
@@ -161,9 +161,9 @@
 			"date": "2020-03-27"
 		},
 		{
-			"name": "kanagawa-101",
+			"name": "kanagawa-105",
 			"id": 12,
-			"pid": 101,
+			"pid": 105,
 			"jid": 1232,
 			"address": "神奈川県川崎市幸区",
 			"age": "30s",
@@ -175,9 +175,9 @@
 			"date": "2020-03-27"
 		},
 		{
-			"name": "kanagawa-102",
+			"name": "kanagawa-106",
 			"id": 13,
-			"pid": 102,
+			"pid": 106,
 			"jid": 1233,
 			"address": "神奈川県川崎市川崎区",
 			"age": "40s",

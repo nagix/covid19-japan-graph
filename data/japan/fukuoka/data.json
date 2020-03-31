@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "福岡"
 	},
-	"date": "2020\/03\/28 18:00",
+	"date": "2020\/03\/29 18:00",
 	"children": [
 		{
 			"ref": "fukuoka-city"
@@ -136,6 +136,20 @@
 			"discharged": null,
 			"sources": ["uk", "france", "spain", "germany"],
 			"date": "2020-03-28"
+		},
+		{
+			"name": "fukuoka-26",
+			"pid": 26,
+			"jid": 1429,
+			"address": "福岡県宗像市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "福岡県13例目の子",
+			"discharged": null,
+			"sources": ["fukuoka-13"],
+			"date": "2020-03-29"
 		}
 	]
 }

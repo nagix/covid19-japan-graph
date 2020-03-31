@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "京都"
 	},
-	"date": "2020\/03\/27 18:00",
+	"date": "2020\/03\/28 18:00",
 	"children": [
 		{
 			"ref": "kyoto-city"
@@ -159,6 +159,48 @@
 			"supplement": "職場（大阪市内）の同僚に陽性者",
 			"discharged": null,
 			"date": "2020-03-27"
+		},
+		{
+			"name": "kyoto-38",
+			"pid": 38,
+			"jid": 1368,
+			"address": "京都府山城北保健所管内",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "大学生",
+			"remarks": null,
+			"supplement": "サークル懇親会で愛媛県4例目、石川県9例目と接触",
+			"discharged": null,
+			"cluster": "kyoto-sangyo-univ",
+			"sources": ["ehime-4", "ishikawa-9"],
+			"date": "2020-03-28"
+		},
+		{
+			"name": "kyoto-39",
+			"pid": 39,
+			"jid": 1369,
+			"address": "京都府山城北保健所管内",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": "京都府35例目の母親",
+			"discharged": null,
+			"sources": ["kyoto-35"],
+			"date": "2020-03-28"
+		},
+		{
+			"name": "kyoto-40",
+			"pid": 40,
+			"address": "京都府山城北保健所管内",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "自営業",
+			"remarks": "症状なし",
+			"supplement": "京都府35例目受診医療機関の看護師",
+			"discharged": null,
+			"sources": ["kyoto-35"],
+			"date": "2020-03-28"
 		}
 	]
 }
