@@ -92,6 +92,7 @@ path.link {
 g.node circle {
 	stroke: #fff;
 	stroke-width: 1.5px;
+	cursor: pointer;
 }
 g.node.origin circle {
 	stroke: #aaa;
@@ -100,6 +101,7 @@ g.node.origin circle {
 
 g.node text {
 	font-family: sans-serif;
+	pointer-events: none;
 }
 g.node text.node-prefix {
 	font-size: 12px;
@@ -128,8 +130,11 @@ path.geo-group {
 
 g.group-label text {
 	font-family: sans-serif;
-	stroke: #aaa;
 	opacity: .5;
+}
+
+g.group-label text:hover {
+	opacity: 1;
 }
 
 div.container {
