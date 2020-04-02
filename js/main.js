@@ -67,39 +67,43 @@ var sourceMaster = {
 	'singapore': { label: { 'ja': 'シンガポール' } },
 	'czech': { label: { 'ja': 'チェコ' } },
 	'iceland': { label: { 'ja': 'アイスランド' } },
+	'south-america': { label: { 'ja': '南米' } },
 	'oversea': { label: { 'ja': '海外' } }
 };
 
 var clusterMaster = {
-	'sagamihara-hospital': { label: { 'ja': '相模原中央病院クラスター' }, parentId: 'sagamihara' },
-	'sagamihara-welfare': { label: { 'ja': '相模原福祉施設クラスター' }, parentId: 'sagamihara' },
-	'tokyo-yakatabune': { label: { 'ja': '屋形船新年会クラスター' }, parentId: 'tokyo' },
-	'wakayama-hospital': { label: { 'ja': '和歌山済生会有田病院クラスター' }, parentId: 'wakayama' },
-	'nagoya-gym-a': { label: { 'ja': '名古屋スポーツジムAクラスター' }, parentId: 'nagoya' },
-	'ichikawa-gym': { label: { 'ja': '市川スポーツジムクラスター' }, parentId: 'chiba' },
-	'nagoya-gym-b': { label: { 'ja': '名古屋スポーツジムBクラスター' }, parentId: 'nagoya' },
-	'kitami-exhibition': { label: { 'ja': '北見展示会クラスター' }, parentId: 'hokkaido' },
-	'osaka-livehouse-a': { label: { 'ja': '大阪京橋ライブハウスArcクラスター' }, parentId: 'osaka' },
-	'niigata-pingpong': { label: { 'ja': '新潟卓球スクールクラスター' }, parentId: 'niigata-city' },
-	'nagoya-dayservice-a': { label: { 'ja': '名古屋高齢者デイサービスAクラスター' }, parentId: 'nagoya' },
-	'sapporo-livebar': { label: { 'ja': '札幌中ライブバークラスター' }, parentId: 'sapporo' },
-	'nagoya-dayservice-b': { label: { 'ja': '名古屋高齢者デイサービスBクラスター' }, parentId: 'nagoya' },
-	'nagoya-dayservice-c': { label: { 'ja': '名古屋高齢者デイサービスCクラスター' }, parentId: 'nagoya' },
-	'osaka-livehouse-b': { label: { 'ja': '大阪北区ライブハウスSoap Opera Classics Umedaクラスター' }, parentId: 'osaka' },
-	'itami-daycare': { label: { 'ja': '伊丹市デイケア施設クラスター' }, parentId: 'hyogo' },
-	'himeji-hospital': { label: { 'ja': '姫路仁恵病院クラスター' }, parentId: 'himeji' },
-	'osaka-livehouse-c': { label: { 'ja': '大阪北区ライブハウスLIVE HOUSE Rumioクラスター' }, parentId: 'osaka' },
-	'kobe-kindergarten': { label: { 'ja': '神戸こども園クラスター' }, parentId: 'kobe' },
-	'osaka-livehouse-d': { label: { 'ja': '大阪中央区ライブハウスamericamura FANJ twiceクラスター' }, parentId: 'osaka' },
-	'takarazuka-hospital': { label: { 'ja': '宝塚第一病院クラスター' }, parentId: 'hyogo' },
-	'kobe-longterm-care': { label: { 'ja': '神戸介護保険通所事業所クラスター' }, parentId: 'kobe' },
-	'oizumi-clinic': { label: { 'ja': '大泉町診療所クラスター' }, parentId: 'gunma' },
-	'oita-hospital': { label: { 'ja': '大分医療センタークラスター' }, parentId: 'oita' },
-	'nippon-cargo-airlines': { label: { 'ja': '日本貨物航空クラスター' }, parentId: 'chiba' },
-	'gifu-chorus': { label: { 'ja': '岐阜合唱団クラスター' }, parentId: 'gifu' },
-	'taito-hospital': { label: { 'ja': '台東区永寿総合病院クラスター' }, parentId: 'tokyo' },
-	'tonosho-disabled': { label: { 'ja': '東庄町障害者福祉施設クラスター' }, parentId: 'chiba' },
-	'kyoto-sangyo-univ': { label: { 'ja': '京都産業大学クラスター' }, parentId: 'kyoto-city' }
+	'sagamihara-hospital': { label: { 'ja': '相模原中央病院クラスター' }, parentName: 'sagamihara' },
+	'sagamihara-welfare': { label: { 'ja': '相模原福祉施設クラスター' }, parentName: 'sagamihara' },
+	'tokyo-yakatabune': { label: { 'ja': '屋形船新年会クラスター' }, parentName: 'tokyo' },
+	'wakayama-hospital': { label: { 'ja': '和歌山済生会有田病院クラスター' }, parentName: 'wakayama' },
+	'nagoya-gym-a': { label: { 'ja': '名古屋スポーツジムAクラスター' }, parentName: 'nagoya' },
+	'ichikawa-gym': { label: { 'ja': '市川スポーツジムクラスター' }, parentName: 'chiba' },
+	'nagoya-gym-b': { label: { 'ja': '名古屋スポーツジムBクラスター' }, parentName: 'nagoya' },
+	'kitami-exhibition': { label: { 'ja': '北見展示会クラスター' }, parentName: 'hokkaido' },
+	'osaka-livehouse-a': { label: { 'ja': '大阪京橋ライブハウスArcクラスター' }, parentName: 'osaka' },
+	'niigata-pingpong': { label: { 'ja': '新潟卓球スクールクラスター' }, parentName: 'niigata-city' },
+	'nagoya-dayservice-a': { label: { 'ja': '名古屋高齢者デイサービスAクラスター' }, parentName: 'nagoya' },
+	'sapporo-livebar': { label: { 'ja': '札幌中ライブバークラスター' }, parentName: 'sapporo' },
+	'nagoya-dayservice-b': { label: { 'ja': '名古屋高齢者デイサービスBクラスター' }, parentName: 'nagoya' },
+	'nagoya-dayservice-c': { label: { 'ja': '名古屋高齢者デイサービスCクラスター' }, parentName: 'nagoya' },
+	'osaka-livehouse-b': { label: { 'ja': '大阪北区ライブハウスSoap Opera Classics Umedaクラスター' }, parentName: 'osaka' },
+	'itami-daycare': { label: { 'ja': '伊丹市デイケア施設クラスター' }, parentName: 'hyogo' },
+	'himeji-hospital': { label: { 'ja': '姫路仁恵病院クラスター' }, parentName: 'himeji' },
+	'osaka-livehouse-c': { label: { 'ja': '大阪北区ライブハウスLIVE HOUSE Rumioクラスター' }, parentName: 'osaka' },
+	'kobe-kindergarten': { label: { 'ja': '神戸こども園クラスター' }, parentName: 'kobe' },
+	'osaka-livehouse-d': { label: { 'ja': '大阪中央区ライブハウスamericamura FANJ twiceクラスター' }, parentName: 'osaka' },
+	'takarazuka-hospital': { label: { 'ja': '宝塚第一病院クラスター' }, parentName: 'hyogo' },
+	'kobe-longterm-care': { label: { 'ja': '神戸介護保険通所事業所クラスター' }, parentName: 'kobe' },
+	'oizumi-clinic': { label: { 'ja': '大泉町診療所クラスター' }, parentName: 'gunma' },
+	'oita-hospital': { label: { 'ja': '大分医療センタークラスター' }, parentName: 'oita' },
+	'nippon-cargo-airlines': { label: { 'ja': '日本貨物航空クラスター' }, parentName: 'chiba' },
+	'gifu-chorus': { label: { 'ja': '岐阜合唱団クラスター' }, parentName: 'gifu' },
+	'taito-hospital': { label: { 'ja': '台東区永寿総合病院クラスター' }, parentName: 'tokyo' },
+	'tonosho-disabled': { label: { 'ja': '東庄町障害者福祉施設クラスター' }, parentName: 'chiba' },
+	'kyoto-sangyo-univ': { label: { 'ja': '京都産業大学クラスター' }, parentName: 'kyoto-city' },
+	'sendai-british-pub': { label: { 'ja': '仙台英国風パブクラスター' }, parentName: 'sendai' },
+	'ide-networking-event': { label: { 'ja': '井手町交流会クラスター' }, parentName: 'kyoto' },
+	'toride-hospital': { label: { 'ja': 'JAとりで総合医療センタークラスター' }, parentName: 'ibaraki' }
 };
 
 var dict = {
@@ -228,6 +232,7 @@ loadData('japan').then(function(patients) {
 		var data = node.data;
 		var name = data.name;
 		var date = data.date;
+		var cluster = data.cluster;
 		var sources = data.sources || [];
 		var ancestors = node.ancestors();
 		var baseNode = ancestors[ancestors.length - (ancestors.length > 2 ? 2 : 1)];
@@ -266,7 +271,10 @@ loadData('japan').then(function(patients) {
 		// Add origin nodes
 		sources.forEach(function(sourceName, i) {
 			if (!nodeLookup[sourceName]) {
-				var originName = baseNode.data.name + '-' + sourceName;
+				var originBaseNode = cluster ?
+					nodeLookup[clusterMaster[cluster].parentName].ancestors().slice(-2)[0] :
+					baseNode;
+				var originName = originBaseNode.data.name + '-' + sourceName;
 
 				sources[i] = originName;
 				if (!nodeLookup[originName]) {
@@ -276,7 +284,7 @@ loadData('japan').then(function(patients) {
 						type: 'origin',
 					};
 
-					baseNode.data.children.push(origin);
+					originBaseNode.data.children.push(origin);
 					nodeLookup[originName] = origin;
 				}
 			}
@@ -321,7 +329,7 @@ loadData('japan').then(function(patients) {
 		var cluster = data.cluster;
 
 		if (cluster) {
-			var parentNode = nodeLookup[clusterMaster[cluster].parentId];
+			var parentNode = nodeLookup[clusterMaster[cluster].parentName];
 			data.groups = [groupLookup[cluster]].concat(
 				parentNode.ancestors().slice(0, -1).map(function(ancestor) {
 					return groupLookup[ancestor.data.name];
@@ -339,6 +347,11 @@ loadData('japan').then(function(patients) {
 		});
 
 		data.baseNode = data.groups[data.groups.length - 1];
+	});
+
+	// Remove groups without nodes
+	groups = groups.filter(function(d) {
+		return d.nodes.length > 0;
 	});
 
 	var simulation = d3.forceSimulation(nodes)

@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "北九州市"
 	},
-	"date": "2020\/03\/28 18:00",
+	"date": "2020\/03\/30 18:00",
 	"children": [
 		{
 			"name": "fukuoka-3",
@@ -47,6 +47,20 @@
 			"discharged": null,
 			"sources": ["spain", "portugal"],
 			"date": "2020-03-28"
+		},
+		{
+			"name": "fukuoka-29",
+			"id": 4,
+			"pid": 29,
+			"jid": 1470,
+			"address": "福岡県北九州市小倉北区",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-30"
 		}
 	]
 }

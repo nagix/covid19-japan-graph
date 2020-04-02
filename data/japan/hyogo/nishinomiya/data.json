@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "西宮市"
 	},
-	"date": "2020\/03\/24 18:00",
+	"date": "2020\/03\/30 18:00",
 	"children": [
 		{
 			"name": "hyogo-1",
@@ -102,6 +102,20 @@
 			"age": "80s",
 			"sex": "male",
 			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-24"
+		},
+		{
+			"name": "hyogo-137",
+			"id": 9,
+			"pid": 137,
+			"jid": 1463,
+			"address": "兵庫県西宮市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "医師",
 			"remarks": null,
 			"supplement": null,
 			"discharged": null,

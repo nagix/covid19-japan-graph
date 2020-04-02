@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "東京"
 	},
-	"date": "2020\/03\/29 20:30",
+	"date": "2020\/03\/30 20:00",
 	"children": [
 		{
 			"name": "tokyo-1",
@@ -1952,7 +1952,7 @@
 			"attribute": null,
 			"remarks": "陽性確定",
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-23"
 		},
 		{
@@ -1965,7 +1965,7 @@
 			"attribute": "無職",
 			"remarks": "重症",
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "taito-hospital",
 			"date": "2020-03-23"
 		},
@@ -2162,7 +2162,7 @@
 			"attribute": "無職",
 			"remarks": null,
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "taito-hospital",
 			"date": "2020-03-24"
 		},
@@ -2390,9 +2390,9 @@
 			"age": "50s",
 			"sex": "male",
 			"attribute": "無職",
-			"remarks": null,
+			"remarks": "3/27死亡",
 			"supplement": "接触歴あり",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "taito-hospital",
 			"date": "2020-03-25"
 		},
@@ -2843,7 +2843,7 @@
 			"attribute": null,
 			"remarks": "陽性確定",
 			"supplement": "接触歴あり",
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "taito-hospital",
 			"date": "2020-03-26"
 		},
@@ -4010,7 +4010,7 @@
 			"attribute": null,
 			"remarks": "陽性確定",
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "taito-hospital",
 			"date": "2020-03-28"
 		},
@@ -4023,7 +4023,7 @@
 			"attribute": null,
 			"remarks": "陽性確定",
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "taito-hospital",
 			"date": "2020-03-28"
 		},
@@ -4036,7 +4036,7 @@
 			"attribute": null,
 			"remarks": "陽性確定",
 			"supplement": null,
-			"discharged": null,
+			"discharged": "〇",
 			"cluster": "taito-hospital",
 			"date": "2020-03-28"
 		},
@@ -5550,6 +5550,162 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-29"
+		},
+		{
+			"name": "tokyo-431",
+			"pid": 431,
+			"address": null,
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-30"
+		},
+		{
+			"name": "tokyo-432",
+			"pid": 432,
+			"address": "東京都",
+			"age": "80s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-30"
+		},
+		{
+			"name": "tokyo-433",
+			"pid": 433,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-30"
+		},
+		{
+			"name": "tokyo-434",
+			"pid": 434,
+			"address": "東京都",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-30"
+		},
+		{
+			"name": "tokyo-435",
+			"pid": 435,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-30"
+		},
+		{
+			"name": "tokyo-436",
+			"pid": 436,
+			"address": "東京都",
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-30"
+		},
+		{
+			"name": "tokyo-437",
+			"pid": 437,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-30"
+		},
+		{
+			"name": "tokyo-438",
+			"pid": 438,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-30"
+		},
+		{
+			"name": "tokyo-439",
+			"pid": 439,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-30"
+		},
+		{
+			"name": "tokyo-440",
+			"pid": 440,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-30"
+		},
+		{
+			"name": "tokyo-441",
+			"pid": 441,
+			"address": "東京都",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-30"
+		},
+		{
+			"name": "tokyo-442",
+			"pid": 442,
+			"address": "東京都",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-30"
+		},
+		{
+			"name": "tokyo-443",
+			"pid": 443,
+			"address": "東京都",
+			"age": "10s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-30"
 		}
 	]
 }

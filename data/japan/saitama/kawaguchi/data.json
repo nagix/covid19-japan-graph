@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "川口市"
 	},
-	"date": "2020\/03\/28 18:00",
+	"date": "2020\/03\/30 18:00",
 	"children": [
 		{
 			"name": "saitama-24",
@@ -225,6 +225,21 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-29"
+		},
+		{
+			"name": "saitama-88",
+			"id": 16,
+			"pid": 88,
+			"jid": 1446,
+			"address": "埼玉県川口市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "主婦",
+			"remarks": null,
+			"supplement": "埼玉県86例目の妻（同居家族）",
+			"discharged": null,
+			"sources": ["saitama-86"],
+			"date": "2020-03-30"
 		}
 	]
 }

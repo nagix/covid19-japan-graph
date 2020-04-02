@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "相模原市"
 	},
-	"date": "2020\/03\/28 13:00",
+	"date": "2020\/03\/30 12:00",
 	"children": [
 		{
 			"name": "kanagawa-5",
@@ -62,9 +62,9 @@
 			"age": "80s",
 			"sex": "male",
 			"attribute": null,
-			"remarks": null,
-			"supplement": "No.60、No.61と同フロア",
-			"discharged": null,
+			"remarks": "3/29死亡",
+			"supplement": "神奈川県7例目、8例目と同フロア",
+			"discharged": "〇",
 			"cluster": "sagamihara-hospital",
 			"sources": ["kanagawa-7", "kanagawa-8"],
 			"date": "2020-02-20"
@@ -439,6 +439,20 @@
 			"discharged": null,
 			"sources": ["uk"],
 			"date": "2020-03-28"
+		},
+		{
+			"name": "kanagawa-128",
+			"id": 30,
+			"pid": 128,
+			"jid": 1449,
+			"address": "神奈川県相模原市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-30"
 		}
 	]
 }

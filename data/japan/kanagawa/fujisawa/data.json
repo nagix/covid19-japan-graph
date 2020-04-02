@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "藤沢市"
 	},
-	"date": "2020\/03\/25 18:00",
+	"date": "2020\/03\/30 18:00",
 	"children": [
 		{
 			"name": "kanagawa-45",
@@ -90,6 +90,35 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-25"
+		},
+		{
+			"name": "kanagawa-129",
+			"id": 7,
+			"pid": 129,
+			"jid": 1439,
+			"address": "神奈川県藤沢市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "大学職員",
+			"remarks": null,
+			"supplement": "3/25イギリスから帰国",
+			"discharged": null,
+			"sources": ["uk"],
+			"date": "2020-03-30"
+		},
+		{
+			"name": "kanagawa-130",
+			"id": 8,
+			"pid": 130,
+			"jid": 1440,
+			"address": "神奈川県藤沢市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-30"
 		}
 	]
 }

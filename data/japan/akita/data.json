@@ -45,6 +45,7 @@
 			"remarks": null,
 			"supplement": null,
 			"discharged": null,
+			"cluster": "sendai-british-pub",
 			"date": "2020-03-27"
 		},
 		{
@@ -58,6 +59,7 @@
 			"remarks": null,
 			"supplement": "秋田県3例目と3/22まで仙台市に滞在",
 			"discharged": null,
+			"cluster": "sendai-british-pub",
 			"sources": ["akita-3"],
 			"date": "2020-03-27"
 		}

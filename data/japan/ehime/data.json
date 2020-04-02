@@ -59,6 +59,7 @@
 			"remarks": null,
 			"supplement": "石川県9例目、京都府41例目とともに3/13までイギリス、アイスランド、スイス、フランス、スペインに滞在",
 			"discharged": null,
+			"cluster": "kyoto-sangyo-univ",
 			"sources": ["uk", "iceland", "switzerland", "france", "spain", "ishikawa-9", "kyoto-41"],
 			"date": "2020-03-27"
 		}

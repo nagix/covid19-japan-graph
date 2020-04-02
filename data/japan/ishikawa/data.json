@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "石川"
 	},
-	"date": "2020\/03\/28 18:00",
+	"date": "2020\/03\/30 18:00",
 	"children": [
 		{
 			"name": "ishikawa-1",
@@ -128,8 +128,35 @@
 			"remarks": null,
 			"supplement": "愛媛県4例目、京都府41例目とともに3/13までイギリス、アイスランド、スイス、フランス、スペインに滞在",
 			"discharged": null,
+			"cluster": "kyoto-sangyo-univ",
 			"sources": ["uk", "iceland", "switzerland", "france", "spain", "ehime-4", "kyoto-41"],
 			"date": "2020-03-28"
+		},
+		{
+			"name": "ishikawa-10",
+			"pid": 10,
+			"jid": 1464,
+			"address": "石川県金沢市保健所管内",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-30"
+		},
+		{
+			"name": "ishikawa-11",
+			"pid": 11,
+			"jid": 1465,
+			"address": "石川県金沢市保健所管内",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-30"
 		}
 	]
 }

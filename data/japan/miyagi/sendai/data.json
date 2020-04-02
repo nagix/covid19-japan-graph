@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "仙台市"
 	},
-	"date": "2020\/02\/29 18:00",
+	"date": "2020\/03\/30 18:00",
 	"children": [
 		{
 			"name": "miyagi-1",
@@ -19,6 +19,54 @@
 			"discharged": "〇",
 			"sources": ["cruise-ship"],
 			"date": "2020-02-29"
+		},
+		{
+			"name": "miyagi-3",
+			"id": 2,
+			"pid": 3,
+			"jid": 1432,
+			"address": "宮城県仙台市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "秋田県3例目、4例目と􏱦􏱧飲食",
+			"discharged": null,
+			"cluster": "sendai-british-pub",
+			"sources": ["akita-3", "akita-4"],
+			"date": "2020-03-29"
+		},
+		{
+			"name": "miyagi-4",
+			"id": 3,
+			"pid": 4,
+			"jid": 1433,
+			"address": "宮城県仙台市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "宮城県3例目と􏱦􏱧飲食",
+			"discharged": null,
+			"cluster": "sendai-british-pub",
+			"sources": ["miyagi-3"],
+			"date": "2020-03-29"
+		},
+		{
+			"name": "miyagi-5",
+			"id": 4,
+			"pid": 5,
+			"jid": 1434,
+			"address": "宮城県仙台市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "秋田県3例目、4例目と􏱦􏱧飲食",
+			"discharged": null,
+			"cluster": "sendai-british-pub",
+			"sources": ["akita-3", "akita-4"],
+			"date": "2020-03-30"
 		}
 	]
 }

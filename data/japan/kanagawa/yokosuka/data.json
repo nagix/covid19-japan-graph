@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "横須賀市"
 	},
-	"date": "2020\/03\/28 18:00",
+	"date": "2020\/03\/30 18:00",
 	"children": [
 		{
 			"name": "kanagawa-56",
@@ -62,6 +62,35 @@
 			"supplement": "横須賀市立市民病院感染症病棟に勤務",
 			"discharged": null,
 			"date": "2020-03-28"
+		},
+		{
+			"name": "kanagawa-131",
+			"id": 5,
+			"pid": 131,
+			"jid": 1447,
+			"address": "神奈川県横須賀市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "理学療法士",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-30"
+		},
+		{
+			"name": "kanagawa-132",
+			"id": 5,
+			"pid": 132,
+			"jid": 1448,
+			"address": "神奈川県横須賀市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "神奈川県例目の同居家族",
+			"discharged": null,
+			"sources": ["kanagawa-131"],
+			"date": "2020-03-30"
 		}
 	]
 }

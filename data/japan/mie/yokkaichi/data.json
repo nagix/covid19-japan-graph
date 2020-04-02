@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "四日市市"
 	},
-	"date": "2020\/03\/19 18:00",
+	"date": "2020\/03\/18 18:00",
 	"children": [
 		{
 			"name": "mie-9",
@@ -17,7 +17,7 @@
 			"remarks": null,
 			"supplement": "東京都の患者との接触",
 			"discharged": null,
-			"date": "2020-03-19"
+			"date": "2020-03-18"
 		}
 	]
 }

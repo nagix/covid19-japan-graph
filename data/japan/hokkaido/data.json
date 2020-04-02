@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "北海道"
 	},
-	"date": "2020\/03\/26 17:10",
+	"date": "2020\/03\/30 17:00",
 	"children": [
 		{
 			"ref": "sapporo"
@@ -1086,6 +1086,20 @@
 			"discharged": null,
 			"sources": ["usa"],
 			"date": "2020-03-29"
+		},
+		{
+			"name": "hokkaido-177",
+			"pid": 177,
+			"jid": 1436,
+			"address": "北海道室蘭市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "医療機関職員",
+			"remarks": null,
+			"supplement": "3/18米国ハワイ州から帰国",
+			"discharged": null,
+			"sources": ["usa"],
+			"date": "2020-03-30"
 		}
 	]
 }

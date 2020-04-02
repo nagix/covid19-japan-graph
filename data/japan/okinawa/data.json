@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "沖縄"
 	},
-	"date": "2020\/02\/28 18:00",
+	"date": "2020\/03\/30 18:00",
 	"children": [
 		{
 			"name": "okinawa-1",
@@ -116,6 +116,19 @@
 			"discharged": null,
 			"sources": ["usa"],
 			"date": "2020-03-28"
+		},
+		{
+			"name": "okinawa-9",
+			"pid": 9,
+			"jid": 1477,
+			"address": "沖縄県那覇市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/27まで東京に滞在",
+			"discharged": null,
+			"date": "2020-03-30"
 		}
 	]
 }

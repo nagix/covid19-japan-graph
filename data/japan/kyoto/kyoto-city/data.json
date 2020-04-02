@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "京都市"
 	},
-	"date": "2020\/03\/29 18:00",
+	"date": "2020\/03\/30 18:00",
 	"children": [
 		{
 			"name": "kyoto-1",
@@ -478,6 +478,38 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-29"
+		},
+		{
+			"name": "kyoto-50",
+			"id": 33,
+			"pid": 50,
+			"jid": 1441,
+			"address": "京都府京都市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "大学生",
+			"remarks": null,
+			"supplement": "ゼミ卒業祝賀会で愛媛県4例目と接触",
+			"discharged": null,
+			"cluster": "kyoto-sangyo-univ",
+			"sources": ["ehime-4"],
+			"date": "2020-03-30"
+		},
+		{
+			"name": "kyoto-51",
+			"id": 34,
+			"pid": 51,
+			"jid": 1442,
+			"address": "京都府京都市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "大学生",
+			"remarks": null,
+			"supplement": "ゼミ卒業祝賀会で愛媛県4例目と接触",
+			"discharged": null,
+			"cluster": "kyoto-sangyo-univ",
+			"sources": ["ehime-4"],
+			"date": "2020-03-30"
 		}
 	]
 }

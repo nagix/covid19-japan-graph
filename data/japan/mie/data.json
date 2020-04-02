@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "三重"
 	},
-	"date": "2020\/03\/14 18:00",
+	"date": "2020\/03\/30 18:00",
 	"children": [
 		{
 			"ref": "yokkaichi"
@@ -121,6 +121,32 @@
 			"discharged": "〇",
 			"sources": ["cruise-ship"],
 			"date": "2020-03-14"
+		},
+		{
+			"name": "mie-10",
+			"pid": 10,
+			"jid": 1468,
+			"address": "埼玉県",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/27仕事のため埼玉県から来県",
+			"discharged": null,
+			"date": "2020-03-30"
+		},
+		{
+			"name": "mie-11",
+			"pid": 11,
+			"jid": 1469,
+			"address": "東京都",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/24仕事のため東京都から来県",
+			"discharged": null,
+			"date": "2020-03-30"
 		}
 	]
 }

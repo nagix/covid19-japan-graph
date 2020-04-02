@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "兵庫"
 	},
-	"date": "2020\/03\/28 18:00",
+	"date": "2020\/03\/30 18:00",
 	"children": [
 		{
 			"ref": "amagasaki"
@@ -919,6 +919,47 @@
 			"discharged": null,
 			"sources": ["netherlands"],
 			"date": "2020-03-28"
+		},
+		{
+			"name": "hyogo-134",
+			"pid": 134,
+			"jid": 1460,
+			"address": "兵庫県伊丹健康福祉事務所管内",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "兵庫県125例目の濃厚接触者",
+			"discharged": null,
+			"sources": ["hyogo-125"],
+			"date": "2020-03-30"
+		},
+		{
+			"name": "hyogo-135",
+			"pid": 135,
+			"jid": 1461,
+			"address": "兵庫県伊丹健康福祉事務所管内",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "兵庫県125例目の濃厚接触者",
+			"discharged": null,
+			"sources": ["hyogo-125"],
+			"date": "2020-03-30"
+		},
+		{
+			"name": "hyogo-136",
+			"pid": 136,
+			"jid": 1462,
+			"address": "兵庫県神戸市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "サッカー選手",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-30"
 		}
 	]
 }

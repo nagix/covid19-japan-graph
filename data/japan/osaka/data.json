@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "大阪"
 	},
-	"date": "2020\/03\/29 20:30",
+	"date": "2020\/03\/30 20:40",
 	"children": [
 		{
 			"name": "osaka-1",
@@ -2824,6 +2824,115 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-29"
+		},
+		{
+			"name": "osaka-209",
+			"pid": 209,
+			"jid": 1452,
+			"address": "大阪府大阪市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "大阪府177例目、210例目の濃厚接触者（同居家族）",
+			"discharged": null,
+			"sources": ["osaka-177", "osaka-210"],
+			"date": "2020-03-30"
+		},
+		{
+			"name": "osaka-210",
+			"pid": 210,
+			"jid": 1453,
+			"address": "大阪府大阪市",
+			"age": "10s",
+			"sex": "male",
+			"attribute": "小学生",
+			"remarks": null,
+			"supplement": "大阪府177例目、209例目の濃厚接触者（同居家族）",
+			"discharged": null,
+			"sources": ["osaka-177", "osaka-209"],
+			"date": "2020-03-30"
+		},
+		{
+			"name": "osaka-211",
+			"pid": 211,
+			"jid": 1454,
+			"address": "大阪府大阪市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "医療従事者",
+			"remarks": null,
+			"supplement": "大阪府138例目の濃厚接触者（受診した医療機関）",
+			"discharged": null,
+			"sources": ["osaka-138"],
+			"date": "2020-03-30"
+		},
+		{
+			"name": "osaka-212",
+			"pid": 212,
+			"jid": 1455,
+			"address": "大阪府大阪市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-30"
+		},
+		{
+			"name": "osaka-213",
+			"pid": 213,
+			"jid": 1456,
+			"address": "大阪府東大阪市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "●例目の濃厚接触者（同僚）",
+			"discharged": null,
+			"date": "2020-03-30"
+		},
+		{
+			"name": "osaka-214",
+			"pid": 214,
+			"jid": 1457,
+			"address": "大阪府箕面市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/20まで米国に滞在",
+			"discharged": null,
+			"sources": ["usa"],
+			"date": "2020-03-30"
+		},
+		{
+			"name": "osaka-215",
+			"pid": 215,
+			"jid": 1458,
+			"address": "大阪府門真市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "接客業",
+			"remarks": null,
+			"supplement": "大阪府203例目、204例目の濃厚接触者（同居家族）",
+			"discharged": null,
+			"sources": ["osaka-203", "osaka-204"],
+			"date": "2020-03-30"
+		},
+		{
+			"name": "osaka-216",
+			"pid": 216,
+			"address": "大阪府岸和田市",
+			"age": "10s",
+			"sex": "male",
+			"attribute": "高校生",
+			"remarks": "無症状",
+			"supplement": "大阪府191例目の濃厚接触者（同居家族）",
+			"discharged": null,
+			"sources": ["osaka-191"],
+			"date": "2020-03-30"
 		}
 	]
 }
