@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "名古屋市"
 	},
-	"date": "2020\/03\/29 18:00",
+	"date": "2020\/03\/31 18:00",
 	"children": [
 		{
 			"name": "aichi-3",
@@ -1799,6 +1799,73 @@
 			"supplement": "医療機関内で陽性患者と接触",
 			"discharged": null,
 			"date": "2020-03-29"
+		},
+		{
+			"name": "aichi-171",
+			"id": 118,
+			"pid": 171,
+			"address": "愛知県名古屋市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-31"
+		},
+		{
+			"name": "aichi-172",
+			"id": 119,
+			"pid": 172,
+			"address": "愛知県名古屋市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "愛知県171例目の濃厚接触者",
+			"discharged": null,
+			"sources": ["aichi-171"],
+			"date": "2020-03-31"
+		},
+		{
+			"name": "aichi-176",
+			"id": 120,
+			"pid": 176,
+			"address": "愛知県名古屋市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/20イギリスから帰国",
+			"discharged": null,
+			"sources": ["uk"],
+			"date": "2020-03-31"
+		},
+		{
+			"name": "aichi-177",
+			"id": 121,
+			"pid": 177,
+			"address": "愛知県名古屋市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-31"
+		},
+		{
+			"name": "aichi-178",
+			"id": 122,
+			"pid": 178,
+			"address": "愛知県名古屋市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-31"
 		}
 	]
 }

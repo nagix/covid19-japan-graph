@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "香川"
 	},
-	"date": "2020\/03\/17 18:00",
+	"date": "2020\/03\/30 18:00",
 	"children": [
 		{
 			"name": "kagawa-1",
@@ -20,6 +20,20 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-17"
+		},
+		{
+			"name": "kagawa-2",
+			"pid": 2,
+			"address": "大阪府大阪市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "大学生",
+			"remarks": "無症状",
+			"supplement": "ゼミ卒業祝賀会で愛媛県4例目と接触",
+			"discharged": null,
+			"cluster": "kyoto-sangyo-univ",
+			"sources": ["ehime-4"],
+			"date": "2020-03-30"
 		}
 	]
 }

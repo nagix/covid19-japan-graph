@@ -6,24 +6,13 @@
 	"prefix": {
 		"ja": "静岡"
 	},
-	"date": "2020\/03\/12 18:00",
+	"date": "2020\/03\/31 18:00",
 	"children": [
 		{
-			"ref": "hamamatsu"
+			"ref": "shizuoka-city"
 		},
 		{
-			"name": "shizuoka-1",
-			"pid": 1,
-			"jid": 194,
-			"address": "静岡県静岡市",
-			"age": "60s",
-			"sex": "male",
-			"attribute": null,
-			"remarks": null,
-			"supplement": "2/20ダイヤモンド・プリンセス号を下船",
-			"discharged": "〇",
-			"sources": ["cruise-ship"],
-			"date": "2020-02-28"
+			"ref": "hamamatsu"
 		},
 		{
 			"name": "shizuoka-2",
@@ -35,22 +24,34 @@
 			"attribute": null,
 			"remarks": null,
 			"supplement": "3/7こだま637号新横浜〜掛川間乗車",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-10"
 		},
 		{
-			"name": "shizuoka-3",
-			"pid": 3,
-			"jid": 602,
-			"address": "静岡県静岡市清水区",
-			"age": "60s",
-			"sex": "female",
+			"name": "shizuoka-9",
+			"pid": 9,
+			"address": "静岡県富士宮市",
+			"age": null,
+			"sex": null,
 			"attribute": null,
 			"remarks": null,
 			"supplement": "エジプトツアーに参加",
 			"discharged": null,
 			"sources": ["egypt"],
 			"date": "2020-03-12"
+		},
+		{
+			"name": "shizuoka-10",
+			"pid": 10,
+			"address": "静岡県菊川市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": "3/28アイルランドから帰国",
+			"discharged": null,
+			"sources": ["ireland"],
+			"date": "2020-03-31"
 		}
 	]
 }

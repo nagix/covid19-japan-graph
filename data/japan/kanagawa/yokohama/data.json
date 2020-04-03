@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "横浜市"
 	},
-	"date": "2020\/03\/29 18:00",
+	"date": "2020\/03\/31 18:00",
 	"children": [
 		{
 			"name": "kanagawa-6",
@@ -385,6 +385,33 @@
 			"discharged": null,
 			"sources": ["kanagawa-100"],
 			"date": "2020-03-29"
+		},
+		{
+			"name": "kanagawa-143",
+			"id": 28,
+			"pid": 143,
+			"address": "神奈川県横浜市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3月中旬ヨーロッパから帰国",
+			"discharged": null,
+			"sources": ["europe"],
+			"date": "2020-03-31"
+		},
+		{
+			"name": "kanagawa-144",
+			"id": 29,
+			"pid": 144,
+			"address": "神奈川県横浜市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-31"
 		}
 	]
 }

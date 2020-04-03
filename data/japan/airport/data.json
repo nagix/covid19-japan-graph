@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "空港"
 	},
-	"date": "2020\/03\/30 18:00",
+	"date": "2020\/03\/31 18:00",
 	"children": [
 		{
 			"name": "airport-1",
@@ -670,6 +670,71 @@
 			"discharged": null,
 			"sources": ["france"],
 			"date": "2020-03-30"
+		},
+		{
+			"name": "airport-52",
+			"pid": 52,
+			"address": null,
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "3/29ドイツから帰国",
+			"discharged": null,
+			"sources": ["germany"],
+			"date": "2020-03-31"
+		},
+		{
+			"name": "airport-53",
+			"pid": 52,
+			"address": null,
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "3/29オランダから帰国",
+			"discharged": null,
+			"sources": ["netherlands"],
+			"date": "2020-03-31"
+		},
+		{
+			"name": "airport-54",
+			"pid": 54,
+			"address": null,
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "3/29フランスから帰国",
+			"discharged": null,
+			"sources": ["france"],
+			"date": "2020-03-31"
+		},
+		{
+			"name": "airport-55",
+			"pid": 55,
+			"address": null,
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/29フランスから帰国",
+			"discharged": null,
+			"sources": ["france"],
+			"date": "2020-03-31"
+		},
+		{
+			"name": "airport-56",
+			"pid": 56,
+			"address": null,
+			"age": "50s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "3/29フランスから帰国",
+			"discharged": null,
+			"sources": ["france"],
+			"date": "2020-03-31"
 		}
 	]
 }

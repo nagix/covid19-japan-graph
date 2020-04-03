@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "岐阜"
 	},
-	"date": "2020\/03\/29 18:00",
+	"date": "2020\/03\/30 18:00",
 	"children": [
 		{
 			"ref": "gifu-city"
@@ -88,7 +88,7 @@
 			"age": "70s",
 			"sex": "female",
 			"attribute": null,
-			"remarks": null,
+			"remarks": "重症",
 			"supplement": "岐阜県5例目の濃厚接触者",
 			"discharged": null,
 			"cluster": "gifu-chorus",
@@ -136,6 +136,7 @@
 			"remarks": null,
 			"supplement": "岐阜県5例目、7例目と同じスポーツジム",
 			"discharged": null,
+			"cluster": "kani-gym",
 			"sources": ["gifu-5", "gifu-7"],
 			"date": "2020-03-24"
 		},
@@ -192,6 +193,7 @@
 			"remarks": "無症状",
 			"supplement": "岐阜県5例目、7例目、12例目、13例目と同じスポーツジム",
 			"discharged": null,
+			"cluster": "kani-gym",
 			"sources": ["gifu-5", "gifu-7", "gifu-12", "gifu-13"],
 			"date": "2020-03-27"
 		},
@@ -206,6 +208,7 @@
 			"remarks": null,
 			"supplement": "岐阜県5例目、7例目、12例目、13例目、16例目と同じスポーツジム",
 			"discharged": null,
+			"cluster": "kani-gym",
 			"sources": ["gifu-5", "gifu-7", "gifu-12", "gifu-13", "gifu-16"],
 			"date": "2020-03-27"
 		},
@@ -248,6 +251,32 @@
 			"supplement": "3/26まで沖縄に滞在",
 			"discharged": null,
 			"date": "2020-03-29"
+		},
+		{
+			"name": "gifu-21",
+			"pid": 21,
+			"address": "岐阜県可児市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "スポーツジムの利用者",
+			"discharged": null,
+			"cluster": "kani-gym",
+			"date": "2020-03-30"
+		},
+		{
+			"name": "gifu-22",
+			"pid": 22,
+			"address": "岐阜県可児市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "スポーツジムの利用者",
+			"discharged": null,
+			"cluster": "kani-gym",
+			"date": "2020-03-30"
 		}
 	]
 }

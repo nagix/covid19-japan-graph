@@ -68,6 +68,7 @@ var sourceMaster = {
 	'czech': { label: { 'ja': 'チェコ' } },
 	'iceland': { label: { 'ja': 'アイスランド' } },
 	'south-america': { label: { 'ja': '南米' } },
+	'sweden': { label: { 'ja': 'スウェーデン' } },
 	'oversea': { label: { 'ja': '海外' } }
 };
 
@@ -103,7 +104,11 @@ var clusterMaster = {
 	'kyoto-sangyo-univ': { label: { 'ja': '京都産業大学クラスター' }, parentName: 'kyoto-city' },
 	'sendai-british-pub': { label: { 'ja': '仙台英国風パブクラスター' }, parentName: 'sendai' },
 	'ide-networking-event': { label: { 'ja': '井手町交流会クラスター' }, parentName: 'kyoto' },
-	'toride-hospital': { label: { 'ja': 'JAとりで総合医療センタークラスター' }, parentName: 'ibaraki' }
+	'toride-hospital': { label: { 'ja': 'JAとりで総合医療センタークラスター' }, parentName: 'ibaraki' },
+	'tsukuba-longterm-care': { label: { 'ja': 'つくば介護老人保健施設クラスター' }, parentName: 'ibaraki' },
+	'matsuyama-funeral': { label: { 'ja': '松山葬儀クラスター' }, parentName: 'ehime' },
+	'kani-gym': { label: { 'ja': '可児スポーツジムクラスター' }, parentName: 'gifu' },
+	'fukui-lounge': { label: { 'ja': '福井ラウンジクラスター' }, parentName: 'fukui' }
 };
 
 var dict = {
@@ -173,7 +178,7 @@ svg.call(zoom);
 
 var drag = function(simulation) {
 	function dragstarted(d) {
-	if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+	if (!d3.event.active) simulation.alphaTarget(0.01).restart();
 		d.fx = d.x;
 		d.fy = d.y;
 	}

@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "豊田市"
 	},
-	"date": "2020\/03\/12 18:00",
+	"date": "2020\/03\/31 18:00",
 	"children": [
 		{
 			"name": "aichi-105",
@@ -19,6 +19,33 @@
 			"discharged": null,
 			"sources": ["aichi-42"],
 			"date": "2020-03-12"
+		},
+		{
+			"name": "aichi-173",
+			"id": 2,
+			"pid": 173,
+			"address": "愛知県豊田市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/18米国ニュージャージー州より帰国",
+			"discharged": null,
+			"sources": ["usa"],
+			"date": "2020-03-31"
+		},
+		{
+			"name": "aichi-174",
+			"id": 3,
+			"pid": 174,
+			"address": "愛知県豊田市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-31"
 		}
 	]
 }

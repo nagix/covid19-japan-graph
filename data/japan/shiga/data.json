@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "滋賀"
 	},
-	"date": "2020\/03\/26 18:00",
+	"date": "2020\/03\/31 18:00",
 	"children": [
 		{
 			"name": "shiga-1",
@@ -89,6 +89,20 @@
 			"discharged": null,
 			"sources": ["portugal", "spain"],
 			"date": "2020-03-26"
+		},
+		{
+			"name": "shiga-7",
+			"pid": 7,
+			"address": "滋賀県大津市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "大学生",
+			"remarks": null,
+			"supplement": "ゼミ卒業祝賀会で愛媛県4例目と接触",
+			"discharged": null,
+			"cluster": "kyoto-sangyo-univ",
+			"sources": ["ehime-4"],
+			"date": "2020-03-31"
 		}
 	]
 }

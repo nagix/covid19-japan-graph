@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "茨城"
 	},
-	"date": "2020\/03\/30 18:00",
+	"date": "2020\/03\/31 19:00",
 	"children": [
 		{
 			"name": "ibaraki-1",
@@ -227,6 +227,7 @@
 			"remarks": "陽性確定",
 			"supplement": "施設職員",
 			"discharged": null,
+			"cluster": "tsukuba-longterm-care",
 			"date": "2020-03-28"
 		},
 		{
@@ -240,6 +241,7 @@
 			"remarks": null,
 			"supplement": "茨城県16例目の濃厚接触者（同じ施設入居）",
 			"discharged": null,
+			"cluster": "tsukuba-longterm-care",
 			"sources": ["ibaraki-16"],
 			"date": "2020-03-30"
 		},
@@ -285,6 +287,62 @@
 			"cluster": "toride-hospital",
 			"sources": ["ibaraki-12", "ibaraki-13", "ibaraki-15"],
 			"date": "2020-03-30"
+		},
+		{
+			"name": "ibaraki-21",
+			"pid": 21,
+			"address": "東京都",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/25東京都から帰省",
+			"discharged": null,
+			"cluster": "toride-hospital",
+			"sources": ["ibaraki-12", "ibaraki-13", "ibaraki-15"],
+			"date": "2020-03-31"
+		},
+		{
+			"name": "ibaraki-22",
+			"pid": 22,
+			"address": "茨城県つくば市",
+			"age": "80s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "茨城県16例目の濃厚接触者（施設入居）",
+			"discharged": null,
+			"cluster": "tsukuba-longterm-care",
+			"sources": ["ibaraki-16"],
+			"date": "2020-03-31"
+		},
+		{
+			"name": "ibaraki-23",
+			"pid": 23,
+			"address": "茨城県桜川市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "茨城県16例目の濃厚接触者（施設入居）",
+			"discharged": null,
+			"cluster": "tsukuba-longterm-care",
+			"sources": ["ibaraki-16"],
+			"date": "2020-03-31"
+		},
+		{
+			"name": "ibaraki-24",
+			"pid": 24,
+			"address": "茨城県つくば市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "施設職員",
+			"remarks": null,
+			"supplement": "茨城県16例目の濃厚接触者（施設職員）",
+			"discharged": null,
+			"cluster": "tsukuba-longterm-care",
+			"sources": ["ibaraki-16"],
+			"date": "2020-03-31"
 		}
 	]
 }

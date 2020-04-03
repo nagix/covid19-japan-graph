@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "愛知"
 	},
-	"date": "2020\/03\/30 18:00",
+	"date": "2020\/03\/31 18:00",
 	"children": [
 		{
 			"ref": "nagoya"
@@ -574,6 +574,7 @@
 			"remarks": null,
 			"supplement": "岐阜県5例目、7例目、12例目、13 例目、16例目と同じスポーツジム",
 			"discharged": null,
+			"cluster": "kani-gym",
 			"sources": ["gifu-5", "gifu-7", "gifu-12", "gifu-13", "gifu-16"],
 			"date": "2020-03-27"
 		},
@@ -670,6 +671,19 @@
 			"discharged": null,
 			"sources": ["aichi-169"],
 			"date": "2020-03-30"
+		},
+		{
+			"name": "aichi-175",
+			"pid": 175,
+			"address": "愛知県北名古屋市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "愛知県169例目、170例目の家族（濃厚接触者）",
+			"discharged": null,
+			"sources": ["aichi-169", "aichi-170"],
+			"date": "2020-03-31"
 		}
 	]
 }

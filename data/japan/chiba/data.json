@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "千葉"
 	},
-	"date": "2020\/03\/29 18:00",
+	"date": "2020\/03\/31 18:00",
 	"children": [
 		{
 			"ref": "chiba-city"
@@ -1358,6 +1358,94 @@
 			"discharged": null,
 			"sources": ["chiba-67"],
 			"date": "2020-03-29"
+		},
+		{
+			"name": "chiba-107",
+			"pid": 107,
+			"address": null,
+			"age": null,
+			"sex": null,
+			"attribute": null,
+			"remarks": null,
+			"supplement": "北総育成園の利用者",
+			"discharged": null,
+			"cluster": "tonosho-disabled",
+			"date": "2020-03-31"
+		},
+		{
+			"name": "chiba-108",
+			"pid": 108,
+			"address": null,
+			"age": null,
+			"sex": null,
+			"attribute": null,
+			"remarks": null,
+			"supplement": "北総育成園の職員",
+			"discharged": null,
+			"cluster": "tonosho-disabled",
+			"date": "2020-03-31"
+		},
+		{
+			"name": "chiba-109",
+			"pid": 109,
+			"address": null,
+			"age": null,
+			"sex": null,
+			"attribute": null,
+			"remarks": null,
+			"supplement": "北総育成園の職員等家族",
+			"discharged": null,
+			"cluster": "tonosho-disabled",
+			"date": "2020-03-31"
+		},
+		{
+			"name": "chiba-110",
+			"pid": 110,
+			"address": "千葉県流山市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-31"
+		},
+		{
+			"name": "chiba-111",
+			"pid": 111,
+			"address": "千葉県松戸市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-31"
+		},
+		{
+			"name": "chiba-112",
+			"pid": 112,
+			"address": "千葉県松戸市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": "3/16までドイツ、チェコ、スイス、フランスに渡航",
+			"discharged": null,
+			"sources": ["germany", "czech", "switzerland", "france"],
+			"date": "2020-03-31"
+		},
+		{
+			"name": "chiba-113",
+			"pid": 113,
+			"address": "千葉県茂原市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-31"
 		}
 	]
 }

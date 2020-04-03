@@ -1,9 +1,9 @@
 {
 	"name": "chigasaki",
 	"label": {
-		"ja": "茅ヶ崎市"
+		"ja": "茅ヶ崎市・寒川町"
 	},
-	"date": "2020\/03\/29 18:00",
+	"date": "2020\/03\/31 18:00",
 	"children": [
 		{
 			"name": "kanagawa-57",
@@ -23,7 +23,8 @@
 		{
 			"name": "kanagawa-119",
 			"id": 2,
-			"pid": 1374,
+			"pid": 119,
+			"jid": 1374,
 			"address": "神奈川県茅ヶ崎市保健所管内",
 			"age": "30s",
 			"sex": "male",
@@ -32,6 +33,19 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-29"
+		},
+		{
+			"name": "kanagawa-140",
+			"id": 3,
+			"pid": 140,
+			"address": "神奈川県茅ヶ崎市保健所管内",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-31"
 		}
 	]
 }

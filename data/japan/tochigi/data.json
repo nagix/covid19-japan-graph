@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "栃木"
 	},
-	"date": "2020\/03\/29 21:00",
+	"date": "2020\/03\/31 18:00",
 	"children": [
 		{
 			"ref": "utsunomiya"
@@ -158,9 +158,34 @@
 			"sex": "male",
 			"attribute": null,
 			"remarks": null,
+			"supplement": "3/23松山市で葬儀に参加",
+			"discharged": null,
+			"cluster": "matsuyama-funeral",
+			"date": "2020-03-29"
+		},
+		{
+			"name": "tochigi-13",
+			"pid": 13,
+			"address": "栃木県（宇都宮市保健所管内）",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
 			"supplement": null,
 			"discharged": null,
-			"date": "2020-03-29"
+			"date": "2020-03-31"
+		},
+		{
+			"name": "tochigi-14",
+			"pid": 14,
+			"address": "栃木県（県南健康福祉センター管内）",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-31"
 		}
 	]
 }

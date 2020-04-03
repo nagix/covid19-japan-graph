@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "福岡市"
 	},
-	"date": "2020\/03\/28 18:00",
+	"date": "2020\/03\/31 18:00",
 	"children": [
 		{
 			"name": "fukuoka-7",
@@ -111,9 +111,9 @@
 			"address": "福岡県福岡市中央区",
 			"age": "30s",
 			"sex": "male",
-			"attribute": null,
+			"attribute": "医師",
 			"remarks": null,
-			"supplement": null,
+			"supplement": "大分赤十字病院の元所属医師",
 			"discharged": null,
 			"date": "2020-03-28"
 		},
@@ -184,6 +184,97 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-29"
+		},
+		{
+			"name": "fukuoka-27",
+			"id": 17,
+			"pid": 27,
+			"address": "福岡県福岡市南区",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": "無症状",
+			"supplement": "陽性者の濃厚接触者",
+			"discharged": null,
+			"date": "2020-03-30"
+		},
+		{
+			"name": "fukuoka-28",
+			"id": 18,
+			"pid": 28,
+			"address": "福岡県福岡市南区",
+			"age": "u10",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": "無症状",
+			"supplement": "福岡県27例目の子",
+			"discharged": null,
+			"date": "2020-03-30"
+		},
+		{
+			"name": "fukuoka-30",
+			"id": 19,
+			"pid": 30,
+			"address": "福岡県福岡市早良区",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "団体職員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-31"
+		},
+		{
+			"name": "fukuoka-31",
+			"id": 20,
+			"pid": 31,
+			"address": "福岡県福岡市東区",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-31"
+		},
+		{
+			"name": "fukuoka-32",
+			"id": 21,
+			"pid": 32,
+			"address": "福岡県福岡市博多区",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-31"
+		},
+		{
+			"name": "fukuoka-33",
+			"id": 22,
+			"pid": 33,
+			"address": "福岡県福岡市南区",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-31"
+		},
+		{
+			"name": "fukuoka-34",
+			"id": 23,
+			"pid": 34,
+			"address": "福岡県福岡市早良区",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "陽性者と接触あり",
+			"discharged": null,
+			"date": "2020-03-31"
 		}
 	]
 }

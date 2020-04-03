@@ -1,0 +1,25 @@
+{
+	"name": "yamagata",
+	"label": {
+		"ja": "山形県"
+	},
+	"prefix": {
+		"ja": "山形"
+	},
+	"date": "2020\/03\/31 18:00",
+	"children": [
+		{
+			"name": "yamagata-1",
+			"pid": 1,
+			"jid": 1482,
+			"address": "神奈川県",
+			"age": "20s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/24神奈川県から来県",
+			"discharged": null,
+			"date": "2020-03-31"
+		}
+	]
+}

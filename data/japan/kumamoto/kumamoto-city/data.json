@@ -164,6 +164,20 @@
 			"discharged": null,
 			"sources": ["kumamoto-12"],
 			"date": "2020-03-30"
+		},
+		{
+			"name": "kumamoto-14",
+			"id": 12,
+			"pid": 14,
+			"address": "熊本県熊本市西区",
+			"age": "70s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "熊本県12例目の親族",
+			"discharged": null,
+			"sources": ["kumamoto-12"],
+			"date": "2020-03-30"
 		}
 	]
 }

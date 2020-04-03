@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "群馬"
 	},
-	"date": "2020\/03\/28 18:00",
+	"date": "2020\/03\/31 18:00",
 	"children": [
 		{
 			"ref": "takasaki"
@@ -33,7 +33,7 @@
 			"sex": "female",
 			"attribute": "パート従業員",
 			"remarks": null,
-			"supplement": "No.391の濃厚接触者（同居家族・母）",
+			"supplement": "群馬県1例目の濃厚接触者（同居家族・母）",
 			"discharged": null,
 			"sources": ["gunma-1"],
 			"date": "2020-03-12"
@@ -61,7 +61,7 @@
 			"sex": "male",
 			"attribute": "医師",
 			"remarks": null,
-			"supplement": "No.623の濃厚接触者",
+			"supplement": "群馬県3例目の濃厚接触者",
 			"discharged": null,
 			"cluster": "oizumi-clinic",
 			"sources": ["gunma-3"],
@@ -76,7 +76,7 @@
 			"sex": "female",
 			"attribute": "無職",
 			"remarks": null,
-			"supplement": "No.659の妻",
+			"supplement": "群馬県4例目の妻",
 			"discharged": null,
 			"sources": ["gunma-4"],
 			"date": "2020-03-14"
@@ -90,7 +90,7 @@
 			"sex": "female",
 			"attribute": "事務職員",
 			"remarks": null,
-			"supplement": "No.623、No.659の濃厚接触者",
+			"supplement": "群馬県3例目、4例目の濃厚接触者",
 			"discharged": null,
 			"cluster": "oizumi-clinic",
 			"sources": ["gunma-3", "gunma-4"],
@@ -105,7 +105,7 @@
 			"sex": "male",
 			"attribute": "無職",
 			"remarks": null,
-			"supplement": "No.391の父、No.622の夫（同居家族）",
+			"supplement": "群馬県1例目の父、群馬県2例目の夫（同居家族）",
 			"discharged": null,
 			"sources": ["gunma-1", "gunma-2"],
 			"date": "2020-03-17"
@@ -119,7 +119,7 @@
 			"sex": "male",
 			"attribute": "運転手",
 			"remarks": null,
-			"supplement": "No.623、No.659の濃厚接触者",
+			"supplement": "群馬県3例目、4例目の濃厚接触者",
 			"discharged": null,
 			"cluster": "oizumi-clinic",
 			"sources": ["gunma-3", "gunma-4"],
@@ -134,7 +134,7 @@
 			"sex": "female",
 			"attribute": "事務職員",
 			"remarks": null,
-			"supplement": "No.623、No.659、No.723の濃厚接触者",
+			"supplement": "群馬県3例目、4例目、6例目の濃厚接触者",
 			"discharged": null,
 			"cluster": "oizumi-clinic",
 			"sources": ["gunma-3", "gunma-4", "gunma-6"],
@@ -149,7 +149,7 @@
 			"sex": "female",
 			"attribute": null,
 			"remarks": null,
-			"supplement": "No.623、No.659、No.723の濃厚接触者",
+			"supplement": "群馬県3例目、4例目、6例目の濃厚接触者",
 			"discharged": null,
 			"cluster": "oizumi-clinic",
 			"sources": ["gunma-3", "gunma-4", "gunma-6"],
@@ -164,7 +164,7 @@
 			"sex": "male",
 			"attribute": "会社員",
 			"remarks": null,
-			"supplement": "No.623の夫（濃厚接触者）",
+			"supplement": "群馬県3例目の夫（濃厚接触者）",
 			"discharged": null,
 			"sources": ["gunma-3"],
 			"date": "2020-03-20"
@@ -247,6 +247,18 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-28"
+		},
+		{
+			"name": "gunma-19",
+			"pid": 19,
+			"address": "群馬県甘楽郡甘楽町",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "群馬県17例目の濃厚接触者（同僚）",
+			"discharged": null,
+			"date": "2020-03-31"
 		}
 	]
 }

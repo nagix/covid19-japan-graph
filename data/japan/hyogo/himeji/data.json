@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "姫路市"
 	},
-	"date": "2020\/03\/29 18:00",
+	"date": "2020\/03\/31 18:00",
 	"children": [
 		{
 			"name": "hyogo-5",
@@ -296,6 +296,34 @@
 			"discharged": null,
 			"sources": null,
 			"date": "2020-03-29"
+		},
+		{
+			"name": "hyogo-138",
+			"id": 20,
+			"pid": 138,
+			"address": "兵庫県姫路市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "飲食業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"sources": null,
+			"date": "2020-03-31"
+		},
+		{
+			"name": "hyogo-139",
+			"id": 21,
+			"pid": 139,
+			"address": "兵庫県姫路市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"sources": null,
+			"date": "2020-03-31"
 		}
 	]
 }

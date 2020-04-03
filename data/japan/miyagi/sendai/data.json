@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "仙台市"
 	},
-	"date": "2020\/03\/30 18:00",
+	"date": "2020\/03\/31 18:00",
 	"children": [
 		{
 			"name": "miyagi-1",
@@ -67,6 +67,19 @@
 			"cluster": "sendai-british-pub",
 			"sources": ["akita-3", "akita-4"],
 			"date": "2020-03-30"
+		},
+		{
+			"name": "miyagi-7",
+			"id": 5,
+			"pid": 7,
+			"address": "宮城県仙台市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/25まで札幌市に滞在",
+			"discharged": null,
+			"date": "2020-03-31"
 		}
 	]
 }

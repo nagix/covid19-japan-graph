@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "富山"
 	},
-	"date": "2020\/03\/30 18:00",
+	"date": "2020\/03\/31 18:00",
 	"children": [
 		{
 			"name": "toyama-1",
@@ -22,6 +22,19 @@
 			"cluster": "kyoto-sangyo-univ",
 			"sources": ["ehime-4"],
 			"date": "2020-03-30"
+		},
+		{
+			"name": "toyama-2",
+			"pid": 2,
+			"address": "富山県砺波厚生センター管内",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "看護師",
+			"remarks": null,
+			"supplement": "富山県1例目と飲食",
+			"discharged": null,
+			"sources": ["toyama-1"],
+			"date": "2020-03-31"
 		}
 	]
 }

@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "北九州市"
 	},
-	"date": "2020\/03\/30 18:00",
+	"date": "2020\/03\/31 18:00",
 	"children": [
 		{
 			"name": "fukuoka-3",
@@ -61,6 +61,140 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-30"
+		},
+		{
+			"name": "fukuoka-37",
+			"id": 5,
+			"pid": 37,
+			"address": "福岡県北九州市戸畑区",
+			"age": "20s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "渡航歴あり",
+			"discharged": null,
+			"sources": ["oversea"],
+			"date": "2020-03-31"
+		},
+		{
+			"name": "fukuoka-38",
+			"id": 6,
+			"pid": 38,
+			"address": "福岡県北九州市八幡西区",
+			"age": "90s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-31"
+		},
+		{
+			"name": "fukuoka-39",
+			"id": 7,
+			"pid": 39,
+			"address": "福岡県北九州市小倉南区",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-31"
+		},
+		{
+			"name": "fukuoka-40",
+			"id": 8,
+			"pid": 40,
+			"address": "福岡県北九州市小倉南区",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "小倉南区役所の委託業者社員",
+			"remarks": null,
+			"supplement": "福岡県6例目の濃厚接触者",
+			"discharged": null,
+			"sources": ["fukuoka-6"],
+			"date": "2020-03-31"
+		},
+		{
+			"name": "fukuoka-41",
+			"id": 9,
+			"pid": 41,
+			"address": "福岡県北九州市八幡西区",
+			"age": "10s",
+			"sex": "male",
+			"attribute": "小倉南区役所の委託業者社員",
+			"remarks": null,
+			"supplement": "福岡県6例目の濃厚接触者",
+			"discharged": null,
+			"sources": ["fukuoka-6"],
+			"date": "2020-03-31"
+		},
+		{
+			"name": "fukuoka-42",
+			"id": 10,
+			"pid": 42,
+			"address": "福岡県北九州市若松区",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-31"
+		},
+		{
+			"name": "fukuoka-43",
+			"id": 11,
+			"pid": 43,
+			"address": "福岡県北九州市小倉南区",
+			"age": "90s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-31"
+		},
+		{
+			"name": "fukuoka-44",
+			"id": 12,
+			"pid": 44,
+			"address": "福岡県北九州市門司区",
+			"age": "80s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-31"
+		},
+		{
+			"name": "fukuoka-45",
+			"id": 13,
+			"pid": 45,
+			"address": "福岡県北九州市小倉南区",
+			"age": "50s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-31"
+		},
+		{
+			"name": "fukuoka-46",
+			"id": 14,
+			"pid": 46,
+			"address": "福岡県北九州市小倉北区",
+			"age": "20s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "渡航歴あり",
+			"discharged": null,
+			"sources": ["oversea"],
+			"date": "2020-03-31"
 		}
 	]
 }

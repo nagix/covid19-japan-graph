@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "京都"
 	},
-	"date": "2020\/03\/30 18:00",
+	"date": "2020\/03\/31 18:00",
 	"children": [
 		{
 			"ref": "kyoto-city"
@@ -288,6 +288,104 @@
 			"cluster": "ide-networking-event",
 			"sources": ["kyoto-45"],
 			"date": "2020-03-30"
+		},
+		{
+			"name": "kyoto-59",
+			"pid": 59,
+			"address": "京都府南丹保健所管内",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "大学生",
+			"remarks": "陽性確定",
+			"supplement": "ゼミ卒業祝賀会で京都府41例目と接触",
+			"discharged": null,
+			"cluster": "kyoto-sangyo-univ",
+			"sources": ["kyoto-41"],
+			"date": "2020-03-31"
+		},
+		{
+			"name": "kyoto-60",
+			"pid": 60,
+			"address": "京都府山城北保健所管内",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "大学生",
+			"remarks": "陽性確定",
+			"supplement": "ゼミ卒業祝賀会で京都府41例目と接触",
+			"discharged": null,
+			"cluster": "kyoto-sangyo-univ",
+			"sources": ["kyoto-41"],
+			"date": "2020-03-31"
+		},
+		{
+			"name": "kyoto-61",
+			"pid": 61,
+			"address": "京都府山城北保健所管内",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": "交流会で京都府45例目と接触",
+			"discharged": null,
+			"cluster": "ide-networking-event",
+			"sources": ["kyoto-45"],
+			"date": "2020-03-31"
+		},
+		{
+			"name": "kyoto-62",
+			"pid": 62,
+			"address": "京都府山城北保健所管内",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": "交流会で京都府45例目と接触",
+			"discharged": null,
+			"cluster": "ide-networking-event",
+			"sources": ["kyoto-45"],
+			"date": "2020-03-31"
+		},
+		{
+			"name": "kyoto-63",
+			"pid": 63,
+			"address": "京都府山城北保健所管内",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": "交流会で京都府45例目と接触",
+			"discharged": null,
+			"cluster": "ide-networking-event",
+			"sources": ["kyoto-45"],
+			"date": "2020-03-31"
+		},
+		{
+			"name": "kyoto-64",
+			"pid": 64,
+			"address": "京都府山城北保健所管内",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": "交流会で京都府45例目と接触",
+			"discharged": null,
+			"cluster": "ide-networking-event",
+			"sources": ["kyoto-45"],
+			"date": "2020-03-31"
+		},
+		{
+			"name": "kyoto-65",
+			"pid": 65,
+			"address": "京都府山城北保健所管内",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": "交流会で京都府45例目と接触",
+			"discharged": null,
+			"cluster": "ide-networking-event",
+			"sources": ["kyoto-45"],
+			"date": "2020-03-31"
 		}
 	]
 }

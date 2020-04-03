@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "京都市"
 	},
-	"date": "2020\/03\/30 18:00",
+	"date": "2020\/03\/31 18:00",
 	"children": [
 		{
 			"name": "kyoto-1",
@@ -510,6 +510,114 @@
 			"cluster": "kyoto-sangyo-univ",
 			"sources": ["ehime-4"],
 			"date": "2020-03-30"
+		},
+		{
+			"name": "kyoto-55",
+			"id": 35,
+			"pid": 55,
+			"address": "京都府京都市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "沖縄県の陽性患者と濃厚接触",
+			"discharged": null,
+			"date": "2020-03-30"
+		},
+		{
+			"name": "kyoto-56",
+			"id": 36,
+			"pid": 56,
+			"address": "京都府京都市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "会社経営",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-30"
+		},
+		{
+			"name": "kyoto-57",
+			"id": 37,
+			"pid": 57,
+			"address": "京都府京都市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "大学生",
+			"remarks": null,
+			"supplement": "ゼミ卒業祝賀会で京都府41例目と接触",
+			"discharged": null,
+			"cluster": "kyoto-sangyo-univ",
+			"sources": ["kyoto-41"],
+			"date": "2020-03-31"
+		},
+		{
+			"name": "kyoto-58",
+			"id": 38,
+			"pid": 58,
+			"address": "京都府京都市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "大学生",
+			"remarks": null,
+			"supplement": "京都府44例目の濃厚接触者",
+			"discharged": null,
+			"sources": ["kyoto-44"],
+			"date": "2020-03-31"
+		},
+		{
+			"name": "kyoto-66",
+			"id": 39,
+			"pid": 66,
+			"address": "京都府京都市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-31"
+		},
+		{
+			"name": "kyoto-67",
+			"id": 40,
+			"pid": 67,
+			"address": "京都府京都市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-31"
+		},
+		{
+			"name": "kyoto-68",
+			"id": 41,
+			"pid": 68,
+			"address": "京都府京都市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "京都府55例目の妻（濃厚接触者）",
+			"discharged": null,
+			"sources": ["kyoto-55"],
+			"date": "2020-03-31"
+		},
+		{
+			"name": "kyoto-69",
+			"id": 42,
+			"pid": 69,
+			"address": "京都府京都市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-31"
 		}
 	]
 }

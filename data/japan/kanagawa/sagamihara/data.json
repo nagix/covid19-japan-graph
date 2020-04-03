@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "相模原市"
 	},
-	"date": "2020\/03\/30 12:00",
+	"date": "2020\/03\/31 18:00",
 	"children": [
 		{
 			"name": "kanagawa-5",
@@ -453,6 +453,19 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-30"
+		},
+		{
+			"name": "kanagawa-142",
+			"id": 31,
+			"pid": 142,
+			"address": "神奈川県相模原市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-31"
 		}
 	]
 }

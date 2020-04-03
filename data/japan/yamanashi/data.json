@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "山梨"
 	},
-	"date": "2020\/03\/30 18:00",
+	"date": "2020\/03\/31 18:00",
 	"children": [
 		{
 			"name": "yamanashi-1",
@@ -74,6 +74,18 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-30"
+		},
+		{
+			"name": "yamanashi-6",
+			"pid": 6,
+			"address": "山梨県",
+			"age": "20s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-31"
 		}
 	]
 }

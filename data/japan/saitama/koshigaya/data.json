@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "越谷市"
 	},
-	"date": "2020\/03\/20 18:00",
+	"date": "2020\/03\/31 18:00",
 	"children": [
 		{
 			"name": "saitama-21",
@@ -106,6 +106,20 @@
 			"discharged": null,
 			"sources": ["spain", "france"],
 			"date": "2020-03-20"
+		},
+		{
+			"name": "saitama-90",
+			"id": 8,
+			"pid": 90,
+			"address": "埼玉県越谷市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "医師",
+			"remarks": null,
+			"supplement": "3/1までフィンランド、スウェーデンに滞在",
+			"discharged": null,
+			"sources": ["finland", "sweden"],
+			"date": "2020-03-31"
 		}
 	]
 }

@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "佐賀"
 	},
-	"date": "2020\/03\/13 18:00",
+	"date": "2020\/03\/31 18:00",
 	"children": [
 		{
 			"name": "saga-1",
@@ -21,6 +21,19 @@
 			"discharged": null,
 			"sources": ["france"],
 			"date": "2020-03-13"
+		},
+		{
+			"name": "saga-2",
+			"pid": 2,
+			"address": "佐賀県伊万里市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "福岡県18例目の母",
+			"discharged": null,
+			"sources": ["fukuoka-18"],
+			"date": "2020-03-31"
 		}
 	]
 }
