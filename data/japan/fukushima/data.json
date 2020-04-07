@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "福島"
 	},
-	"date": "2020\/03\/31 18:00",
+	"date": "2020\/04\/01 18:00",
 	"children": [
 		{
 			"name": "fukushima-1",
@@ -59,6 +59,31 @@
 			"supplement": "3/25仙台市から帰省",
 			"discharged": null,
 			"date": "2020-03-31"
+		},
+		{
+			"name": "fukushima-5",
+			"pid": 5,
+			"address": "福島県福島市保健所管内",
+			"age": "70s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "福島県3例目の同居家族",
+			"discharged": null,
+			"sources": ["fukushima-3"],
+			"date": "2020-04-01"
+		},
+		{
+			"name": "fukushima-6",
+			"pid": 6,
+			"address": "福島県相双保健所管内",
+			"age": "50s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/20東京都に滞在",
+			"discharged": null,
+			"date": "2020-04-01"
 		}
 	]
 }

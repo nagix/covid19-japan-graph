@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "鹿児島"
 	},
-	"date": "2020\/03\/26 18:00",
+	"date": "2020\/04\/01 18:00",
 	"children": [
 		{
 			"name": "kagoshima-1",
@@ -21,6 +21,18 @@
 			"discharged": null,
 			"sources": ["uk"],
 			"date": "2020-03-26"
+		},
+		{
+			"name": "kagoshima-2",
+			"pid": 2,
+			"address": "鹿児島県大島郡和泊町",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "公務員",
+			"remarks": null,
+			"supplement": "3/23まで大阪府に滞在",
+			"discharged": null,
+			"date": "2020-04-01"
 		}
 	]
 }

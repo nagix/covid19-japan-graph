@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "福岡市"
 	},
-	"date": "2020\/03\/31 18:00",
+	"date": "2020\/04\/01 18:00",
 	"children": [
 		{
 			"name": "fukuoka-7",
@@ -275,6 +275,72 @@
 			"supplement": "陽性者と接触あり",
 			"discharged": null,
 			"date": "2020-03-31"
+		},
+		{
+			"name": "fukuoka-48",
+			"id": 24,
+			"pid": 48,
+			"address": "福岡県福岡市東区",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "fukuoka-49",
+			"id": 25,
+			"pid": 49,
+			"address": "福岡県福岡市博多区",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "看護師",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "fukuoka-50",
+			"id": 26,
+			"pid": 50,
+			"address": "福岡県福岡市博多区",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "fukuoka-51",
+			"id": 27,
+			"pid": 51,
+			"address": "福岡県福岡市中央区",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "fukuoka-52",
+			"id": 28,
+			"pid": 52,
+			"address": "福岡県福岡市中央区",
+			"age": "70s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "福岡県25例目の濃厚接触者",
+			"discharged": null,
+			"sources": ["fukuoka-25"],
+			"date": "2020-04-01"
 		}
 	]
 }

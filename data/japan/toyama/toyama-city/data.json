@@ -1,0 +1,50 @@
+{
+	"name": "toyama-city",
+	"label": {
+		"ja": "富山市"
+	},
+	"date": "2020\/04\/01 18:00",
+	"children": [
+		{
+			"name": "toyama-1",
+			"pid": 1,
+			"jid": 1459,
+			"address": "富山県富山市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": "ゼミ卒業祝賀会で愛媛県4例目と接触",
+			"discharged": null,
+			"cluster": "kyoto-sangyo-univ",
+			"sources": ["ehime-4"],
+			"date": "2020-03-30"
+		},
+		{
+			"name": "toyama-3",
+			"pid": 3,
+			"address": "富山県富山市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "保育士",
+			"remarks": "症状なし",
+			"supplement": "富山県1例目と飲食",
+			"discharged": null,
+			"sources": ["toyama-1"],
+			"date": "2020-04-01"
+		},
+		{
+			"name": "toyama-4",
+			"pid": 4,
+			"address": "富山県富山市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "就職予定者",
+			"remarks": null,
+			"supplement": "富山県1例目と飲食",
+			"discharged": null,
+			"sources": ["toyama-1"],
+			"date": "2020-04-01"
+		}
+	]
+}

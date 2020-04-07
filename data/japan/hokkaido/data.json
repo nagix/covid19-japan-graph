@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "北海道"
 	},
-	"date": "2020\/03\/30 17:00",
+	"date": "2020\/04\/01 17:00",
 	"children": [
 		{
 			"ref": "sapporo"
@@ -1100,6 +1100,67 @@
 			"discharged": null,
 			"sources": ["usa"],
 			"date": "2020-03-30"
+		},
+		{
+			"name": "hokkaido-178",
+			"pid": 178,
+			"address": "北海道美唄市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "公務員（消防士）",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "hokkaido-179",
+			"pid": 179,
+			"address": "北海道中富良野町",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "北海道59例目と同一人物",
+			"discharged": null,
+			"sources": ["hokkaido-59"],
+			"date": "2020-04-01"
+		},
+		{
+			"name": "hokkaido-180",
+			"pid": 180,
+			"address": "上川総合振興局管内",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "hokkaido-181",
+			"pid": 181,
+			"address": "オホーツク総合振興局管内",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "公務員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "hokkaido-182",
+			"pid": 182,
+			"address": "神奈川県",
+			"age": "u10",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": "無症状",
+			"supplement": "3/20米国から帰国、3/24神奈川県から帰省、北海道176例目の濃厚接触者",
+			"sources": ["usa", "hokkaido-176"],
+			"date": "2020-04-01"
 		}
 	]
 }

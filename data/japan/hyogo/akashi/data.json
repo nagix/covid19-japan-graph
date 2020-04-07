@@ -1,0 +1,23 @@
+{
+	"name": "akashi",
+	"label": {
+		"ja": "明石市"
+	},
+	"date": "2020\/04\/01 18:00",
+	"children": [
+		{
+			"name": "hyogo-154",
+			"id": 1,
+			"pid": 154,
+			"address": "兵庫県明石市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3月下旬までヨーロッパに滞在",
+			"discharged": null,
+			"sources": ["europe"],
+			"date": "2020-04-01"
+		}
+	]
+}

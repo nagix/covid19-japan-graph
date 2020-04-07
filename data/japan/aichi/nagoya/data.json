@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "名古屋市"
 	},
-	"date": "2020\/03\/31 18:00",
+	"date": "2020\/04\/01 18:00",
 	"children": [
 		{
 			"name": "aichi-3",
@@ -1866,6 +1866,46 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-31"
+		},
+		{
+			"name": "aichi-181",
+			"id": 123,
+			"pid": 181,
+			"address": "愛知県名古屋市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "愛知県134例目、154例目、160例目の濃厚接触者",
+			"discharged": null,
+			"sources": ["aichi-134", "aichi-154", "aichi-160"],
+			"date": "2020-04-01"
+		},
+		{
+			"name": "aichi-182",
+			"id": 124,
+			"pid": 182,
+			"address": "愛知県名古屋市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "aichi-183",
+			"id": 125,
+			"pid": 183,
+			"address": "愛知県名古屋市",
+			"age": "80s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
 		}
 	]
 }

@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "川崎市"
 	},
-	"date": "2020\/03\/31 18:00",
+	"date": "2020\/04\/01 18:00",
 	"children": [
 		{
 			"name": "kanagawa-50",
@@ -314,6 +314,112 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-31"
+		},
+		{
+			"name": "kanagawa-145",
+			"id": 23,
+			"pid": 145,
+			"address": "神奈川県川崎市川崎区",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "都内ライブハウスを利用",
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "kanagawa-146",
+			"id": 24,
+			"pid": 146,
+			"address": "神奈川県川崎市高津区",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "都内ライブハウスを利用",
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "kanagawa-147",
+			"id": 25,
+			"pid": 147,
+			"address": "神奈川県川崎市幸区",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "神奈川県105例目の家族",
+			"discharged": null,
+			"sources": ["kanagawa-105"],
+			"date": "2020-04-01"
+		},
+		{
+			"name": "kanagawa-148",
+			"id": 26,
+			"pid": 148,
+			"address": "神奈川県川崎市幸区",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "医療従事者",
+			"remarks": null,
+			"supplement": "神奈川県105例目の家族",
+			"discharged": null,
+			"sources": ["kanagawa-105"],
+			"date": "2020-04-01"
+		},
+		{
+			"name": "kanagawa-149",
+			"id": 27,
+			"pid": 149,
+			"address": "神奈川県川崎市中原区",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "陽性患者と接触歴あり",
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "kanagawa-150",
+			"id": 28,
+			"pid": 150,
+			"address": "神奈川県川崎市宮前区",
+			"age": "u10",
+			"sex": "female",
+			"attribute": "小学生",
+			"remarks": null,
+			"supplement": "県外在住の陽性患者（父）と接触",
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "kanagawa-151",
+			"id": 29,
+			"pid": 151,
+			"address": "神奈川県川崎市宮前区",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "医療従事者",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "kanagawa-152",
+			"id": 30,
+			"pid": 152,
+			"address": "神奈川県川崎市幸区",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
 		}
 	]
 }

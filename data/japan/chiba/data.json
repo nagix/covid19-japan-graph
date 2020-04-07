@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "千葉"
 	},
-	"date": "2020\/03\/31 18:00",
+	"date": "2020\/04\/01 18:00",
 	"children": [
 		{
 			"ref": "chiba-city"
@@ -1446,6 +1446,116 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-31"
+		},
+		{
+			"name": "chiba-114",
+			"pid": 114,
+			"address": "千葉県松戸市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "会社役員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "chiba-115",
+			"pid": 115,
+			"address": "千葉県松戸市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "chiba-116",
+			"pid": 116,
+			"address": "千葉県茂原市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社役員",
+			"remarks": null,
+			"supplement": "3/18までフィリピンに滞在",
+			"discharged": null,
+			"sources": ["philippines"],
+			"date": "2020-04-01"
+		},
+		{
+			"name": "chiba-118",
+			"pid": 118,
+			"address": "千葉県市川市",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "chiba-119",
+			"pid": 119,
+			"address": "千葉県市川市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "千葉県103例目の同居家族",
+			"discharged": null,
+			"sources": ["chiba-103"],
+			"date": "2020-04-01"
+		},
+		{
+			"name": "chiba-120",
+			"pid": 120,
+			"address": "千葉県市川市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "歯科医師",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "chiba-121",
+			"pid": 121,
+			"address": "千葉県浦安市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "福井県の陽性患者と接触",
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "chiba-122",
+			"pid": 122,
+			"address": "東京都",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "chiba-123",
+			"pid": 123,
+			"address": "東京都",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
 		}
 	]
 }

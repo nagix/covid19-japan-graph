@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "神奈川"
 	},
-	"date": "2020\/03\/31 18:00",
+	"date": "2020\/04\/01 18:00",
 	"children": [
 		{
 			"ref": "yokohama"
@@ -598,6 +598,119 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-31"
+		},
+		{
+			"name": "kanagawa-153",
+			"pid": 153,
+			"address": "神奈川県鎌倉保健福祉事務所管内",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "アルバイト",
+			"remarks": null,
+			"supplement": "神奈川県97例目の濃厚接触者",
+			"discharged": null,
+			"sources": ["kanagawa-97"],
+			"date": "2020-03-31"
+		},
+		{
+			"name": "kanagawa-154",
+			"pid": 154,
+			"address": "神奈川県鎌倉保健福祉事務所管内",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "kanagawa-155",
+			"pid": 155,
+			"address": "神奈川県鎌倉保健福祉事務所管内",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "kanagawa-156",
+			"pid": 156,
+			"address": "神奈川県鎌倉保健福祉事務所管内",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "kanagawa-157",
+			"pid": 157,
+			"address": "神奈川県鎌倉保健福祉事務所管内",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "kanagawa-158",
+			"pid": 158,
+			"address": "神奈川県厚木保健福祉事務所管内",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "神奈川県136例目の濃厚接触者",
+			"discharged": null,
+			"sources": ["kanagawa-136"],
+			"date": "2020-04-01"
+		},
+		{
+			"name": "kanagawa-159",
+			"pid": 159,
+			"address": "神奈川県厚木保健福祉事務所管内",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": "無症状",
+			"supplement": "神奈川県136例目の濃厚接触者",
+			"discharged": null,
+			"sources": ["kanagawa-136"],
+			"date": "2020-04-01"
+		},
+		{
+			"name": "kanagawa-160",
+			"pid": 160,
+			"address": "神奈川県厚木保健福祉事務所管内",
+			"age": "10s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "神奈川県136例目の濃厚接触者",
+			"discharged": null,
+			"sources": ["kanagawa-136"],
+			"date": "2020-04-01"
+		},
+		{
+			"name": "kanagawa-161",
+			"pid": 161,
+			"address": "神奈川県厚木保健福祉事務所管内",
+			"age": "u10",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "神奈川県136例目の濃厚接触者",
+			"discharged": null,
+			"sources": ["kanagawa-136"],
+			"date": "2020-04-01"
 		}
 	]
 }

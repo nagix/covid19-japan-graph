@@ -1,0 +1,22 @@
+{
+	"name": "sasebo",
+	"label": {
+		"ja": "佐世保市"
+	},
+	"date": "2020\/03\/25 18:00",
+	"children": [
+		{
+			"name": "nagasaki-3",
+			"id": 1,
+			"pid": 3,
+			"address": "長崎県佐世保市",
+			"age": "70s",
+			"sex": "male",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "東京在住の親族と接触",
+			"discharged": null,
+			"date": "2020-04-01"
+		}
+	]
+}

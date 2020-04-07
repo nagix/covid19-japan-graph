@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "埼玉"
 	},
-	"date": "2020\/03\/31 18:00",
+	"date": "2020\/04\/01 18:00",
 	"children": [
 		{
 			"ref": "saitama-city"
@@ -882,6 +882,91 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-31"
+		},
+		{
+			"name": "saitama-105",
+			"pid": 105,
+			"address": "埼玉県ふじみ野市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "saitama-106",
+			"pid": 106,
+			"address": "埼玉県和光市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": "3/16までフィリピンに滞在",
+			"discharged": null,
+			"sources": ["philippines"],
+			"date": "2020-04-01"
+		},
+		{
+			"name": "saitama-107",
+			"pid": 107,
+			"address": "埼玉県八潮市",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/22福岡県に出張",
+			"discharged": null,
+			"date": "2020-04-02"
+	},
+		{
+			"name": "saitama-108",
+			"pid": 108,
+			"address": "埼玉県東松山市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "団体職員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-02"
+		},
+		{
+			"name": "saitama-109",
+			"pid": 109,
+			"address": "埼玉県所沢市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "医療機関事務補助",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-02"
+		},
+		{
+			"name": "saitama-110",
+			"pid": 110,
+			"address": "埼玉県所沢市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-02"
+		},
+		{
+			"name": "saitama-111",
+			"pid": 111,
+			"address": "埼玉県所沢市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-02"
 		}
 	]
 }

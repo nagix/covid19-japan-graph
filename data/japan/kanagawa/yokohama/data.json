@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "横浜市"
 	},
-	"date": "2020\/03\/31 18:00",
+	"date": "2020\/04\/01 18:00",
 	"children": [
 		{
 			"name": "kanagawa-6",
@@ -412,6 +412,19 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-31"
+		},
+		{
+			"name": "kanagawa-163",
+			"id": 30,
+			"pid": 163,
+			"address": "神奈川県横浜市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": "陽性患者の濃厚接触者",
+			"discharged": null,
+			"date": "2020-04-01"
 		}
 	]
 }

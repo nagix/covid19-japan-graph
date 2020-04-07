@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "熊本市"
 	},
-	"date": "2020\/03\/30 18:00",
+	"date": "2020\/04\/01 18:00",
 	"children": [
 		{
 			"name": "kumamoto-1",
@@ -177,6 +177,20 @@
 			"supplement": "熊本県12例目の親族",
 			"discharged": null,
 			"sources": ["kumamoto-12"],
+			"date": "2020-03-30"
+		},
+		{
+			"name": "kumamoto-15",
+			"id": 13,
+			"pid": 15,
+			"address": "熊本県熊本市北区",
+			"age": "70s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "熊本県8例目と同じ熊本市東区温浴施設を利用",
+			"discharged": null,
+			"sources": ["kumamoto-8"],
 			"date": "2020-03-30"
 		}
 	]

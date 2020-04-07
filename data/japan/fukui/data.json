@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "福井"
 	},
-	"date": "2020\/03\/31 18:00",
+	"date": "2020\/04\/01 18:00",
 	"children": [
 		{
 			"name": "fukui-1",
@@ -18,7 +18,7 @@
 			"attribute": "会社役員",
 			"remarks": null,
 			"supplement": "3/8まで東京に滞在",
-			"discharged": null,
+			"discharged": "〇",
 			"date": "2020-03-18"
 		},
 		{
@@ -279,6 +279,18 @@
 			"supplement": "3/12まで京都に滞在",
 			"discharged": null,
 			"date": "2020-03-31"
+		},
+		{
+			"name": "fukui-21",
+			"pid": 21,
+			"address": "福井県あらわ市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "福井県1例目の濃厚接触者",
+			"discharged": null,
+			"date": "2020-04-01"
 		}
 	]
 }

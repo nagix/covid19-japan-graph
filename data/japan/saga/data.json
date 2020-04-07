@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "佐賀"
 	},
-	"date": "2020\/03\/31 18:00",
+	"date": "2020\/04\/01 18:00",
 	"children": [
 		{
 			"name": "saga-1",
@@ -34,6 +34,18 @@
 			"discharged": null,
 			"sources": ["fukuoka-18"],
 			"date": "2020-03-31"
+		},
+		{
+			"name": "saga-3",
+			"pid": 3,
+			"address": "佐賀県武雄市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
 		}
 	]
 }

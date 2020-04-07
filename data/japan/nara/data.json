@@ -6,8 +6,11 @@
 	"prefix": {
 		"ja": "奈良"
 	},
-	"date": "2020\/03\/28 18:00",
+	"date": "2020\/04\/01 18:00",
 	"children": [
+		{
+			"ref": "nara-city"
+		},
 		{
 			"name": "nara-1",
 			"pid": 1,
@@ -21,46 +24,6 @@
 			"discharged": "〇",
 			"sources": ["china-tourist"],
 			"date": "2020-01-28"
-		},
-		{
-			"name": "nara-2",
-			"pid": 2,
-			"jid": 330,
-			"address": "奈良県奈良市",
-			"age": "60s",
-			"sex": "male",
-			"attribute": null,
-			"remarks": null,
-			"supplement": "2/19ライブハウスSoap Opera Classics Umeda",
-			"discharged": null,
-			"cluster": "osaka-livehouse-b",
-			"date": "2020-03-06"
-		},
-		{
-			"name": "nara-3",
-			"pid": 3,
-			"address": "奈良県奈良市",
-			"age": "70s",
-			"sex": "female",
-			"attribute": null,
-			"remarks": "無症状",
-			"supplement": "2/19ダイヤモンド・プリンセス号を下船",
-			"discharged": "〇",
-			"sources": ["cruise-ship"],
-			"date": "2020-03-06"
-		},
-		{
-			"name": "nara-4",
-			"pid": 4,
-			"address": "奈良県奈良市",
-			"age": "60s",
-			"sex": "male",
-			"attribute": null,
-			"remarks": "無症状",
-			"supplement": "2/21ダイヤモンド・プリンセス号を下船",
-			"discharged": "〇",
-			"sources": ["cruise-ship"],
-			"date": "2020-03-06"
 		},
 		{
 			"name": "nara-5",
@@ -103,19 +66,6 @@
 			"date": "2020-03-10"
 		},
 		{
-			"name": "nara-8",
-			"pid": 8,
-			"jid": 530,
-			"address": "奈良県奈良市",
-			"age": "40s",
-			"sex": "female",
-			"attribute": "販売業",
-			"remarks": null,
-			"supplement": null,
-			"discharged": null,
-			"date": "2020-03-11"
-		},
-		{
 			"name": "nara-9",
 			"pid": 9,
 			"jid": 931,
@@ -156,6 +106,44 @@
 			"discharged": null,
 			"sources": ["osaka-167"],
 			"date": "2020-03-28"
+		},
+		{
+			"name": "nara-12",
+			"pid": 12,
+			"address": "奈良県中和保健所管内",
+			"age": "30s",
+			"sex": "female",
+			"attribute": "販売業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "nara-13",
+			"pid": 13,
+			"address": "奈良県中和保健所管内",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "営業職（大阪府）",
+			"remarks": null,
+			"supplement": "大阪府205例目と会食",
+			"discharged": null,
+			"sources": ["osaka-205"],
+			"date": "2020-04-01"
+		},
+		{
+			"name": "nara-14",
+			"pid": 14,
+			"address": "奈良県中和保健所管内",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "医師",
+			"remarks": null,
+			"supplement": "3/20まで米国ミシガン州に渡航",
+			"discharged": null,
+			"sources": ["usa"],
+			"date": "2020-04-01"
 		}
 	]
 }

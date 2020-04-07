@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "尼崎市"
 	},
-	"date": "2020\/03\/29 18:00",
+	"date": "2020\/04\/01 18:00",
 	"children": [
 		{
 			"name": "hyogo-19",
@@ -154,6 +154,20 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-29"
+		},
+		{
+			"name": "hyogo-153",
+			"id": 11,
+			"pid": 153,
+			"address": "兵庫県尼崎市",
+			"age": "10s",
+			"sex": "female",
+			"attribute": "学生",
+			"remarks": null,
+			"supplement": "3/23まで米国に滞在",
+			"discharged": null,
+			"sources": ["usa"],
+			"date": "2020-04-01"
 		}
 	]
 }

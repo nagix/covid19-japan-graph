@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "京都"
 	},
-	"date": "2020\/03\/31 18:00",
+	"date": "2020\/04\/01 18:00",
 	"children": [
 		{
 			"ref": "kyoto-city"
@@ -386,6 +386,58 @@
 			"cluster": "ide-networking-event",
 			"sources": ["kyoto-45"],
 			"date": "2020-03-31"
+		},
+		{
+			"name": "kyoto-70",
+			"pid": 70,
+			"address": "京都府山城北保健所管内",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": "交流会で京都府45例目と接触",
+			"discharged": null,
+			"cluster": "ide-networking-event",
+			"sources": ["kyoto-45"],
+			"date": "2020-04-01"
+		},
+		{
+			"name": "kyoto-71",
+			"pid": 71,
+			"address": "京都府山城北保健所管内",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": "京都府53例目、54例目の接触者",
+			"discharged": null,
+			"sources": ["kyoto-53", "kyoto-54"],
+			"date": "2020-04-01"
+		},
+		{
+			"name": "kyoto-72",
+			"pid": 72,
+			"address": "京都府山城北保健所管内",
+			"age": "20s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": "他府県の陽性患者の接触者",
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "kyoto-73",
+			"pid": 73,
+			"address": "京都府山城北保健所管内",
+			"age": "50s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "陽性確定",
+			"supplement": "京都府52例目、53例目、54例目の接触者",
+			"discharged": null,
+			"sources": ["kyoto-52", "kyoto-53", "kyoto-54"],
+			"date": "2020-04-01"
 		}
 	]
 }

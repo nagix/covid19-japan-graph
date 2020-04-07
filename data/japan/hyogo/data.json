@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "兵庫"
 	},
-	"date": "2020\/03\/31 18:00",
+	"date": "2020\/04\/01 18:00",
 	"children": [
 		{
 			"ref": "amagasaki"
@@ -16,6 +16,9 @@
 		},
 		{
 			"ref": "nishinomiya"
+		},
+		{
+			"ref": "akashi"
 		},
 		{
 			"ref": "himeji"
@@ -1013,6 +1016,108 @@
 			"discharged": null,
 			"sources": ["hyogo-126"],
 			"date": "2020-03-31"
+		},
+		{
+			"name": "hyogo-155",
+			"pid": 155,
+			"address": "兵庫県神戸市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": "スポーツチーム関係者",
+			"remarks": "無症状",
+			"supplement": "兵庫県136例目の濃厚接触者",
+			"discharged": null,
+			"sources": ["hyogo-136"],
+			"date": "2020-04-01"
+		},
+		{
+			"name": "hyogo-156",
+			"pid": 156,
+			"address": "兵庫県川西市",
+			"age": "10s",
+			"sex": "female",
+			"attribute": "専門学校生",
+			"remarks": null,
+			"supplement": "米国に渡航",
+			"discharged": null,
+			"sources": ["usa"],
+			"date": "2020-04-01"
+		},
+		{
+			"name": "hyogo-157",
+			"pid": 157,
+			"address": "兵庫県伊丹健康福祉事務所管内",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "兵庫県158例目の濃厚接触者",
+			"discharged": null,
+			"sources": ["hyogo-158"],
+			"date": "2020-04-01"
+		},
+		{
+			"name": "hyogo-158",
+			"pid": 158,
+			"address": "兵庫県伊丹健康福祉事務所管内",
+			"age": "60s",
+			"sex": "female",
+			"attribute": "パート",
+			"remarks": null,
+			"supplement": "兵庫県157例目の濃厚接触者",
+			"discharged": null,
+			"sources": ["hyogo-157"],
+			"date": "2020-04-01"
+		},
+		{
+			"name": "hyogo-159",
+			"pid": 159,
+			"address": "兵庫県宝塚健康福祉事務所管内",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "医師",
+			"remarks": null,
+			"supplement": "兵庫県104例目の濃厚接触者",
+			"discharged": null,
+			"sources": ["hyogo-104"],
+			"date": "2020-04-01"
+		},
+		{
+			"name": "hyogo-160",
+			"pid": 160,
+			"address": "兵庫県宝塚健康福祉事務所管内",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "兵庫県104例目の濃厚接触者",
+			"discharged": null,
+			"sources": ["hyogo-104"],
+			"date": "2020-04-01"
+		},
+		{
+			"name": "hyogo-161",
+			"pid": 161,
+			"address": "兵庫県伊丹健康福祉事務所管内",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "hyogo-162",
+			"pid": 162,
+			"address": "兵庫県神戸市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "医師",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
 		}
 	]
 }

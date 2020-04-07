@@ -1,0 +1,23 @@
+{
+	"name": "nagano-city",
+	"label": {
+		"ja": "長野市"
+	},
+	"date": "2020\/04\/01 18:00",
+	"children": [
+		{
+			"name": "nagano-9",
+			"id": 1,
+			"pid": 9,
+			"address": "長野県長野市",
+			"age": "30s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/24までイギリス滞在",
+			"discharged": null,
+			"sources": ["uk"],
+			"date": "2020-04-01"
+		}
+	]
+}

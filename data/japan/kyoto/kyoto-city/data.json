@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "京都市"
 	},
-	"date": "2020\/03\/31 18:00",
+	"date": "2020\/04\/01 18:00",
 	"children": [
 		{
 			"name": "kyoto-1",
@@ -618,6 +618,46 @@
 			"supplement": null,
 			"discharged": null,
 			"date": "2020-03-31"
+		},
+		{
+			"name": "kyoto-74",
+			"id": 43,
+			"pid": 74,
+			"address": "京都府京都市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "kyoto-75",
+			"id": 44,
+			"pid": 75,
+			"address": "京都府京都市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "kyoto-76",
+			"id": 45,
+			"pid": 76,
+			"address": "京都府京都市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "無職",
+			"remarks": null,
+			"supplement": "京都府69例目の濃厚接触者",
+			"discharged": null,
+			"sources": ["kyoto-69"],
+			"date": "2020-04-01"
 		}
 	]
 }

@@ -3,7 +3,7 @@
 	"label": {
 		"ja": "神戸市"
 	},
-	"date": "2020\/03\/29 18:00",
+	"date": "2020\/04\/01 18:00",
 	"children": [
 		{
 			"name": "hyogo-2",
@@ -463,6 +463,32 @@
 			"discharged": null,
 			"sources": ["oversea"],
 			"date": "2020-03-29"
+		},
+		{
+			"name": "hyogo-149",
+			"id": 32,
+			"pid": 149,
+			"address": "兵庫県神戸市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "陽性患者と接触",
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "hyogo-150",
+			"id": 33,
+			"pid": 150,
+			"address": "兵庫県神戸市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
 		}
 	]
 }

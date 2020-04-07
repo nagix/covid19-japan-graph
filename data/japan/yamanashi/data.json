@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "山梨"
 	},
-	"date": "2020\/03\/31 18:00",
+	"date": "2020\/04\/01 18:00",
 	"children": [
 		{
 			"name": "yamanashi-1",
@@ -43,9 +43,9 @@
 			"sex": "female",
 			"attribute": null,
 			"remarks": null,
-			"supplement": "海外への渡航歴あり",
+			"supplement": "3/21アフリカから帰国、山梨県4例目の妻",
 			"discharged": null,
-			"sources": ["oversea"],
+			"sources": ["africa", "yamanashi-4"],
 			"date": "2020-03-24"
 		},
 		{
@@ -57,9 +57,9 @@
 			"sex": "male",
 			"attribute": null,
 			"remarks": null,
-			"supplement": "海外への渡航歴あり",
+			"supplement": "3/21アフリカから帰国、山梨県3例目の夫",
 			"discharged": null,
-			"sources": ["oversea"],
+			"sources": ["africa", "yamanashi-3"],
 			"date": "2020-03-24"
 		},
 		{
@@ -69,9 +69,9 @@
 			"address": "山梨県",
 			"age": "20s",
 			"sex": "female",
-			"attribute": null,
+			"attribute": "飲食店勤務",
 			"remarks": null,
-			"supplement": null,
+			"supplement": "三ッ星マート甲府駅前店勤務",
 			"discharged": null,
 			"date": "2020-03-30"
 		},
@@ -81,11 +81,47 @@
 			"address": "山梨県",
 			"age": "20s",
 			"sex": "male",
-			"attribute": null,
+			"attribute": "准看護師、飲食店アルバイト",
 			"remarks": null,
-			"supplement": null,
+			"supplement": "三ッ星マート甲府駅前店勤務",
 			"discharged": null,
 			"date": "2020-03-31"
+		},
+		{
+			"name": "yamanashi-7",
+			"pid": 7,
+			"address": "山梨県",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "飲食店勤務",
+			"remarks": null,
+			"supplement": "三ッ星マート甲府駅前店勤務",
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "yamanashi-8",
+			"pid": 8,
+			"address": "山梨県",
+			"age": "u10",
+			"sex": "female",
+			"attribute": "乳児",
+			"remarks": "重症",
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "yamanashi-9",
+			"pid": 9,
+			"address": "山梨県",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/26まで京都、大阪に滞在",
+			"discharged": null,
+			"date": "2020-04-01"
 		}
 	]
 }

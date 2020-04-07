@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "石川"
 	},
-	"date": "2020\/03\/31 18:00",
+	"date": "2020\/04\/01 18:00",
 	"children": [
 		{
 			"name": "ishikawa-1",
@@ -181,6 +181,30 @@
 			"supplement": "石川県11例目の同居者",
 			"discharged": null,
 			"date": "2020-03-31"
+		},
+		{
+			"name": "ishikawa-14",
+			"pid": 14,
+			"address": "石川県金沢市保健所管内",
+			"age": "40s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "ishikawa-15",
+			"pid": 15,
+			"address": "石川県金沢市保健所管内",
+			"age": "50s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
 		}
 	]
 }

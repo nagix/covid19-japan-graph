@@ -69,6 +69,8 @@ var sourceMaster = {
 	'iceland': { label: { 'ja': 'アイスランド' } },
 	'south-america': { label: { 'ja': '南米' } },
 	'sweden': { label: { 'ja': 'スウェーデン' } },
+	'new-caledonia': { label: { 'ja': 'ニューカレドニア' } },
+	'africa': { label: { 'ja': 'アフリカ' } },
 	'oversea': { label: { 'ja': '海外' } }
 };
 
@@ -108,7 +110,8 @@ var clusterMaster = {
 	'tsukuba-longterm-care': { label: { 'ja': 'つくば介護老人保健施設クラスター' }, parentName: 'ibaraki' },
 	'matsuyama-funeral': { label: { 'ja': '松山葬儀クラスター' }, parentName: 'ehime' },
 	'kani-gym': { label: { 'ja': '可児スポーツジムクラスター' }, parentName: 'gifu' },
-	'fukui-lounge': { label: { 'ja': '福井ラウンジクラスター' }, parentName: 'fukui' }
+	'fukui-lounge': { label: { 'ja': '福井ラウンジクラスター' }, parentName: 'fukui' },
+	'kitakyushu-hospital': { label: { 'ja': '門司新小文字病院クラスター' }, parentName: 'kitakyushu' }
 };
 
 var dict = {

@@ -6,7 +6,7 @@
 	"prefix": {
 		"ja": "愛知"
 	},
-	"date": "2020\/03\/31 18:00",
+	"date": "2020\/04\/01 18:00",
 	"children": [
 		{
 			"ref": "nagoya"
@@ -684,6 +684,31 @@
 			"discharged": null,
 			"sources": ["aichi-169", "aichi-170"],
 			"date": "2020-03-31"
+		},
+		{
+			"name": "aichi-179",
+			"pid": 179,
+			"address": "愛知県江南市",
+			"age": "30s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
+		},
+		{
+			"name": "aichi-180",
+			"pid": 180,
+			"address": "愛知県一宮市",
+			"age": "10s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "3/30米国から帰国",
+			"discharged": null,
+			"sources": ["usa"],
+			"date": "2020-04-01"
 		}
 	]
 }

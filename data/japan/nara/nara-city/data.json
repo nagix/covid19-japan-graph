@@ -1,0 +1,80 @@
+{
+	"name": "nara-city",
+	"label": {
+		"ja": "奈良市"
+	},
+	"date": "2020\/04\/01 18:00",
+	"children": [
+		{
+			"name": "nara-2",
+			"id": 1,
+			"pid": 2,
+			"jid": 330,
+			"address": "奈良県奈良市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "2/19ライブハウスSoap Opera Classics Umeda",
+			"discharged": null,
+			"cluster": "osaka-livehouse-b",
+			"date": "2020-03-06"
+		},
+		{
+			"name": "nara-3",
+			"id": 2,
+			"pid": 3,
+			"address": "奈良県奈良市",
+			"age": "70s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "2/19ダイヤモンド・プリンセス号を下船",
+			"discharged": "〇",
+			"sources": ["cruise-ship"],
+			"date": "2020-03-06"
+		},
+		{
+			"name": "nara-4",
+			"id": 3,
+			"pid": 4,
+			"address": "奈良県奈良市",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
+			"remarks": "無症状",
+			"supplement": "2/21ダイヤモンド・プリンセス号を下船",
+			"discharged": "〇",
+			"sources": ["cruise-ship"],
+			"date": "2020-03-06"
+		},
+		{
+			"name": "nara-8",
+			"id": 4,
+			"pid": 8,
+			"jid": 530,
+			"address": "奈良県奈良市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "販売業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-03-11"
+		},
+		{
+			"name": "nara-15",
+			"id": 5,
+			"pid": 15,
+			"address": "奈良県奈良市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "3/19ニューカレドニアから帰国",
+			"discharged": null,
+			"sources": ["new-caledonia"],
+			"date": "2020-04-01"
+		}
+	]
+}

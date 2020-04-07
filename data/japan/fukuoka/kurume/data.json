@@ -1,0 +1,36 @@
+{
+	"name": "kurume",
+	"label": {
+		"ja": "久留米市"
+	},
+	"date": "2020\/04\/01 18:00",
+	"children": [
+		{
+			"name": "fukuoka-36",
+			"id": 1,
+			"pid": 36,
+			"address": "福岡県久留米市",
+			"age": "20s",
+			"sex": "female",
+			"attribute": "大学生",
+			"remarks": null,
+			"supplement": "2/29までアイルランドに滞在",
+			"discharged": null,
+			"sources": ["ireland"],
+			"date": "2020-03-31"
+		},
+		{
+			"name": "fukuoka-47",
+			"id": 2,
+			"pid": 47,
+			"address": "福岡県久留米市",
+			"age": "40s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
+		}
+	]
+}

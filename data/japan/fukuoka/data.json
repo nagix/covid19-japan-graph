@@ -6,13 +6,16 @@
 	"prefix": {
 		"ja": "福岡"
 	},
-	"date": "2020\/03\/31 18:00",
+	"date": "2020\/04\/01 18:00",
 	"children": [
 		{
 			"ref": "fukuoka-city"
 		},
 		{
 			"ref": "kitakyushu"
+		},
+		{
+			"ref": "kurume"
 		},
 		{
 			"name": "fukuoka-1",
@@ -164,17 +167,68 @@
 			"date": "2020-03-31"
 		},
 		{
-			"name": "fukuoka-36",
-			"pid": 36,
-			"address": "福岡県久留米市",
-			"age": "20s",
-			"sex": "female",
-			"attribute": "大学生",
+			"name": "fukuoka-74",
+			"pid": 74,
+			"address": "海外",
+			"age": "60s",
+			"sex": "male",
+			"attribute": null,
 			"remarks": null,
-			"supplement": "2/29までアイルランドに滞在",
+			"supplement": "3/19イギリスから入国",
 			"discharged": null,
-			"sources": ["ireland"],
-			"date": "2020-03-31"
+			"sources": ["uk", "fukuoka-75"],
+			"date": "2020-04-01"
+		},
+		{
+			"name": "fukuoka-75",
+			"pid": 75,
+			"address": "海外",
+			"age": "60s",
+			"sex": "female",
+			"attribute": null,
+			"remarks": null,
+			"supplement": "福岡県74例目とともに3/19イギリスから入国",
+			"discharged": null,
+			"sources": ["uk", "fukuoka-74"],
+			"date": "2020-04-01"
+		},
+		{
+			"name": "fukuoka-76",
+			"pid": 76,
+			"address": "福岡県糸島市",
+			"age": "50s",
+			"sex": "male",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "福岡県35例目の父",
+			"discharged": null,
+			"sources": ["fukuoka-35"],
+			"date": "2020-04-01"
+		},
+		{
+			"name": "fukuoka-77",
+			"pid": 77,
+			"address": "福岡県糸島市",
+			"age": "50s",
+			"sex": "female",
+			"attribute": "会社員",
+			"remarks": null,
+			"supplement": "福岡県35例目の母",
+			"discharged": null,
+			"sources": ["fukuoka-35"],
+			"date": "2020-04-01"
+		},
+		{
+			"name": "fukuoka-78",
+			"pid": 78,
+			"address": "福岡県豊前市",
+			"age": "40s",
+			"sex": "female",
+			"attribute": "自営業",
+			"remarks": null,
+			"supplement": null,
+			"discharged": null,
+			"date": "2020-04-01"
 		}
 	]
 }

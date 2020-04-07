@@ -6,22 +6,10 @@
 	"prefix": {
 		"ja": "富山"
 	},
-	"date": "2020\/03\/31 18:00",
+	"date": "2020\/04\/01 18:00",
 	"children": [
 		{
-			"name": "toyama-1",
-			"pid": 1,
-			"jid": 1459,
-			"address": "富山県富山市",
-			"age": "20s",
-			"sex": "female",
-			"attribute": "無職",
-			"remarks": null,
-			"supplement": "ゼミ卒業祝賀会で愛媛県4例目と接触",
-			"discharged": null,
-			"cluster": "kyoto-sangyo-univ",
-			"sources": ["ehime-4"],
-			"date": "2020-03-30"
+			"ref": "toyama-city"
 		},
 		{
 			"name": "toyama-2",
@@ -35,6 +23,18 @@
 			"discharged": null,
 			"sources": ["toyama-1"],
 			"date": "2020-03-31"
+		},
+		{
+			"name": "toyama-5",
+			"pid": 5,
+			"address": "富山県高岡厚生センター管内",
+			"age": "20s",
+			"sex": "male",
+			"attribute": "新規採用教員",
+			"remarks": null,
+			"supplement": "3/24まで愛知県に滞在",
+			"discharged": null,
+			"date": "2020-04-01"
 		}
 	]
 }
